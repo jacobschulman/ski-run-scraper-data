@@ -12,13 +12,13 @@
       "mountain": "WHITE CAP",
       "type": "Chairlift",
       "capacity": 4,
-      "status": "Open",
+      "status": "Closed",
       "waitMinutes": null,
       "openTime": "09:00",
       "closeTime": "16:00",
       "avgWaitTime": null,
-      "lastUpdated": "2026-01-26T19:57:21.463Z"
+      "lastUpdated": "2026-01-26T21:57:01.833Z"
     }
   ],
-  "generated": "2026-01-26T19:57:40.041Z"
+  "generated": "2026-01-26T21:57:20.503Z"
 }

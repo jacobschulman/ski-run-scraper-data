@@ -8,15 +8,15 @@
   "type": "Magic Carpet",
   "capacity": null,
   "currentStatus": {
-    "status": "Open",
+    "status": "Closed",
     "waitMinutes": null,
     "openTime": "9:00 AM",
     "closeTime": "4:00 PM",
-    "timestamp": "2026-01-26T19:57:20.742Z",
-    "localTime": "14:57"
+    "timestamp": "2026-01-26T21:57:01.051Z",
+    "localTime": "16:57"
   },
   "stats": {
-    "totalRecords": 2216,
+    "totalRecords": 2221,
     "avgWaitTime": null,
     "minWaitTime": null,
     "maxWaitTime": null,
@@ -25,7 +25,7 @@
   "history": [
     {
       "date": "2026-01-26",
-      "recordCount": 18,
+      "recordCount": 23,
       "avgWaitTime": null,
       "minWaitTime": null,
       "maxWaitTime": null,
@@ -537,5 +537,5 @@
       "openPercentage": 0
     }
   ],
-  "generated": "2026-01-26T19:57:39.812Z"
+  "generated": "2026-01-26T21:57:20.252Z"
 }

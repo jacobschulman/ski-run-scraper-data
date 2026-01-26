@@ -1,13 +1,13 @@
 {
   "stratton": {
-    "lastHeadline": "Winter Delivered Big",
-    "lastCondition": "powder_alert",
+    "lastHeadline": "Deep Day: {snow24h}\" Fresh",
+    "lastCondition": "snow_deep",
     "lastDate": "2026-01-26",
     "history": [
       {
         "date": "2026-01-26",
-        "condition": "powder_alert",
-        "headline": "Winter Delivered Big"
+        "condition": "snow_deep",
+        "headline": "Deep Day: {snow24h}\" Fresh"
       },
       {
         "date": "2026-01-26",
@@ -37,7 +37,7 @@
       {
         "date": "2026-01-26",
         "condition": "powder_alert",
-        "headline": "Powder Day Alert"
+        "headline": "Winter Delivered Big"
       }
     ]
   },
@@ -121,7 +121,7 @@
       {
         "date": "2026-01-26",
         "condition": "bluebird_day",
-        "headline": "Unlimited Visibility"
+        "headline": "Not a Cloud in Sight"
       }
     ]
   },
@@ -163,7 +163,7 @@
       {
         "date": "2026-01-26",
         "condition": "bluebird_day",
-        "headline": "Bluebird Day"
+        "headline": "Not a Cloud in Sight"
       }
     ]
   },
@@ -222,17 +222,17 @@
       {
         "date": "2026-01-26",
         "condition": "terrain_expansion",
+        "headline": "More Mountain to Explore"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "terrain_expansion",
+        "headline": "Fresh Terrain Unlocked"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "terrain_expansion",
         "headline": "New Runs Now Open"
-      },
-      {
-        "date": "2026-01-26",
-        "condition": "fallback",
-        "headline": "Mountain Conditions Update"
-      },
-      {
-        "date": "2026-01-26",
-        "condition": "fallback",
-        "headline": "Your Daily Ski Report"
       },
       {
         "date": "2026-01-26",
@@ -311,17 +311,17 @@
       {
         "date": "2026-01-26",
         "condition": "snow_coming",
+        "headline": "Snow Showers Ahead"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_coming",
+        "headline": "The Forecast Looks Promising"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_coming",
         "headline": "More Snow Coming"
-      },
-      {
-        "date": "2026-01-26",
-        "condition": "fallback",
-        "headline": "Today at {resortName}"
-      },
-      {
-        "date": "2026-01-26",
-        "condition": "fallback",
-        "headline": "The Rundown"
       },
       {
         "date": "2026-01-26",
@@ -373,7 +373,7 @@
       {
         "date": "2026-01-26",
         "condition": "powder_alert",
-        "headline": "Deep Day at {resortName}"
+        "headline": "Time to Call in Sick"
       }
     ]
   },
@@ -415,7 +415,7 @@
       {
         "date": "2026-01-26",
         "condition": "cold_snap",
-        "headline": "BRRRRRRRRR"
+        "headline": "Layer Up, Ski Hard"
       }
     ]
   },
@@ -457,7 +457,7 @@
       {
         "date": "2026-01-26",
         "condition": "snow_solid",
-        "headline": "{snow24h}\" Freshened Things Up"
+        "headline": "Nice Little Top-Up"
       }
     ]
   },
@@ -536,12 +536,12 @@
       {
         "date": "2026-01-26",
         "condition": "snow_deep",
-        "headline": "Time to Call in Sick"
+        "headline": "{snow24h}\" and Counting"
       },
       {
         "date": "2026-01-26",
-        "condition": "powder_alert",
-        "headline": "Fresh Tracks for Days"
+        "condition": "snow_deep",
+        "headline": "Buried in the Best Way"
       }
     ]
   },
@@ -578,12 +578,12 @@
       {
         "date": "2026-01-26",
         "condition": "snow_epic",
-        "headline": "The Storm Delivered Big"
+        "headline": "Career Day Potential"
       },
       {
         "date": "2026-01-26",
-        "condition": "snow_deep",
-        "headline": "Deep Day: {snow24h}\" Fresh"
+        "condition": "snow_epic",
+        "headline": "EPIC: {snow24h}\" of Fresh"
       }
     ]
   },
@@ -866,18 +866,18 @@
       },
       {
         "date": "2026-01-26",
-        "condition": "terrain_major",
-        "headline": "Patrol Won't Quit"
+        "condition": "terrain_massive",
+        "headline": "The Floodgates Opened"
       },
       {
         "date": "2026-01-26",
-        "condition": "terrain_major",
-        "headline": "Major Terrain Drop: {newTrailsCount} Runs"
+        "condition": "terrain_massive",
+        "headline": "MASSIVE Expansion: {newTrailsCount} New Runs"
       },
       {
         "date": "2026-01-26",
-        "condition": "fresh_coat",
-        "headline": "A Little Sugar on Top"
+        "condition": "terrain_massive",
+        "headline": "The Floodgates Opened"
       }
     ]
   },
@@ -966,10 +966,15 @@
     ]
   },
   "banff": {
-    "lastHeadline": "{newTrailsCount} New Runs Open",
+    "lastHeadline": "A Few More Options Today",
     "lastCondition": "terrain_few",
     "lastDate": "2026-01-26",
     "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "terrain_few",
+        "headline": "A Few More Options Today"
+      },
       {
         "date": "2026-01-26",
         "condition": "terrain_few",
@@ -987,39 +992,29 @@
       },
       {
         "date": "2026-01-26",
-        "condition": "percent_full",
-        "headline": "All Systems Go"
+        "condition": "terrain_few",
+        "headline": "A Few More Options Today"
       },
       {
         "date": "2026-01-26",
-        "condition": "percent_full",
-        "headline": "Peak Terrain"
+        "condition": "terrain_few",
+        "headline": "{newTrailsCount} New Runs Open"
       },
       {
         "date": "2026-01-26",
-        "condition": "percent_full",
-        "headline": "All Systems Go"
-      },
-      {
-        "date": "2026-01-26",
-        "condition": "percent_full",
-        "headline": "Peak Terrain"
+        "condition": "terrain_few",
+        "headline": "A Few More Options Today"
       }
     ]
   },
   "lakelouise": {
-    "lastHeadline": "Mother Nature Can't Decide",
+    "lastHeadline": "Transition Day",
     "lastCondition": "weather_mixed",
     "lastDate": "2026-01-26",
     "history": [
       {
         "date": "2026-01-26",
         "condition": "weather_mixed",
-        "headline": "Mother Nature Can't Decide"
-      },
-      {
-        "date": "2026-01-26",
-        "condition": "weather_mixed",
         "headline": "Transition Day"
       },
       {
@@ -1046,22 +1041,22 @@
         "date": "2026-01-26",
         "condition": "weather_mixed",
         "headline": "Mother Nature Can't Decide"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "weather_mixed",
+        "headline": "Transition Day"
       }
     ]
   },
   "norquay": {
-    "lastHeadline": "Your Daily Ski Report",
+    "lastHeadline": "Mountain Conditions Update",
     "lastCondition": "fallback",
     "lastDate": "2026-01-26",
     "history": [
       {
         "date": "2026-01-26",
         "condition": "fallback",
-        "headline": "Your Daily Ski Report"
-      },
-      {
-        "date": "2026-01-26",
-        "condition": "fallback",
         "headline": "Mountain Conditions Update"
       },
       {
@@ -1088,6 +1083,11 @@
         "date": "2026-01-26",
         "condition": "fallback",
         "headline": "Your Daily Ski Report"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Mountain Conditions Update"
       }
     ]
   },
@@ -1318,14 +1318,14 @@
     ]
   },
   "brandywine": {
-    "lastHeadline": "The Wait Continues",
-    "lastCondition": "resort_closed",
+    "lastHeadline": "Winter Delivered Big",
+    "lastCondition": "powder_alert",
     "lastDate": "2026-01-26",
     "history": [
       {
         "date": "2026-01-26",
-        "condition": "resort_closed",
-        "headline": "The Wait Continues"
+        "condition": "powder_alert",
+        "headline": "Winter Delivered Big"
       },
       {
         "date": "2026-01-26",
@@ -1355,7 +1355,7 @@
       {
         "date": "2026-01-26",
         "condition": "resort_closed",
-        "headline": "Stay Tuned for Opening"
+        "headline": "The Wait Continues"
       }
     ]
   },

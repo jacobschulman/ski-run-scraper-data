@@ -1,0 +1,157 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2026-01-04",
+  "generated": "2026-01-04T10:20:40.423Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 49,
+          "yesterday": 45,
+          "delta": 4
+        },
+        "groomedTrails": {
+          "today": 38,
+          "yesterday": 39,
+          "delta": -1
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Drifter",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Ledge",
+          "difficulty": "Black",
+          "area": "Main Face"
+        },
+        {
+          "name": "Switchback",
+          "difficulty": "Green",
+          "area": "Main Face"
+        },
+        {
+          "name": "Yard Sale",
+          "difficulty": "Black",
+          "area": "Main Face"
+        },
+        {
+          "name": "Chute",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Little Steep",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "PDF",
+          "difficulty": "Black",
+          "area": "North Face"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Charlie's Chase",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Roller Coaster",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "South Bowl",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Chute",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Bear Paw",
+          "difficulty": "Green",
+          "area": "Sunbrook"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-03",
+        "avgWaitTime": 6.8,
+        "maxWaitTime": 28,
+        "totalLiftsTracked": 18,
+        "busiest": [
+          {
+            "name": "Bluebird Express",
+            "avgWait": 14.5,
+            "peakWait": 28,
+            "type": "Six Pack",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 7.1,
+            "peakWait": 14,
+            "type": "Quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Nitro Express",
+            "avgWait": 5.7,
+            "peakWait": 16,
+            "type": "Quad",
+            "mountain": "Carinthia"
+          },
+          {
+            "name": "Grand Summit Express",
+            "avgWait": 4.2,
+            "peakWait": 9,
+            "type": "Quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Challenger",
+            "avgWait": 1.6,
+            "peakWait": 5,
+            "type": "Triple",
+            "mountain": "North Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "7 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "4 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Chute - challenging for advanced skiers",
+      "Fresh corduroy on Bear Paw - great for beginners",
+      "Bluebird Express had longest waits (14.5 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

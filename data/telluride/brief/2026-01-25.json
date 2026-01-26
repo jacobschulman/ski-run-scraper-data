@@ -1,0 +1,187 @@
+{
+  "resort": "telluride",
+  "resortName": "Telluride",
+  "date": "2026-01-25",
+  "generated": "2026-01-25T12:41:33.161Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 98,
+          "yesterday": 104,
+          "delta": -6
+        },
+        "groomedTrails": {
+          "today": 43,
+          "yesterday": 43,
+          "delta": 0
+        },
+        "totalTrails": 157
+      },
+      "newlyOpened": [
+        {
+          "name": "Jaws",
+          "difficulty": "",
+          "area": "Oak Street Lift"
+        },
+        {
+          "name": "Mine Shaft",
+          "difficulty": "",
+          "area": "Oak Street Lift"
+        },
+        {
+          "name": "Bail Out",
+          "difficulty": "",
+          "area": "Oak Street Lift"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Beginner Park",
+          "difficulty": "Green",
+          "area": "UTE Park"
+        },
+        {
+          "name": "Jello’s Bowl",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        },
+        {
+          "name": "Lakeview",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        },
+        {
+          "name": "Mountain Quail",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        },
+        {
+          "name": "Nice Chute",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        },
+        {
+          "name": "Review",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        },
+        {
+          "name": "Dihedral Chute",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        },
+        {
+          "name": "Zipper",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        },
+        {
+          "name": "Westlake",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Lower Ophir Loop",
+          "difficulty": "Blue",
+          "area": "Polar Queen Express"
+        },
+        {
+          "name": "Lookout – Lower",
+          "difficulty": "Blue",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Easy Out",
+          "difficulty": "Blue",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Bushwacker – Upper",
+          "difficulty": "",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Bushwacker – Lower",
+          "difficulty": "",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Marmot",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Lower Galloping Goose (Middle)",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Magnolia",
+          "difficulty": "Blue",
+          "area": "Prospect Express"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Lower Galloping Goose (Upper)",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Enchanted Forest",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Bridges",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Sundance",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Teddy’s Way",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Madison",
+          "difficulty": "Green",
+          "area": "Prospect Express"
+        },
+        {
+          "name": "Sandia",
+          "difficulty": "Blue",
+          "area": "Prospect Express"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "3 new trails opened today",
+      "8 trails freshly groomed"
+    ],
+    "trends": [],
+    "recommendations": [
+      "Fresh corduroy on Lower Ophir Loop - perfect for intermediate skiers",
+      "Fresh corduroy on Lookout – Lower - perfect for intermediate skiers",
+      "Fresh corduroy on Easy Out - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

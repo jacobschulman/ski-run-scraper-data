@@ -1,0 +1,72 @@
+{
+  "resort": "heavenly",
+  "resortName": "Heavenly",
+  "date": "2026-01-16",
+  "generated": "2026-01-16T13:37:15.050Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 111,
+          "yesterday": 110,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 54,
+          "yesterday": 51,
+          "delta": 3
+        },
+        "totalTrails": 113
+      },
+      "newlyOpened": [
+        {
+          "name": "Groove Terrain Park",
+          "difficulty": "TerrainPark",
+          "area": "California"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Groove Trail",
+          "difficulty": "Green",
+          "area": "California"
+        },
+        {
+          "name": "West Bowl",
+          "difficulty": "Black",
+          "area": "California"
+        },
+        {
+          "name": "North Bowl",
+          "difficulty": "Black",
+          "area": "Nevada"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "1 new trail opened today",
+      "3 trails freshly groomed"
+    ],
+    "trends": [
+      "1 more trail open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Groove Trail - great for beginners",
+      "Fresh corduroy on West Bowl - challenging for advanced skiers",
+      "Fresh corduroy on North Bowl - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

@@ -1,0 +1,95 @@
+{
+  "resort": "wildcat",
+  "resortName": "Wildcat Mountain",
+  "date": "2025-12-01",
+  "timestamp": "2025-12-01T10:23:48.146Z",
+  "lastUpdated": "Updated December 01, 2025 at 4:03 AM EST",
+  "conditions": null,
+  "snowfall": {
+    "overnight_inches": 3,
+    "overnight_cm": 7,
+    "24hour_inches": 3,
+    "24hour_cm": 7,
+    "48hour_inches": 3,
+    "48hour_cm": 7,
+    "7day_inches": 3,
+    "7day_cm": 7,
+    "season_total_inches": 3,
+    "season_total_cm": 8
+  },
+  "baseDepth": {
+    "inches": 12,
+    "cm": 30
+  },
+  "forecast": {
+    "locations": [
+      {
+        "name": "Unknown",
+        "elevation": null,
+        "today": {
+          "high_f": 33,
+          "high_c": null,
+          "low_f": 12,
+          "low_c": -11,
+          "description": "Partly Cloudy",
+          "wind": "WNW",
+          "wind_speed": 5.77,
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0
+        },
+        "forecast_days": [
+          {
+            "date": "2025-12-01T05:00:00Z",
+            "high_f": 33,
+            "high_c": null,
+            "low_f": 12,
+            "low_c": -11,
+            "description": "Partly Cloudy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2025-12-02T05:00:00Z",
+            "high_f": 26,
+            "high_c": -4,
+            "low_f": 12,
+            "low_c": -11,
+            "description": "Snow",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2025-12-03T05:00:00Z",
+            "high_f": 29,
+            "high_c": -2,
+            "low_f": 17,
+            "low_c": -8,
+            "description": "Mostly Cloudy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2025-12-04T05:00:00Z",
+            "high_f": 29,
+            "high_c": -2,
+            "low_f": 5,
+            "low_c": -15,
+            "description": "Mostly Cloudy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2025-12-05T05:00:00Z",
+            "high_f": 18,
+            "high_c": -8,
+            "low_f": -2,
+            "low_c": -19,
+            "description": "Mostly Clear",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          }
+        ]
+      }
+    ]
+  }
+}

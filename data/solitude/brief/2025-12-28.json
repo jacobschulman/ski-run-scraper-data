@@ -1,0 +1,177 @@
+{
+  "resort": "solitude",
+  "resortName": "Solitude",
+  "date": "2025-12-28",
+  "generated": "2025-12-29T06:29:18.642Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 1,
+      "overnight_cm": 3,
+      "24hour_inches": 8,
+      "24hour_cm": 20,
+      "48hour_inches": 12,
+      "48hour_cm": 30,
+      "7day_inches": 13,
+      "7day_cm": 33,
+      "season_total_inches": 74,
+      "season_total_cm": 188,
+      "conditions": {
+        "today": "Variable Conditions",
+        "yesterday": "Variable Conditions"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 24,
+          "yesterday": 22,
+          "delta": 2
+        },
+        "groomedTrails": {
+          "today": 8,
+          "yesterday": 8,
+          "delta": 0
+        },
+        "totalTrails": 107
+      },
+      "newlyOpened": [
+        {
+          "name": "Roller Coaster",
+          "difficulty": "Difficult",
+          "area": "Solitude Canyon"
+        },
+        {
+          "name": "Timberline",
+          "difficulty": "Intermediate",
+          "area": "Solitude Canyon"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-27",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 9,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-28",
+        "high_f": null,
+        "low_f": 14,
+        "high_c": null,
+        "low_c": -10,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-29",
+          "high_f": 30,
+          "low_f": 25,
+          "high_c": -1,
+          "low_c": -4,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-30",
+          "high_f": 37,
+          "low_f": 32,
+          "high_c": 3,
+          "low_c": 0,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-31",
+          "high_f": 42,
+          "low_f": 33,
+          "high_c": 5,
+          "low_c": 1,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-29",
+        "high_f": 30,
+        "low_f": 25,
+        "high_c": -1,
+        "low_c": -4,
+        "description": "Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1\" new snow overnight",
+      "8\" in last 24 hours - powder day!",
+      "2 new trails opened today"
+    ],
+    "trends": [
+      "Great week for snow - 13\" in last 7 days",
+      "2 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Fresh Tracks for Days",
+    "body": "Powder alert! 8\" of fresh overnight means soft conditions across the entire mountain. 2 new runs just opened up. Time to explore some fresh terrain.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 5,
+        "totalVariations": 12,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Waist-Deep Conditions"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

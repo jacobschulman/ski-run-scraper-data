@@ -1,0 +1,41 @@
+{
+  "resort": "laurelmountain",
+  "resortName": "Laurel Mountain",
+  "date": "2026-01-16",
+  "generated": "2026-01-16T10:23:49.809Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 13,
+          "yesterday": 13,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 13,
+          "yesterday": 13,
+          "delta": 0
+        },
+        "totalTrails": 19
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

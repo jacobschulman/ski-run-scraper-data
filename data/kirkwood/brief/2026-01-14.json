@@ -1,0 +1,213 @@
+{
+  "resort": "kirkwood",
+  "resortName": "Kirkwood",
+  "date": "2026-01-14",
+  "generated": "2026-01-14T13:39:37.431Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 4,
+      "7day_cm": 10,
+      "season_total_inches": 160,
+      "season_total_cm": 406,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 101,
+          "yesterday": 98,
+          "delta": 3
+        },
+        "groomedTrails": {
+          "today": 37,
+          "yesterday": 38,
+          "delta": -1
+        },
+        "totalTrails": 111
+      },
+      "newlyOpened": [
+        {
+          "name": "Caples - Beaver Pond - .6km",
+          "difficulty": "Blue",
+          "area": "Cross Country Center"
+        },
+        {
+          "name": "Caples - Granite Rock - 1km",
+          "difficulty": "Blue",
+          "area": "Cross Country Center"
+        },
+        {
+          "name": "Caples - High Trail Ext. - .5km",
+          "difficulty": "Black",
+          "area": "Cross Country Center"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Zachary",
+          "difficulty": "Black",
+          "area": "Frontside"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Cold Shoulder",
+          "difficulty": "Black",
+          "area": "Backside"
+        },
+        {
+          "name": "Short Spoke",
+          "difficulty": "Black",
+          "area": "Frontside"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-13",
+        "avgWaitTime": 1,
+        "maxWaitTime": 1,
+        "totalLiftsTracked": 13,
+        "busiest": [
+          {
+            "name": "#2 Caples Crest",
+            "avgWait": 1,
+            "peakWait": 1,
+            "type": "Triple",
+            "mountain": "Backside"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-14",
+        "high_f": 48,
+        "low_f": 40,
+        "high_c": 9,
+        "low_c": 4,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-15T08:00:00Z",
+          "high_f": 47,
+          "low_f": 36,
+          "high_c": 8,
+          "low_c": 2,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-16T08:00:00Z",
+          "high_f": 47,
+          "low_f": 35,
+          "high_c": 8,
+          "low_c": 2,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-17T08:00:00Z",
+          "high_f": 49,
+          "low_f": 35,
+          "high_c": 9,
+          "low_c": 1,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-15T08:00:00Z",
+        "high_f": 47,
+        "low_f": 36,
+        "high_c": 8,
+        "low_c": 2,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "3 new trails opened today",
+      "1 trail freshly groomed"
+    ],
+    "trends": [
+      "3 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Zachary - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "More Variety Today",
+    "body": "The rundown: 101 trails open, 37 groomed. Clear with temps around 48°. The terrain list grew by 3 today. More variety to choose from. Lift lines were mellow yesterday. Expect a similar vibe today.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_mellow",
+          "category": "lifts",
+          "priority": 50,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "terrain_few",
+        "variationIndex": 4,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": null
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,212 @@
+{
+  "resort": "keystone",
+  "resortName": "Keystone",
+  "date": "2026-01-25",
+  "generated": "2026-01-25T12:41:33.153Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 5,
+      "24hour_cm": 12,
+      "48hour_inches": 5,
+      "48hour_cm": 12,
+      "7day_inches": 6,
+      "7day_cm": 15,
+      "season_total_inches": 81,
+      "season_total_cm": 205,
+      "conditions": {
+        "today": "Powder",
+        "yesterday": "Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 82,
+          "yesterday": 81,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 47,
+          "yesterday": 47,
+          "delta": 0
+        },
+        "totalTrails": 142
+      },
+      "newlyOpened": [
+        {
+          "name": "Geronimo",
+          "difficulty": "Black",
+          "area": "North Peak"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-24",
+        "avgWaitTime": 3.8,
+        "maxWaitTime": 17,
+        "totalLiftsTracked": 21,
+        "busiest": [
+          {
+            "name": "Santiago Express",
+            "avgWait": 5.7,
+            "peakWait": 17,
+            "type": "Quad",
+            "mountain": "North Peak"
+          },
+          {
+            "name": "Peru Express",
+            "avgWait": 5,
+            "peakWait": 8,
+            "type": "Six Pack",
+            "mountain": "Dercum Mountain"
+          },
+          {
+            "name": "River Run Gondola",
+            "avgWait": 4.1,
+            "peakWait": 11,
+            "type": "Gondola",
+            "mountain": "Dercum Mountain"
+          },
+          {
+            "name": "Montezuma Express",
+            "avgWait": 3.7,
+            "peakWait": 10,
+            "type": "Six Pack",
+            "mountain": "Dercum Mountain"
+          },
+          {
+            "name": "Summit Express",
+            "avgWait": 3.5,
+            "peakWait": 7,
+            "type": "Quad",
+            "mountain": "Dercum Mountain"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-25",
+        "high_f": 9,
+        "low_f": -5,
+        "high_c": -13,
+        "low_c": -21,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-26T07:00:00Z",
+          "high_f": 20,
+          "low_f": -8,
+          "high_c": -7,
+          "low_c": -22,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-27T07:00:00Z",
+          "high_f": 23,
+          "low_f": 2,
+          "high_c": -5,
+          "low_c": -17,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-28T07:00:00Z",
+          "high_f": 31,
+          "low_f": 3,
+          "high_c": -1,
+          "low_c": -16,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-26T07:00:00Z",
+        "high_f": 20,
+        "low_f": -8,
+        "high_c": -7,
+        "low_c": -22,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today"
+    ],
+    "trends": [
+      "Steady snowfall - 6\" in last 7 days",
+      "1 more trail open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Nice Little Top-Up",
+    "body": "Solid refresh: 5\" overnight freshened up the mountain nicely. 1 new trail opened today. Heads up: Santiago Express peaked at 17 minutes yesterday. Consider alternatives.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_solid",
+          "category": "snow",
+          "priority": 82,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_solid",
+          "category": "snow",
+          "priority": 82,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_micro",
+          "category": "terrain",
+          "priority": 45,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_busy",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 8,
+      "headlineSelection": {
+        "condition": "snow_solid",
+        "variationIndex": 1,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": null
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

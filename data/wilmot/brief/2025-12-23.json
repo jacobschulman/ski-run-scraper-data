@@ -1,0 +1,246 @@
+{
+  "resort": "wilmot",
+  "resortName": "Wilmot Mountain",
+  "date": "2025-12-23",
+  "generated": "2025-12-23T15:19:16.682Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 9,
+      "season_total_cm": 22,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 14,
+          "yesterday": 1,
+          "delta": 13
+        },
+        "groomedTrails": {
+          "today": 14,
+          "yesterday": 0,
+          "delta": 14
+        },
+        "totalTrails": 26
+      },
+      "newlyOpened": [
+        {
+          "name": "Turtle",
+          "difficulty": "Green",
+          "area": "Beginner Area"
+        },
+        {
+          "name": "Broadway",
+          "difficulty": "Green",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Exhibition",
+          "difficulty": "Black",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Inspiration",
+          "difficulty": "Blue",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Lower Cat Trail",
+          "difficulty": "Green",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Meadows",
+          "difficulty": "Green",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Paradise",
+          "difficulty": "Blue",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Sidewinder",
+          "difficulty": "Black",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Sundance",
+          "difficulty": "Blue",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Sunnyside",
+          "difficulty": "Blue",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Superior",
+          "difficulty": "Black",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Upper Cat Trail",
+          "difficulty": "Green",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Walter's Folly",
+          "difficulty": "Blue",
+          "area": "Main Hill"
+        },
+        {
+          "name": "The Gully",
+          "difficulty": "TerrainPark",
+          "area": "Terrain Park"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Progression Park",
+          "difficulty": "TerrainPark",
+          "area": "Terrain Park"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-22",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 12,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-23",
+        "high_f": 44,
+        "low_f": 31,
+        "high_c": 7,
+        "low_c": -1,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-24T06:00:00Z",
+          "high_f": 41,
+          "low_f": 30,
+          "high_c": 5,
+          "low_c": -1,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-25T06:00:00Z",
+          "high_f": 39,
+          "low_f": 35,
+          "high_c": 4,
+          "low_c": 1,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-26T06:00:00Z",
+          "high_f": 43,
+          "low_f": 36,
+          "high_c": 6,
+          "low_c": 2,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-24T06:00:00Z",
+        "high_f": 41,
+        "low_f": 30,
+        "high_c": 5,
+        "low_c": -1,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "14 new trails opened today"
+    ],
+    "trends": [
+      "13 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "New Runs Now Open",
+    "body": "14 trails open, 14 groomed. Partly Cloudy, high of 44°. The ski patrol has been busy—14 additional trails are now yours to enjoy. Warmer temps with a high of 44°. Snow will soften up by afternoon—corn snow incoming.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_spring_vibes",
+          "category": "weather",
+          "priority": 50,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 1,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Stay Tuned for Opening"
+      },
+      "dayOfWeek": "Tuesday"
+    }
+  },
+  "errors": []
+}

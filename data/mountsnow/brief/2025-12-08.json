@@ -1,0 +1,111 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2025-12-08",
+  "generated": "2025-12-08T10:25:21.742Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 19,
+          "yesterday": 16,
+          "delta": 3
+        },
+        "groomedTrails": {
+          "today": 17,
+          "yesterday": 13,
+          "delta": 4
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "N.E. Time",
+          "difficulty": "Green",
+          "area": "Main Face"
+        },
+        {
+          "name": "Seasons Pass",
+          "difficulty": "Green",
+          "area": "Main Face"
+        },
+        {
+          "name": "Snowdance",
+          "difficulty": "Green",
+          "area": "Main Face"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "N.E. Time",
+          "difficulty": "Green",
+          "area": "Main Face"
+        },
+        {
+          "name": "Seasons Pass",
+          "difficulty": "Green",
+          "area": "Main Face"
+        },
+        {
+          "name": "Snowdance",
+          "difficulty": "Green",
+          "area": "Main Face"
+        },
+        {
+          "name": "Chute",
+          "difficulty": "Black",
+          "area": "North Face"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-07",
+        "avgWaitTime": 4.3,
+        "maxWaitTime": 12,
+        "totalLiftsTracked": 19,
+        "busiest": [
+          {
+            "name": "Bluebird Express",
+            "avgWait": 5.9,
+            "peakWait": 12,
+            "type": "six",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 2.5,
+            "peakWait": 6,
+            "type": "quad",
+            "mountain": "Main Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "3 new trails opened today",
+      "4 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 31% from yesterday",
+      "3 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on N.E. Time - great for beginners",
+      "Fresh corduroy on Seasons Pass - great for beginners",
+      "Fresh corduroy on Snowdance - great for beginners"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

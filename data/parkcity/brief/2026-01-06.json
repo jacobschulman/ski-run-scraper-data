@@ -1,0 +1,325 @@
+{
+  "resort": "parkcity",
+  "resortName": "Park City",
+  "date": "2026-01-06",
+  "generated": "2026-01-06T12:40:46.717Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 11,
+      "24hour_cm": 27,
+      "48hour_inches": 12,
+      "48hour_cm": 30,
+      "7day_inches": 22,
+      "7day_cm": 55,
+      "season_total_inches": 65,
+      "season_total_cm": 165,
+      "conditions": {
+        "today": "Fresh",
+        "yesterday": "Fresh"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 74,
+          "yesterday": 55,
+          "delta": 19
+        },
+        "groomedTrails": {
+          "today": 20,
+          "yesterday": 19,
+          "delta": 1
+        },
+        "totalTrails": 349
+      },
+      "newlyOpened": [
+        {
+          "name": "Belmont",
+          "difficulty": "Black",
+          "area": "Bonanza/McConkey's/Pioneer"
+        },
+        {
+          "name": "Blaster",
+          "difficulty": "Blue",
+          "area": "Bonanza/McConkey's/Pioneer"
+        },
+        {
+          "name": "Jonesy's",
+          "difficulty": "Blue",
+          "area": "Bonanza/McConkey's/Pioneer"
+        },
+        {
+          "name": "Mid-Mountain",
+          "difficulty": "Green",
+          "area": "Bonanza/McConkey's/Pioneer"
+        },
+        {
+          "name": "Mid-Mountain Cutoff",
+          "difficulty": "Green",
+          "area": "Bonanza/McConkey's/Pioneer"
+        },
+        {
+          "name": "Mid-Mountain Meadows",
+          "difficulty": "Blue",
+          "area": "Bonanza/McConkey's/Pioneer"
+        },
+        {
+          "name": "Hurricane Alley",
+          "difficulty": "Blue",
+          "area": "OBX/Saddleback/Sun Peak"
+        },
+        {
+          "name": "Dividend",
+          "difficulty": "Blue",
+          "area": "Payday/Town/Crescent"
+        },
+        {
+          "name": "Encore",
+          "difficulty": "Blue",
+          "area": "Peak 5/9990/Tombstone"
+        },
+        {
+          "name": "Sidewinder",
+          "difficulty": "Black",
+          "area": "Peak 5/9990/Tombstone"
+        },
+        {
+          "name": "Tombstone Alley",
+          "difficulty": "Blue",
+          "area": "Peak 5/9990/Tombstone"
+        },
+        {
+          "name": "Assessment",
+          "difficulty": "Blue",
+          "area": "Silverlode/Thaynes/Motherlode"
+        },
+        {
+          "name": "Dynamite",
+          "difficulty": "Black",
+          "area": "Silverlode/Thaynes/Motherlode"
+        },
+        {
+          "name": "Hidden Splendor",
+          "difficulty": "Blue",
+          "area": "Silverlode/Thaynes/Motherlode"
+        },
+        {
+          "name": "Lost Prospector",
+          "difficulty": "Black",
+          "area": "Silverlode/Thaynes/Motherlode"
+        },
+        {
+          "name": "Newport",
+          "difficulty": "Black",
+          "area": "Silverlode/Thaynes/Motherlode"
+        },
+        {
+          "name": "Parley's Park",
+          "difficulty": "Blue",
+          "area": "Silverlode/Thaynes/Motherlode"
+        },
+        {
+          "name": "Powder Keg",
+          "difficulty": "Blue",
+          "area": "Silverlode/Thaynes/Motherlode"
+        },
+        {
+          "name": "Prospector",
+          "difficulty": "Black",
+          "area": "Silverlode/Thaynes/Motherlode"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Silver Spur",
+          "difficulty": "Blue",
+          "area": "Peak 5/9990/Tombstone"
+        },
+        {
+          "name": "Tombstone Alley",
+          "difficulty": "Blue",
+          "area": "Peak 5/9990/Tombstone"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Painted Horse",
+          "difficulty": "Blue",
+          "area": "OBX/Saddleback/Sun Peak"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-05",
+        "avgWaitTime": 3.8,
+        "maxWaitTime": 40,
+        "totalLiftsTracked": 43,
+        "busiest": [
+          {
+            "name": "9990 Express",
+            "avgWait": 40,
+            "peakWait": 40,
+            "type": "Quad",
+            "mountain": "Peak 5/9990/Tombstone"
+          },
+          {
+            "name": "Crescent Lift",
+            "avgWait": 6.7,
+            "peakWait": 38,
+            "type": "Quad",
+            "mountain": "Payday/Town/Crescent"
+          },
+          {
+            "name": "High Meadow",
+            "avgWait": 6.7,
+            "peakWait": 15,
+            "type": "Quad",
+            "mountain": "OBX/Saddleback/Sun Peak"
+          },
+          {
+            "name": "Saddleback Express",
+            "avgWait": 6.4,
+            "peakWait": 19,
+            "type": "Quad",
+            "mountain": "OBX/Saddleback/Sun Peak"
+          },
+          {
+            "name": "Silverlode Lift",
+            "avgWait": 5.5,
+            "peakWait": 18,
+            "type": "Six Pack",
+            "mountain": "Silverlode/Thaynes/Motherlode"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-06",
+        "high_f": 37,
+        "low_f": 25,
+        "high_c": 2,
+        "low_c": -4,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-07T07:00:00Z",
+          "high_f": 32,
+          "low_f": 26,
+          "high_c": null,
+          "low_c": -4,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-08T07:00:00Z",
+          "high_f": 26,
+          "low_f": 13,
+          "high_c": -3,
+          "low_c": -11,
+          "description": "Thundersnow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-09T07:00:00Z",
+          "high_f": 20,
+          "low_f": 8,
+          "high_c": -7,
+          "low_c": -13,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-07T07:00:00Z",
+        "high_f": 32,
+        "low_f": 26,
+        "high_c": null,
+        "low_c": -4,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "11\" in last 24 hours - powder day!",
+      "19 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 22\" in last 7 days",
+      "19 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Silver Spur - perfect for intermediate skiers",
+      "Fresh corduroy on Tombstone Alley - perfect for intermediate skiers",
+      "9990 Express had longest waits (40 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Winter Delivered Big",
+    "body": "Wake up, it's a powder day! 11\" overnight means hero snow everywhere. 19 additional trails are now available. Lots of new ground to cover. Heads up: 9990 Express peaked at 40 minutes yesterday. Consider alternatives.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_major",
+          "category": "terrain",
+          "priority": 88,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_busy",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 7,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 4,
+        "totalVariations": 11,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Variable Conditions"
+      },
+      "dayOfWeek": "Tuesday"
+    }
+  },
+  "errors": []
+}

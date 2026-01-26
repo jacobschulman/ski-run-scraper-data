@@ -1,0 +1,345 @@
+{
+  "resort": "whistlerblackcomb",
+  "resortName": "Whistler Blackcomb",
+  "date": "2026-01-07",
+  "generated": "2026-01-07T13:40:38.038Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 2,
+      "overnight_cm": 7,
+      "24hour_inches": 3,
+      "24hour_cm": 8,
+      "48hour_inches": 3,
+      "48hour_cm": 9,
+      "7day_inches": 13,
+      "7day_cm": 33,
+      "season_total_inches": 161,
+      "season_total_cm": 409,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 248,
+          "yesterday": 266,
+          "delta": -18
+        },
+        "groomedTrails": {
+          "today": 126,
+          "yesterday": 130,
+          "delta": -4
+        },
+        "totalTrails": 305
+      },
+      "newlyOpened": [],
+      "newlyClosed": [
+        {
+          "name": "7th Avenue",
+          "difficulty": "Green",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Angel Dust",
+          "difficulty": "Black",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Cloud 9 - Lower",
+          "difficulty": "Blue",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Cloud 9 - Upper",
+          "difficulty": "Blue",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Everglades",
+          "difficulty": "Black",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Hugh's Heaven - Lower",
+          "difficulty": "Blue",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Hugh's Heaven - Upper",
+          "difficulty": "Blue",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Lakeside Bowl",
+          "difficulty": "Black",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Lakeside Traverse",
+          "difficulty": "Black",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Last Resort",
+          "difficulty": "Green",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Panorama - Lower",
+          "difficulty": "Blue",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Panorama - Mid",
+          "difficulty": "Blue",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Panorama - Upper",
+          "difficulty": "Blue",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Sluiceway",
+          "difficulty": "Blue",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Southside Green",
+          "difficulty": "Green",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Sunburn",
+          "difficulty": "Black",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Xhiggy's Meadow",
+          "difficulty": "Black",
+          "area": "7th Heaven"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Glacier Road - Lower",
+          "difficulty": "Blue",
+          "area": "Crystal Ridge"
+        },
+        {
+          "name": "Glacier Road - Mid",
+          "difficulty": "Blue",
+          "area": "Crystal Ridge"
+        },
+        {
+          "name": "Enchanted Forest - Adventure Trail",
+          "difficulty": "Blue",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Buzz Cut",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Sunset Boulevard",
+          "difficulty": "Green",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Rock Alley",
+          "difficulty": "Blue",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Wally World",
+          "difficulty": "Blue",
+          "area": "Jersey Cream"
+        },
+        {
+          "name": "Peak to Creek - Upper",
+          "difficulty": "Blue",
+          "area": "Peak / T-bar"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Enchanted Forest - Upper Entrance",
+          "difficulty": "Blue",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-06",
+        "avgWaitTime": 5.7,
+        "maxWaitTime": 36,
+        "totalLiftsTracked": 36,
+        "busiest": [
+          {
+            "name": "T-Bar",
+            "avgWait": 20,
+            "peakWait": 20,
+            "type": "T-Bar",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Whistler Village Gondola - Upper",
+            "avgWait": 14.6,
+            "peakWait": 36,
+            "type": "Gondola",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Whistler Village Gondola  - Lower",
+            "avgWait": 12.3,
+            "peakWait": 27,
+            "type": "Gondola",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Crystal Ridge Express",
+            "avgWait": 10.1,
+            "peakWait": 18,
+            "type": "Quad",
+            "mountain": "Blackcomb Lifts"
+          },
+          {
+            "name": "Blackcomb Gondola - Lower",
+            "avgWait": 7.4,
+            "peakWait": 15,
+            "type": "Gondola",
+            "mountain": "Blackcomb Lifts"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-07",
+        "high_f": 32,
+        "low_f": 32,
+        "high_c": null,
+        "low_c": null,
+        "description": "Cloudy with scattered flurries.",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-08T02:09:42-07:00",
+          "high_f": 15,
+          "low_f": 12,
+          "high_c": -9,
+          "low_c": -11,
+          "description": "Mainly cloudy with isolated flurries.",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2026-01-09T02:09:42-07:00",
+          "high_f": 26,
+          "low_f": 19,
+          "high_c": -3,
+          "low_c": -7,
+          "description": "Flurries.",
+          "snowfall_day_inches": 3,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 3
+        },
+        {
+          "date": "2026-01-10T02:09:42-07:00",
+          "high_f": 30,
+          "low_f": 23,
+          "high_c": -1,
+          "low_c": -5,
+          "description": "Mainly cloudy with scattered flurries.",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-08T02:09:42-07:00",
+        "high_f": 15,
+        "low_f": 12,
+        "high_c": -9,
+        "low_c": -11,
+        "description": "Mainly cloudy with isolated flurries.",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 1
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2\" fresh snow overnight",
+      "8 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 13\" in last 7 days",
+      "1\" snow expected Thursday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Glacier Road - Lower - perfect for intermediate skiers",
+      "Fresh corduroy on Glacier Road - Mid - perfect for intermediate skiers",
+      "Fresh corduroy on Enchanted Forest - Adventure Trail - perfect for intermediate skiers",
+      "T-Bar had longest waits (20 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Nice Little Top-Up",
+    "body": "The mountain got a nice 3\" boost overnight. Conditions are improved. 8 runs freshly groomed, mostly in Crystal Ridge, Emerald / Garbanzo / Village Gondola - Upper, and more. Heads up: T-Bar peaked at 36 minutes yesterday. Consider alternatives.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_solid",
+          "category": "snow",
+          "priority": 82,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_solid",
+          "category": "snow",
+          "priority": 82,
+          "usedFor": "body"
+        },
+        {
+          "id": "grooming_moderate",
+          "category": "terrain",
+          "priority": 55,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_busy",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "snow_solid",
+        "variationIndex": 1,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "More Snow Coming"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,117 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2025-12-29",
+  "generated": "2025-12-29T10:26:21.004Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 41,
+          "yesterday": 42,
+          "delta": -1
+        },
+        "groomedTrails": {
+          "today": 37,
+          "yesterday": 37,
+          "delta": 0
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "South Bowl",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Sunspot",
+          "difficulty": "Blue",
+          "area": "Sunbrook"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Roller Coaster",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Uncles",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Challenger",
+          "difficulty": "Black",
+          "area": "North Face"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "South Bowl",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-28",
+        "avgWaitTime": 7.8,
+        "maxWaitTime": 22,
+        "totalLiftsTracked": 19,
+        "busiest": [
+          {
+            "name": "Bluebird Express",
+            "avgWait": 12.3,
+            "peakWait": 22,
+            "type": "Six Pack",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 7.7,
+            "peakWait": 14,
+            "type": "Quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Nitro Express",
+            "avgWait": 6.3,
+            "peakWait": 14,
+            "type": "Quad",
+            "mountain": "Carinthia"
+          },
+          {
+            "name": "Grand Summit Express",
+            "avgWait": 4.6,
+            "peakWait": 14,
+            "type": "Quad",
+            "mountain": "Main Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2 new trails opened today",
+      "1 trail freshly groomed"
+    ],
+    "trends": [],
+    "recommendations": [
+      "Fresh corduroy on South Bowl - perfect for intermediate skiers",
+      "Bluebird Express had longest waits (12.3 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

@@ -1,0 +1,114 @@
+{
+  "trailName": "Crosby's Run",
+  "trailSlug": "crosbys-run",
+  "resort": "norquay",
+  "resortName": "Mt Norquay",
+  "area": "All Terrain",
+  "difficulty": "Blue",
+  "trailType": "Skiing",
+  "currentStatus": {
+    "date": "2026-01-26",
+    "isOpen": true,
+    "isGroomed": true,
+    "groomingStatus": "Groomed",
+    "status": "Open"
+  },
+  "stats": {
+    "seasonStartDate": "2025-11-08",
+    "daysTracked": 6,
+    "daysGroomed": 6,
+    "groomingPercentage": 100,
+    "currentStreak": 6,
+    "longestStreak": 6,
+    "lastGroomed": "2026-01-26",
+    "dayOfWeek": [
+      {
+        "day": "Sun",
+        "percentage": 100,
+        "groomed": 1,
+        "total": 1
+      },
+      {
+        "day": "Mon",
+        "percentage": 100,
+        "groomed": 1,
+        "total": 1
+      },
+      {
+        "day": "Tue",
+        "percentage": 0,
+        "groomed": 0,
+        "total": 0
+      },
+      {
+        "day": "Wed",
+        "percentage": 100,
+        "groomed": 1,
+        "total": 1
+      },
+      {
+        "day": "Thu",
+        "percentage": 100,
+        "groomed": 1,
+        "total": 1
+      },
+      {
+        "day": "Fri",
+        "percentage": 100,
+        "groomed": 1,
+        "total": 1
+      },
+      {
+        "day": "Sat",
+        "percentage": 100,
+        "groomed": 1,
+        "total": 1
+      }
+    ]
+  },
+  "history": [
+    {
+      "date": "2026-01-26",
+      "isOpen": true,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": null
+    },
+    {
+      "date": "2026-01-25",
+      "isOpen": true,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": null
+    },
+    {
+      "date": "2026-01-24",
+      "isOpen": true,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": null
+    },
+    {
+      "date": "2026-01-23",
+      "isOpen": true,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": null
+    },
+    {
+      "date": "2026-01-22",
+      "isOpen": true,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": null
+    },
+    {
+      "date": "2026-01-21",
+      "isOpen": true,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": null
+    }
+  ],
+  "generated": "2026-01-26T19:30:45.381Z"
+}

@@ -1,0 +1,151 @@
+{
+  "resort": "laurelmountain",
+  "resortName": "Laurel Mountain",
+  "date": "2025-12-26",
+  "generated": "2025-12-26T10:23:14.802Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 1,
+      "7day_cm": 2,
+      "season_total_inches": 27,
+      "season_total_cm": 68,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 12,
+          "yesterday": 12,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 12,
+          "yesterday": 12,
+          "delta": 0
+        },
+        "totalTrails": 19
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-26",
+        "high_f": 47,
+        "low_f": 27,
+        "high_c": 8,
+        "low_c": -3,
+        "description": "Rain/Snow",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-27T05:00:00Z",
+          "high_f": 41,
+          "low_f": 29,
+          "high_c": 5,
+          "low_c": -2,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-28T05:00:00Z",
+          "high_f": 52,
+          "low_f": 31,
+          "high_c": 11,
+          "low_c": -1,
+          "description": "Rain/Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-29T05:00:00Z",
+          "high_f": 55,
+          "low_f": 18,
+          "high_c": 12,
+          "low_c": -8,
+          "description": "Rain/Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-27T05:00:00Z",
+        "high_f": 41,
+        "low_f": 29,
+        "high_c": 5,
+        "low_c": -2,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Cheers to the Weekend!",
+    "body": "The rundown: 12 trails open, 12 groomed. Rain/Snow with temps around 47°. 12 of 19 trails are open with 12 groomed. Rain/Snow with a high of 47°F.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "time_weekend_kickoff",
+          "category": "time",
+          "priority": 65,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "fallback_body",
+          "category": "weather",
+          "priority": 5,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "weekend_kickoff",
+        "variationIndex": 4,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Midweek Mountain Report"
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,259 @@
+{
+  "resort": "deervalley",
+  "resortName": "Deer Valley",
+  "date": "2026-01-05",
+  "generated": "2026-01-06T06:28:24.642Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 6,
+      "overnight_cm": 15,
+      "24hour_inches": 12,
+      "24hour_cm": 30,
+      "48hour_inches": 13,
+      "48hour_cm": 33,
+      "7day_inches": 22,
+      "7day_cm": 56,
+      "season_total_inches": 65,
+      "season_total_cm": 165,
+      "conditions": {
+        "today": "New Natural Snow",
+        "yesterday": "Machine Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 68,
+          "yesterday": 51,
+          "delta": 17
+        },
+        "groomedTrails": {
+          "today": 26,
+          "yesterday": 26,
+          "delta": 0
+        },
+        "totalTrails": 227
+      },
+      "newlyOpened": [
+        {
+          "name": "Northern Light (Lower)",
+          "difficulty": "Easy",
+          "area": "Bald Mountain"
+        },
+        {
+          "name": "Ontario Bowl",
+          "difficulty": "Expert",
+          "area": "Flagstaff Mountain"
+        },
+        {
+          "name": "Dream",
+          "difficulty": "Easy",
+          "area": "Park Peak"
+        },
+        {
+          "name": "Golden Age",
+          "difficulty": "Easy",
+          "area": "Park Peak"
+        },
+        {
+          "name": "Humbug",
+          "difficulty": "Intermediate",
+          "area": "Park Peak"
+        },
+        {
+          "name": "June Bug",
+          "difficulty": "Easy",
+          "area": "Park Peak"
+        },
+        {
+          "name": "Straddle Bug",
+          "difficulty": "Intermediate",
+          "area": "Park Peak"
+        },
+        {
+          "name": "Conviction",
+          "difficulty": "Expert",
+          "area": "Empire"
+        },
+        {
+          "name": "Domingo",
+          "difficulty": "Expert",
+          "area": "Empire"
+        },
+        {
+          "name": "Empire Bowl",
+          "difficulty": "Expert",
+          "area": "Empire"
+        },
+        {
+          "name": "Lady Morgan Bowl",
+          "difficulty": "Expert",
+          "area": "Empire"
+        },
+        {
+          "name": "Nugget",
+          "difficulty": "Intermediate",
+          "area": "Empire"
+        },
+        {
+          "name": "Ore Cart",
+          "difficulty": "Intermediate",
+          "area": "Empire"
+        },
+        {
+          "name": "Solace",
+          "difficulty": "Intermediate",
+          "area": "Empire"
+        },
+        {
+          "name": "Supreme (Lower)",
+          "difficulty": "Intermediate",
+          "area": "Empire"
+        },
+        {
+          "name": "Supreme (Upper)",
+          "difficulty": "Intermediate",
+          "area": "Empire"
+        },
+        {
+          "name": "Zebra Trees",
+          "difficulty": "Expert",
+          "area": "Empire"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-04",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 32,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-05",
+        "high_f": null,
+        "low_f": 21,
+        "high_c": null,
+        "low_c": -6,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-06",
+          "high_f": 29,
+          "low_f": 23,
+          "high_c": -2,
+          "low_c": -5,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-07",
+          "high_f": 25,
+          "low_f": 18,
+          "high_c": -4,
+          "low_c": -8,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 2,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2026-01-08",
+          "high_f": 18,
+          "low_f": 5,
+          "high_c": -8,
+          "low_c": -15,
+          "description": "Snow",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-06",
+        "high_f": 29,
+        "low_f": 23,
+        "high_c": -2,
+        "low_c": -5,
+        "description": "Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "6\" fresh snow overnight",
+      "12\" in last 24 hours - powder day!",
+      "17 new trails opened today"
+    ],
+    "trends": [
+      "Great week for snow - 22\" in last 7 days",
+      "17 more trails open than yesterday",
+      "2\" snow expected Wednesday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "12\" and Counting",
+    "body": "The mountain got buried overnight: 12\" of fresh. Hero conditions everywhere. Big expansion: 17 new trails opened up. More room to roam. A little something coming our way. Light snow expected to dust things up.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_deep",
+          "category": "snow",
+          "priority": 95,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_deep",
+          "category": "snow",
+          "priority": 95,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_major",
+          "category": "terrain",
+          "priority": 88,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_snow_coming",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "snow_deep",
+        "variationIndex": 3,
+        "totalVariations": 8,
+        "usedWeekendVariation": false,
+        "previousHeadline": "The Stashes Are Loaded"
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,109 @@
+{
+  "resort": "northstar",
+  "resortName": "Northstar",
+  "date": "2026-01-16",
+  "generated": "2026-01-16T13:37:15.053Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 96,
+          "yesterday": 95,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 57,
+          "yesterday": 52,
+          "delta": 5
+        },
+        "totalTrails": 103
+      },
+      "newlyOpened": [
+        {
+          "name": "Lookout Glade",
+          "difficulty": "Black",
+          "area": "Lookout Mountain"
+        },
+        {
+          "name": "Prosser",
+          "difficulty": "Black",
+          "area": "Lookout Mountain"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Overland Trail",
+          "difficulty": "Blue",
+          "area": "Northwest Territory"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Drop Off",
+          "difficulty": "Blue",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "Playground",
+          "difficulty": "TerrainPark",
+          "area": "Terrain Parks"
+        },
+        {
+          "name": "The Straits",
+          "difficulty": "TerrainPark",
+          "area": "Terrain Parks"
+        },
+        {
+          "name": "Challenger",
+          "difficulty": "Black",
+          "area": "The Backside"
+        },
+        {
+          "name": "Monument Glade",
+          "difficulty": "Black",
+          "area": "The Backside"
+        },
+        {
+          "name": "Polaris",
+          "difficulty": "Black",
+          "area": "The Backside"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Upper Jibboom",
+          "difficulty": "Blue",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "Bearly",
+          "difficulty": "Green",
+          "area": "Village at Northstar"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "2 new trails opened today",
+      "6 trails freshly groomed"
+    ],
+    "trends": [
+      "1 more trail open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Drop Off - perfect for intermediate skiers",
+      "Fresh corduroy on Playground - all skill levels",
+      "Fresh corduroy on The Straits - all skill levels"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

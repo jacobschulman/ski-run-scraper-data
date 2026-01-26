@@ -1,0 +1,244 @@
+{
+  "resort": "killington",
+  "resortName": "Killington",
+  "date": "2026-01-22",
+  "generated": "2026-01-23T04:39:11.573Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 2,
+      "overnight_cm": 5,
+      "24hour_inches": 2,
+      "24hour_cm": 5,
+      "48hour_inches": 2,
+      "48hour_cm": 5,
+      "7day_inches": 2,
+      "7day_cm": 5,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Packed Powder",
+        "yesterday": "Packed Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 166,
+          "yesterday": 161,
+          "delta": 5
+        },
+        "groomedTrails": {
+          "today": 85,
+          "yesterday": 79,
+          "delta": 6
+        },
+        "totalTrails": 222
+      },
+      "newlyOpened": [
+        {
+          "name": "Lil' Stash",
+          "difficulty": "easiest",
+          "area": "Ramshead"
+        },
+        {
+          "name": "Vertigo - Headwall",
+          "difficulty": "Double Black",
+          "area": "Skye Peak"
+        },
+        {
+          "name": "Chute - Upper",
+          "difficulty": "Blue",
+          "area": "Snowdon"
+        },
+        {
+          "name": "Great Bear - Upper",
+          "difficulty": "Blue",
+          "area": "Snowdon"
+        },
+        {
+          "name": "Killington/Pico Interconnect",
+          "difficulty": "Blue",
+          "area": "Uphill Travel Status"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Yodeler",
+          "difficulty": "easiest",
+          "area": "Snowshed"
+        },
+        {
+          "name": "Lil' Stash",
+          "difficulty": "easiest",
+          "area": "Ramshead"
+        },
+        {
+          "name": "South Ridge Link",
+          "difficulty": "easiest",
+          "area": "Skye Peak"
+        },
+        {
+          "name": "Chute - Upper",
+          "difficulty": "Blue",
+          "area": "Snowdon"
+        },
+        {
+          "name": "Great Bear - Upper",
+          "difficulty": "Blue",
+          "area": "Snowdon"
+        },
+        {
+          "name": "Pipe Dream - Lower",
+          "difficulty": "Blue",
+          "area": "South Ridge Area"
+        },
+        {
+          "name": "Top of Ramshead Quad to top of Snowdon",
+          "difficulty": "Blue",
+          "area": "Uphill Travel Status"
+        },
+        {
+          "name": "Base of Sunrise Village Triple to top of Bear Mountain",
+          "difficulty": "easiest",
+          "area": "Uphill Travel Status"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Idler",
+          "difficulty": "easiest",
+          "area": "Snowshed"
+        },
+        {
+          "name": "Sunrise Trail",
+          "difficulty": "easiest",
+          "area": "Sunrise"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-21",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 19,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-22",
+        "high_f": null,
+        "low_f": 6,
+        "description": "Windy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-23",
+          "high_f": 6,
+          "low_f": -16,
+          "description": "Windy",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2026-01-24",
+          "high_f": -8,
+          "low_f": -8,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-25",
+          "high_f": 1,
+          "low_f": 1,
+          "description": "Windy",
+          "snowfall_day_inches": 10,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 10
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-23",
+        "high_f": 6,
+        "low_f": -16,
+        "description": "Windy",
+        "snowfall_day_inches": 2,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 2
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2\" fresh snow overnight",
+      "5 new trails opened today",
+      "8 trails freshly groomed"
+    ],
+    "trends": [
+      "5 more trails open than yesterday",
+      "2\" snow expected Friday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Yodeler - all skill levels",
+      "Fresh corduroy on Lil' Stash - all skill levels",
+      "Fresh corduroy on South Ridge Link - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Storm Cycle Building",
+    "body": "2\" fell while you were sleeping. The bumps are softer, groomers are primo. The terrain list grew by 5 today. More variety to choose from. A significant storm is brewing with 12\" expected over the next few days.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "forecast_major_storm",
+          "category": "weather",
+          "priority": 92,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_major_storm",
+          "category": "weather",
+          "priority": 92,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 7,
+      "headlineSelection": {
+        "condition": "storm_major",
+        "variationIndex": 1,
+        "totalVariations": 7,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Big Snow Incoming"
+      },
+      "dayOfWeek": "Thursday"
+    }
+  },
+  "errors": []
+}

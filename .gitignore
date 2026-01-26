@@ -1,0 +1,8 @@
+# Database files (too large for git)
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# OS files
+.DS_Store

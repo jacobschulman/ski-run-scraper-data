@@ -1,0 +1,263 @@
+{
+  "resort": "northstar",
+  "resortName": "Northstar",
+  "date": "2026-01-04",
+  "generated": "2026-01-04T13:29:54.838Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 2,
+      "24hour_cm": 5,
+      "48hour_inches": 2,
+      "48hour_cm": 5,
+      "7day_inches": 2,
+      "7day_cm": 5,
+      "season_total_inches": 116,
+      "season_total_cm": 294,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 72,
+          "yesterday": 70,
+          "delta": 2
+        },
+        "groomedTrails": {
+          "today": 43,
+          "yesterday": 37,
+          "delta": 6
+        },
+        "totalTrails": 107
+      },
+      "newlyOpened": [
+        {
+          "name": "Martis",
+          "difficulty": "Black",
+          "area": "Lookout Mountain"
+        },
+        {
+          "name": "Boondocks",
+          "difficulty": "Blue",
+          "area": "Northwest Territory"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Washoe",
+          "difficulty": "Blue",
+          "area": "Lookout Mountain"
+        },
+        {
+          "name": "Flying Squirrel",
+          "difficulty": "Blue",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "The Chute",
+          "difficulty": "Blue",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "The Gully",
+          "difficulty": "Blue",
+          "area": "Northwest Territory"
+        },
+        {
+          "name": "Wood Cutter",
+          "difficulty": "Green",
+          "area": "Northwest Territory"
+        },
+        {
+          "name": "Rail Splitter",
+          "difficulty": "Black",
+          "area": "The Backside"
+        },
+        {
+          "name": "Sierra Grande",
+          "difficulty": "Black",
+          "area": "The Backside"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Challenger",
+          "difficulty": "Black",
+          "area": "The Backside"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-03",
+        "avgWaitTime": 3.9,
+        "maxWaitTime": 17,
+        "totalLiftsTracked": 19,
+        "busiest": [
+          {
+            "name": "Comstock Express",
+            "avgWait": 6.5,
+            "peakWait": 14,
+            "type": "Six Pack",
+            "mountain": "Mt. Pluto"
+          },
+          {
+            "name": "Vista Express",
+            "avgWait": 5.6,
+            "peakWait": 11,
+            "type": "Quad",
+            "mountain": "Terrain Parks"
+          },
+          {
+            "name": "Big Springs Express Gondola",
+            "avgWait": 5.4,
+            "peakWait": 14,
+            "type": "Gondola",
+            "mountain": "Village at Northstar"
+          },
+          {
+            "name": "The Big Easy Quad",
+            "avgWait": 4.1,
+            "peakWait": 17,
+            "type": "Quad",
+            "mountain": "Northwest Territory"
+          },
+          {
+            "name": "Arrow Express",
+            "avgWait": 4,
+            "peakWait": 8,
+            "type": "Quad",
+            "mountain": "Northwest Territory"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-04",
+        "high_f": 33,
+        "low_f": 28,
+        "high_c": null,
+        "low_c": -2,
+        "description": "Snow & Wind",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-05T08:00:00Z",
+          "high_f": 33,
+          "low_f": 26,
+          "high_c": null,
+          "low_c": -4,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-06T08:00:00Z",
+          "high_f": 36,
+          "low_f": 23,
+          "high_c": 2,
+          "low_c": -5,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-07T08:00:00Z",
+          "high_f": 34,
+          "low_f": 23,
+          "high_c": 1,
+          "low_c": -5,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-05T08:00:00Z",
+        "high_f": 33,
+        "low_f": 26,
+        "high_c": null,
+        "low_c": -4,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2 new trails opened today",
+      "7 trails freshly groomed"
+    ],
+    "trends": [
+      "2 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Washoe - perfect for intermediate skiers",
+      "Fresh corduroy on Flying Squirrel - perfect for intermediate skiers",
+      "Fresh corduroy on The Chute - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Stormy Conditions",
+    "body": "2\" of fresh snow settled in overnight. Not a powder day, but an upgrade. 7 runs freshly groomed, mostly in Lookout Mountain, Mt. Pluto, and more. Heads up: Comstock Express peaked at 17 minutes yesterday. Consider alternatives.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_storm_wind",
+          "category": "weather",
+          "priority": 82,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "body"
+        },
+        {
+          "id": "grooming_moderate",
+          "category": "terrain",
+          "priority": 55,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_busy",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 8,
+      "headlineSelection": {
+        "condition": "storm_wind",
+        "variationIndex": 3,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Yayyyyy Fridayyyyyy"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

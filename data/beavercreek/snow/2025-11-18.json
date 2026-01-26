@@ -1,0 +1,95 @@
+{
+  "resort": "beavercreek",
+  "resortName": "Beaver Creek",
+  "date": "2025-11-18",
+  "timestamp": "2025-11-18T15:24:55.633Z",
+  "lastUpdated": "Updated November 18, 2025 at 4:26 AM MST",
+  "conditions": "Snow Groomed",
+  "snowfall": {
+    "overnight_inches": 2,
+    "overnight_cm": 5,
+    "24hour_inches": 2,
+    "24hour_cm": 5,
+    "48hour_inches": 5,
+    "48hour_cm": 12,
+    "7day_inches": 5,
+    "7day_cm": 12,
+    "season_total_inches": 9,
+    "season_total_cm": 22
+  },
+  "baseDepth": {
+    "inches": 10,
+    "cm": 25
+  },
+  "forecast": {
+    "locations": [
+      {
+        "name": "Unknown",
+        "elevation": null,
+        "today": {
+          "high_f": 42,
+          "high_c": 6,
+          "low_f": 22,
+          "low_c": -6,
+          "description": "Mostly Cloudy",
+          "wind": "SSW",
+          "wind_speed": 3.18,
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0
+        },
+        "forecast_days": [
+          {
+            "date": "2025-11-18T07:00:00Z",
+            "high_f": 42,
+            "high_c": 6,
+            "low_f": 22,
+            "low_c": -6,
+            "description": "Mostly Cloudy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2025-11-19T07:00:00Z",
+            "high_f": 42,
+            "high_c": 5,
+            "low_f": 28,
+            "low_c": -2,
+            "description": "Partly Cloudy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2025-11-20T07:00:00Z",
+            "high_f": 43,
+            "high_c": 6,
+            "low_f": 28,
+            "low_c": -2,
+            "description": "Mostly Cloudy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2025-11-21T07:00:00Z",
+            "high_f": 37,
+            "high_c": 3,
+            "low_f": 27,
+            "low_c": -3,
+            "description": "Cloudy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2025-11-22T07:00:00Z",
+            "high_f": 40,
+            "high_c": 4,
+            "low_f": 24,
+            "low_c": -5,
+            "description": "Mostly Clear",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "resort": "keystone",
+  "resortName": "Keystone",
+  "date": "2025-12-06",
+  "generated": "2025-12-06T21:57:19.158Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 9,
+      "overnight_cm": 22,
+      "24hour_inches": 9,
+      "24hour_cm": 22,
+      "48hour_inches": 9,
+      "48hour_cm": 22,
+      "7day_inches": 16,
+      "7day_cm": 40,
+      "season_total_inches": 46,
+      "season_total_cm": 116,
+      "conditions": {
+        "today": "Powder",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 18,
+          "yesterday": 11,
+          "delta": 7
+        },
+        "groomedTrails": {
+          "today": 17,
+          "yesterday": 11,
+          "delta": 6
+        },
+        "totalTrails": 142
+      },
+      "newlyOpened": [
+        {
+          "name": "Last Chance",
+          "difficulty": "Green",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Mozart",
+          "difficulty": "Blue",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Ski-Daddle",
+          "difficulty": "Green",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "The Edge",
+          "difficulty": "Black",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Last Alamo",
+          "difficulty": "Blue",
+          "area": "North Peak"
+        },
+        {
+          "name": "Lower Prospector",
+          "difficulty": "Green",
+          "area": "North Peak"
+        },
+        {
+          "name": "Prospector",
+          "difficulty": "Blue",
+          "area": "North Peak"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Last Chance",
+          "difficulty": "Green",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Ski-Daddle",
+          "difficulty": "Green",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "The Edge",
+          "difficulty": "Black",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Last Alamo",
+          "difficulty": "Blue",
+          "area": "North Peak"
+        },
+        {
+          "name": "Prospector",
+          "difficulty": "Blue",
+          "area": "North Peak"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-05",
+        "avgWaitTime": 2.4,
+        "maxWaitTime": 10,
+        "totalLiftsTracked": 21,
+        "busiest": [
+          {
+            "name": "Montezuma Express",
+            "avgWait": 3.2,
+            "peakWait": 10,
+            "type": "six",
+            "mountain": "Dercum Mountain"
+          },
+          {
+            "name": "Peru Express",
+            "avgWait": 3.2,
+            "peakWait": 6,
+            "type": "six",
+            "mountain": "Dercum Mountain"
+          },
+          {
+            "name": "Ranger",
+            "avgWait": 2.6,
+            "peakWait": 6,
+            "type": "triple",
+            "mountain": "Dercum Mountain"
+          },
+          {
+            "name": "River Run Gondola",
+            "avgWait": 2.3,
+            "peakWait": 4,
+            "type": "gondola",
+            "mountain": "Dercum Mountain"
+          },
+          {
+            "name": "Summit Express",
+            "avgWait": 2.1,
+            "peakWait": 4,
+            "type": "quad",
+            "mountain": "Dercum Mountain"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-06",
+        "high_f": 27,
+        "low_f": 13,
+        "high_c": -3,
+        "low_c": -11,
+        "description": "Snow",
+        "snowfall_day_inches": 5,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-07T07:00:00Z",
+          "high_f": 23,
+          "low_f": 12,
+          "high_c": -5,
+          "low_c": -11,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-08T07:00:00Z",
+          "high_f": 27,
+          "low_f": 14,
+          "high_c": -3,
+          "low_c": -10,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-09T07:00:00Z",
+          "high_f": 34,
+          "low_f": 17,
+          "high_c": 1,
+          "low_c": -9,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 1
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-07T07:00:00Z",
+        "high_f": 23,
+        "low_f": 12,
+        "high_c": -5,
+        "low_c": -11,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "9\" fresh snow overnight",
+      "9\" in last 24 hours - powder day!",
+      "7 new trails opened today",
+      "5 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 16\" in last 7 days",
+      "Grooming increased 55% from yesterday",
+      "7 more trails open than yesterday",
+      "1\" snow expected Tuesday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Last Chance - great for beginners",
+      "Fresh corduroy on Ski-Daddle - great for beginners",
+      "Fresh corduroy on The Edge - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Powder Day Alert!",
+    "body": "Powder alert with 9\" of fresh overnight and soft conditions across the hill. Terrain is expanding with 7 new trails opening up more room to roam. Grooming crews stepped it up with noticeably broader coverage on key routes."
+  },
+  "errors": []
+}

@@ -1,0 +1,344 @@
+{
+  "resort": "palisades",
+  "resortName": "Palisades Tahoe",
+  "date": "2026-01-04",
+  "generated": "2026-01-05T07:25:27.294Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 10,
+      "overnight_cm": 25,
+      "24hour_inches": 14,
+      "24hour_cm": 36,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 22,
+      "7day_cm": 56,
+      "season_total_inches": 124,
+      "season_total_cm": 315,
+      "conditions": {
+        "today": "Powder, Machine Groomed",
+        "yesterday": "Machine Groomed Variable Conditions"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 131,
+          "yesterday": 106,
+          "delta": 25
+        },
+        "groomedTrails": {
+          "today": 21,
+          "yesterday": 20,
+          "delta": 1
+        },
+        "totalTrails": 301
+      },
+      "newlyOpened": [
+        {
+          "name": "Christmas Tree",
+          "difficulty": "Very Difficult",
+          "area": "Snow King Peak"
+        },
+        {
+          "name": "Costello's",
+          "difficulty": "Very Difficult",
+          "area": "Snow King Peak"
+        },
+        {
+          "name": "Cushman's",
+          "difficulty": "Very Difficult",
+          "area": "Snow King Peak"
+        },
+        {
+          "name": "Knob Hill",
+          "difficulty": "Intermediate",
+          "area": "Snow King Peak"
+        },
+        {
+          "name": "Montezuma's",
+          "difficulty": "Very Difficult",
+          "area": "Snow King Peak"
+        },
+        {
+          "name": "Paris Glades",
+          "difficulty": "Very Difficult",
+          "area": "Snow King Peak"
+        },
+        {
+          "name": "Strainer",
+          "difficulty": "Very Difficult",
+          "area": "Snow King Peak"
+        },
+        {
+          "name": "2nd West Face",
+          "difficulty": "Expert",
+          "area": "KT Peak"
+        },
+        {
+          "name": "3rd",
+          "difficulty": "Expert",
+          "area": "KT Peak"
+        },
+        {
+          "name": "4th",
+          "difficulty": "Expert",
+          "area": "KT Peak"
+        },
+        {
+          "name": "5th",
+          "difficulty": "Expert",
+          "area": "KT Peak"
+        },
+        {
+          "name": "Alt 75",
+          "difficulty": "Expert",
+          "area": "KT Peak"
+        },
+        {
+          "name": "Chute 75",
+          "difficulty": "Expert",
+          "area": "KT Peak"
+        },
+        {
+          "name": "Enchanted Forest",
+          "difficulty": "Very Difficult",
+          "area": "KT Peak"
+        },
+        {
+          "name": "Moseley's",
+          "difficulty": "Expert",
+          "area": "KT Peak"
+        },
+        {
+          "name": "Powder Horn",
+          "difficulty": "Very Difficult",
+          "area": "KT Peak"
+        },
+        {
+          "name": "Saddle",
+          "difficulty": "Very Difficult",
+          "area": "KT Peak"
+        },
+        {
+          "name": "Saddle Face",
+          "difficulty": "Very Difficult",
+          "area": "KT Peak"
+        },
+        {
+          "name": "Tower 16",
+          "difficulty": "Very Difficult",
+          "area": "High Camp"
+        },
+        {
+          "name": "High Yellow Face",
+          "difficulty": "Expert",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "High Yellow Gully",
+          "difficulty": "Expert",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Return Road",
+          "difficulty": "Intermediate",
+          "area": "Scott/Lakeview Peak"
+        },
+        {
+          "name": "Scotty's Beam",
+          "difficulty": "Intermediate",
+          "area": "Scott/Lakeview Peak"
+        },
+        {
+          "name": "Standard Run",
+          "difficulty": "Intermediate",
+          "area": "Scott/Lakeview Peak"
+        },
+        {
+          "name": "Subway Beginner Area",
+          "difficulty": "Easy",
+          "area": "Scott/Lakeview Peak"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Waterfall",
+          "difficulty": "Very Difficult",
+          "area": "Summit Peak"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-03",
+        "avgWaitTime": 201.5,
+        "maxWaitTime": 1500,
+        "totalLiftsTracked": 39,
+        "busiest": [
+          {
+            "name": "Funitel",
+            "avgWait": 569.7,
+            "peakWait": 1500,
+            "type": "Funitel",
+            "mountain": "Emigrant Peak"
+          },
+          {
+            "name": "KT-22 Express",
+            "avgWait": 307.7,
+            "peakWait": 471,
+            "type": "High-Speed Quad",
+            "mountain": "KT Peak"
+          },
+          {
+            "name": "Summit Express",
+            "avgWait": 242.5,
+            "peakWait": 611,
+            "type": "High-Speed 6 Chair",
+            "mountain": "Summit Peak"
+          },
+          {
+            "name": "Exhibition",
+            "avgWait": 232,
+            "peakWait": 407,
+            "type": "Quad Chair",
+            "mountain": "KT Peak"
+          },
+          {
+            "name": "Treeline Cirque",
+            "avgWait": 157,
+            "peakWait": 341,
+            "type": "High-Speed Quad",
+            "mountain": "Scott/Lakeview Peak"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-04",
+        "high_f": null,
+        "low_f": 22,
+        "high_c": null,
+        "low_c": -5,
+        "description": "Snow Wind",
+        "snowfall_day_inches": 7,
+        "snowfall_night_inches": 3
+      },
+      "outlook": [
+        {
+          "date": "2026-01-05",
+          "high_f": 28,
+          "low_f": 22,
+          "high_c": -2,
+          "low_c": -6,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-06",
+          "high_f": 31,
+          "low_f": 26,
+          "high_c": 0,
+          "low_c": -3,
+          "description": "Mostly Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-07",
+          "high_f": 28,
+          "low_f": 18,
+          "high_c": -2,
+          "low_c": -8,
+          "description": "Cloudy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 2
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-05",
+        "high_f": 28,
+        "low_f": 22,
+        "high_c": -2,
+        "low_c": -6,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": true
+    },
+    "alerts": [
+      "10\" fresh snow overnight",
+      "14\" in last 24 hours - powder day!",
+      "25 new trails opened today"
+    ],
+    "trends": [
+      "Great week for snow - 22\" in last 7 days",
+      "25 more trails open than yesterday",
+      "High demand yesterday - average wait time 201.5 min",
+      "2\" snow expected Wednesday"
+    ],
+    "recommendations": [
+      "Funitel had longest waits (569.7 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Time to Call in Sick",
+    "body": "Deep day: 14\" overnight. Stashes are loaded, groomers are buried. Time to hunt. 25 trails just opened. The mountain just got a whole lot bigger. Active weather: snow and wind today. Visibility may be limited at times.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_deep",
+          "category": "snow",
+          "priority": 95,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_deep",
+          "category": "snow",
+          "priority": 95,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_massive",
+          "category": "terrain",
+          "priority": 95,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_storm_wind",
+          "category": "weather",
+          "priority": 82,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "snow_deep",
+        "variationIndex": 1,
+        "totalVariations": 8,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Powder Emergency"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

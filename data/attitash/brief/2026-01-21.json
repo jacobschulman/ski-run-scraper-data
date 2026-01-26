@@ -1,0 +1,243 @@
+{
+  "resort": "attitash",
+  "resortName": "Attitash",
+  "date": "2026-01-21",
+  "generated": "2026-01-21T10:30:53.135Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 1,
+      "48hour_cm": 3,
+      "7day_inches": 5,
+      "7day_cm": 14,
+      "season_total_inches": 37,
+      "season_total_cm": 96,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 52,
+          "yesterday": 38,
+          "delta": 14
+        },
+        "groomedTrails": {
+          "today": 41,
+          "yesterday": 38,
+          "delta": 3
+        },
+        "totalTrails": 76
+      },
+      "newlyOpened": [
+        {
+          "name": "Alley Way",
+          "difficulty": "Blue",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Ammonoosuc",
+          "difficulty": "Black",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Farther Out",
+          "difficulty": "Blue",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Grandstand",
+          "difficulty": "Black",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Hunky Dory",
+          "difficulty": "Blue",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Idiot's Option",
+          "difficulty": "Black",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Lower Highway",
+          "difficulty": "Blue",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Spillway",
+          "difficulty": "Black",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Upper Ptarmigan",
+          "difficulty": "Black",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Broken Arrow Glade",
+          "difficulty": "Black",
+          "area": "Bear Peak"
+        },
+        {
+          "name": "Bumper",
+          "difficulty": "Blue",
+          "area": "Bear Peak"
+        },
+        {
+          "name": "Crawfords Path",
+          "difficulty": "Blue",
+          "area": "Bear Peak"
+        },
+        {
+          "name": "Illusion",
+          "difficulty": "Black",
+          "area": "Bear Peak"
+        },
+        {
+          "name": "Quiver",
+          "difficulty": "Black",
+          "area": "Bear Peak"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Grandstand",
+          "difficulty": "Black",
+          "area": "Attitash Peak"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-20",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 8,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-21",
+        "high_f": 21,
+        "low_f": 3,
+        "high_c": -6,
+        "low_c": -17,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-22T05:00:00Z",
+          "high_f": 33,
+          "low_f": 18,
+          "high_c": null,
+          "low_c": -8,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-23T05:00:00Z",
+          "high_f": 19,
+          "low_f": 3,
+          "high_c": -7,
+          "low_c": -16,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-24T05:00:00Z",
+          "high_f": 1,
+          "low_f": -14,
+          "high_c": -17,
+          "low_c": -26,
+          "description": "Cold",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-22T05:00:00Z",
+        "high_f": 33,
+        "low_f": 18,
+        "high_c": null,
+        "low_c": -8,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "14 new trails opened today",
+      "1 trail freshly groomed"
+    ],
+    "trends": [
+      "14 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Grandstand - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "More Mountain to Explore",
+    "body": "The rundown: 52 trails open, 41 groomed. Partly Cloudy with temps around 21°. Terrain expanding: 14 new trails opening up more options.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 3,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Overnight Refresh"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

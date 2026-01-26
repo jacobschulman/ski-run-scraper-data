@@ -1,0 +1,68 @@
+{
+  "resort": "bigsky",
+  "resortName": "Big Sky",
+  "date": "2026-01-16",
+  "generated": "2026-01-17T06:25:40.121Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 245,
+          "yesterday": 246,
+          "delta": -1
+        },
+        "groomedTrails": {
+          "today": 3,
+          "yesterday": 3,
+          "delta": 0
+        },
+        "totalTrails": 319
+      },
+      "newlyOpened": [
+        {
+          "name": "Bone Crusher",
+          "difficulty": "Black",
+          "area": "Swift Current Area"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Rock Pocket Area",
+          "difficulty": "Double Black",
+          "area": "Thunder Wolf Area"
+        },
+        {
+          "name": "Snake Pit",
+          "difficulty": "Double Black",
+          "area": "Thunder Wolf Area"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-15",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 40,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today"
+    ],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

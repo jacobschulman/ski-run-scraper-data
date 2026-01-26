@@ -1,0 +1,265 @@
+{
+  "resort": "hunter",
+  "resortName": "Hunter Mountain",
+  "date": "2025-12-25",
+  "generated": "2025-12-25T10:23:17.057Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 14,
+      "season_total_cm": 35,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 47,
+          "yesterday": 46,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 44,
+          "yesterday": 42,
+          "delta": 2
+        },
+        "totalTrails": 71
+      },
+      "newlyOpened": [
+        {
+          "name": "Rip Van Winkle",
+          "difficulty": "Blue",
+          "area": "Hunter East"
+        },
+        {
+          "name": "West Side Glide",
+          "difficulty": "Blue",
+          "area": "Hunter East"
+        },
+        {
+          "name": "Clair's Way",
+          "difficulty": "DoubleBlack",
+          "area": "Hunter West"
+        },
+        {
+          "name": "Mad Box",
+          "difficulty": "Black",
+          "area": "Main Mountain"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Central Park",
+          "difficulty": "Blue",
+          "area": "Hunter East"
+        },
+        {
+          "name": "Overlook",
+          "difficulty": "Black",
+          "area": "Hunter North"
+        },
+        {
+          "name": "Upper K27",
+          "difficulty": "Black",
+          "area": "Main Mountain"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Rip Van Winkle",
+          "difficulty": "Blue",
+          "area": "Hunter East"
+        },
+        {
+          "name": "Clair's Way",
+          "difficulty": "DoubleBlack",
+          "area": "Hunter West"
+        },
+        {
+          "name": "Bleeker Street",
+          "difficulty": "Black",
+          "area": "Main Mountain"
+        },
+        {
+          "name": "Mad Box",
+          "difficulty": "Black",
+          "area": "Main Mountain"
+        },
+        {
+          "name": "The Cliff",
+          "difficulty": "Black",
+          "area": "Main Mountain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Upper 42nd Street",
+          "difficulty": "Blue",
+          "area": "Main Mountain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-24",
+        "avgWaitTime": 1.9,
+        "maxWaitTime": 12,
+        "totalLiftsTracked": 12,
+        "busiest": [
+          {
+            "name": "Broadway Express",
+            "avgWait": 2.4,
+            "peakWait": 6,
+            "type": "Six Pack",
+            "mountain": "Main Mountain"
+          },
+          {
+            "name": "Kaatskill Flyer",
+            "avgWait": 2,
+            "peakWait": 12,
+            "type": "Six Pack",
+            "mountain": "Main Mountain"
+          },
+          {
+            "name": "Northern Express",
+            "avgWait": 1.1,
+            "peakWait": 2,
+            "type": "Six Pack",
+            "mountain": "Hunter North"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-25",
+        "high_f": 33,
+        "low_f": 8,
+        "high_c": 1,
+        "low_c": -14,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-26T05:00:00Z",
+          "high_f": 15,
+          "low_f": 6,
+          "high_c": -10,
+          "low_c": -15,
+          "description": "Snow & Wind",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-27T05:00:00Z",
+          "high_f": 19,
+          "low_f": 12,
+          "high_c": -7,
+          "low_c": -11,
+          "description": "Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-28T05:00:00Z",
+          "high_f": 35,
+          "low_f": 21,
+          "high_c": 1,
+          "low_c": -7,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-26T05:00:00Z",
+        "high_f": 15,
+        "low_f": 6,
+        "high_c": -10,
+        "low_c": -15,
+        "description": "Snow & Wind",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "4 new trails opened today",
+      "5 trails freshly groomed"
+    ],
+    "trends": [
+      "1 more trail open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Rip Van Winkle - perfect for intermediate skiers",
+      "Fresh corduroy on Clair's Way - expert terrain only",
+      "Fresh corduroy on Bleeker Street - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "The Map Just Got Bigger",
+    "body": "The rundown: 47 trails open, 44 groomed. Windy with temps around 33°. The ski patrol has been busy—4 additional trails are now yours to enjoy. Lift lines stayed mellow yesterday, so early laps should feel quick.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_mellow_lines",
+          "category": "lifts",
+          "priority": 50,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 4,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "{newTrailsCount} New {NewTrailWord} Today"
+      },
+      "dayOfWeek": "Thursday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,173 @@
+{
+  "resort": "paolipeaks",
+  "resortName": "Paoli Peaks",
+  "trailCount": 15,
+  "trails": [
+    {
+      "name": "Beech Grove",
+      "slug": "beech-grove",
+      "area": "Ski Slopes",
+      "difficulty": "Blue",
+      "isGroomedToday": false,
+      "isOpen": false,
+      "groomingPercentage": 0,
+      "currentStreak": 0,
+      "longestStreak": 0
+    },
+    {
+      "name": "Bonk",
+      "slug": "bonk",
+      "area": "Ski Slopes",
+      "difficulty": "Green",
+      "isGroomedToday": true,
+      "isOpen": false,
+      "groomingPercentage": 100,
+      "currentStreak": 10,
+      "longestStreak": 10
+    },
+    {
+      "name": "Bunny Meadows",
+      "slug": "bunny-meadows",
+      "area": "Ski Slopes",
+      "difficulty": "Green",
+      "isGroomedToday": true,
+      "isOpen": false,
+      "groomingPercentage": 100,
+      "currentStreak": 21,
+      "longestStreak": 21
+    },
+    {
+      "name": "Cakewalk",
+      "slug": "cakewalk",
+      "area": "Ski Slopes",
+      "difficulty": "Green",
+      "isGroomedToday": true,
+      "isOpen": false,
+      "groomingPercentage": 100,
+      "currentStreak": 21,
+      "longestStreak": 21
+    },
+    {
+      "name": "Discovery Zone",
+      "slug": "discovery-zone",
+      "area": "Ski Slopes",
+      "difficulty": "Green",
+      "isGroomedToday": true,
+      "isOpen": false,
+      "groomingPercentage": 100,
+      "currentStreak": 21,
+      "longestStreak": 21
+    },
+    {
+      "name": "Family Trails",
+      "slug": "family-trails",
+      "area": "Ski Slopes",
+      "difficulty": "Green",
+      "isGroomedToday": true,
+      "isOpen": false,
+      "groomingPercentage": 100,
+      "currentStreak": 21,
+      "longestStreak": 21
+    },
+    {
+      "name": "Graber's Express",
+      "slug": "grabers-express",
+      "area": "Ski Slopes",
+      "difficulty": "Black",
+      "isGroomedToday": true,
+      "isOpen": false,
+      "groomingPercentage": 100,
+      "currentStreak": 19,
+      "longestStreak": 19
+    },
+    {
+      "name": "Hoosier Bend",
+      "slug": "hoosier-bend",
+      "area": "Ski Slopes",
+      "difficulty": "Green",
+      "isGroomedToday": true,
+      "isOpen": false,
+      "groomingPercentage": 100,
+      "currentStreak": 21,
+      "longestStreak": 21
+    },
+    {
+      "name": "Indiana Jones",
+      "slug": "indiana-jones",
+      "area": "Ski Slopes",
+      "difficulty": "Green",
+      "isGroomedToday": true,
+      "isOpen": false,
+      "groomingPercentage": 100,
+      "currentStreak": 21,
+      "longestStreak": 21
+    },
+    {
+      "name": "Mindbender",
+      "slug": "mindbender",
+      "area": "Ski Slopes",
+      "difficulty": "Blue",
+      "isGroomedToday": true,
+      "isOpen": false,
+      "groomingPercentage": 100,
+      "currentStreak": 19,
+      "longestStreak": 19
+    },
+    {
+      "name": "Oak Trail",
+      "slug": "oak-trail",
+      "area": "Ski Slopes",
+      "difficulty": "Blue",
+      "isGroomedToday": true,
+      "isOpen": false,
+      "groomingPercentage": 100,
+      "currentStreak": 19,
+      "longestStreak": 19
+    },
+    {
+      "name": "Pioneer",
+      "slug": "pioneer",
+      "area": "Ski Slopes",
+      "difficulty": "Blue",
+      "isGroomedToday": true,
+      "isOpen": false,
+      "groomingPercentage": 100,
+      "currentStreak": 10,
+      "longestStreak": 10
+    },
+    {
+      "name": "Powerline",
+      "slug": "powerline",
+      "area": "Ski Slopes",
+      "difficulty": "Blue",
+      "isGroomedToday": false,
+      "isOpen": false,
+      "groomingPercentage": 0,
+      "currentStreak": 0,
+      "longestStreak": 0
+    },
+    {
+      "name": "Skywalker",
+      "slug": "skywalker",
+      "area": "Ski Slopes",
+      "difficulty": "Green",
+      "isGroomedToday": false,
+      "isOpen": false,
+      "groomingPercentage": 0,
+      "currentStreak": 0,
+      "longestStreak": 0
+    },
+    {
+      "name": "Walnut",
+      "slug": "walnut",
+      "area": "Ski Slopes",
+      "difficulty": "Blue",
+      "isGroomedToday": true,
+      "isOpen": false,
+      "groomingPercentage": 100,
+      "currentStreak": 19,
+      "longestStreak": 19
+    }
+  ],
+  "lastUpdated": "2026-01-26T19:30:29.401Z"
+}

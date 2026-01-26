@@ -1,0 +1,85 @@
+{
+  "resort": "buttermilk",
+  "resortName": "Buttermilk",
+  "date": "2026-01-04",
+  "generated": "2026-01-05T06:33:18.853Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 38,
+          "yesterday": 38,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 0,
+          "yesterday": 7,
+          "delta": -7
+        },
+        "totalTrails": 52
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": [
+        {
+          "name": "Columbine",
+          "difficulty": "Intermediate",
+          "area": "Main"
+        },
+        {
+          "name": "Lover's Lane",
+          "difficulty": "Intermediate",
+          "area": "Main"
+        },
+        {
+          "name": "Midway Avenue",
+          "difficulty": "Intermediate",
+          "area": "Main"
+        },
+        {
+          "name": "Panda Hill",
+          "difficulty": "Beginner",
+          "area": "Main"
+        },
+        {
+          "name": "Eagle Hill",
+          "difficulty": "Intermediate",
+          "area": "Tiehack"
+        },
+        {
+          "name": "Larkspur",
+          "difficulty": "Beginner",
+          "area": "West Buttermilk"
+        },
+        {
+          "name": "Westward Ho",
+          "difficulty": "Beginner",
+          "area": "West Buttermilk"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-03",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 5,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

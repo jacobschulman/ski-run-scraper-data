@@ -1,0 +1,84 @@
+{
+  "resort": "paolipeaks",
+  "resortName": "Paoli Peaks",
+  "date": "2026-01-17",
+  "generated": "2026-01-17T10:19:56.476Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 8,
+          "yesterday": 0,
+          "delta": 8
+        },
+        "groomedTrails": {
+          "today": 8,
+          "yesterday": 0,
+          "delta": 8
+        },
+        "totalTrails": 15
+      },
+      "newlyOpened": [
+        {
+          "name": "Bunny Meadows",
+          "difficulty": "Green",
+          "area": "Ski Slopes"
+        },
+        {
+          "name": "Cakewalk",
+          "difficulty": "Green",
+          "area": "Ski Slopes"
+        },
+        {
+          "name": "Discovery Zone",
+          "difficulty": "Green",
+          "area": "Ski Slopes"
+        },
+        {
+          "name": "Family Trails",
+          "difficulty": "Green",
+          "area": "Ski Slopes"
+        },
+        {
+          "name": "Hoosier Bend",
+          "difficulty": "Green",
+          "area": "Ski Slopes"
+        },
+        {
+          "name": "Indiana Jones",
+          "difficulty": "Green",
+          "area": "Ski Slopes"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-16",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 5,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "6 new trails opened today"
+    ],
+    "trends": [
+      "8 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

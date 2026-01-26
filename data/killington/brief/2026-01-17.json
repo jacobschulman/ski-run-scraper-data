@@ -1,0 +1,188 @@
+{
+  "resort": "killington",
+  "resortName": "Killington",
+  "date": "2026-01-17",
+  "generated": "2026-01-18T04:39:02.841Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 4,
+      "overnight_cm": 10,
+      "24hour_inches": 4,
+      "24hour_cm": 10,
+      "48hour_inches": 8,
+      "48hour_cm": 20,
+      "7day_inches": 8,
+      "7day_cm": 20,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Packed Powder",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 160,
+          "yesterday": 157,
+          "delta": 3
+        },
+        "groomedTrails": {
+          "today": 78,
+          "yesterday": 76,
+          "delta": 2
+        },
+        "totalTrails": 222
+      },
+      "newlyOpened": [
+        {
+          "name": "Devil's Den",
+          "difficulty": "Double Black",
+          "area": "Bear Mountain"
+        },
+        {
+          "name": "Grizzly",
+          "difficulty": "Blue",
+          "area": "Skye Peak"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Carpenter's Run",
+          "difficulty": "easiest",
+          "area": "Skye Peak"
+        },
+        {
+          "name": "Frolic",
+          "difficulty": "Blue",
+          "area": "Snowdon"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-16",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 19,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-17",
+        "high_f": null,
+        "low_f": 20,
+        "description": "Windy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-18",
+          "high_f": 19,
+          "low_f": 12,
+          "description": "Windy",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2026-01-19",
+          "high_f": 12,
+          "low_f": 2,
+          "description": "Windy",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2026-01-20",
+          "high_f": 2,
+          "low_f": -1,
+          "description": "Windy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-18",
+        "high_f": 19,
+        "low_f": 12,
+        "description": "Windy",
+        "snowfall_day_inches": 2,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 2
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "4\" fresh snow overnight",
+      "2 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "Steady snowfall - 8\" in last 7 days",
+      "3 more trails open than yesterday",
+      "2\" snow expected Sunday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Carpenter's Run - all skill levels",
+      "Fresh corduroy on Frolic - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Nice Little Top-Up",
+    "body": "Solid refresh: 4\" overnight freshened up the mountain nicely. Ski patrol opened 2 additional trails. A few more choices today. The forecast is flirting with us: light snow expected. Not a dump, but welcome.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_solid",
+          "category": "snow",
+          "priority": 82,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_solid",
+          "category": "snow",
+          "priority": 82,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_snow_coming",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 7,
+      "headlineSelection": {
+        "condition": "snow_solid",
+        "variationIndex": 1,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "{snow24h}\" Freshened Things Up"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

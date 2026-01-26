@@ -1,0 +1,242 @@
+{
+  "resort": "heavenly",
+  "resortName": "Heavenly",
+  "date": "2025-12-29",
+  "generated": "2025-12-29T13:36:33.686Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 5,
+      "48hour_cm": 12,
+      "7day_inches": 58,
+      "7day_cm": 147,
+      "season_total_inches": 91,
+      "season_total_cm": 231,
+      "conditions": {
+        "today": "Early Season",
+        "yesterday": "Early Season"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 67,
+          "yesterday": 60,
+          "delta": 7
+        },
+        "groomedTrails": {
+          "today": 13,
+          "yesterday": 13,
+          "delta": 0
+        },
+        "totalTrails": 113
+      },
+      "newlyOpened": [
+        {
+          "name": "Groove Trail",
+          "difficulty": "Green",
+          "area": "California"
+        },
+        {
+          "name": "Comstock Upper",
+          "difficulty": "Blue",
+          "area": "Nevada"
+        },
+        {
+          "name": "Emily's Run",
+          "difficulty": "Blue",
+          "area": "Nevada"
+        },
+        {
+          "name": "Mineshaft Upper",
+          "difficulty": "Blue",
+          "area": "Nevada"
+        },
+        {
+          "name": "Olympic Down Hill Lower",
+          "difficulty": "Blue",
+          "area": "Nevada"
+        },
+        {
+          "name": "Stagecoach Lower",
+          "difficulty": "Blue",
+          "area": "Nevada"
+        },
+        {
+          "name": "Stagecoach Upper",
+          "difficulty": "Blue",
+          "area": "Nevada"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-28",
+        "avgWaitTime": 4.4,
+        "maxWaitTime": 17,
+        "totalLiftsTracked": 27,
+        "busiest": [
+          {
+            "name": "Big Easy",
+            "avgWait": 8.2,
+            "peakWait": 17,
+            "type": "Quad",
+            "mountain": "Top of Gondola"
+          },
+          {
+            "name": "Patsy's",
+            "avgWait": 5.2,
+            "peakWait": 12,
+            "type": "Triple",
+            "mountain": "California"
+          },
+          {
+            "name": "Dipper",
+            "avgWait": 4.6,
+            "peakWait": 8,
+            "type": "Quad",
+            "mountain": "Nevada"
+          },
+          {
+            "name": "Sky",
+            "avgWait": 4.5,
+            "peakWait": 9,
+            "type": "Quad",
+            "mountain": "California"
+          },
+          {
+            "name": "Stagecoach",
+            "avgWait": 4,
+            "peakWait": 9,
+            "type": "Quad",
+            "mountain": "Nevada"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-29",
+        "high_f": 38,
+        "low_f": 25,
+        "high_c": 3,
+        "low_c": -4,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-30T08:00:00Z",
+          "high_f": 41,
+          "low_f": 37,
+          "high_c": 5,
+          "low_c": 3,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-31T08:00:00Z",
+          "high_f": 39,
+          "low_f": 34,
+          "high_c": 4,
+          "low_c": 1,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-01T08:00:00Z",
+          "high_f": 35,
+          "low_f": 34,
+          "high_c": 1,
+          "low_c": 1,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-30T08:00:00Z",
+        "high_f": 41,
+        "low_f": 37,
+        "high_c": 5,
+        "low_c": 3,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "7 new trails opened today"
+    ],
+    "trends": [
+      "Great week for snow - 58\" in last 7 days",
+      "7 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "New Runs Now Open",
+    "body": "No refresh overnight, but 58\" of recent snow means the base is doing its job. 7 more trails are in play today. The groomers are getting stretched thin (in a good way). Watch for crowds at Big Easy, which peaked around 17 minutes yesterday.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_holding_strong",
+          "category": "snow",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_watch_crowds",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 1,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "More Mountain to Explore"
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,24 @@
+{
+  "resort": "loon",
+  "resortName": "Loon Mountain",
+  "provider": "ikon",
+  "liftWaitTimesAvailable": false,
+  "liftCount": 1,
+  "lifts": [
+    {
+      "liftId": "reportpal:null",
+      "name": "North Peak Express Quad",
+      "slug": "north-peak-express-quad",
+      "mountain": "North Peak",
+      "type": "Detachable Chairlift",
+      "capacity": 4,
+      "status": "Open",
+      "waitMinutes": null,
+      "openTime": null,
+      "closeTime": null,
+      "avgWaitTime": null,
+      "lastUpdated": "2026-01-26T19:57:21.463Z"
+    }
+  ],
+  "generated": "2026-01-26T19:57:40.165Z"
+}

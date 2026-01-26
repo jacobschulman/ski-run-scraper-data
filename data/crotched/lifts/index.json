@@ -1,0 +1,80 @@
+{
+  "resort": "crotched",
+  "resortName": "Crotched Mountain",
+  "provider": "vail",
+  "liftWaitTimesAvailable": false,
+  "liftCount": 5,
+  "lifts": [
+    {
+      "liftId": "4",
+      "name": "Lift Off",
+      "slug": "lift-off",
+      "mountain": "Crotched",
+      "type": "Conveyor",
+      "capacity": 1,
+      "status": "Open",
+      "waitMinutes": null,
+      "openTime": "09:00",
+      "closeTime": "16:00",
+      "avgWaitTime": null,
+      "lastUpdated": "2026-01-25T21:55:28.620Z"
+    },
+    {
+      "liftId": "0",
+      "name": "Rocket",
+      "slug": "rocket",
+      "mountain": "Crotched",
+      "type": "Quad",
+      "capacity": 4,
+      "status": "Open",
+      "waitMinutes": null,
+      "openTime": "09:00",
+      "closeTime": "16:00",
+      "avgWaitTime": null,
+      "lastUpdated": "2026-01-25T21:55:28.620Z"
+    },
+    {
+      "liftId": "1",
+      "name": "Rover",
+      "slug": "rover",
+      "mountain": "Crotched",
+      "type": "Triple",
+      "capacity": 3,
+      "status": "Closed",
+      "waitMinutes": null,
+      "openTime": null,
+      "closeTime": null,
+      "avgWaitTime": null,
+      "lastUpdated": "2026-01-25T21:55:28.620Z"
+    },
+    {
+      "liftId": "2",
+      "name": "Valley",
+      "slug": "valley",
+      "mountain": "Crotched",
+      "type": "Quad",
+      "capacity": 4,
+      "status": "Closed",
+      "waitMinutes": null,
+      "openTime": null,
+      "closeTime": null,
+      "avgWaitTime": null,
+      "lastUpdated": "2026-01-25T21:55:28.620Z"
+    },
+    {
+      "liftId": "3",
+      "name": "West Double",
+      "slug": "west-double",
+      "mountain": "Crotched",
+      "type": "Double",
+      "capacity": 2,
+      "status": "Open",
+      "waitMinutes": null,
+      "openTime": "09:00",
+      "closeTime": "16:00",
+      "avgWaitTime": null,
+      "lastUpdated": "2026-01-25T21:55:28.620Z"
+    }
+  ],
+  "generated": "2026-01-26T19:57:32.864Z"
+}

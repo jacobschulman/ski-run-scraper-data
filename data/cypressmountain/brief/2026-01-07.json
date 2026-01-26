@@ -1,0 +1,19 @@
+{
+  "resort": "cypressmountain",
+  "resortName": "Cypress Mountain",
+  "date": "2026-01-07",
+  "generated": "2026-01-08T07:21:43.708Z",
+  "rawData": {
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {},
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

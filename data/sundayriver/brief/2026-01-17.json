@@ -1,0 +1,193 @@
+{
+  "resort": "sundayriver",
+  "resortName": "Sunday River",
+  "date": "2026-01-17",
+  "generated": "2026-01-18T04:39:02.850Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 3,
+      "24hour_cm": 8,
+      "48hour_inches": 7,
+      "48hour_cm": 18,
+      "7day_inches": 15,
+      "7day_cm": 38,
+      "season_total_inches": 52,
+      "season_total_cm": 132,
+      "conditions": {
+        "today": "Machine Groomed",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 126,
+          "yesterday": 124,
+          "delta": 2
+        },
+        "groomedTrails": {
+          "today": 81,
+          "yesterday": 81,
+          "delta": 0
+        },
+        "totalTrails": 144
+      },
+      "newlyOpened": [
+        {
+          "name": "Lower Upper Cut",
+          "difficulty": "Blue",
+          "area": "BARKER MOUNTAIN"
+        },
+        {
+          "name": "Southpaw",
+          "difficulty": "Blue",
+          "area": "BARKER MOUNTAIN"
+        },
+        {
+          "name": "Witch Way",
+          "difficulty": "Blue",
+          "area": "AURORA PEAK"
+        },
+        {
+          "name": "Ruby Palace",
+          "difficulty": "Double Black",
+          "area": "OZ"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Starwood",
+          "difficulty": "Black",
+          "area": "WHITE CAP"
+        },
+        {
+          "name": "Lower Chutzpah",
+          "difficulty": "Double Black",
+          "area": "WHITE CAP"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-16",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 19,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-17",
+        "high_f": null,
+        "low_f": 22,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-18",
+          "high_f": 25,
+          "low_f": 16,
+          "description": "Cloudy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2026-01-19",
+          "high_f": 17,
+          "low_f": 7,
+          "description": "Cloudy",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2026-01-20",
+          "high_f": 6,
+          "low_f": 1,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-18",
+        "high_f": 25,
+        "low_f": 16,
+        "description": "Cloudy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 1
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "4 new trails opened today"
+    ],
+    "trends": [
+      "Great week for snow - 15\" in last 7 days",
+      "2 more trails open than yesterday",
+      "1\" snow expected Sunday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Fresh Snow, Fresh Vibes",
+    "body": "3\" settled in while you were sleeping. Groomers are smooth, off-piste is soft. 4 new trails opened today. Keep an eye on the sky - a refresh is coming. A few inches on the way.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_solid",
+          "category": "snow",
+          "priority": 82,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_solid",
+          "category": "snow",
+          "priority": 82,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_micro",
+          "category": "terrain",
+          "priority": 45,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_snow_coming",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "snow_solid",
+        "variationIndex": 3,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "The Mountain Got a Boost"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

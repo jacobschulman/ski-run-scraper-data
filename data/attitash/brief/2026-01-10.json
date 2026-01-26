@@ -1,0 +1,136 @@
+{
+  "resort": "attitash",
+  "resortName": "Attitash",
+  "date": "2026-01-10",
+  "generated": "2026-01-10T10:21:53.934Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 4,
+      "7day_cm": 11,
+      "season_total_inches": 31,
+      "season_total_cm": 79,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 40,
+          "yesterday": 38,
+          "delta": 2
+        },
+        "groomedTrails": {
+          "today": 34,
+          "yesterday": 34,
+          "delta": 0
+        },
+        "totalTrails": 76
+      },
+      "newlyOpened": [
+        {
+          "name": "Ammonoosuc",
+          "difficulty": "Black",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Quiver",
+          "difficulty": "Black",
+          "area": "Bear Peak"
+        },
+        {
+          "name": "Tilt",
+          "difficulty": "Blue",
+          "area": "Bear Peak"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Trillium",
+          "difficulty": "Blue",
+          "area": "Bear Peak"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Tilt",
+          "difficulty": "Blue",
+          "area": "Bear Peak"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-09",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 8,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "3 new trails opened today",
+      "1 trail freshly groomed"
+    ],
+    "trends": [
+      "2 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Tilt - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Weekend Warrior Day",
+    "body": "40 trails open, 34 groomed. Variable conditions, temperatures TBD. 3 new trails opened today.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "time_saturday",
+          "category": "time",
+          "priority": 38,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_micro",
+          "category": "terrain",
+          "priority": 45,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "saturday",
+        "variationIndex": 1,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "The Weekend Starts Now"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,128 @@
+{
+  "resort": "telluride",
+  "resortName": "Telluride",
+  "date": "2026-01-24",
+  "generated": "2026-01-24T12:37:03.003Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 104,
+          "yesterday": 100,
+          "delta": 4
+        },
+        "groomedTrails": {
+          "today": 43,
+          "yesterday": 36,
+          "delta": 7
+        },
+        "totalTrails": 157
+      },
+      "newlyOpened": [
+        {
+          "name": "Telluride Trail – Lower (below Easy Out)",
+          "difficulty": "Blue",
+          "area": "Lift 7"
+        },
+        {
+          "name": "Lower Bail Out",
+          "difficulty": "Blue",
+          "area": "Oak Street Lift"
+        },
+        {
+          "name": "Lookout – Lower",
+          "difficulty": "Blue",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Easy Out",
+          "difficulty": "Blue",
+          "area": "Plunge Lift"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Peek-a-boo",
+          "difficulty": "Blue",
+          "area": "Village Express"
+        },
+        {
+          "name": "Telluride Trail – Lower (below Easy Out)",
+          "difficulty": "Blue",
+          "area": "Lift 7"
+        },
+        {
+          "name": "Lower Bail Out",
+          "difficulty": "Blue",
+          "area": "Oak Street Lift"
+        },
+        {
+          "name": "Lower Galloping Goose (Upper)",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Enchanted Forest",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Bridges",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Sundance",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Madison",
+          "difficulty": "Green",
+          "area": "Prospect Express"
+        },
+        {
+          "name": "Sandia",
+          "difficulty": "Blue",
+          "area": "Prospect Express"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Marmot",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Magnolia",
+          "difficulty": "Blue",
+          "area": "Prospect Express"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "4 new trails opened today",
+      "9 trails freshly groomed"
+    ],
+    "trends": [
+      "4 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Peek-a-boo - perfect for intermediate skiers",
+      "Fresh corduroy on Telluride Trail – Lower (below Easy Out) - perfect for intermediate skiers",
+      "Fresh corduroy on Lower Bail Out - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

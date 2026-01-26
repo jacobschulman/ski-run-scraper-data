@@ -1,0 +1,254 @@
+{
+  "resort": "whistlerblackcomb",
+  "resortName": "Whistler Blackcomb",
+  "date": "2025-12-17",
+  "generated": "2025-12-17T13:32:56.634Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 2,
+      "24hour_cm": 7,
+      "48hour_inches": 2,
+      "48hour_cm": 7,
+      "7day_inches": 9,
+      "7day_cm": 25,
+      "season_total_inches": 32,
+      "season_total_cm": 83,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 114,
+          "yesterday": 108,
+          "delta": 6
+        },
+        "groomedTrails": {
+          "today": 42,
+          "yesterday": 38,
+          "delta": 4
+        },
+        "totalTrails": 305
+      },
+      "newlyOpened": [
+        {
+          "name": "Green Acres - Main",
+          "difficulty": "Blue",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Green Acres - Right",
+          "difficulty": "Blue",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Marmot",
+          "difficulty": "Green",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Ratfink - Lower",
+          "difficulty": "Green",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Chunky's Choice",
+          "difficulty": "Black",
+          "area": "Harmony"
+        },
+        {
+          "name": "GS - Upper",
+          "difficulty": "Blue",
+          "area": "Harmony"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Jersey Cream - Upper",
+          "difficulty": "Blue",
+          "area": "Jersey Cream"
+        },
+        {
+          "name": "Wally World",
+          "difficulty": "Blue",
+          "area": "Jersey Cream"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-16",
+        "avgWaitTime": 4.6,
+        "maxWaitTime": 40,
+        "totalLiftsTracked": 37,
+        "busiest": [
+          {
+            "name": "Whistler Village Gondola  - Lower",
+            "avgWait": 12.8,
+            "peakWait": 40,
+            "type": "gondola",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Emerald 6 Express",
+            "avgWait": 9.2,
+            "peakWait": 17,
+            "type": "six",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Whistler Village Gondola - Upper",
+            "avgWait": 4.9,
+            "peakWait": 30,
+            "type": "gondola",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Excelerator Express",
+            "avgWait": 4.4,
+            "peakWait": 17,
+            "type": "quad",
+            "mountain": "Blackcomb Lifts"
+          },
+          {
+            "name": "Big Red Express",
+            "avgWait": 3.3,
+            "peakWait": 7,
+            "type": "six",
+            "mountain": "Whistler Lifts"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-17",
+        "high_f": 32,
+        "low_f": 32,
+        "high_c": null,
+        "low_c": null,
+        "description": "Cloudy with sunny periods and isolated flurries.",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-18T02:05:34-07:00",
+          "high_f": 23,
+          "low_f": 15,
+          "high_c": -5,
+          "low_c": -9,
+          "description": "Snow.",
+          "snowfall_day_inches": 8,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 8
+        },
+        {
+          "date": "2025-12-19T02:05:34-07:00",
+          "high_f": 15,
+          "low_f": 12,
+          "high_c": -9,
+          "low_c": -11,
+          "description": "Flurries.",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2025-12-20T02:05:34-07:00",
+          "high_f": 23,
+          "low_f": 10,
+          "high_c": -5,
+          "low_c": -12,
+          "description": "Snow, heavy at times.",
+          "snowfall_day_inches": 12,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 12
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-18T02:05:34-07:00",
+        "high_f": 23,
+        "low_f": 15,
+        "high_c": -5,
+        "low_c": -9,
+        "description": "Snow.",
+        "snowfall_day_inches": 8,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 8
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "6 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "Steady snowfall - 9\" in last 7 days",
+      "6 more trails open than yesterday",
+      "8\" snow expected Thursday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Jersey Cream - Upper - perfect for intermediate skiers",
+      "Fresh corduroy on Wally World - perfect for intermediate skiers",
+      "Whistler Village Gondola  - Lower had longest waits (12.8 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Major System Approaching",
+    "body": "2\" of fresh snow settled in overnight. Not a powder day, but definitely an upgrade. The ski patrol has been busy—6 additional trails are now yours to enjoy. Watch for crowds at Whistler Village Gondola  - Lower, which peaked around 40 minutes yesterday.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_storm_major",
+          "category": "weather",
+          "priority": 88,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_watch_crowds",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 9,
+      "headlineSelection": {
+        "condition": "storm_major",
+        "variationIndex": 4,
+        "totalVariations": 8,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Prepare for Pow!"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

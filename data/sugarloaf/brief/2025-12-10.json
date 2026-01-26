@@ -1,0 +1,191 @@
+{
+  "resort": "sugarloaf",
+  "resortName": "Sugarloaf",
+  "date": "2025-12-10",
+  "generated": "2025-12-11T04:32:13.650Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 33,
+          "yesterday": 34,
+          "delta": -1
+        },
+        "groomedTrails": {
+          "today": 13,
+          "yesterday": 14,
+          "delta": -1
+        },
+        "totalTrails": 176
+      },
+      "newlyOpened": [
+        {
+          "name": "Upper Narrow Gauge",
+          "difficulty": "Black",
+          "area": "Skyline"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Lower Narrow Gauge",
+          "difficulty": "Novice",
+          "area": "Double Runner"
+        },
+        {
+          "name": "Middle Narrow Gauge",
+          "difficulty": "Blue",
+          "area": "Double Runner"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Sluice Headwall",
+          "difficulty": "Black",
+          "area": "Skyline"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Hayburner",
+          "difficulty": "Black",
+          "area": "SuperQuad"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-10",
+        "high_f": null,
+        "low_f": 23,
+        "high_c": null,
+        "low_c": -5,
+        "description": "Snow Wind",
+        "snowfall_day_inches": 3,
+        "snowfall_night_inches": 1
+      },
+      "outlook": [
+        {
+          "date": "2025-12-11",
+          "high_f": 22,
+          "low_f": 0,
+          "high_c": -6,
+          "low_c": -18,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-12",
+          "high_f": 8,
+          "low_f": 8,
+          "high_c": -13,
+          "low_c": -13,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-13",
+          "high_f": 15,
+          "low_f": 11,
+          "high_c": -9,
+          "low_c": -12,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-11",
+        "high_f": 22,
+        "low_f": 0,
+        "high_c": -6,
+        "low_c": -18,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "1 new trail opened today",
+      "1 trails freshly groomed"
+    ],
+    "trends": [],
+    "recommendations": [
+      "Fresh corduroy on Sluice Headwall - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Quiet Days on the Hill",
+    "body": "33/176 trails spinning, 13 freshly groomed. null° and Snow Wind. 1 trails opened today expanding access to fresh terrain. Snow expected today or tomorrow with conditions continuing to improve.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "time_midweek_mellow",
+          "category": "time",
+          "priority": 45,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_new_trails_opened",
+          "category": "terrain",
+          "priority": 65,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_snow_today_tomorrow",
+          "category": "weather",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "midweek_mellow",
+        "variationIndex": 0,
+        "totalVariations": 4,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Midweek Mountain Report"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

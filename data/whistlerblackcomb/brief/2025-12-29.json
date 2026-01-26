@@ -1,0 +1,450 @@
+{
+  "resort": "whistlerblackcomb",
+  "resortName": "Whistler Blackcomb",
+  "date": "2025-12-29",
+  "generated": "2025-12-29T13:36:33.703Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 38,
+      "7day_cm": 98,
+      "season_total_inches": 131,
+      "season_total_cm": 334,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 259,
+          "yesterday": 232,
+          "delta": 27
+        },
+        "groomedTrails": {
+          "today": 127,
+          "yesterday": 112,
+          "delta": 15
+        },
+        "totalTrails": 305
+      },
+      "newlyOpened": [
+        {
+          "name": "Dave Murray Downhill - Weasel",
+          "difficulty": "Black",
+          "area": "Big Red / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Goat's Gully",
+          "difficulty": "Black",
+          "area": "Big Red / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Jimmy's Joker",
+          "difficulty": "Black",
+          "area": "Big Red / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Arthur's Choice",
+          "difficulty": "Black",
+          "area": "Crystal Ridge"
+        },
+        {
+          "name": "Glacier Road - Upper",
+          "difficulty": "Black",
+          "area": "Crystal Ridge"
+        },
+        {
+          "name": "Log Jam",
+          "difficulty": "Black",
+          "area": "Crystal Ridge"
+        },
+        {
+          "name": "Rider's Revenge",
+          "difficulty": "Black",
+          "area": "Crystal Ridge"
+        },
+        {
+          "name": "Straight Shot - Upper",
+          "difficulty": "Black",
+          "area": "Crystal Ridge"
+        },
+        {
+          "name": "Greenline - Lower",
+          "difficulty": "Green",
+          "area": "Excalibur / Blackcomb Gondola - Lower"
+        },
+        {
+          "name": "Shorthorn",
+          "difficulty": "Blue",
+          "area": "Excalibur / Blackcomb Gondola - Lower"
+        },
+        {
+          "name": "Cruiser - Bumps",
+          "difficulty": "Black",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Cruiser - Rolls",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Espresso",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Gear Jammer - Upper",
+          "difficulty": "Black",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Honeycomb - Lower",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Magic Castle",
+          "difficulty": "Green",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Stoker",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Stoker - Bumps",
+          "difficulty": "Black",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Stoker - Rolls",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Strawline",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Diamond Bowl",
+          "difficulty": "DoubleBlack",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Garnet Bowl",
+          "difficulty": "DoubleBlack",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Ruby Bowl",
+          "difficulty": "DoubleBlack",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Sapphire Bowl",
+          "difficulty": "DoubleBlack",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Showcase Bowl",
+          "difficulty": "Black",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Showcase Traverse",
+          "difficulty": "Black",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Blackcomb Race Centre",
+          "difficulty": "Blue",
+          "area": "Jersey Cream"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Cloud 9 - Upper",
+          "difficulty": "Blue",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Hugh's Heaven - Lower",
+          "difficulty": "Blue",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Hugh's Heaven - Upper",
+          "difficulty": "Blue",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Rock & Roll -Upper",
+          "difficulty": "Blue",
+          "area": "Crystal Ridge"
+        },
+        {
+          "name": "White Light - Lower",
+          "difficulty": "Blue",
+          "area": "Crystal Ridge"
+        },
+        {
+          "name": "Enchanted Forest - Adventure Trail",
+          "difficulty": "Blue",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Greenline - Lower",
+          "difficulty": "Green",
+          "area": "Excalibur / Blackcomb Gondola - Lower"
+        },
+        {
+          "name": "Lot 8 Access",
+          "difficulty": "Green",
+          "area": "Excalibur / Blackcomb Gondola - Lower"
+        },
+        {
+          "name": "Buzz Cut",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Honeycomb - Upper",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Magic Castle",
+          "difficulty": "Green",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Stoker",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Zig Zag - Foon Alley",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Crystal Traverse",
+          "difficulty": "Blue",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Glacier Drive - Lower",
+          "difficulty": "Black",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Rock Alley",
+          "difficulty": "Blue",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "T-Bar Run",
+          "difficulty": "Blue",
+          "area": "Peak / T-bar"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Dave Murray Downhill - Upper",
+          "difficulty": "Black",
+          "area": "Big Red / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Bean Sprout",
+          "difficulty": "Blue",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Harmony Piste",
+          "difficulty": "Blue",
+          "area": "Harmony"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-28",
+        "avgWaitTime": 5.7,
+        "maxWaitTime": 40,
+        "totalLiftsTracked": 37,
+        "busiest": [
+          {
+            "name": "Whistler Village Gondola  - Lower",
+            "avgWait": 14,
+            "peakWait": 27,
+            "type": "Gondola",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Whistler Village Gondola - Upper",
+            "avgWait": 13.1,
+            "peakWait": 32,
+            "type": "Gondola",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Emerald 6 Express",
+            "avgWait": 9.9,
+            "peakWait": 14,
+            "type": "Six Pack",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Olympic Chair",
+            "avgWait": 8.5,
+            "peakWait": 40,
+            "type": "Triple",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Blackcomb Gondola - Lower",
+            "avgWait": 8,
+            "peakWait": 16,
+            "type": "Gondola",
+            "mountain": "Blackcomb Lifts"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-29",
+        "high_f": 32,
+        "low_f": 32,
+        "high_c": null,
+        "low_c": null,
+        "description": "Mainly cloudy.",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-30T02:08:33-07:00",
+          "high_f": 35,
+          "low_f": 32,
+          "high_c": 2,
+          "low_c": null,
+          "description": "A mix of sun and cloud.",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-31T02:08:33-07:00",
+          "high_f": 35,
+          "low_f": 33,
+          "high_c": 2,
+          "low_c": 1,
+          "description": "A mix of sun and cloud.",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-01T02:08:33-07:00",
+          "high_f": 37,
+          "low_f": 30,
+          "high_c": 3,
+          "low_c": -1,
+          "description": "Mainly cloudy.",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-30T02:08:33-07:00",
+        "high_f": 35,
+        "low_f": 32,
+        "high_c": 2,
+        "low_c": null,
+        "description": "A mix of sun and cloud.",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "27 new trails opened today",
+      "17 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 38\" in last 7 days",
+      "27 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Cloud 9 - Upper - perfect for intermediate skiers",
+      "Fresh corduroy on Hugh's Heaven - Lower - perfect for intermediate skiers",
+      "Fresh corduroy on Hugh's Heaven - Upper - perfect for intermediate skiers",
+      "Whistler Village Gondola  - Lower had longest waits (14 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Terrain is Expanding",
+    "body": "No refresh overnight, but 38\" of recent snow means the base is doing its job. 27 new runs just opened up. Time to explore some fresh terrain. Watch for crowds at Whistler Village Gondola  - Lower, which peaked around 40 minutes yesterday.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_holding_strong",
+          "category": "snow",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_watch_crowds",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 0,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "The Map Just Got Bigger"
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

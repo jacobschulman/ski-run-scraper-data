@@ -1,0 +1,223 @@
+{
+  "resort": "heavenly",
+  "resortName": "Heavenly",
+  "date": "2026-01-02",
+  "generated": "2026-01-02T13:31:45.205Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 18,
+      "7day_cm": 45,
+      "season_total_inches": 91,
+      "season_total_cm": 231,
+      "conditions": {
+        "today": "Early Season",
+        "yesterday": "Early Season"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 96,
+          "yesterday": 95,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 30,
+          "yesterday": 30,
+          "delta": 0
+        },
+        "totalTrails": 113
+      },
+      "newlyOpened": [
+        {
+          "name": "Galaxy Woods",
+          "difficulty": "Blue",
+          "area": "Nevada"
+        },
+        {
+          "name": "Mineshaft Lower",
+          "difficulty": "Blue",
+          "area": "Nevada"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Gunbarrel Lower",
+          "difficulty": "Black",
+          "area": "California"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-01",
+        "avgWaitTime": 4,
+        "maxWaitTime": 17,
+        "totalLiftsTracked": 27,
+        "busiest": [
+          {
+            "name": "Dipper",
+            "avgWait": 7.7,
+            "peakWait": 14,
+            "type": "Quad",
+            "mountain": "Nevada"
+          },
+          {
+            "name": "Comet",
+            "avgWait": 5.8,
+            "peakWait": 17,
+            "type": "Quad",
+            "mountain": "Nevada"
+          },
+          {
+            "name": "Big Easy",
+            "avgWait": 5.7,
+            "peakWait": 13,
+            "type": "Quad",
+            "mountain": "Top of Gondola"
+          },
+          {
+            "name": "Patsy's",
+            "avgWait": 5.3,
+            "peakWait": 11,
+            "type": "Triple",
+            "mountain": "California"
+          },
+          {
+            "name": "Sky",
+            "avgWait": 3.9,
+            "peakWait": 7,
+            "type": "Quad",
+            "mountain": "California"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-02",
+        "high_f": 36,
+        "low_f": 29,
+        "high_c": 2,
+        "low_c": -2,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-03T08:00:00Z",
+          "high_f": 32,
+          "low_f": 25,
+          "high_c": null,
+          "low_c": -4,
+          "description": "Snow & Wind",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-04T08:00:00Z",
+          "high_f": 26,
+          "low_f": 23,
+          "high_c": -3,
+          "low_c": -5,
+          "description": "Snow & Wind",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-05T08:00:00Z",
+          "high_f": 25,
+          "low_f": 23,
+          "high_c": -4,
+          "low_c": -5,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-03T08:00:00Z",
+        "high_f": 32,
+        "low_f": 25,
+        "high_c": null,
+        "low_c": -4,
+        "description": "Snow & Wind",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2 new trails opened today"
+    ],
+    "trends": [
+      "Great week for snow - 18\" in last 7 days",
+      "1 more trail open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Terrain is Expanding",
+    "body": "The 18\" from this week is still skiing great. No new snow needed (yet). 2 more trails are in play today. The groomers are getting stretched thin (in a good way). Watch for crowds at Dipper, which peaked around 17 minutes yesterday.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_holding_strong",
+          "category": "snow",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_watch_crowds",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 0,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "{newTrailsCount} New {NewTrailWord} Today"
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
+  "errors": []
+}

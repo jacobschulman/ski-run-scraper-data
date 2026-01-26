@@ -1,0 +1,136 @@
+{
+  "resort": "bostonmills",
+  "resortName": "Boston Mills",
+  "liftId": "13",
+  "liftName": "Tubing Carpet Lift - Conveyor Snow Tubing 2",
+  "slug": "tubing-carpet-lift-conveyor-snow-tubing-2",
+  "mountain": "Brandywine",
+  "type": "Conveyor",
+  "capacity": 1,
+  "currentStatus": {
+    "status": "Closed",
+    "waitMinutes": null,
+    "openTime": "15:30",
+    "closeTime": "21:30",
+    "timestamp": "2025-12-30T20:14:27.621Z",
+    "localTime": "15:14:27"
+  },
+  "stats": {
+    "totalRecords": 324,
+    "avgWaitTime": null,
+    "minWaitTime": null,
+    "maxWaitTime": null,
+    "daysTracked": 12
+  },
+  "history": [
+    {
+      "date": "2025-12-30",
+      "recordCount": 14,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": false,
+      "openPercentage": 0
+    },
+    {
+      "date": "2025-12-29",
+      "recordCount": 30,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 3
+    },
+    {
+      "date": "2025-12-28",
+      "recordCount": 28,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 82
+    },
+    {
+      "date": "2025-12-27",
+      "recordCount": 29,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 76
+    },
+    {
+      "date": "2025-12-26",
+      "recordCount": 26,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": false,
+      "openPercentage": 0
+    },
+    {
+      "date": "2025-12-25",
+      "recordCount": 28,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": false,
+      "openPercentage": 0
+    },
+    {
+      "date": "2025-12-24",
+      "recordCount": 27,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": false,
+      "openPercentage": 0
+    },
+    {
+      "date": "2025-12-23",
+      "recordCount": 30,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": false,
+      "openPercentage": 0
+    },
+    {
+      "date": "2025-12-22",
+      "recordCount": 26,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": false,
+      "openPercentage": 0
+    },
+    {
+      "date": "2025-12-21",
+      "recordCount": 36,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": false,
+      "openPercentage": 0
+    },
+    {
+      "date": "2025-12-20",
+      "recordCount": 31,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": false,
+      "openPercentage": 0
+    },
+    {
+      "date": "2025-12-19",
+      "recordCount": 19,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": false,
+      "openPercentage": 0
+    }
+  ],
+  "generated": "2026-01-09T00:57:43.184Z"
+}

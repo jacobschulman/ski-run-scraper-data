@@ -1,0 +1,100 @@
+{
+  "trailName": "Lower Nosedive Terrain Park",
+  "trailSlug": "lower-nosedive-terrain-park",
+  "resort": "stowe",
+  "resortName": "Stowe",
+  "area": "Terrain Parks",
+  "difficulty": "TerrainPark",
+  "trailType": "Skiing",
+  "currentStatus": {
+    "date": "2025-12-12",
+    "isOpen": true,
+    "isGroomed": true,
+    "groomingStatus": "Groomed",
+    "status": "Open"
+  },
+  "stats": {
+    "seasonStartDate": "2025-11-08",
+    "daysTracked": 4,
+    "daysGroomed": 4,
+    "groomingPercentage": 100,
+    "currentStreak": 4,
+    "longestStreak": 4,
+    "lastGroomed": "2025-12-12",
+    "dayOfWeek": [
+      {
+        "day": "Sun",
+        "percentage": 0,
+        "groomed": 0,
+        "total": 0
+      },
+      {
+        "day": "Mon",
+        "percentage": 0,
+        "groomed": 0,
+        "total": 0
+      },
+      {
+        "day": "Tue",
+        "percentage": 100,
+        "groomed": 1,
+        "total": 1
+      },
+      {
+        "day": "Wed",
+        "percentage": 100,
+        "groomed": 1,
+        "total": 1
+      },
+      {
+        "day": "Thu",
+        "percentage": 100,
+        "groomed": 1,
+        "total": 1
+      },
+      {
+        "day": "Fri",
+        "percentage": 100,
+        "groomed": 1,
+        "total": 1
+      },
+      {
+        "day": "Sat",
+        "percentage": 0,
+        "groomed": 0,
+        "total": 0
+      }
+    ]
+  },
+  "history": [
+    {
+      "date": "2025-12-12",
+      "isOpen": true,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2025-12-11",
+      "isOpen": true,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2025-12-10",
+      "isOpen": true,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2025-12-09",
+      "isOpen": true,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    }
+  ],
+  "generated": "2026-01-26T19:30:27.885Z"
+}

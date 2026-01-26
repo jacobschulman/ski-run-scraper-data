@@ -1,0 +1,46 @@
+{
+  "resort": "hunter",
+  "resortName": "Hunter Mountain",
+  "liftId": "9",
+  "liftName": "Broadway (B Lift)",
+  "slug": "broadway-b-lift",
+  "mountain": "Main Mountain",
+  "type": "six",
+  "capacity": 6,
+  "currentStatus": {
+    "status": "Scheduled",
+    "waitMinutes": 0,
+    "openTime": "09:00",
+    "closeTime": "16:00",
+    "timestamp": "2025-11-24T22:35:51.638Z",
+    "localTime": "17:35:51"
+  },
+  "stats": {
+    "totalRecords": 46,
+    "avgWaitTime": 0,
+    "minWaitTime": 0,
+    "maxWaitTime": 0,
+    "daysTracked": 2
+  },
+  "history": [
+    {
+      "date": "2025-11-24",
+      "recordCount": 25,
+      "avgWaitTime": 0,
+      "minWaitTime": 0,
+      "maxWaitTime": 0,
+      "wasOpen": true,
+      "openPercentage": 76
+    },
+    {
+      "date": "2025-11-23",
+      "recordCount": 21,
+      "avgWaitTime": 0,
+      "minWaitTime": 0,
+      "maxWaitTime": 0,
+      "wasOpen": true,
+      "openPercentage": 52
+    }
+  ],
+  "generated": "2025-11-25T13:03:55.931Z"
+}

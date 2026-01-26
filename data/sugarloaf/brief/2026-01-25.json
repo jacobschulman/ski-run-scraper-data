@@ -1,0 +1,319 @@
+{
+  "resort": "sugarloaf",
+  "resortName": "Sugarloaf",
+  "date": "2026-01-25",
+  "generated": "2026-01-26T04:53:14.418Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 5,
+      "7day_cm": 13,
+      "season_total_inches": 71,
+      "season_total_cm": 180,
+      "conditions": {
+        "today": "Packed Powder",
+        "yesterday": "Packed Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 121,
+          "yesterday": 106,
+          "delta": 15
+        },
+        "groomedTrails": {
+          "today": 58,
+          "yesterday": 47,
+          "delta": 11
+        },
+        "totalTrails": 176
+      },
+      "newlyOpened": [
+        {
+          "name": "Lower Beaver Tail",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Bucksaw",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Chipper",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Feller Buncher",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Greenhorn Glade",
+          "difficulty": "Blue",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Hatchet",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Knot Bumper",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Lower Glancer",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Lower West Mountain",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Raker Tooth Glade",
+          "difficulty": "Black",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Ram Pasture Glade",
+          "difficulty": "Black",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Upper Glancer",
+          "difficulty": "Blue",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Upper West Mountain",
+          "difficulty": "Blue",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Whistle Punk",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "WMXCut",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "King's Landing",
+          "difficulty": "Blue",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Wedge",
+          "difficulty": "Black",
+          "area": "Skyline"
+        },
+        {
+          "name": "Tohaul",
+          "difficulty": "Blue",
+          "area": "Whiffletree"
+        },
+        {
+          "name": "Choker",
+          "difficulty": "Black",
+          "area": "King Pine"
+        },
+        {
+          "name": "Flume",
+          "difficulty": "Black",
+          "area": "King Pine"
+        },
+        {
+          "name": "Haulback",
+          "difficulty": "Black",
+          "area": "King Pine"
+        },
+        {
+          "name": "Lower Beaver Tail",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Chipper",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Knot Bumper",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Whistle Punk",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Picaroon",
+          "difficulty": "Novice",
+          "area": "Double Runner"
+        },
+        {
+          "name": "Upper Competition Hill",
+          "difficulty": "Black",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Condo X-Cut",
+          "difficulty": "Novice",
+          "area": "Whiffletree"
+        },
+        {
+          "name": "Moose Alley",
+          "difficulty": "Blue",
+          "area": "Whiffletree"
+        },
+        {
+          "name": "Rollway",
+          "difficulty": "Novice",
+          "area": "Whiffletree"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-24",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 15,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-25",
+        "high_f": null,
+        "low_f": -1,
+        "description": "Snow Wind",
+        "snowfall_day_inches": 7,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-26",
+          "high_f": 4,
+          "low_f": -1,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 5,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 5
+        },
+        {
+          "date": "2026-01-27",
+          "high_f": -1,
+          "low_f": -4,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-28",
+          "high_f": -1,
+          "low_f": -2,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-26",
+        "high_f": 4,
+        "low_f": -1,
+        "description": "Snow Wind",
+        "snowfall_day_inches": 5,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 5
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "15 new trails opened today",
+      "10 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 23% from yesterday",
+      "15 more trails open than yesterday",
+      "5\" snow expected Monday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on King's Landing - perfect for intermediate skiers",
+      "Fresh corduroy on Wedge - challenging for advanced skiers",
+      "Fresh corduroy on Tohaul - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Big Expansion Today",
+    "body": "The rundown: 121 trails open, 58 groomed. Snow Wind with temps around temps TBD. 15 additional trails are now available. Lots of new ground to cover. The forecast is flirting with us: light snow expected. Not a dump, but welcome.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_major",
+          "category": "terrain",
+          "priority": 88,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_major",
+          "category": "terrain",
+          "priority": 88,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_snow_coming",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "terrain_major",
+        "variationIndex": 1,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Patrol Won't Quit"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,64 @@
+{
+  "resort": "crestedbutte",
+  "resortName": "Crested Butte",
+  "date": "2025-12-12",
+  "generated": "2025-12-12T12:40:03.573Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 24,
+          "yesterday": 24,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 14,
+          "yesterday": 14,
+          "delta": 0
+        },
+        "totalTrails": 168
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-11",
+        "avgWaitTime": 1.8,
+        "maxWaitTime": 8,
+        "totalLiftsTracked": 15,
+        "busiest": [
+          {
+            "name": "Red Lady Express",
+            "avgWait": 2,
+            "peakWait": 8,
+            "type": "quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "Paradise Express",
+            "avgWait": 1.3,
+            "peakWait": 2,
+            "type": "quad",
+            "mountain": "Back Side"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

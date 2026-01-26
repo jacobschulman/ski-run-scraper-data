@@ -1,0 +1,200 @@
+{
+  "resort": "stratton",
+  "resortName": "Stratton",
+  "date": "2025-12-26",
+  "generated": "2025-12-27T04:29:24.659Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 5,
+      "48hour_cm": 13,
+      "7day_inches": 5,
+      "7day_cm": 13,
+      "season_total_inches": 51,
+      "season_total_cm": 130,
+      "conditions": {
+        "today": "Machine Groomed Variable Conditions",
+        "yesterday": "Machine Groomed Variable Conditions"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 62,
+          "yesterday": 58,
+          "delta": 4
+        },
+        "groomedTrails": {
+          "today": 59,
+          "yesterday": 58,
+          "delta": 1
+        },
+        "totalTrails": 123
+      },
+      "newlyOpened": [
+        {
+          "name": "Stage 1",
+          "difficulty": "Easy",
+          "area": "Learning Areas"
+        },
+        {
+          "name": "Liftline Cut Through",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Lower Liftline",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Upper Liftline",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Stage 1",
+          "difficulty": "Easy",
+          "area": "Learning Areas"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-25",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 14,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-26",
+        "high_f": null,
+        "low_f": 8,
+        "high_c": null,
+        "low_c": -13,
+        "description": "Snow",
+        "snowfall_day_inches": 8,
+        "snowfall_night_inches": 4
+      },
+      "outlook": [
+        {
+          "date": "2025-12-27",
+          "high_f": 18,
+          "low_f": 17,
+          "high_c": -8,
+          "low_c": -8,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-28",
+          "high_f": 36,
+          "low_f": 33,
+          "high_c": 2,
+          "low_c": 1,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2025-12-29",
+          "high_f": 43,
+          "low_f": 10,
+          "high_c": 6,
+          "low_c": -12,
+          "description": "Rain Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-27",
+        "high_f": 18,
+        "low_f": 17,
+        "high_c": -8,
+        "low_c": -8,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "4 new trails opened today",
+      "1 trail freshly groomed"
+    ],
+    "trends": [
+      "4 more trails open than yesterday",
+      "1\" snow expected Sunday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Stage 1 - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "The Map Just Got Bigger",
+    "body": "62/123 trails spinning, 59 freshly groomed. null° and Snow. New terrain alert: 4 trails added to the mix. The mountain just got bigger. Light snow possible in the forecast.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_flurries",
+          "category": "weather",
+          "priority": 30,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 4,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Fresh Terrain Unlocked"
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
+  "errors": []
+}

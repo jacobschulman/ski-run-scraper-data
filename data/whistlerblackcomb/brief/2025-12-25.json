@@ -1,0 +1,473 @@
+{
+  "resort": "whistlerblackcomb",
+  "resortName": "Whistler Blackcomb",
+  "date": "2025-12-25",
+  "generated": "2025-12-25T13:31:00.795Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 5,
+      "overnight_cm": 13,
+      "24hour_inches": 5,
+      "24hour_cm": 13,
+      "48hour_inches": 5,
+      "48hour_cm": 15,
+      "7day_inches": 52,
+      "7day_cm": 134,
+      "season_total_inches": 91,
+      "season_total_cm": 232,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 198,
+          "yesterday": 161,
+          "delta": 37
+        },
+        "groomedTrails": {
+          "today": 101,
+          "yesterday": 92,
+          "delta": 9
+        },
+        "totalTrails": 305
+      },
+      "newlyOpened": [
+        {
+          "name": "Bean Bowl",
+          "difficulty": "Green",
+          "area": "Big Red / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Glacier Road - Mid",
+          "difficulty": "Blue",
+          "area": "Crystal Ridge"
+        },
+        {
+          "name": "Bean Sprout",
+          "difficulty": "Blue",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Ratfink",
+          "difficulty": "Black",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Bark Sandwich",
+          "difficulty": "Black",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Buzz Cut",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Countdown",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Little Cub",
+          "difficulty": "Black",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Raptor's Ride",
+          "difficulty": "Black",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Sea to Sky Railway",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Watch Out",
+          "difficulty": "Black",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Where's Joe",
+          "difficulty": "Black",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Yard Sale",
+          "difficulty": "Black",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Brownlie Basin",
+          "difficulty": "Black",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Cougar Chutes",
+          "difficulty": "DoubleBlack",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Dakine",
+          "difficulty": "Black",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Dave's Day Off",
+          "difficulty": "Black",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Davies Dervish",
+          "difficulty": "Black",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Entrance to Grey Zone",
+          "difficulty": "Black",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Glacier Drive - Lower",
+          "difficulty": "Black",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Glacier Drive - Upper",
+          "difficulty": "Black",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Grey Zone",
+          "difficulty": "Black",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Horstman Face",
+          "difficulty": "DoubleBlack",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Jersey Cream Bowl",
+          "difficulty": "DoubleBlack",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Overbite",
+          "difficulty": "Black",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Pakalolo",
+          "difficulty": "DoubleBlack",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Quasar",
+          "difficulty": "Black",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Rock Alley",
+          "difficulty": "Blue",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Saudan Couloir",
+          "difficulty": "DoubleBlack",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Secret Bassin",
+          "difficulty": "Black",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Secret Bowl",
+          "difficulty": "Black",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Sylvain",
+          "difficulty": "DoubleBlack",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Blackcomb Race Centre",
+          "difficulty": "Blue",
+          "area": "Jersey Cream"
+        },
+        {
+          "name": "Blowdown",
+          "difficulty": "Black",
+          "area": "Jersey Cream"
+        },
+        {
+          "name": "Staircase",
+          "difficulty": "Black",
+          "area": "Jersey Cream"
+        },
+        {
+          "name": "The Bite",
+          "difficulty": "Black",
+          "area": "Jersey Cream"
+        },
+        {
+          "name": "Snowboard Carpet",
+          "difficulty": "Green",
+          "area": "Learning Areas"
+        },
+        {
+          "name": "Sun Bowl",
+          "difficulty": "Black",
+          "area": "Symphony"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Ptarmigan",
+          "difficulty": "Blue",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Bean Bowl",
+          "difficulty": "Green",
+          "area": "Big Red / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Fisheye - Lower",
+          "difficulty": "Blue",
+          "area": "Big Red / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Glacier Road - Mid",
+          "difficulty": "Blue",
+          "area": "Crystal Ridge"
+        },
+        {
+          "name": "Enchanted Forest - Upper Entrance",
+          "difficulty": "Blue",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Countdown",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Cruiser - Snoozer",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Sea to Sky Railway",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Harmony Piste",
+          "difficulty": "Blue",
+          "area": "Harmony"
+        },
+        {
+          "name": "Wally World",
+          "difficulty": "Blue",
+          "area": "Jersey Cream"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Little Red Run - Lower",
+          "difficulty": "Blue",
+          "area": "Big Red / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Zig Zag - Foon Alley",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Crystal Traverse",
+          "difficulty": "Blue",
+          "area": "Glacier / Showcase T-bar"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-24",
+        "avgWaitTime": 5.3,
+        "maxWaitTime": 39,
+        "totalLiftsTracked": 37,
+        "busiest": [
+          {
+            "name": "Blackcomb Gondola - Lower",
+            "avgWait": 17.8,
+            "peakWait": 25,
+            "type": "Gondola",
+            "mountain": "Blackcomb Lifts"
+          },
+          {
+            "name": "Whistler Village Gondola  - Lower",
+            "avgWait": 17.1,
+            "peakWait": 39,
+            "type": "Gondola",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Whistler Village Gondola - Upper",
+            "avgWait": 10.3,
+            "peakWait": 22,
+            "type": "Gondola",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Creekside Gondola",
+            "avgWait": 7.8,
+            "peakWait": 35,
+            "type": "Gondola",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Emerald 6 Express",
+            "avgWait": 5.7,
+            "peakWait": 9,
+            "type": "Six Pack",
+            "mountain": "Whistler Lifts"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-25",
+        "high_f": 32,
+        "low_f": 32,
+        "high_c": null,
+        "low_c": null,
+        "description": "Cloudy with sunny periods.",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-26T02:08:32-07:00",
+          "high_f": 21,
+          "low_f": 21,
+          "high_c": -6,
+          "low_c": -6,
+          "description": "Cloudy with sunny periods and isolated flurries.",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2025-12-27T02:08:32-07:00",
+          "high_f": 12,
+          "low_f": 5,
+          "high_c": -11,
+          "low_c": -15,
+          "description": "A mix of sun and cloud.",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-28T02:08:32-07:00",
+          "high_f": 23,
+          "low_f": 15,
+          "high_c": -5,
+          "low_c": -9,
+          "description": "Mainly cloudy with isolated flurries.",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-26T02:08:32-07:00",
+        "high_f": 21,
+        "low_f": 21,
+        "high_c": -6,
+        "low_c": -6,
+        "description": "Cloudy with sunny periods and isolated flurries.",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 1
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "5\" fresh snow overnight",
+      "38 new trails opened today",
+      "9 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 52\" in last 7 days",
+      "37 more trails open than yesterday",
+      "1\" snow expected Friday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Bean Bowl - great for beginners",
+      "Fresh corduroy on Fisheye - Lower - perfect for intermediate skiers",
+      "Fresh corduroy on Glacier Road - Mid - perfect for intermediate skiers",
+      "Blackcomb Gondola - Lower had longest waits (17.8 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": {
+    "headline": "More Mountain to Explore",
+    "body": "5\" fell while you were sleeping. The bumps are softer and the groomers are primo. New terrain alert: 38 trails added to the mix. The mountain just got bigger. Watch for crowds at Blackcomb Gondola - Lower, which peaked around 39 minutes yesterday.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_watch_crowds",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 9,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 2,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "New Runs Now Open"
+      },
+      "dayOfWeek": "Thursday"
+    }
+  },
+  "errors": []
+}

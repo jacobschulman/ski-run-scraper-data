@@ -1,0 +1,235 @@
+{
+  "resort": "kirkwood",
+  "resortName": "Kirkwood",
+  "liftId": "9",
+  "liftName": "#8 Tow Rope",
+  "slug": "8-tow-rope",
+  "mountain": "Frontside",
+  "type": "Tow",
+  "capacity": 1,
+  "currentStatus": {
+    "status": "Closed",
+    "waitMinutes": null,
+    "openTime": "09:00",
+    "closeTime": "16:00",
+    "timestamp": "2025-12-27T00:53:23.301Z",
+    "localTime": "16:53:23"
+  },
+  "stats": {
+    "totalRecords": 630,
+    "avgWaitTime": null,
+    "minWaitTime": null,
+    "maxWaitTime": null,
+    "daysTracked": 23
+  },
+  "history": [
+    {
+      "date": "2025-12-27",
+      "recordCount": 1,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": false,
+      "openPercentage": 0
+    },
+    {
+      "date": "2025-12-26",
+      "recordCount": 30,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 83
+    },
+    {
+      "date": "2025-12-25",
+      "recordCount": 30,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": false,
+      "openPercentage": 0
+    },
+    {
+      "date": "2025-12-24",
+      "recordCount": 30,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 97
+    },
+    {
+      "date": "2025-12-23",
+      "recordCount": 31,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 97
+    },
+    {
+      "date": "2025-12-22",
+      "recordCount": 30,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 97
+    },
+    {
+      "date": "2025-12-21",
+      "recordCount": 32,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 97
+    },
+    {
+      "date": "2025-12-20",
+      "recordCount": 31,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-19",
+      "recordCount": 30,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-18",
+      "recordCount": 28,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-17",
+      "recordCount": 25,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-16",
+      "recordCount": 25,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-15",
+      "recordCount": 25,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 96
+    },
+    {
+      "date": "2025-12-14",
+      "recordCount": 31,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 97
+    },
+    {
+      "date": "2025-12-13",
+      "recordCount": 30,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-12",
+      "recordCount": 30,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-11",
+      "recordCount": 25,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 48
+    },
+    {
+      "date": "2025-12-10",
+      "recordCount": 27,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-09",
+      "recordCount": 30,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-08",
+      "recordCount": 31,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-07",
+      "recordCount": 31,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-06",
+      "recordCount": 31,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-05",
+      "recordCount": 16,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    }
+  ],
+  "generated": "2025-12-27T16:56:45.175Z"
+}

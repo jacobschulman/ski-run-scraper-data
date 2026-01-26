@@ -1,0 +1,117 @@
+{
+  "resort": "aspenhighlands",
+  "resortName": "Aspen Highlands",
+  "date": "2026-01-02",
+  "generated": "2026-01-03T06:25:51.445Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 71,
+          "yesterday": 72,
+          "delta": -1
+        },
+        "groomedTrails": {
+          "today": 14,
+          "yesterday": 10,
+          "delta": 4
+        },
+        "totalTrails": 126
+      },
+      "newlyOpened": [],
+      "newlyClosed": [
+        {
+          "name": "G-1",
+          "difficulty": "Expert",
+          "area": "Highland Bowl"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Apple Strudel",
+          "difficulty": "Intermediate",
+          "area": "Mid Mountain"
+        },
+        {
+          "name": "Exhibition",
+          "difficulty": "Intermediate",
+          "area": "Mid Mountain"
+        },
+        {
+          "name": "Prospector",
+          "difficulty": "Intermediate",
+          "area": "Mid Mountain"
+        },
+        {
+          "name": "Red Onion",
+          "difficulty": "Intermediate",
+          "area": "Mid Mountain"
+        },
+        {
+          "name": "Riverside Drive",
+          "difficulty": "Intermediate",
+          "area": "Mid Mountain"
+        },
+        {
+          "name": "Heatherbedlam",
+          "difficulty": "Intermediate",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Pyramid Park",
+          "difficulty": "Intermediate",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Wine Ridge",
+          "difficulty": "Intermediate",
+          "area": "Upper Mountain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Golden Horn",
+          "difficulty": "Intermediate",
+          "area": "Thunderbowl"
+        },
+        {
+          "name": "Smuggler",
+          "difficulty": "Intermediate",
+          "area": "Thunderbowl"
+        },
+        {
+          "name": "T-Lazy-7 Catwalk",
+          "difficulty": "Intermediate",
+          "area": "Thunderbowl"
+        },
+        {
+          "name": "Thunderbowl",
+          "difficulty": "Intermediate",
+          "area": "Thunderbowl"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": true
+    },
+    "alerts": [
+      "8 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 40% from yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Apple Strudel - all skill levels",
+      "Fresh corduroy on Exhibition - all skill levels",
+      "Fresh corduroy on Prospector - all skill levels"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

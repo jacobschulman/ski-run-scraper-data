@@ -1,0 +1,163 @@
+{
+  "resort": "killington",
+  "resortName": "Killington",
+  "date": "2026-01-23",
+  "timestamp": "2026-01-23T21:51:02.938Z",
+  "lastUpdated": "2026-01-23 14:23:16",
+  "conditions": "Packed Powder",
+  "operatingStatus": "Open",
+  "snowfall": {
+    "overnight_inches": 2,
+    "overnight_cm": 5,
+    "24hour_inches": 2,
+    "24hour_cm": 5,
+    "48hour_inches": 4,
+    "48hour_cm": 10,
+    "7day_inches": 4,
+    "7day_cm": 10,
+    "season_total_inches": 0,
+    "season_total_cm": 0
+  },
+  "baseDepth": {
+    "inches": 20,
+    "cm": 51,
+    "range_inches": "15-20",
+    "range_cm": null
+  },
+  "terrain": {
+    "totalTrails": 155,
+    "openTrails": 150,
+    "groomedTrails": 0,
+    "totalLifts": 20,
+    "openLifts": 17
+  },
+  "activities": {},
+  "currentConditions": {
+    "base": null,
+    "midMountain": null,
+    "summit": null,
+    "lastUpdated": "2026-01-23 14:23:16"
+  },
+  "forecast": {
+    "location": "Killington",
+    "issuedAt": "2026-01-23T14:42:46-0700",
+    "temp_high_f": 7,
+    "temp_low_f": -17,
+    "forecasted_snow_in": 3,
+    "forecast_days": [
+      {
+        "date": "2026-01-23",
+        "skies": "Windy. Windy",
+        "conditions": "Windy",
+        "temp_high_f": 7,
+        "temp_low_f": -17,
+        "forecasted_snow_in": 3,
+        "wind": "WSW",
+        "wind_speed_mph": 27
+      },
+      {
+        "date": "2026-01-24",
+        "skies": "Windy. Windy",
+        "conditions": "Windy",
+        "temp_high_f": -9,
+        "temp_low_f": -9,
+        "forecasted_snow_in": 0,
+        "wind": "WNW",
+        "wind_speed_mph": 19
+      },
+      {
+        "date": "2026-01-25",
+        "skies": "Windy. Snow And Wind",
+        "conditions": "Windy",
+        "temp_high_f": 2,
+        "temp_low_f": 2,
+        "forecasted_snow_in": 11,
+        "wind": "SE",
+        "wind_speed_mph": 10
+      },
+      {
+        "date": "2026-01-26",
+        "skies": "Snow And Wind. Windy",
+        "conditions": "Snow Wind",
+        "temp_high_f": 8,
+        "temp_low_f": -4,
+        "forecasted_snow_in": 6,
+        "wind": "ENE",
+        "wind_speed_mph": 12
+      },
+      {
+        "date": "2026-01-27",
+        "skies": "Windy. Windy",
+        "conditions": "Windy",
+        "temp_high_f": 1,
+        "temp_low_f": -2,
+        "forecasted_snow_in": 2,
+        "wind": "W",
+        "wind_speed_mph": 20
+      }
+    ],
+    "locations": [
+      {
+        "name": "Killington",
+        "elevation": null,
+        "today": {
+          "date": "2026-01-23",
+          "high_f": 7,
+          "low_f": -17,
+          "description": "Windy",
+          "snowfall_day_inches": 3
+        },
+        "forecast_days": [
+          {
+            "date": "2026-01-23",
+            "high_f": 7,
+            "low_f": -17,
+            "description": "Windy",
+            "snowfall_day_inches": 3
+          },
+          {
+            "date": "2026-01-24",
+            "high_f": -9,
+            "low_f": -9,
+            "description": "Windy",
+            "snowfall_day_inches": 0
+          },
+          {
+            "date": "2026-01-25",
+            "high_f": 2,
+            "low_f": 2,
+            "description": "Windy",
+            "snowfall_day_inches": 11
+          },
+          {
+            "date": "2026-01-26",
+            "high_f": 8,
+            "low_f": -4,
+            "description": "Snow Wind",
+            "snowfall_day_inches": 6
+          },
+          {
+            "date": "2026-01-27",
+            "high_f": 1,
+            "low_f": -2,
+            "description": "Windy",
+            "snowfall_day_inches": 2
+          }
+        ]
+      }
+    ]
+  },
+  "_snoCountryRaw": {
+    "id": "802007",
+    "resortName": "Killington Resort",
+    "primarySurfaceCondition": "Packed Powder",
+    "openDownHillTrails": "150",
+    "openDownHillLifts": "17",
+    "openDownHillMiles": "71",
+    "openDownHillAcres": "",
+    "terrainParkOpen": "yes"
+  },
+  "provider": "ikon",
+  "apiProvider": "snocountry",
+  "weatherProvider": "inspector"
+}

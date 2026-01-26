@@ -1,0 +1,193 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2026-01-18",
+  "generated": "2026-01-18T10:22:08.066Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 58,
+          "yesterday": 45,
+          "delta": 13
+        },
+        "groomedTrails": {
+          "today": 44,
+          "yesterday": 43,
+          "delta": 1
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Junkyard",
+          "difficulty": "TerrainPark",
+          "area": "Carinthia"
+        },
+        {
+          "name": "Charlie's Chase",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Choke",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Cut-Off",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Drifter",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Pat's Pitch",
+          "difficulty": "Black",
+          "area": "Main Face"
+        },
+        {
+          "name": "Switchback",
+          "difficulty": "Green",
+          "area": "Main Face"
+        },
+        {
+          "name": "Uncles",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Yard Sale",
+          "difficulty": "Black",
+          "area": "Main Face"
+        },
+        {
+          "name": "Boulder Pile",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Little Steep",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Bear Trap",
+          "difficulty": "Black",
+          "area": "Sunbrook"
+        },
+        {
+          "name": "Moonbeam",
+          "difficulty": "Blue",
+          "area": "Sunbrook"
+        },
+        {
+          "name": "One Small Step",
+          "difficulty": "Blue",
+          "area": "Sunbrook"
+        },
+        {
+          "name": "Sunspot",
+          "difficulty": "Blue",
+          "area": "Sunbrook"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Inferno",
+          "difficulty": "TerrainPark",
+          "area": "Carinthia"
+        },
+        {
+          "name": "Roller Coaster",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Junkyard",
+          "difficulty": "TerrainPark",
+          "area": "Carinthia"
+        },
+        {
+          "name": "Hop",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-17",
+        "avgWaitTime": 11.5,
+        "maxWaitTime": 36,
+        "totalLiftsTracked": 18,
+        "busiest": [
+          {
+            "name": "Bluebird Express",
+            "avgWait": 20.2,
+            "peakWait": 28,
+            "type": "Six Pack",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 11.7,
+            "peakWait": 20,
+            "type": "Quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Nitro Express",
+            "avgWait": 11.2,
+            "peakWait": 21,
+            "type": "Quad",
+            "mountain": "Carinthia"
+          },
+          {
+            "name": "Grand Summit Express",
+            "avgWait": 10.4,
+            "peakWait": 36,
+            "type": "Quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Challenger",
+            "avgWait": 2.4,
+            "peakWait": 6,
+            "type": "Triple",
+            "mountain": "North Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": true
+    },
+    "alerts": [
+      "15 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "13 more trails open than yesterday",
+      "High demand yesterday - average wait time 11.5 min"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Junkyard - all skill levels",
+      "Fresh corduroy on Hop - perfect for intermediate skiers",
+      "Bluebird Express had longest waits (20.2 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

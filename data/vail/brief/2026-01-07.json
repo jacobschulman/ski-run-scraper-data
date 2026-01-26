@@ -1,0 +1,276 @@
+{
+  "resort": "vail",
+  "resortName": "Vail",
+  "date": "2026-01-07",
+  "generated": "2026-01-07T12:42:13.275Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 6,
+      "24hour_cm": 15,
+      "48hour_inches": 6,
+      "48hour_cm": 15,
+      "7day_inches": 9,
+      "7day_cm": 22,
+      "season_total_inches": 61,
+      "season_total_cm": 154,
+      "conditions": {
+        "today": "Powder",
+        "yesterday": "Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 93,
+          "yesterday": 92,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 50,
+          "yesterday": 49,
+          "delta": 1
+        },
+        "totalTrails": 277
+      },
+      "newlyOpened": [
+        {
+          "name": "North Rim",
+          "difficulty": "Black",
+          "area": "North East Bowl"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Rip's Ride Teaching Area",
+          "difficulty": "Green",
+          "area": "Golden Peak"
+        },
+        {
+          "name": "Riva Catwalk",
+          "difficulty": "Blue",
+          "area": "Golden Peak"
+        },
+        {
+          "name": "Ruder's - Lower",
+          "difficulty": "Blue",
+          "area": "Golden Peak"
+        },
+        {
+          "name": "Owl's Roost 2",
+          "difficulty": "Green",
+          "area": "Lionshead"
+        },
+        {
+          "name": "Mid-Vail Express",
+          "difficulty": "Blue",
+          "area": "Mid-Vail"
+        },
+        {
+          "name": "Northwoods",
+          "difficulty": "Blue",
+          "area": "North East Bowl"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Mil Creek Road",
+          "difficulty": "Green",
+          "area": "Golden Peak"
+        },
+        {
+          "name": "Born Free - Upper Middle",
+          "difficulty": "Green",
+          "area": "Lionshead"
+        },
+        {
+          "name": "Columbine - Lower",
+          "difficulty": "Blue",
+          "area": "Lionshead"
+        },
+        {
+          "name": "Trans Montane",
+          "difficulty": "Green",
+          "area": "Mid-Vail"
+        },
+        {
+          "name": "Northstar",
+          "difficulty": "Black",
+          "area": "North East Bowl"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-06",
+        "avgWaitTime": 5.5,
+        "maxWaitTime": 25,
+        "totalLiftsTracked": 33,
+        "busiest": [
+          {
+            "name": "Northwoods Express #11",
+            "avgWait": 10.4,
+            "peakWait": 20,
+            "type": "Six Pack",
+            "mountain": "North East Bowl"
+          },
+          {
+            "name": "Mountaintop Express #4",
+            "avgWait": 8.7,
+            "peakWait": 25,
+            "type": "Six Pack",
+            "mountain": "Mid-Vail"
+          },
+          {
+            "name": "Eagle Bahn Gondola #19",
+            "avgWait": 6.6,
+            "peakWait": 13,
+            "type": "Gondola",
+            "mountain": "Lionshead"
+          },
+          {
+            "name": "Sourdough Express #14",
+            "avgWait": 5.8,
+            "peakWait": 10,
+            "type": "Quad",
+            "mountain": "North East Bowl"
+          },
+          {
+            "name": "Wildwood Express #3",
+            "avgWait": 4.3,
+            "peakWait": 9,
+            "type": "Quad",
+            "mountain": "Mid-Vail"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-07",
+        "high_f": 37,
+        "low_f": 20,
+        "high_c": 2,
+        "low_c": -7,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-08T07:00:00Z",
+          "high_f": 26,
+          "low_f": 13,
+          "high_c": -4,
+          "low_c": -11,
+          "description": "Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-09T07:00:00Z",
+          "high_f": 17,
+          "low_f": -1,
+          "high_c": -9,
+          "low_c": -19,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-10T07:00:00Z",
+          "high_f": 21,
+          "low_f": -2,
+          "high_c": -6,
+          "low_c": -19,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-08T07:00:00Z",
+        "high_f": 26,
+        "low_f": 13,
+        "high_c": -4,
+        "low_c": -11,
+        "description": "Snow",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "6\" in last 24 hours - powder day!",
+      "1 new trail opened today",
+      "6 trails freshly groomed"
+    ],
+    "trends": [
+      "Steady snowfall - 9\" in last 7 days",
+      "1 more trail open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Rip's Ride Teaching Area - great for beginners",
+      "Fresh corduroy on Riva Catwalk - perfect for intermediate skiers",
+      "Fresh corduroy on Ruder's - Lower - perfect for intermediate skiers",
+      "Northwoods Express #11 had longest waits (10.4 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Winter Delivered Big",
+    "body": "It's a 6\" day. You know what to do. First chair or regret it. 6 runs freshly groomed, mostly in Golden Peak, Lionshead, and more. Heads up: Northwoods Express #11 peaked at 25 minutes yesterday. Consider alternatives.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "body"
+        },
+        {
+          "id": "grooming_moderate",
+          "category": "terrain",
+          "priority": 55,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_busy",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 7,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 4,
+        "totalVariations": 11,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Midweek Bliss"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

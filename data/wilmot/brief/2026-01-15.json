@@ -1,0 +1,155 @@
+{
+  "resort": "wilmot",
+  "resortName": "Wilmot Mountain",
+  "date": "2026-01-15",
+  "generated": "2026-01-15T16:30:38.983Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 1,
+      "overnight_cm": 2,
+      "24hour_inches": 1,
+      "24hour_cm": 2,
+      "48hour_inches": 1,
+      "48hour_cm": 2,
+      "7day_inches": 2,
+      "7day_cm": 5,
+      "season_total_inches": 17,
+      "season_total_cm": 43,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 21,
+          "yesterday": 21,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 21,
+          "yesterday": 21,
+          "delta": 0
+        },
+        "totalTrails": 26
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-14",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 12,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-15",
+        "high_f": 22,
+        "low_f": 11,
+        "high_c": -6,
+        "low_c": -12,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-16T06:00:00Z",
+          "high_f": 32,
+          "low_f": 17,
+          "high_c": null,
+          "low_c": -9,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-17T06:00:00Z",
+          "high_f": 15,
+          "low_f": 9,
+          "high_c": -10,
+          "low_c": -13,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-18T06:00:00Z",
+          "high_f": 13,
+          "low_f": 4,
+          "high_c": -11,
+          "low_c": -16,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-16T06:00:00Z",
+        "high_f": 32,
+        "low_f": 17,
+        "high_c": null,
+        "low_c": -9,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1\" new snow overnight"
+    ],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Overnight Refresh",
+    "body": "The mountain got a nice 1\" touch-up. Expect improved conditions.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "fresh_coat",
+        "variationIndex": 3,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Waiting for Opening Day"
+      },
+      "dayOfWeek": "Thursday"
+    }
+  },
+  "errors": []
+}

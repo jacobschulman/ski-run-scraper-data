@@ -1,0 +1,195 @@
+{
+  "resort": "bigsky",
+  "resortName": "Big Sky",
+  "date": "2026-01-17",
+  "generated": "2026-01-18T06:26:28.115Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 1,
+      "7day_cm": 3,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 239,
+          "yesterday": 245,
+          "delta": -6
+        },
+        "groomedTrails": {
+          "today": 3,
+          "yesterday": 3,
+          "delta": 0
+        },
+        "totalTrails": 319
+      },
+      "newlyOpened": [
+        {
+          "name": "Rock Valley",
+          "difficulty": "Black",
+          "area": "Dakota Area"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Firehole",
+          "difficulty": "high exposure",
+          "area": "Headwaters Area"
+        },
+        {
+          "name": "Hellroaring",
+          "difficulty": "high exposure",
+          "area": "Headwaters Area"
+        },
+        {
+          "name": "Jack Creek",
+          "difficulty": "high exposure",
+          "area": "Headwaters Area"
+        },
+        {
+          "name": "Three Forks",
+          "difficulty": "high exposure",
+          "area": "Headwaters Area"
+        },
+        {
+          "name": "White Tail",
+          "difficulty": "high exposure",
+          "area": "Headwaters Area"
+        },
+        {
+          "name": "The Gullies",
+          "difficulty": "Double Black",
+          "area": "Lone Peak Area"
+        },
+        {
+          "name": "Bone Crusher",
+          "difficulty": "Black",
+          "area": "Swift Current Area"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-16",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 40,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-17",
+        "high_f": null,
+        "low_f": 21,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-18",
+          "high_f": 19,
+          "low_f": 11,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-19",
+          "high_f": 22,
+          "low_f": 19,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-20",
+          "high_f": 20,
+          "low_f": 13,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-18",
+        "high_f": 19,
+        "low_f": 11,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today"
+    ],
+    "trends": [
+      "1\" snow expected Tuesday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Weekend Warrior Day",
+    "body": "239 trails open, 3 groomed. Clear, temperatures TBD. Light snow possible in the forecast.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "time_saturday",
+          "category": "time",
+          "priority": 38,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_flurries",
+          "category": "weather",
+          "priority": 30,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "saturday",
+        "variationIndex": 1,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Saturday Session"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

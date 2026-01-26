@@ -1,0 +1,80 @@
+{
+  "resort": "wildcat",
+  "resortName": "Wildcat Mountain",
+  "date": "2026-01-16",
+  "generated": "2026-01-16T10:23:49.801Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 18,
+          "yesterday": 14,
+          "delta": 4
+        },
+        "groomedTrails": {
+          "today": 14,
+          "yesterday": 14,
+          "delta": 0
+        },
+        "totalTrails": 48
+      },
+      "newlyOpened": [
+        {
+          "name": "Cheetah",
+          "difficulty": "Blue",
+          "area": "Wildcat"
+        },
+        {
+          "name": "Lift Lion",
+          "difficulty": "Black",
+          "area": "Wildcat"
+        },
+        {
+          "name": "Lower Wildcat",
+          "difficulty": "Blue",
+          "area": "Wildcat"
+        },
+        {
+          "name": "Upper Wildcat",
+          "difficulty": "Black",
+          "area": "Wildcat"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": [
+        {
+          "name": "Upper Lynx",
+          "difficulty": "Blue",
+          "area": "Wildcat"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-15",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 5,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "4 new trails opened today"
+    ],
+    "trends": [
+      "4 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

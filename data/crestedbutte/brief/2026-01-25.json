@@ -1,0 +1,148 @@
+{
+  "resort": "crestedbutte",
+  "resortName": "Crested Butte",
+  "date": "2026-01-25",
+  "generated": "2026-01-25T12:41:33.158Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 89,
+          "yesterday": 89,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 44,
+          "yesterday": 34,
+          "delta": 10
+        },
+        "totalTrails": 168
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Fallaway",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Gus' Way",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Upper Gallowich",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Upper Treasury",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Ruby Road",
+          "difficulty": "Black",
+          "area": "Back Side"
+        },
+        {
+          "name": "Mineral Point",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Poverty Gulch",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Upper International",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "Gunsight Pass",
+          "difficulty": "Green",
+          "area": "Ten Peaks"
+        },
+        {
+          "name": "Little Queen",
+          "difficulty": "Green",
+          "area": "Ten Peaks"
+        },
+        {
+          "name": "North Pass",
+          "difficulty": "Blue",
+          "area": "Ten Peaks"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Lower Keystone",
+          "difficulty": "Green",
+          "area": "Front Side"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-24",
+        "avgWaitTime": 2.9,
+        "maxWaitTime": 24,
+        "totalLiftsTracked": 15,
+        "busiest": [
+          {
+            "name": "Red Lady Express",
+            "avgWait": 3.4,
+            "peakWait": 13,
+            "type": "Quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "East River Express",
+            "avgWait": 2.9,
+            "peakWait": 6,
+            "type": "Quad",
+            "mountain": "Back Side"
+          },
+          {
+            "name": "Silver Queen Express",
+            "avgWait": 2.9,
+            "peakWait": 24,
+            "type": "Quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "Paradise Express",
+            "avgWait": 2.2,
+            "peakWait": 6,
+            "type": "Quad",
+            "mountain": "Back Side"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "11 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 29% from yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Fallaway - perfect for intermediate skiers",
+      "Fresh corduroy on Gus' Way - perfect for intermediate skiers",
+      "Fresh corduroy on Upper Gallowich - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

@@ -1,0 +1,275 @@
+{
+  "resort": "whistlerblackcomb",
+  "resortName": "Whistler Blackcomb",
+  "date": "2026-01-02",
+  "generated": "2026-01-02T13:31:45.226Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 3,
+      "7day_cm": 9,
+      "season_total_inches": 148,
+      "season_total_cm": 376,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 266,
+          "yesterday": 262,
+          "delta": 4
+        },
+        "groomedTrails": {
+          "today": 132,
+          "yesterday": 130,
+          "delta": 2
+        },
+        "totalTrails": 305
+      },
+      "newlyOpened": [
+        {
+          "name": "Lakeside Bowl",
+          "difficulty": "Black",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Lakeside Traverse",
+          "difficulty": "Black",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Xhiggy's Meadow",
+          "difficulty": "Black",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Tree Fort",
+          "difficulty": "Green",
+          "area": "Big Red / Garbanzo / Village Gondola - Upper"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Bean Sprout",
+          "difficulty": "Blue",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Enchanted Forest - Adventure Trail",
+          "difficulty": "Blue",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Strawline",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Harmony Piste",
+          "difficulty": "Blue",
+          "area": "Harmony"
+        },
+        {
+          "name": "Peak to Creek - Upper",
+          "difficulty": "Blue",
+          "area": "Peak / T-bar"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Glacier Road - Lower",
+          "difficulty": "Blue",
+          "area": "Crystal Ridge"
+        },
+        {
+          "name": "Glacier Road - Mid",
+          "difficulty": "Blue",
+          "area": "Crystal Ridge"
+        },
+        {
+          "name": "Buzz Cut",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-01",
+        "avgWaitTime": 4.9,
+        "maxWaitTime": 36,
+        "totalLiftsTracked": 37,
+        "busiest": [
+          {
+            "name": "Whistler Village Gondola  - Lower",
+            "avgWait": 11.6,
+            "peakWait": 26,
+            "type": "Gondola",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "7th Heaven Express",
+            "avgWait": 10.8,
+            "peakWait": 23,
+            "type": "Quad",
+            "mountain": "Blackcomb Lifts"
+          },
+          {
+            "name": "Whistler Village Gondola - Upper",
+            "avgWait": 8.1,
+            "peakWait": 18,
+            "type": "Gondola",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Blackcomb Gondola - Lower",
+            "avgWait": 7.5,
+            "peakWait": 15,
+            "type": "Gondola",
+            "mountain": "Blackcomb Lifts"
+          },
+          {
+            "name": "Emerald 6 Express",
+            "avgWait": 7.3,
+            "peakWait": 12,
+            "type": "Six Pack",
+            "mountain": "Whistler Lifts"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-02",
+        "high_f": 32,
+        "low_f": 32,
+        "high_c": null,
+        "low_c": null,
+        "description": "Mainly cloudy with isolated flurries.",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-03T02:09:10-07:00",
+          "high_f": 32,
+          "low_f": 30,
+          "high_c": null,
+          "low_c": -1,
+          "description": "Snow.",
+          "snowfall_day_inches": 7,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 7
+        },
+        {
+          "date": "2026-01-04T02:09:10-07:00",
+          "high_f": 30,
+          "low_f": 17,
+          "high_c": -1,
+          "low_c": -8,
+          "description": "Periods of snow.",
+          "snowfall_day_inches": 5,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 5
+        },
+        {
+          "date": "2026-01-05T02:09:10-07:00",
+          "high_f": 19,
+          "low_f": 14,
+          "high_c": -7,
+          "low_c": -10,
+          "description": "Cloudy with sunny periods and isolated flurries.",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-03T02:09:10-07:00",
+        "high_f": 32,
+        "low_f": 30,
+        "high_c": null,
+        "low_c": -1,
+        "description": "Snow.",
+        "snowfall_day_inches": 7,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 7
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "4 new trails opened today",
+      "5 trails freshly groomed"
+    ],
+    "trends": [
+      "4 more trails open than yesterday",
+      "7\" snow expected Saturday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Bean Sprout - perfect for intermediate skiers",
+      "Fresh corduroy on Enchanted Forest - Adventure Trail - perfect for intermediate skiers",
+      "Fresh corduroy on Strawline - perfect for intermediate skiers",
+      "Whistler Village Gondola  - Lower had longest waits (11.6 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Major System Approaching",
+    "body": "266 of 305 trails are open with 132 groomed. Mainly cloudy with isolated flurries. with a high of 32°F. 4 new runs just opened up. Time to explore some fresh terrain. Watch for crowds at Whistler Village Gondola  - Lower, which peaked around 36 minutes yesterday.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_storm_major",
+          "category": "weather",
+          "priority": 88,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_watch_crowds",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "storm_major",
+        "variationIndex": 3,
+        "totalVariations": 8,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Big Snow Incoming"
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
+  "errors": []
+}

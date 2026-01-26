@@ -1,0 +1,280 @@
+{
+  "resort": "vail",
+  "resortName": "Vail",
+  "date": "2026-01-25",
+  "generated": "2026-01-25T12:41:33.120Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 8,
+      "24hour_cm": 20,
+      "48hour_inches": 8,
+      "48hour_cm": 20,
+      "7day_inches": 8,
+      "7day_cm": 20,
+      "season_total_inches": 77,
+      "season_total_cm": 195,
+      "conditions": {
+        "today": "Powder",
+        "yesterday": "Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 169,
+          "yesterday": 167,
+          "delta": 2
+        },
+        "groomedTrails": {
+          "today": 85,
+          "yesterday": 84,
+          "delta": 1
+        },
+        "totalTrails": 277
+      },
+      "newlyOpened": [
+        {
+          "name": "Blue Ox",
+          "difficulty": "Black",
+          "area": "North East Bowl"
+        },
+        {
+          "name": "Highline",
+          "difficulty": "Black",
+          "area": "North East Bowl"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Pickeroon - Upper",
+          "difficulty": "Blue",
+          "area": "Lionshead"
+        },
+        {
+          "name": "Pickeroon - Lower",
+          "difficulty": "Black",
+          "area": "Lionshead"
+        },
+        {
+          "name": "Mid-Vail Express",
+          "difficulty": "Blue",
+          "area": "Mid-Vail"
+        },
+        {
+          "name": "Slifer Express",
+          "difficulty": "Blue",
+          "area": "Mid-Vail"
+        },
+        {
+          "name": "Cookshack",
+          "difficulty": "Black",
+          "area": "Mid-Vail"
+        },
+        {
+          "name": "Northstar",
+          "difficulty": "Black",
+          "area": "North East Bowl"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Berries - Upper",
+          "difficulty": "Blue",
+          "area": "Lionshead"
+        },
+        {
+          "name": "Berries - Lower",
+          "difficulty": "Black",
+          "area": "Lionshead"
+        },
+        {
+          "name": "Christmas",
+          "difficulty": "Blue",
+          "area": "Mid-Vail"
+        },
+        {
+          "name": "Riva Ridge - Tourist Trap",
+          "difficulty": "Black",
+          "area": "Mid-Vail"
+        },
+        {
+          "name": "Riva Ridge - Upper",
+          "difficulty": "Black",
+          "area": "Mid-Vail"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-24",
+        "avgWaitTime": 5.4,
+        "maxWaitTime": 18,
+        "totalLiftsTracked": 33,
+        "busiest": [
+          {
+            "name": "Mountaintop Express #4",
+            "avgWait": 9,
+            "peakWait": 17,
+            "type": "Six Pack",
+            "mountain": "Mid-Vail"
+          },
+          {
+            "name": "Eagle Bahn Gondola #19",
+            "avgWait": 8.5,
+            "peakWait": 15,
+            "type": "Gondola",
+            "mountain": "Lionshead"
+          },
+          {
+            "name": "Northwoods Express #11",
+            "avgWait": 8.4,
+            "peakWait": 17,
+            "type": "Six Pack",
+            "mountain": "North East Bowl"
+          },
+          {
+            "name": "Avanti Express #2",
+            "avgWait": 7,
+            "peakWait": 14,
+            "type": "Six Pack",
+            "mountain": "Lionshead"
+          },
+          {
+            "name": "Game Creek Express #7",
+            "avgWait": 6.8,
+            "peakWait": 18,
+            "type": "Six Pack",
+            "mountain": "Game Creek Bowl"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-25",
+        "high_f": 12,
+        "low_f": -1,
+        "high_c": -11,
+        "low_c": -19,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-26T07:00:00Z",
+          "high_f": 22,
+          "low_f": -7,
+          "high_c": -6,
+          "low_c": -22,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-27T07:00:00Z",
+          "high_f": 26,
+          "low_f": 3,
+          "high_c": -4,
+          "low_c": -16,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-28T07:00:00Z",
+          "high_f": 33,
+          "low_f": 3,
+          "high_c": null,
+          "low_c": -16,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-26T07:00:00Z",
+        "high_f": 22,
+        "low_f": -7,
+        "high_c": -6,
+        "low_c": -22,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "8\" in last 24 hours - powder day!",
+      "2 new trails opened today",
+      "6 trails freshly groomed"
+    ],
+    "trends": [
+      "Steady snowfall - 8\" in last 7 days",
+      "2 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Pickeroon - Upper - perfect for intermediate skiers",
+      "Fresh corduroy on Pickeroon - Lower - challenging for advanced skiers",
+      "Fresh corduroy on Mid-Vail Express - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Weekend Powder Jackpot",
+    "body": "8\" dumped overnight. The stashes are loaded and the groomers are buried. 6 runs freshly groomed, mostly in Lionshead, Mid-Vail, and more. Heads up: Mountaintop Express #4 peaked at 18 minutes yesterday. Consider alternatives.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "body"
+        },
+        {
+          "id": "grooming_moderate",
+          "category": "terrain",
+          "priority": 55,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_busy",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 8,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 0,
+        "totalVariations": 11,
+        "usedWeekendVariation": true,
+        "previousHeadline": null
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

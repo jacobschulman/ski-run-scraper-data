@@ -1,0 +1,196 @@
+{
+  "resort": "blue",
+  "resortName": "Blue Mountain",
+  "date": "2025-12-30",
+  "generated": "2025-12-31T04:35:59.516Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 3,
+      "24hour_cm": 8,
+      "48hour_inches": 3,
+      "48hour_cm": 8,
+      "7day_inches": 4,
+      "7day_cm": 11,
+      "season_total_inches": 36,
+      "season_total_cm": 92,
+      "conditions": {
+        "today": "Machine Groomed Packed Powder",
+        "yesterday": "Machine Groomed Variable Conditions"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 39,
+          "yesterday": 34,
+          "delta": 5
+        },
+        "groomedTrails": {
+          "today": 37,
+          "yesterday": 34,
+          "delta": 3
+        },
+        "totalTrails": 63
+      },
+      "newlyOpened": [
+        {
+          "name": "Gord's Groove",
+          "difficulty": "Easy",
+          "area": "Orchard"
+        },
+        {
+          "name": "Juicer",
+          "difficulty": "Intermediate",
+          "area": "Orchard"
+        },
+        {
+          "name": "The Grind",
+          "difficulty": "Snowshoe",
+          "area": "Orchard"
+        },
+        {
+          "name": "Calamity Lane",
+          "difficulty": "Extreme Terrain",
+          "area": "Valley"
+        },
+        {
+          "name": "Willy's",
+          "difficulty": "Extreme Terrain",
+          "area": "Valley"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-29",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 11,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-30",
+        "high_f": null,
+        "low_f": 18,
+        "high_c": null,
+        "low_c": -8,
+        "description": "Windy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-31",
+          "high_f": 20,
+          "low_f": 7,
+          "high_c": -7,
+          "low_c": -14,
+          "description": "Snow",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 2,
+          "snowfall_expected": 4
+        },
+        {
+          "date": "2026-01-01",
+          "high_f": 15,
+          "low_f": 15,
+          "high_c": -10,
+          "low_c": -10,
+          "description": "Windy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2026-01-02",
+          "high_f": 19,
+          "low_f": 16,
+          "high_c": -7,
+          "low_c": -9,
+          "description": "Cloudy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 2
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-31",
+        "high_f": 20,
+        "low_f": 7,
+        "high_c": -7,
+        "low_c": -14,
+        "description": "Snow",
+        "snowfall_day_inches": 2,
+        "snowfall_night_inches": 2,
+        "snowfall_expected": 4
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "5 new trails opened today"
+    ],
+    "trends": [
+      "5 more trails open than yesterday",
+      "4\" snow expected Wednesday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Major System Approaching",
+    "body": "A fresh 3\" coating has things skiing better than yesterday. Small gifts matter. Terrain is expanding with 5 new trails now open. More room to roam, less traffic to dodge. A significant storm is brewing with 7\" expected over the next few days. Plan accordingly.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_storm_major",
+          "category": "weather",
+          "priority": 88,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_storm_major",
+          "category": "weather",
+          "priority": 88,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "storm_major",
+        "variationIndex": 3,
+        "totalVariations": 8,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Winter's Coming Back"
+      },
+      "dayOfWeek": "Tuesday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,250 @@
+{
+  "resort": "roundtop",
+  "resortName": "Roundtop Mountain",
+  "date": "2025-12-21",
+  "generated": "2025-12-21T10:21:33.422Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 2,
+      "7day_cm": 5,
+      "season_total_inches": 9,
+      "season_total_cm": 22,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 15,
+          "yesterday": 14,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 15,
+          "yesterday": 0,
+          "delta": 15
+        },
+        "totalTrails": 21
+      },
+      "newlyOpened": [
+        {
+          "name": "Magic Mountain",
+          "difficulty": "Green",
+          "area": "Roundtop"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Discovery Area",
+          "difficulty": "Green",
+          "area": "Roundtop"
+        },
+        {
+          "name": "Drummer Boy",
+          "difficulty": "Green",
+          "area": "Roundtop"
+        },
+        {
+          "name": "Fanny Hill",
+          "difficulty": "Green",
+          "area": "Roundtop"
+        },
+        {
+          "name": "Fife & Drum",
+          "difficulty": "TerrainPark",
+          "area": "Roundtop"
+        },
+        {
+          "name": "J-Bar Park",
+          "difficulty": "TerrainPark",
+          "area": "Roundtop"
+        },
+        {
+          "name": "Lower Exhibition",
+          "difficulty": "Blue",
+          "area": "Roundtop"
+        },
+        {
+          "name": "Lower Lafayette",
+          "difficulty": "Blue",
+          "area": "Roundtop"
+        },
+        {
+          "name": "Lower Ramrod",
+          "difficulty": "Black",
+          "area": "Roundtop"
+        },
+        {
+          "name": "Magic Mountain",
+          "difficulty": "Green",
+          "area": "Roundtop"
+        },
+        {
+          "name": "Minuteman",
+          "difficulty": "Blue",
+          "area": "Roundtop"
+        },
+        {
+          "name": "Powderhorn",
+          "difficulty": "Green",
+          "area": "Roundtop"
+        },
+        {
+          "name": "Susquehanna",
+          "difficulty": "Blue",
+          "area": "Roundtop"
+        },
+        {
+          "name": "Upper Exhibition",
+          "difficulty": "Black",
+          "area": "Roundtop"
+        },
+        {
+          "name": "Upper Lafayette",
+          "difficulty": "Black",
+          "area": "Roundtop"
+        },
+        {
+          "name": "Upper Ramrod",
+          "difficulty": "DoubleBlack",
+          "area": "Roundtop"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-20",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 9,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-21",
+        "high_f": 38,
+        "low_f": 25,
+        "high_c": 3,
+        "low_c": -4,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-22T05:00:00Z",
+          "high_f": 37,
+          "low_f": 23,
+          "high_c": 3,
+          "low_c": -5,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-23T05:00:00Z",
+          "high_f": 41,
+          "low_f": 32,
+          "high_c": 5,
+          "low_c": null,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-24T05:00:00Z",
+          "high_f": 41,
+          "low_f": 36,
+          "high_c": 5,
+          "low_c": 2,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-22T05:00:00Z",
+        "high_f": 37,
+        "low_f": 23,
+        "high_c": 3,
+        "low_c": -5,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today",
+      "15 trails freshly groomed"
+    ],
+    "trends": [
+      "1 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Discovery Area - great for beginners",
+      "Fresh corduroy on Drummer Boy - great for beginners",
+      "Fresh corduroy on Fanny Hill - great for beginners"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Fresh Terrain Unlocked",
+    "body": "15/21 trails spinning, 15 freshly groomed. 38° and Windy. 1 new runs just opened up. Time to explore some fresh terrain.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 4,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Conditions Report"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

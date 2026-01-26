@@ -1,0 +1,143 @@
+{
+  "resort": "wildcat",
+  "resortName": "Wildcat Mountain",
+  "date": "2026-01-10",
+  "generated": "2026-01-10T10:21:53.938Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 2,
+      "48hour_cm": 5,
+      "7day_inches": 5,
+      "7day_cm": 14,
+      "season_total_inches": 40,
+      "season_total_cm": 103,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 15,
+          "yesterday": 12,
+          "delta": 3
+        },
+        "groomedTrails": {
+          "today": 14,
+          "yesterday": 11,
+          "delta": 3
+        },
+        "totalTrails": 48
+      },
+      "newlyOpened": [
+        {
+          "name": "Snow Cat Slope",
+          "difficulty": "Green",
+          "area": "Wildcat"
+        },
+        {
+          "name": "Snow Cat Trail",
+          "difficulty": "Green",
+          "area": "Wildcat"
+        },
+        {
+          "name": "Upper Polecat",
+          "difficulty": "Green",
+          "area": "Wildcat"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Snow Cat Slope",
+          "difficulty": "Green",
+          "area": "Wildcat"
+        },
+        {
+          "name": "Snow Cat Trail",
+          "difficulty": "Green",
+          "area": "Wildcat"
+        },
+        {
+          "name": "Upper Polecat",
+          "difficulty": "Green",
+          "area": "Wildcat"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-09",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 5,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "3 new trails opened today",
+      "3 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 27% from yesterday",
+      "3 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Snow Cat Slope - great for beginners",
+      "Fresh corduroy on Snow Cat Trail - great for beginners",
+      "Fresh corduroy on Upper Polecat - great for beginners"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Terrain Update",
+    "body": "15 trails open, 14 groomed. Variable conditions, temperatures TBD. Ski patrol opened 3 additional trails. A few more choices today.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "terrain_few",
+        "variationIndex": 3,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Overnight Refresh"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

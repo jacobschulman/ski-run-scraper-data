@@ -1,0 +1,74 @@
+{
+  "resort": "crestedbutte",
+  "resortName": "Crested Butte",
+  "date": "2025-12-13",
+  "generated": "2025-12-13T12:33:58.007Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 25,
+          "yesterday": 24,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 14,
+          "yesterday": 14,
+          "delta": 0
+        },
+        "totalTrails": 168
+      },
+      "newlyOpened": [
+        {
+          "name": "Lower Canaan",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-12",
+        "avgWaitTime": 1.7,
+        "maxWaitTime": 6,
+        "totalLiftsTracked": 15,
+        "busiest": [
+          {
+            "name": "Red Lady Express",
+            "avgWait": 1.9,
+            "peakWait": 6,
+            "type": "quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "Paradise Express",
+            "avgWait": 1.5,
+            "peakWait": 4,
+            "type": "quad",
+            "mountain": "Back Side"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today"
+    ],
+    "trends": [
+      "1 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

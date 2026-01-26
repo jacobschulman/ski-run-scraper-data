@@ -1,0 +1,24 @@
+{
+  "resort": "cypressmountain",
+  "resortName": "Cypress Mountain",
+  "provider": "ikon",
+  "liftWaitTimesAvailable": false,
+  "liftCount": 1,
+  "lifts": [
+    {
+      "liftId": "reportpal:null",
+      "name": "Eagle Express",
+      "slug": "eagle-express",
+      "mountain": "Eagle Express",
+      "type": "Detachable Chairlift",
+      "capacity": 4,
+      "status": "Open",
+      "waitMinutes": null,
+      "openTime": "09:00",
+      "closeTime": "22:00",
+      "avgWaitTime": null,
+      "lastUpdated": "2026-01-26T19:57:21.463Z"
+    }
+  ],
+  "generated": "2026-01-26T19:57:40.752Z"
+}

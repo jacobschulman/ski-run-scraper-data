@@ -1,0 +1,232 @@
+{
+  "resort": "snowbird",
+  "resortName": "Snowbird",
+  "date": "2026-01-13",
+  "generated": "2026-01-14T06:29:01.675Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Packed Powder",
+        "yesterday": "Packed Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 157,
+          "yesterday": 149,
+          "delta": 8
+        },
+        "groomedTrails": {
+          "today": 50,
+          "yesterday": 47,
+          "delta": 3
+        },
+        "totalTrails": 200
+      },
+      "newlyOpened": [
+        {
+          "name": "Mid-Baldy Traverse",
+          "difficulty": "Double Black",
+          "area": "Peruvian Gulch"
+        },
+        {
+          "name": "Center of Gravity",
+          "difficulty": "Double Black",
+          "area": "Peruvian Gulch"
+        },
+        {
+          "name": "Fields of Glory",
+          "difficulty": "Double Black",
+          "area": "Peruvian Gulch"
+        },
+        {
+          "name": "West Baldy",
+          "difficulty": "Double Black",
+          "area": "Peruvian Gulch"
+        },
+        {
+          "name": "High Baldy Traverse",
+          "difficulty": "Double Black",
+          "area": "Peruvian Gulch"
+        },
+        {
+          "name": "Venus Line",
+          "difficulty": "Double Black",
+          "area": "Peruvian Gulch"
+        },
+        {
+          "name": "Thanks for the Memories",
+          "difficulty": "Double Black",
+          "area": "Peruvian Gulch"
+        },
+        {
+          "name": "Gun Towers",
+          "difficulty": "Double Black",
+          "area": "Peruvian Gulch"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Bluebell",
+          "difficulty": "Blue",
+          "area": "Gad Valley"
+        },
+        {
+          "name": "Road to Provo",
+          "difficulty": "Black",
+          "area": "Gad Valley"
+        },
+        {
+          "name": "Condo Bypass",
+          "difficulty": "Blue",
+          "area": "Peruvian Gulch"
+        },
+        {
+          "name": "Powder Paradise Trail",
+          "difficulty": "Black",
+          "area": "Mineral Basin Trails"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Harper's Ferry East",
+          "difficulty": "Black",
+          "area": "Gad Valley"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-12",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 14,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-13",
+        "high_f": null,
+        "low_f": 30,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-14",
+          "high_f": 36,
+          "low_f": 30,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-15",
+          "high_f": 33,
+          "low_f": 27,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-16",
+          "high_f": 26,
+          "low_f": 25,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-14",
+        "high_f": 36,
+        "low_f": 30,
+        "description": "Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "8 new trails opened today",
+      "4 trails freshly groomed"
+    ],
+    "trends": [
+      "8 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Bluebell - perfect for intermediate skiers",
+      "Fresh corduroy on Road to Provo - challenging for advanced skiers",
+      "Fresh corduroy on Condo Bypass - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "More Mountain to Explore",
+    "body": "157 of 200 trails are open with 50 groomed. Windy with a temperatures TBD. 8 new runs just opened up. Time to explore fresh terrain. Windy conditions expected. Upper lifts may have holds or delays.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_windy",
+          "category": "weather",
+          "priority": 45,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 3,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Fresh Terrain Unlocked"
+      },
+      "dayOfWeek": "Tuesday"
+    }
+  },
+  "errors": []
+}

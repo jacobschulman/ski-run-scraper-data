@@ -1,0 +1,250 @@
+{
+  "resort": "stowe",
+  "resortName": "Stowe",
+  "date": "2026-01-25",
+  "generated": "2026-01-25T10:36:53.171Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 2,
+      "24hour_cm": 5,
+      "48hour_inches": 7,
+      "48hour_cm": 17,
+      "7day_inches": 18,
+      "7day_cm": 45,
+      "season_total_inches": 196,
+      "season_total_cm": 497,
+      "conditions": {
+        "today": "Packed Powder",
+        "yesterday": "Packed Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 124,
+          "yesterday": 122,
+          "delta": 2
+        },
+        "groomedTrails": {
+          "today": 75,
+          "yesterday": 70,
+          "delta": 5
+        },
+        "totalTrails": 128
+      },
+      "newlyOpened": [
+        {
+          "name": "Duck Walk",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Standard",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Christiana",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Haychute",
+          "difficulty": "DoubleBlack",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Hayride",
+          "difficulty": "Black",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Liftline",
+          "difficulty": "DoubleBlack",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Midway",
+          "difficulty": "Black",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Upper Hayride",
+          "difficulty": "Black",
+          "area": "Mt. Mansfield - FourRunner"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Lookout Loop",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Lower National",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-24",
+        "avgWaitTime": 3.8,
+        "maxWaitTime": 12,
+        "totalLiftsTracked": 12,
+        "busiest": [
+          {
+            "name": "FourRunner Quad",
+            "avgWait": 8.5,
+            "peakWait": 11,
+            "type": "Quad",
+            "mountain": "Mt. Mansfield - FourRunner"
+          },
+          {
+            "name": "Mansfield Gondola",
+            "avgWait": 3.8,
+            "peakWait": 8,
+            "type": "Gondola",
+            "mountain": "Mt. Mansfield - Gondola"
+          },
+          {
+            "name": "Sunrise Lift",
+            "avgWait": 3.4,
+            "peakWait": 12,
+            "type": "Six Pack",
+            "mountain": "Mt. Mansfield - FourRunner"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-25",
+        "high_f": 7,
+        "low_f": -11,
+        "high_c": -14,
+        "low_c": -24,
+        "description": "Snow & Wind",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-26T05:00:00Z",
+          "high_f": 8,
+          "low_f": -4,
+          "high_c": -14,
+          "low_c": -20,
+          "description": "Snow & Wind",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-27T05:00:00Z",
+          "high_f": -2,
+          "low_f": -7,
+          "high_c": -19,
+          "low_c": -22,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-28T05:00:00Z",
+          "high_f": -2,
+          "low_f": -6,
+          "high_c": -19,
+          "low_c": -21,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-26T05:00:00Z",
+        "high_f": 8,
+        "low_f": -4,
+        "high_c": -14,
+        "low_c": -20,
+        "description": "Snow & Wind",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2 new trails opened today",
+      "6 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 18\" in last 7 days",
+      "2 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Christiana - perfect for intermediate skiers",
+      "Fresh corduroy on Haychute - expert terrain only",
+      "Fresh corduroy on Hayride - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Stormy Conditions",
+    "body": "2\" of fresh snow settled in overnight. Not a powder day, but an upgrade. 6 runs freshly groomed, mostly in Mt. Mansfield - FourRunner. Watch for crowds at FourRunner Quad, which saw 12-minute waits yesterday.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_storm_wind",
+          "category": "weather",
+          "priority": 82,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "body"
+        },
+        {
+          "id": "grooming_moderate",
+          "category": "terrain",
+          "priority": 55,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_moderate",
+          "category": "lifts",
+          "priority": 60,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 10,
+      "headlineSelection": {
+        "condition": "storm_wind",
+        "variationIndex": 3,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": null
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,183 @@
+{
+  "resort": "sundayriver",
+  "resortName": "Sunday River",
+  "date": "2025-12-22",
+  "generated": "2025-12-23T04:34:46.313Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 65,
+          "yesterday": 61,
+          "delta": 4
+        },
+        "groomedTrails": {
+          "today": 60,
+          "yesterday": 57,
+          "delta": 3
+        },
+        "totalTrails": 144
+      },
+      "newlyOpened": [
+        {
+          "name": "Jim's Whim",
+          "difficulty": "Black",
+          "area": "LOCKE MOUNTAIN"
+        },
+        {
+          "name": "Monday Mourning",
+          "difficulty": "Black",
+          "area": "LOCKE MOUNTAIN"
+        },
+        {
+          "name": "T2",
+          "difficulty": "Black",
+          "area": "LOCKE MOUNTAIN"
+        },
+        {
+          "name": "T72",
+          "difficulty": "Blue",
+          "area": "NORTH PEAK"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-22",
+        "high_f": null,
+        "low_f": 12,
+        "high_c": null,
+        "low_c": -11,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-23",
+          "high_f": 20,
+          "low_f": 18,
+          "high_c": -6,
+          "low_c": -8,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 4,
+          "snowfall_expected": 4
+        },
+        {
+          "date": "2025-12-24",
+          "high_f": 19,
+          "low_f": 15,
+          "high_c": -7,
+          "low_c": -9,
+          "description": "Cloudy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2025-12-25",
+          "high_f": 18,
+          "low_f": -3,
+          "high_c": -8,
+          "low_c": -20,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-23",
+        "high_f": 20,
+        "low_f": 18,
+        "high_c": -6,
+        "low_c": -8,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 4,
+        "snowfall_expected": 4
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "4 new trails opened today"
+    ],
+    "trends": [
+      "4 more trails open than yesterday",
+      "4\" snow expected Tuesday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "More Mountain to Explore",
+    "body": "The rundown: 65 trails open, 60 groomed. Partly Cloudy with temps around null°. Rope drop! 4 trails opened overnight, expanding your playground significantly. The forecast is flirting with us: light snow expected. Not a dump, but we'll take it.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_snow_coming",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 2,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "{newTrailsCount} New {NewTrailWord} Today"
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

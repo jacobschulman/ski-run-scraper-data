@@ -1,0 +1,67 @@
+{
+  "resort": "buttermilk",
+  "resortName": "Buttermilk",
+  "date": "2026-01-03",
+  "generated": "2026-01-04T06:26:11.552Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 38,
+          "yesterday": 38,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 7,
+          "yesterday": 5,
+          "delta": 2
+        },
+        "totalTrails": 52
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Larkspur",
+          "difficulty": "Beginner",
+          "area": "West Buttermilk"
+        },
+        {
+          "name": "Westward Ho",
+          "difficulty": "Beginner",
+          "area": "West Buttermilk"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-02",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 5,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 40% from yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Larkspur - all skill levels",
+      "Fresh corduroy on Westward Ho - all skill levels"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

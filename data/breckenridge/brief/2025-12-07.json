@@ -1,0 +1,192 @@
+{
+  "resort": "breckenridge",
+  "resortName": "Breckenridge",
+  "date": "2025-12-07",
+  "generated": "2025-12-07T16:21:24.348Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 9,
+      "overnight_cm": 22,
+      "24hour_inches": 9,
+      "24hour_cm": 22,
+      "48hour_inches": 17,
+      "48hour_cm": 43,
+      "7day_inches": 25,
+      "7day_cm": 63,
+      "season_total_inches": 37,
+      "season_total_cm": 94,
+      "conditions": {
+        "today": "Early Season",
+        "yesterday": "Early Season"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 12,
+          "yesterday": 12,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 9,
+          "yesterday": 9,
+          "delta": 0
+        },
+        "totalTrails": 193
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-06",
+        "avgWaitTime": 4,
+        "maxWaitTime": 21,
+        "totalLiftsTracked": 35,
+        "busiest": [
+          {
+            "name": "Quicksilver SuperChair",
+            "avgWait": 5.7,
+            "peakWait": 21,
+            "type": "six",
+            "mountain": "Peak 9"
+          },
+          {
+            "name": "Mercury SuperChair",
+            "avgWait": 4.4,
+            "peakWait": 10,
+            "type": "quad",
+            "mountain": "Peak 9"
+          },
+          {
+            "name": "Rip's Ride",
+            "avgWait": 4.4,
+            "peakWait": 8,
+            "type": "quad",
+            "mountain": "Peak 8"
+          },
+          {
+            "name": "Beaver Run SuperChair",
+            "avgWait": 4.3,
+            "peakWait": 20,
+            "type": "quad",
+            "mountain": "Peak 9"
+          },
+          {
+            "name": "Colorado SuperChair",
+            "avgWait": 3.9,
+            "peakWait": 7,
+            "type": "six",
+            "mountain": "Peak 8"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-07",
+        "high_f": 21,
+        "low_f": 9,
+        "high_c": -6,
+        "low_c": -13,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-08T07:00:00Z",
+          "high_f": 26,
+          "low_f": 14,
+          "high_c": -4,
+          "low_c": -10,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-09T07:00:00Z",
+          "high_f": 33,
+          "low_f": 16,
+          "high_c": null,
+          "low_c": -9,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-10T07:00:00Z",
+          "high_f": 34,
+          "low_f": 26,
+          "high_c": 1,
+          "low_c": -4,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-08T07:00:00Z",
+        "high_f": 26,
+        "low_f": 14,
+        "high_c": -4,
+        "low_c": -10,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "9\" fresh snow overnight",
+      "9\" in last 24 hours - powder day!"
+    ],
+    "trends": [
+      "Great week for snow - 25\" in last 7 days"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Powder Day Alert!",
+    "body": "Powder alert with 9\" of fresh overnight and soft conditions across the hill. Watch for crowds at Quicksilver SuperChair, which peaked around 21 minutes yesterday.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_watch_crowds",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3
+    }
+  },
+  "errors": []
+}

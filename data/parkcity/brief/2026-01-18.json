@@ -1,0 +1,344 @@
+{
+  "resort": "parkcity",
+  "resortName": "Park City",
+  "date": "2026-01-18",
+  "generated": "2026-01-18T12:35:31.152Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 83,
+      "season_total_cm": 210,
+      "conditions": {
+        "today": "Packed Powder",
+        "yesterday": "Packed Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 211,
+          "yesterday": 202,
+          "delta": 9
+        },
+        "groomedTrails": {
+          "today": 69,
+          "yesterday": 60,
+          "delta": 9
+        },
+        "totalTrails": 349
+      },
+      "newlyOpened": [
+        {
+          "name": "Dawn",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Elk Dance",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Lazy Day",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "OO2",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Oops",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Reaper",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Sandman",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Trance",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Winter Way",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Homelite",
+          "difficulty": "DoubleBlack",
+          "area": "Jupiter"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Tranquility",
+          "difficulty": "Black",
+          "area": "Peak 5/9990/Tombstone"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Lazy Day",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "McDonalds Meadow",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "OO2",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Pipe Dream",
+          "difficulty": "Black",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Reaper",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Sandman",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Trance",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Winter Way",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Kokopelli",
+          "difficulty": "Blue",
+          "area": "OBX/Saddleback/Sun Peak"
+        },
+        {
+          "name": "Sidewinder",
+          "difficulty": "Black",
+          "area": "Peak 5/9990/Tombstone"
+        },
+        {
+          "name": "Upper Crowning Glory",
+          "difficulty": "Blue",
+          "area": "Peak 5/9990/Tombstone"
+        },
+        {
+          "name": "Keystone",
+          "difficulty": "Blue",
+          "area": "Silverlode/Thaynes/Motherlode"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Phantasm",
+          "difficulty": "Black",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Twilight",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Eclipse",
+          "difficulty": "Blue",
+          "area": "OBX/Saddleback/Sun Peak"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-17",
+        "avgWaitTime": 3.4,
+        "maxWaitTime": 28,
+        "totalLiftsTracked": 43,
+        "busiest": [
+          {
+            "name": "Town Lift",
+            "avgWait": 8.5,
+            "peakWait": 21,
+            "type": "Triple",
+            "mountain": "Payday/Town/Crescent"
+          },
+          {
+            "name": "First Time Lift",
+            "avgWait": 8.4,
+            "peakWait": 17,
+            "type": "Quad",
+            "mountain": "Payday/Town/Crescent"
+          },
+          {
+            "name": "High Meadow",
+            "avgWait": 6.6,
+            "peakWait": 21,
+            "type": "Quad",
+            "mountain": "OBX/Saddleback/Sun Peak"
+          },
+          {
+            "name": "Silverlode Lift",
+            "avgWait": 6.4,
+            "peakWait": 12,
+            "type": "Six Pack",
+            "mountain": "Silverlode/Thaynes/Motherlode"
+          },
+          {
+            "name": "Crescent Lift",
+            "avgWait": 6.1,
+            "peakWait": 28,
+            "type": "Quad",
+            "mountain": "Payday/Town/Crescent"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-18",
+        "high_f": 39,
+        "low_f": 24,
+        "high_c": 4,
+        "low_c": -4,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-19T07:00:00Z",
+          "high_f": 33,
+          "low_f": 21,
+          "high_c": null,
+          "low_c": -6,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-20T07:00:00Z",
+          "high_f": 37,
+          "low_f": 19,
+          "high_c": 2,
+          "low_c": -7,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-21T07:00:00Z",
+          "high_f": 38,
+          "low_f": 21,
+          "high_c": 3,
+          "low_c": -6,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-19T07:00:00Z",
+        "high_f": 33,
+        "low_f": 21,
+        "high_c": null,
+        "low_c": -6,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "10 new trails opened today",
+      "12 trails freshly groomed"
+    ],
+    "trends": [
+      "9 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Lazy Day - perfect for intermediate skiers",
+      "Fresh corduroy on McDonalds Meadow - perfect for intermediate skiers",
+      "Fresh corduroy on OO2 - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "The Map Got Bigger",
+    "body": "211 of 349 trails are open with 69 groomed. Clear with a high of 39°F. 10 new runs just opened up. Time to explore fresh terrain. Heads up: Town Lift peaked at 28 minutes yesterday. Consider alternatives.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_busy",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 4,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "New Runs Now Open"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

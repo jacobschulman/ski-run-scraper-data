@@ -1,0 +1,221 @@
+{
+  "resort": "attitash",
+  "resortName": "Attitash",
+  "date": "2026-01-18",
+  "generated": "2026-01-18T10:22:08.073Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 2,
+      "overnight_cm": 5,
+      "24hour_inches": 2,
+      "24hour_cm": 5,
+      "48hour_inches": 2,
+      "48hour_cm": 5,
+      "7day_inches": 5,
+      "7day_cm": 12,
+      "season_total_inches": 36,
+      "season_total_cm": 92,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 44,
+          "yesterday": 38,
+          "delta": 6
+        },
+        "groomedTrails": {
+          "today": 40,
+          "yesterday": 38,
+          "delta": 2
+        },
+        "totalTrails": 76
+      },
+      "newlyOpened": [
+        {
+          "name": "Farther Out",
+          "difficulty": "Blue",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Hall Street",
+          "difficulty": "Blue",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Humphrey's Ledge",
+          "difficulty": "Black",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Moat",
+          "difficulty": "Blue",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Bumper",
+          "difficulty": "Blue",
+          "area": "Bear Peak"
+        },
+        {
+          "name": "Crawfords Path",
+          "difficulty": "Blue",
+          "area": "Bear Peak"
+        },
+        {
+          "name": "Quiver",
+          "difficulty": "Black",
+          "area": "Bear Peak"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Trillium",
+          "difficulty": "Blue",
+          "area": "Bear Peak"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Humphrey's Ledge",
+          "difficulty": "Black",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Moat",
+          "difficulty": "Blue",
+          "area": "Attitash Peak"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-17",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 8,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-18",
+        "high_f": 31,
+        "low_f": 20,
+        "high_c": -1,
+        "low_c": -7,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-19T05:00:00Z",
+          "high_f": 27,
+          "low_f": 16,
+          "high_c": -3,
+          "low_c": -9,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-20T05:00:00Z",
+          "high_f": 16,
+          "low_f": 6,
+          "high_c": -9,
+          "low_c": -15,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-21T05:00:00Z",
+          "high_f": 17,
+          "low_f": -2,
+          "high_c": -8,
+          "low_c": -19,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-19T05:00:00Z",
+        "high_f": 27,
+        "low_f": 16,
+        "high_c": -3,
+        "low_c": -9,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2\" fresh snow overnight",
+      "7 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "6 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Humphrey's Ledge - challenging for advanced skiers",
+      "Fresh corduroy on Moat - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "The Map Got Bigger",
+    "body": "2\" of fresh snow settled in overnight. Not a powder day, but an upgrade. Terrain expanding: 7 new trails opening up more options.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 5,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Beat the Weekend Rush"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,313 @@
+{
+  "resort": "palisades",
+  "resortName": "Palisades Tahoe",
+  "date": "2026-01-02",
+  "generated": "2026-01-03T07:16:17.079Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 3,
+      "overnight_cm": 8,
+      "24hour_inches": 3,
+      "24hour_cm": 8,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 18,
+      "7day_cm": 46,
+      "season_total_inches": 105,
+      "season_total_cm": 267,
+      "conditions": {
+        "today": "Machine Groomed Variable Conditions",
+        "yesterday": "Machine Groomed Variable Conditions"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 114,
+          "yesterday": 98,
+          "delta": 16
+        },
+        "groomedTrails": {
+          "today": 28,
+          "yesterday": 28,
+          "delta": 0
+        },
+        "totalTrails": 301
+      },
+      "newlyOpened": [
+        {
+          "name": "Chicken Bowl",
+          "difficulty": "Very Difficult",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Garbage Chutes",
+          "difficulty": "Very Difficult",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Headwall Face",
+          "difficulty": "Very Difficult",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Hogsback",
+          "difficulty": "Very Difficult",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "National",
+          "difficulty": "Expert",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "North Bowl",
+          "difficulty": "Expert",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Ridge Run",
+          "difficulty": "Intermediate",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Siberia Ridge",
+          "difficulty": "Very Difficult",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Backside",
+          "difficulty": "Very Difficult",
+          "area": "Emigrant Peak"
+        },
+        {
+          "name": "Emigrant Face",
+          "difficulty": "Intermediate",
+          "area": "Emigrant Peak"
+        },
+        {
+          "name": "Monument Ridge",
+          "difficulty": "Intermediate",
+          "area": "Emigrant Peak"
+        },
+        {
+          "name": "Wolverine",
+          "difficulty": "Intermediate",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Art's Knob",
+          "difficulty": "Very Difficult",
+          "area": "Scott/Lakeview Peak"
+        },
+        {
+          "name": "Counterweight Gully",
+          "difficulty": "Expert",
+          "area": "Scott/Lakeview Peak"
+        },
+        {
+          "name": "Expert Shortcut",
+          "difficulty": "Very Difficult",
+          "area": "Scott/Lakeview Peak"
+        },
+        {
+          "name": "Hidden Knolls",
+          "difficulty": "Very Difficult",
+          "area": "Scott/Lakeview Peak"
+        },
+        {
+          "name": "Our Father",
+          "difficulty": "Expert",
+          "area": "Scott/Lakeview Peak"
+        },
+        {
+          "name": "Sherwood Cliffs",
+          "difficulty": "Expert",
+          "area": "Scott/Lakeview Peak"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Knob Hill",
+          "difficulty": "Intermediate",
+          "area": "Snow King Peak"
+        },
+        {
+          "name": "Montezuma's",
+          "difficulty": "Very Difficult",
+          "area": "Snow King Peak"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-01",
+        "avgWaitTime": 52.4,
+        "maxWaitTime": 278,
+        "totalLiftsTracked": 39,
+        "busiest": [
+          {
+            "name": "Funitel",
+            "avgWait": 124,
+            "peakWait": 253,
+            "type": "Funitel",
+            "mountain": "Emigrant Peak"
+          },
+          {
+            "name": "Exhibition",
+            "avgWait": 99,
+            "peakWait": 99,
+            "type": "Quad Chair",
+            "mountain": "KT Peak"
+          },
+          {
+            "name": "Gold Coast Express",
+            "avgWait": 86,
+            "peakWait": 278,
+            "type": "High-Speed 6 Chair",
+            "mountain": "Emigrant Peak"
+          },
+          {
+            "name": "Shirley Lake Express",
+            "avgWait": 85.1,
+            "peakWait": 230,
+            "type": "High-Speed 6 Chair",
+            "mountain": "Granite Peak"
+          },
+          {
+            "name": "Mountain Meadow",
+            "avgWait": 74.8,
+            "peakWait": 113,
+            "type": "Triple Chair",
+            "mountain": "High Camp"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-02",
+        "high_f": null,
+        "low_f": 31,
+        "high_c": null,
+        "low_c": 0,
+        "description": "Rain Snow",
+        "snowfall_day_inches": 4,
+        "snowfall_night_inches": 2
+      },
+      "outlook": [
+        {
+          "date": "2026-01-03",
+          "high_f": 32,
+          "low_f": 27,
+          "high_c": 0,
+          "low_c": -3,
+          "description": "Rain Snow",
+          "snowfall_day_inches": 7,
+          "snowfall_night_inches": 7,
+          "snowfall_expected": 14
+        },
+        {
+          "date": "2026-01-04",
+          "high_f": 28,
+          "low_f": 25,
+          "high_c": -2,
+          "low_c": -4,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 9,
+          "snowfall_night_inches": 5,
+          "snowfall_expected": 14
+        },
+        {
+          "date": "2026-01-05",
+          "high_f": 28,
+          "low_f": 23,
+          "high_c": -2,
+          "low_c": -5,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-03",
+        "high_f": 32,
+        "low_f": 27,
+        "high_c": 0,
+        "low_c": -3,
+        "description": "Rain Snow",
+        "snowfall_day_inches": 7,
+        "snowfall_night_inches": 7,
+        "snowfall_expected": 14
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": true
+    },
+    "alerts": [
+      "3\" fresh snow overnight",
+      "18 new trails opened today"
+    ],
+    "trends": [
+      "Great week for snow - 18\" in last 7 days",
+      "16 more trails open than yesterday",
+      "High demand yesterday - average wait time 52.4 min",
+      "14\" snow expected Saturday"
+    ],
+    "recommendations": [
+      "Funitel had longest waits (124 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Boom Boom Pow!",
+    "body": "Overnight dusting of 3\" means the hardpack got a makeover. Looking good out there. The ski patrol has been busy—18 additional trails are now yours to enjoy. Watch for crowds at Funitel, which peaked around 278 minutes yesterday.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_storm_major",
+          "category": "weather",
+          "priority": 88,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_watch_crowds",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 7,
+      "headlineSelection": {
+        "condition": "storm_major",
+        "variationIndex": 6,
+        "totalVariations": 8,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Prepare for Pow!"
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
+  "errors": []
+}

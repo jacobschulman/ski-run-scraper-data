@@ -1,0 +1,118 @@
+{
+  "resort": "hunter",
+  "resortName": "Hunter Mountain",
+  "date": "2026-01-16",
+  "generated": "2026-01-16T10:23:49.799Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 50,
+          "yesterday": 53,
+          "delta": -3
+        },
+        "groomedTrails": {
+          "today": 45,
+          "yesterday": 48,
+          "delta": -3
+        },
+        "totalTrails": 71
+      },
+      "newlyOpened": [
+        {
+          "name": "Fordham Road",
+          "difficulty": "Green",
+          "area": "Hunter East"
+        },
+        {
+          "name": "Upper K27",
+          "difficulty": "Black",
+          "area": "Main Mountain"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Twilight",
+          "difficulty": "Black",
+          "area": "Hunter North"
+        },
+        {
+          "name": "Lower 42nd Street",
+          "difficulty": "Blue",
+          "area": "Main Mountain"
+        },
+        {
+          "name": "Lower Broadway",
+          "difficulty": "Black",
+          "area": "Main Mountain"
+        },
+        {
+          "name": "Racers Edge",
+          "difficulty": "DoubleBlack",
+          "area": "Main Mountain"
+        },
+        {
+          "name": "Upper 42nd Street",
+          "difficulty": "Blue",
+          "area": "Main Mountain"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Fordham Road",
+          "difficulty": "Green",
+          "area": "Hunter East"
+        },
+        {
+          "name": "Upper K27",
+          "difficulty": "Black",
+          "area": "Main Mountain"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-15",
+        "avgWaitTime": 1.8,
+        "maxWaitTime": 3,
+        "totalLiftsTracked": 12,
+        "busiest": [
+          {
+            "name": "Kaatskill Flyer",
+            "avgWait": 2,
+            "peakWait": 3,
+            "type": "Six Pack",
+            "mountain": "Main Mountain"
+          },
+          {
+            "name": "Broadway Express",
+            "avgWait": 1.5,
+            "peakWait": 2,
+            "type": "Six Pack",
+            "mountain": "Main Mountain"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [],
+    "recommendations": [
+      "Fresh corduroy on Fordham Road - great for beginners",
+      "Fresh corduroy on Upper K27 - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

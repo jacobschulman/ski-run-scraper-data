@@ -1,0 +1,216 @@
+{
+  "resort": "solitude",
+  "resortName": "Solitude",
+  "date": "2026-01-05",
+  "generated": "2026-01-06T06:28:24.650Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 10,
+      "overnight_cm": 25,
+      "24hour_inches": 14,
+      "24hour_cm": 36,
+      "48hour_inches": 16,
+      "48hour_cm": 41,
+      "7day_inches": 29,
+      "7day_cm": 74,
+      "season_total_inches": 99,
+      "season_total_cm": 251,
+      "conditions": {
+        "today": "Variable Conditions",
+        "yesterday": "Variable Conditions"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 56,
+          "yesterday": 53,
+          "delta": 3
+        },
+        "groomedTrails": {
+          "today": 15,
+          "yesterday": 11,
+          "delta": 4
+        },
+        "totalTrails": 107
+      },
+      "newlyOpened": [
+        {
+          "name": "Fluid Drive",
+          "difficulty": "Intermediate",
+          "area": "Eagle Ridge"
+        },
+        {
+          "name": "Wall Street",
+          "difficulty": "Intermediate",
+          "area": "Eagle Ridge"
+        },
+        {
+          "name": "Alta Bird",
+          "difficulty": "Intermediate",
+          "area": "Solitude Canyon"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Big Redman",
+          "difficulty": "Intermediate",
+          "area": "Nordic"
+        },
+        {
+          "name": "Lake Flat",
+          "difficulty": "Easy",
+          "area": "Nordic"
+        },
+        {
+          "name": "Little Redman",
+          "difficulty": "Easy",
+          "area": "Nordic"
+        },
+        {
+          "name": "Mid Redman",
+          "difficulty": "Easy",
+          "area": "Nordic"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-04",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 9,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-05",
+        "high_f": null,
+        "low_f": 20,
+        "high_c": null,
+        "low_c": -6,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-06",
+          "high_f": 29,
+          "low_f": 22,
+          "high_c": -1,
+          "low_c": -5,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-07",
+          "high_f": 25,
+          "low_f": 19,
+          "high_c": -4,
+          "low_c": -7,
+          "description": "Cloudy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 3,
+          "snowfall_expected": 4
+        },
+        {
+          "date": "2026-01-08",
+          "high_f": 18,
+          "low_f": 6,
+          "high_c": -8,
+          "low_c": -14,
+          "description": "Snow",
+          "snowfall_day_inches": 3,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 4
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-06",
+        "high_f": 29,
+        "low_f": 22,
+        "high_c": -1,
+        "low_c": -5,
+        "description": "Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "10\" fresh snow overnight",
+      "14\" in last 24 hours - powder day!",
+      "3 new trails opened today",
+      "4 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 29\" in last 7 days",
+      "Grooming increased 36% from yesterday",
+      "3 more trails open than yesterday",
+      "4\" snow expected Wednesday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Big Redman - all skill levels",
+      "Fresh corduroy on Lake Flat - all skill levels",
+      "Fresh corduroy on Little Redman - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Powder Emergency",
+    "body": "Deep day: 14\" overnight. Stashes are loaded, groomers are buried. Time to hunt. 3 new trails are now available. Nice little expansion. The weather models are locked in: 8\" of snow heading our way.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_deep",
+          "category": "snow",
+          "priority": 95,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_deep",
+          "category": "snow",
+          "priority": 95,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_storm",
+          "category": "weather",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "snow_deep",
+        "variationIndex": 1,
+        "totalVariations": 8,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Time to Call in Sick"
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

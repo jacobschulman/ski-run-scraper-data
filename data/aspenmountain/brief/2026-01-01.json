@@ -1,0 +1,52 @@
+{
+  "resort": "aspenmountain",
+  "resortName": "Aspen Mountain",
+  "date": "2026-01-01",
+  "generated": "2026-01-02T06:28:02.987Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 50,
+          "yesterday": 50,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 15,
+          "yesterday": 17,
+          "delta": -2
+        },
+        "totalTrails": 140
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": [
+        {
+          "name": "Buckhorn (Upper)",
+          "difficulty": "Intermediate",
+          "area": "Ajax Express"
+        },
+        {
+          "name": "North American",
+          "difficulty": "Intermediate",
+          "area": "Ajax Express"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

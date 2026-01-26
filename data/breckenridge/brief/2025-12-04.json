@@ -1,0 +1,195 @@
+{
+  "resort": "breckenridge",
+  "resortName": "Breckenridge",
+  "date": "2025-12-04",
+  "generated": "2025-12-04T21:23:51.010Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 1,
+      "overnight_cm": 2,
+      "24hour_inches": 1,
+      "24hour_cm": 2,
+      "48hour_inches": 3,
+      "48hour_cm": 7,
+      "7day_inches": 13,
+      "7day_cm": 33,
+      "season_total_inches": 19,
+      "season_total_cm": 48,
+      "conditions": {
+        "today": "Early Season",
+        "yesterday": "Early Season"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 9,
+          "yesterday": 7,
+          "delta": 2
+        },
+        "groomedTrails": {
+          "today": 9,
+          "yesterday": 7,
+          "delta": 2
+        },
+        "totalTrails": 193
+      },
+      "newlyOpened": [
+        {
+          "name": "Columbia",
+          "difficulty": "Blue",
+          "area": "Peak 9"
+        },
+        {
+          "name": "Sundown",
+          "difficulty": "Blue",
+          "area": "Peak 9"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Columbia",
+          "difficulty": "Blue",
+          "area": "Peak 9"
+        },
+        {
+          "name": "Sundown",
+          "difficulty": "Blue",
+          "area": "Peak 9"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-03",
+        "avgWaitTime": 4.4,
+        "maxWaitTime": 75,
+        "totalLiftsTracked": 35,
+        "busiest": [
+          {
+            "name": "Beaver Run SuperChair",
+            "avgWait": 14.8,
+            "peakWait": 75,
+            "type": "quad",
+            "mountain": "Peak 9"
+          },
+          {
+            "name": "Five SuperChair",
+            "avgWait": 5,
+            "peakWait": 5,
+            "type": "quad",
+            "mountain": "Peak 8"
+          },
+          {
+            "name": "Colorado SuperChair",
+            "avgWait": 3.9,
+            "peakWait": 27,
+            "type": "six",
+            "mountain": "Peak 8"
+          },
+          {
+            "name": "Rip's Ride",
+            "avgWait": 3.1,
+            "peakWait": 7,
+            "type": "quad",
+            "mountain": "Peak 8"
+          },
+          {
+            "name": "Peak 8 SuperConnect",
+            "avgWait": 2.9,
+            "peakWait": 11,
+            "type": "quad",
+            "mountain": "Peak 8"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-04",
+        "high_f": 18,
+        "low_f": null,
+        "high_c": -8,
+        "low_c": -18,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-05T07:00:00Z",
+          "high_f": 22,
+          "low_f": 8,
+          "high_c": -6,
+          "low_c": -14,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 2,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2025-12-06T07:00:00Z",
+          "high_f": 24,
+          "low_f": 14,
+          "high_c": -5,
+          "low_c": -10,
+          "description": "Snow",
+          "snowfall_day_inches": 4,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 5
+        },
+        {
+          "date": "2025-12-07T07:00:00Z",
+          "high_f": 20,
+          "low_f": 6,
+          "high_c": -7,
+          "low_c": -15,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-05T07:00:00Z",
+        "high_f": 22,
+        "low_f": 8,
+        "high_c": -6,
+        "low_c": -14,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 2,
+        "snowfall_expected": 2
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1\" new snow overnight",
+      "2 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 13\" in last 7 days",
+      "Grooming increased 29% from yesterday",
+      "2 more trails open than yesterday",
+      "2\" snow expected Friday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Columbia - perfect for intermediate skiers",
+      "Fresh corduroy on Sundown - perfect for intermediate skiers",
+      "Beaver Run SuperChair had longest waits (14.8 min avg) - consider alternatives"
+    ]
+  },
+  "errors": []
+}

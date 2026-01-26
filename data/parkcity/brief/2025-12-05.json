@@ -1,0 +1,196 @@
+{
+  "resort": "parkcity",
+  "resortName": "Park City",
+  "date": "2025-12-05",
+  "generated": "2025-12-05T12:38:05.356Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 2,
+      "48hour_cm": 5,
+      "7day_inches": 8,
+      "7day_cm": 20,
+      "season_total_inches": 13,
+      "season_total_cm": 33,
+      "conditions": {
+        "today": "Early Season",
+        "yesterday": "Early Season"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 6,
+          "yesterday": 0,
+          "delta": 6
+        },
+        "groomedTrails": {
+          "today": 6,
+          "yesterday": 0,
+          "delta": 6
+        },
+        "totalTrails": 349
+      },
+      "newlyOpened": [
+        {
+          "name": "Kokopelli",
+          "difficulty": "Blue",
+          "area": "OBX/Saddleback/Sun Peak"
+        },
+        {
+          "name": "Mellow Moose",
+          "difficulty": "Green",
+          "area": "OBX/Saddleback/Sun Peak"
+        },
+        {
+          "name": "Sweet Pea",
+          "difficulty": "Green",
+          "area": "OBX/Saddleback/Sun Peak"
+        },
+        {
+          "name": "Bonanza Access",
+          "difficulty": "Green",
+          "area": "Payday/Town/Crescent"
+        },
+        {
+          "name": "Homerun (Lower)",
+          "difficulty": "Green",
+          "area": "Payday/Town/Crescent"
+        },
+        {
+          "name": "Turtle Trail",
+          "difficulty": "Green",
+          "area": "Payday/Town/Crescent"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Kokopelli",
+          "difficulty": "Blue",
+          "area": "OBX/Saddleback/Sun Peak"
+        },
+        {
+          "name": "Mellow Moose",
+          "difficulty": "Green",
+          "area": "OBX/Saddleback/Sun Peak"
+        },
+        {
+          "name": "Sweet Pea",
+          "difficulty": "Green",
+          "area": "OBX/Saddleback/Sun Peak"
+        },
+        {
+          "name": "Bonanza Access",
+          "difficulty": "Green",
+          "area": "Payday/Town/Crescent"
+        },
+        {
+          "name": "Homerun (Lower)",
+          "difficulty": "Green",
+          "area": "Payday/Town/Crescent"
+        },
+        {
+          "name": "Turtle Trail",
+          "difficulty": "Green",
+          "area": "Payday/Town/Crescent"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-04",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 44,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-05",
+        "high_f": 32,
+        "low_f": 24,
+        "high_c": null,
+        "low_c": -5,
+        "description": "Snow",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-06T07:00:00Z",
+          "high_f": 33,
+          "low_f": 25,
+          "high_c": null,
+          "low_c": -4,
+          "description": "Rain/Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-07T07:00:00Z",
+          "high_f": 33,
+          "low_f": 19,
+          "high_c": null,
+          "low_c": -7,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-08T07:00:00Z",
+          "high_f": 35,
+          "low_f": 25,
+          "high_c": 1,
+          "low_c": -4,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-06T07:00:00Z",
+        "high_f": 33,
+        "low_f": 25,
+        "high_c": null,
+        "low_c": -4,
+        "description": "Rain/Snow",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "6 new trails opened today",
+      "6 trails freshly groomed"
+    ],
+    "trends": [
+      "Steady snowfall - 8\" in last 7 days",
+      "6 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Kokopelli - perfect for intermediate skiers",
+      "Fresh corduroy on Mellow Moose - great for beginners",
+      "Fresh corduroy on Sweet Pea - great for beginners"
+    ]
+  },
+  "errors": []
+}

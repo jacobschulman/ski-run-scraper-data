@@ -1,0 +1,49 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2025-12-20",
+  "generated": "2025-12-20T10:22:10.429Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 31,
+          "yesterday": 31,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 27,
+          "yesterday": 27,
+          "delta": 0
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-19",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 19,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

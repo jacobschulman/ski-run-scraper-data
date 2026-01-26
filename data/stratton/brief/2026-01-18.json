@@ -1,0 +1,235 @@
+{
+  "resort": "stratton",
+  "resortName": "Stratton",
+  "date": "2026-01-18",
+  "generated": "2026-01-19T04:48:35.532Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 2,
+      "overnight_cm": 5,
+      "24hour_inches": 8,
+      "24hour_cm": 20,
+      "48hour_inches": 8,
+      "48hour_cm": 20,
+      "7day_inches": 12,
+      "7day_cm": 30,
+      "season_total_inches": 86,
+      "season_total_cm": 218,
+      "conditions": {
+        "today": "Machine Groomed Packed Powder",
+        "yesterday": "Machine Groomed Variable Conditions"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 108,
+          "yesterday": 101,
+          "delta": 7
+        },
+        "groomedTrails": {
+          "today": 76,
+          "yesterday": 76,
+          "delta": 0
+        },
+        "totalTrails": 123
+      },
+      "newlyOpened": [
+        {
+          "name": "Big D",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Lower East Meadow",
+          "difficulty": "Easy",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Lower Liftline",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Rimeline",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Upper East Meadow",
+          "difficulty": "Easy",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Upper Standard",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Upper Switchback",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Lad's Legacy",
+          "difficulty": "Easy",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Liftline Cut Through",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Duck Soup",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Spillway",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-17",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 14,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-18",
+        "high_f": null,
+        "low_f": 16,
+        "high_c": null,
+        "low_c": -9,
+        "description": "Cloudy",
+        "snowfall_day_inches": 2,
+        "snowfall_night_inches": 1
+      },
+      "outlook": [
+        {
+          "date": "2026-01-19",
+          "high_f": 15,
+          "low_f": 2,
+          "high_c": -9,
+          "low_c": -17,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-20",
+          "high_f": 2,
+          "low_f": 1,
+          "high_c": -16,
+          "low_c": -17,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-21",
+          "high_f": 13,
+          "low_f": 14,
+          "high_c": -11,
+          "low_c": -10,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 1
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-19",
+        "high_f": 15,
+        "low_f": 2,
+        "high_c": -9,
+        "low_c": -17,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2\" fresh snow overnight",
+      "8\" in last 24 hours - powder day!",
+      "7 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 12\" in last 7 days",
+      "7 more trails open than yesterday",
+      "1\" snow expected Wednesday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Lad's Legacy - all skill levels",
+      "Fresh corduroy on Liftline Cut Through - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Powder Day Alert",
+    "body": "The mountain is absolutely loaded with 8\" of fresh. This is not a drill. New terrain alert: 7 trails added to the mix. Light snow possible in the forecast.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_flurries",
+          "category": "weather",
+          "priority": 30,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 0,
+        "totalVariations": 11,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Deep Day at {resortName}"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,292 @@
+{
+  "resort": "whistlerblackcomb",
+  "resortName": "Whistler Blackcomb",
+  "date": "2026-01-21",
+  "generated": "2026-01-21T13:43:56.802Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 189,
+      "season_total_cm": 482,
+      "conditions": {
+        "today": "Hard Packed",
+        "yesterday": "Hard Packed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 247,
+          "yesterday": 253,
+          "delta": -6
+        },
+        "groomedTrails": {
+          "today": 142,
+          "yesterday": 140,
+          "delta": 2
+        },
+        "totalTrails": 305
+      },
+      "newlyOpened": [
+        {
+          "name": "Tree Fort",
+          "difficulty": "Green",
+          "area": "Big Red / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Sunnyside Up",
+          "difficulty": "Green",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Bobcat Park",
+          "difficulty": "TerrainPark",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Chipmunk Park",
+          "difficulty": "TerrainPark",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Choker",
+          "difficulty": "TerrainPark",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Grey Line",
+          "difficulty": "TerrainPark",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Raptor's Ride",
+          "difficulty": "Black",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Watch Out",
+          "difficulty": "Black",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Where's Joe",
+          "difficulty": "Black",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Yard Sale",
+          "difficulty": "Black",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "White Light - Upper",
+          "difficulty": "Blue",
+          "area": "Crystal Ridge"
+        },
+        {
+          "name": "Enchanted Forest - Upper Entrance",
+          "difficulty": "Blue",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Stoker - Rolls",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Sunset Boulevard",
+          "difficulty": "Green",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Krummholz",
+          "difficulty": "Blue",
+          "area": "Harmony"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Dave Murray Downhill - Upper",
+          "difficulty": "Black",
+          "area": "Big Red / Garbanzo / Village Gondola - Upper"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-20",
+        "avgWaitTime": 2.7,
+        "maxWaitTime": 23,
+        "totalLiftsTracked": 36,
+        "busiest": [
+          {
+            "name": "Whistler Village Gondola - Upper",
+            "avgWait": 5.1,
+            "peakWait": 11,
+            "type": "Gondola",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Peak Express",
+            "avgWait": 4,
+            "peakWait": 23,
+            "type": "Quad",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Excelerator Express",
+            "avgWait": 3.9,
+            "peakWait": 19,
+            "type": "Quad",
+            "mountain": "Blackcomb Lifts"
+          },
+          {
+            "name": "Excalibur Gondola - Upper",
+            "avgWait": 3.7,
+            "peakWait": 11,
+            "type": "Gondola",
+            "mountain": "Blackcomb Lifts"
+          },
+          {
+            "name": "Symphony Express",
+            "avgWait": 3.6,
+            "peakWait": 13,
+            "type": "Quad",
+            "mountain": "Whistler Lifts"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-21",
+        "high_f": 39,
+        "low_f": 32,
+        "high_c": 4,
+        "low_c": null,
+        "description": "A mix of sun and cloud.",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-22T02:10:58-07:00",
+          "high_f": 33,
+          "low_f": 33,
+          "high_c": 1,
+          "low_c": 1,
+          "description": "Sunny with cloudy periods.",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-23T02:10:58-07:00",
+          "high_f": 26,
+          "low_f": 24,
+          "high_c": -3,
+          "low_c": -4,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-24T02:10:58-07:00",
+          "high_f": 32,
+          "low_f": 24,
+          "high_c": null,
+          "low_c": -4,
+          "description": "Sunny with cloudy periods.",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-22T02:10:58-07:00",
+        "high_f": 33,
+        "low_f": 33,
+        "high_c": 1,
+        "low_c": 1,
+        "description": "Sunny with cloudy periods.",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2 new trails opened today",
+      "5 trails freshly groomed"
+    ],
+    "trends": [],
+    "recommendations": [
+      "Fresh corduroy on White Light - Upper - perfect for intermediate skiers",
+      "Fresh corduroy on Enchanted Forest - Upper Entrance - perfect for intermediate skiers",
+      "Fresh corduroy on Stoker - Rolls - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Rain at Base, Snow Up Top",
+    "body": "247 trails open, 142 groomed. A mix of sun and cloud., high of 39°. 5 runs freshly groomed, mostly in Crystal Ridge, Emerald / Garbanzo / Village Gondola - Upper, and more. Heads up: Whistler Village Gondola - Upper peaked at 23 minutes yesterday. Consider alternatives.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_mixed",
+          "category": "weather",
+          "priority": 195,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "grooming_moderate",
+          "category": "terrain",
+          "priority": 55,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_busy",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "weather_mixed",
+        "variationIndex": 1,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "{groomedCount} {GroomedRunWord} Groomed Overnight"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

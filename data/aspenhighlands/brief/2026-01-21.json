@@ -1,0 +1,216 @@
+{
+  "resort": "aspenhighlands",
+  "resortName": "Aspen Highlands",
+  "date": "2026-01-21",
+  "generated": "2026-01-22T06:29:18.925Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Open",
+        "yesterday": "Open"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 61,
+          "yesterday": 62,
+          "delta": -1
+        },
+        "groomedTrails": {
+          "today": 19,
+          "yesterday": 16,
+          "delta": 3
+        },
+        "totalTrails": 126
+      },
+      "newlyOpened": [],
+      "newlyClosed": [
+        {
+          "name": "Turk's Delight",
+          "difficulty": "DoubleBlack",
+          "area": "Upper Mountain"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Apple Strudel",
+          "difficulty": "Blue",
+          "area": "Mid Mountain"
+        },
+        {
+          "name": "Prospector Gulch",
+          "difficulty": "Blue",
+          "area": "Mid Mountain"
+        },
+        {
+          "name": "T-Lazy-7 Catwalk",
+          "difficulty": "Blue",
+          "area": "Thunderbowl"
+        },
+        {
+          "name": "Pyramid Park",
+          "difficulty": "Blue",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Scarlett's ",
+          "difficulty": "Blue",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Upper Meadows",
+          "difficulty": "Blue",
+          "area": "Upper Mountain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Exhibition",
+          "difficulty": "Blue",
+          "area": "Mid Mountain"
+        },
+        {
+          "name": "Broadway",
+          "difficulty": "Blue",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Wine Ridge",
+          "difficulty": "Blue",
+          "area": "Upper Mountain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-20",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 5,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-21",
+        "high_f": null,
+        "low_f": 15,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-22",
+          "high_f": 26,
+          "low_f": 18,
+          "description": "Mostly Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-23",
+          "high_f": 21,
+          "low_f": 13,
+          "description": "Cloudy",
+          "snowfall_day_inches": 7,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 7
+        },
+        {
+          "date": "2026-01-24",
+          "high_f": 13,
+          "low_f": -7,
+          "description": "Snow",
+          "snowfall_day_inches": 7,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 7
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-22",
+        "high_f": 26,
+        "low_f": 18,
+        "description": "Mostly Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "6 trails freshly groomed"
+    ],
+    "trends": [
+      "7\" snow expected Friday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Apple Strudel - perfect for intermediate skiers",
+      "Fresh corduroy on Prospector Gulch - perfect for intermediate skiers",
+      "Fresh corduroy on T-Lazy-7 Catwalk - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Storm Cycle Building",
+    "body": "61/126 trails spinning, 19 freshly groomed. Partly Cloudy. 6 runs freshly groomed, mostly in Mid Mountain, Thunderbowl, and more. The weather models are locked in: 14\" of snow heading our way.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "forecast_major_storm",
+          "category": "weather",
+          "priority": 92,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "grooming_moderate",
+          "category": "terrain",
+          "priority": 55,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_major_storm",
+          "category": "weather",
+          "priority": 92,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "storm_major",
+        "variationIndex": 2,
+        "totalVariations": 7,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Winter's Coming Back"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

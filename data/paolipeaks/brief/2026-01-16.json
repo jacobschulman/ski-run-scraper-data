@@ -1,0 +1,49 @@
+{
+  "resort": "paolipeaks",
+  "resortName": "Paoli Peaks",
+  "date": "2026-01-16",
+  "generated": "2026-01-16T10:23:49.814Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "totalTrails": 13
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-15",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 4,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

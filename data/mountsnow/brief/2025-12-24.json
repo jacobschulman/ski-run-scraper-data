@@ -1,0 +1,85 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2025-12-24",
+  "generated": "2025-12-24T10:25:16.744Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 35,
+          "yesterday": 35,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 33,
+          "yesterday": 33,
+          "delta": 0
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Inferno",
+          "difficulty": "TerrainPark",
+          "area": "Carinthia"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Charlie's Chase",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-23",
+        "avgWaitTime": 3.1,
+        "maxWaitTime": 11,
+        "totalLiftsTracked": 19,
+        "busiest": [
+          {
+            "name": "Bluebird Express",
+            "avgWait": 3.7,
+            "peakWait": 7,
+            "type": "Six Pack",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Nitro Express",
+            "avgWait": 2.8,
+            "peakWait": 11,
+            "type": "Quad",
+            "mountain": "Carinthia"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 2.7,
+            "peakWait": 5,
+            "type": "Quad",
+            "mountain": "Main Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today"
+    ],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

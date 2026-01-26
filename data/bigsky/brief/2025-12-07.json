@@ -1,0 +1,190 @@
+{
+  "resort": "bigsky",
+  "resortName": "Big Sky",
+  "date": "2025-12-07",
+  "generated": "2025-12-08T06:28:42.227Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 31,
+          "yesterday": 24,
+          "delta": 7
+        },
+        "groomedTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "totalTrails": 319
+      },
+      "newlyOpened": [
+        {
+          "name": "Huntley Hollow",
+          "difficulty": "Blue",
+          "area": "Swift Current Area"
+        },
+        {
+          "name": "Calamity Jane (Lower)",
+          "difficulty": "advanced intermediate",
+          "area": "Swift Current Area"
+        },
+        {
+          "name": "Calamity Jane (Upper)",
+          "difficulty": "advanced intermediate",
+          "area": "Swift Current Area"
+        },
+        {
+          "name": "White Magic",
+          "difficulty": "advanced intermediate",
+          "area": "Swift Current Area"
+        },
+        {
+          "name": "Buffalo Jump",
+          "difficulty": "Black",
+          "area": "Swift Current Area"
+        },
+        {
+          "name": "Rice Bowl",
+          "difficulty": "Black",
+          "area": "Swift Current Area"
+        },
+        {
+          "name": "Soul Hole",
+          "difficulty": "Black",
+          "area": "Swift Current Area"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-07",
+        "high_f": null,
+        "low_f": 21,
+        "high_c": null,
+        "low_c": -6,
+        "description": "Windy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-08",
+          "high_f": 26,
+          "low_f": 26,
+          "high_c": -3,
+          "low_c": -3,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-09",
+          "high_f": 30,
+          "low_f": 25,
+          "high_c": -1,
+          "low_c": -4,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2025-12-10",
+          "high_f": 35,
+          "low_f": 33,
+          "high_c": 1,
+          "low_c": 1,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-08",
+        "high_f": 26,
+        "low_f": 26,
+        "high_c": -3,
+        "low_c": -3,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "7 new trails opened today"
+    ],
+    "trends": [
+      "7 more trails open than yesterday",
+      "1\" snow expected Tuesday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Storm on the Horizon",
+    "body": "Terrain is expanding with 7 new trails opening up more room to roam. A storm is lining up, so expect conditions to evolve through the day. Snow expected today or tomorrow with conditions continuing to improve.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_storm_incoming",
+          "category": "weather",
+          "priority": 90,
+          "usedFor": "headline"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_storm_incoming",
+          "category": "weather",
+          "priority": 90,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_snow_today_tomorrow",
+          "category": "weather",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4
+    }
+  },
+  "errors": []
+}

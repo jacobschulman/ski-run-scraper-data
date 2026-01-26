@@ -1,0 +1,41 @@
+{
+  "resort": "stevenspass",
+  "resortName": "Stevens Pass",
+  "date": "2025-12-29",
+  "generated": "2025-12-29T13:36:33.702Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "totalTrails": 57
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

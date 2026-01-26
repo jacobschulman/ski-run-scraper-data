@@ -1,0 +1,398 @@
+{
+  "resort": "mammoth",
+  "resortName": "Mammoth Mountain",
+  "date": "2025-12-24",
+  "generated": "2025-12-25T07:19:15.112Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 36,
+      "24hour_cm": 91,
+      "48hour_inches": 36,
+      "48hour_cm": 91,
+      "7day_inches": 36,
+      "7day_cm": 91,
+      "season_total_inches": 53,
+      "season_total_cm": 135,
+      "conditions": {
+        "today": "Powder",
+        "yesterday": "Variable Conditions"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 101,
+          "yesterday": 56,
+          "delta": 45
+        },
+        "groomedTrails": {
+          "today": 17,
+          "yesterday": 15,
+          "delta": 2
+        },
+        "totalTrails": 191
+      },
+      "newlyOpened": [
+        {
+          "name": "Agee's Run",
+          "difficulty": "Very Difficult",
+          "area": "Main Lodge"
+        },
+        {
+          "name": "Comeback Trail",
+          "difficulty": "Slightly Difficult",
+          "area": "Main Lodge"
+        },
+        {
+          "name": "Comin' Thru",
+          "difficulty": "Slightly Difficult",
+          "area": "Main Lodge"
+        },
+        {
+          "name": "Dry Creek",
+          "difficulty": "Very Difficult",
+          "area": "Main Lodge"
+        },
+        {
+          "name": "Dry Creek (Lower)",
+          "difficulty": "Difficult",
+          "area": "Main Lodge"
+        },
+        {
+          "name": "Jill's Run",
+          "difficulty": "Easiest",
+          "area": "Main Lodge"
+        },
+        {
+          "name": "Old Comeback",
+          "difficulty": "Slightly Difficult",
+          "area": "Main Lodge"
+        },
+        {
+          "name": "Over Easy",
+          "difficulty": "Slightly Difficult",
+          "area": "Main Lodge"
+        },
+        {
+          "name": "Patrolmen's",
+          "difficulty": "Very Difficult",
+          "area": "Main Lodge"
+        },
+        {
+          "name": "Phantom's Escape",
+          "difficulty": "Slightly Difficult",
+          "area": "Main Lodge"
+        },
+        {
+          "name": "Ralphie's",
+          "difficulty": "Difficult",
+          "area": "Main Lodge"
+        },
+        {
+          "name": "Terry's Run",
+          "difficulty": "Difficult",
+          "area": "Main Lodge"
+        },
+        {
+          "name": "Training Wheels",
+          "difficulty": "Slightly Difficult",
+          "area": "Main Lodge"
+        },
+        {
+          "name": "Wall",
+          "difficulty": "Very Difficult",
+          "area": "Main Lodge"
+        },
+        {
+          "name": "Wall Street",
+          "difficulty": "Difficult",
+          "area": "Main Lodge"
+        },
+        {
+          "name": "Whitebark Ridge",
+          "difficulty": "Slightly Difficult",
+          "area": "Main Lodge"
+        },
+        {
+          "name": "Antin Alley / Chickadee",
+          "difficulty": "Slightly Difficult",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Avalanche",
+          "difficulty": "Difficult",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Big Bird",
+          "difficulty": "Easiest",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Bluejay",
+          "difficulty": "Very Difficult",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Carousel",
+          "difficulty": "Freestyle Terrain",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Crosswalk",
+          "difficulty": "Difficult",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Downhill (Upper)",
+          "difficulty": "Difficult",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Encore",
+          "difficulty": "Very Difficult",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Face of Five (Lower)",
+          "difficulty": "Very Difficult",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Face of Five (Upper)",
+          "difficulty": "Very Difficult",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Follow Me",
+          "difficulty": "Difficult",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Grizzly Lower",
+          "difficulty": "Very Difficult",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Hansel",
+          "difficulty": "Easiest",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Huck's Drop",
+          "difficulty": "Adventure Zone",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Hully Gully",
+          "difficulty": "Slightly Difficult",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Milk Run",
+          "difficulty": "Easiest",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Redtail",
+          "difficulty": "Difficult",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Redwing",
+          "difficulty": "Difficult",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Round About",
+          "difficulty": "Easiest",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Sanctuary",
+          "difficulty": "Very Difficult",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Side Show",
+          "difficulty": "Difficult",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "South Park",
+          "difficulty": "Freestyle Terrain",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Spring Canyon",
+          "difficulty": "Easiest",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Swell",
+          "difficulty": "Slightly Difficult",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "The Acts",
+          "difficulty": "Very Difficult",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Viva (Lower)",
+          "difficulty": "Very Difficult",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Way Home",
+          "difficulty": "Slightly Difficult",
+          "area": "Canyon Lodge"
+        },
+        {
+          "name": "Dave's Glades",
+          "difficulty": "Very Difficult",
+          "area": "Eagle Lodge"
+        },
+        {
+          "name": "Roma's Road",
+          "difficulty": "Slightly Difficult",
+          "area": "Eagle Lodge"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-23",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 25,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-24",
+        "high_f": null,
+        "low_f": 22,
+        "high_c": null,
+        "low_c": -6,
+        "description": "Snow Wind",
+        "snowfall_day_inches": 8,
+        "snowfall_night_inches": 4
+      },
+      "outlook": [
+        {
+          "date": "2025-12-25",
+          "high_f": 23,
+          "low_f": 21,
+          "high_c": -5,
+          "low_c": -6,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 13,
+          "snowfall_night_inches": 9,
+          "snowfall_expected": 22
+        },
+        {
+          "date": "2025-12-26",
+          "high_f": 20,
+          "low_f": 13,
+          "high_c": -7,
+          "low_c": -10,
+          "description": "Thundersnow",
+          "snowfall_day_inches": 7,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 7
+        },
+        {
+          "date": "2025-12-27",
+          "high_f": 22,
+          "low_f": 16,
+          "high_c": -6,
+          "low_c": -9,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-25",
+        "high_f": 23,
+        "low_f": 21,
+        "high_c": -5,
+        "low_c": -6,
+        "description": "Snow Wind",
+        "snowfall_day_inches": 13,
+        "snowfall_night_inches": 9,
+        "snowfall_expected": 22
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "36\" in last 24 hours - powder day!",
+      "45 new trails opened today"
+    ],
+    "trends": [
+      "Great week for snow - 36\" in last 7 days",
+      "45 more trails open than yesterday",
+      "22\" snow expected Thursday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Time to Call in Sick",
+    "body": "It's a 36\" day. You know what to do. First chair or regret it. Terrain is expanding with 45 new trails now open. More room to roam, less traffic to dodge. Big things coming. 29\" in the forecast—might be time to book that midweek day off.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_storm_major",
+          "category": "weather",
+          "priority": 88,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 6,
+        "totalVariations": 12,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Waist-Deep Conditions"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

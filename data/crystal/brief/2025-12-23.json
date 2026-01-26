@@ -1,0 +1,253 @@
+{
+  "resort": "crystal",
+  "resortName": "Crystal Mountain",
+  "date": "2025-12-23",
+  "generated": "2025-12-24T07:20:57.463Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 6,
+      "overnight_cm": 15,
+      "24hour_inches": 6,
+      "24hour_cm": 15,
+      "48hour_inches": 9,
+      "48hour_cm": 23,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 89,
+      "season_total_cm": 226,
+      "conditions": {
+        "today": "Obstacles Exist",
+        "yesterday": "Obstacles Exist"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 30,
+          "yesterday": 17,
+          "delta": 13
+        },
+        "groomedTrails": {
+          "today": 2,
+          "yesterday": 0,
+          "delta": 2
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "After Burn",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Downhill",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Little Magoo",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Lower Chappelle's",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Lower Magoo",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Mr. Magoo",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Queens",
+          "difficulty": "Easy",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Rolling Knolls",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Sideburn",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Upper Chappelle's",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Wally's Way",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Howeirds",
+          "difficulty": "Intermediate",
+          "area": "Frontside"
+        },
+        {
+          "name": "Upper Arwine's",
+          "difficulty": "Intermediate",
+          "area": "Frontside"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Downhill",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Queens",
+          "difficulty": "Easy",
+          "area": "Lower Mountain"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-22",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 11,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-23",
+        "high_f": null,
+        "low_f": 26,
+        "high_c": null,
+        "low_c": -3,
+        "description": "Snow Wind",
+        "snowfall_day_inches": 2,
+        "snowfall_night_inches": 1
+      },
+      "outlook": [
+        {
+          "date": "2025-12-24",
+          "high_f": 35,
+          "low_f": 24,
+          "high_c": 2,
+          "low_c": -4,
+          "description": "Rain Snow",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2025-12-25",
+          "high_f": 32,
+          "low_f": 26,
+          "high_c": 0,
+          "low_c": -3,
+          "description": "Snow",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2025-12-26",
+          "high_f": 27,
+          "low_f": 18,
+          "high_c": -3,
+          "low_c": -8,
+          "description": "Snow",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 2
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-24",
+        "high_f": 35,
+        "low_f": 24,
+        "high_c": 2,
+        "low_c": -4,
+        "description": "Rain Snow",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 1
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "6\" fresh snow overnight",
+      "6\" in last 24 hours - powder day!",
+      "13 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "13 more trails open than yesterday",
+      "1\" snow expected Wednesday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Downhill - all skill levels",
+      "Fresh corduroy on Queens - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Winter Delivered Big",
+    "body": "It's a 6\" day. You know what to do. First chair or regret it. Terrain is expanding with 13 new trails now open. More room to roam, less traffic to dodge. A little something coming our way. Light snow expected to dust things up nicely.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_snow_coming",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 4,
+        "totalVariations": 12,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Fresh Tracks for Days"
+      },
+      "dayOfWeek": "Tuesday"
+    }
+  },
+  "errors": []
+}

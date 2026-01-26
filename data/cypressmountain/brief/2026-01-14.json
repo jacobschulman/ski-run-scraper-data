@@ -1,0 +1,308 @@
+{
+  "resort": "cypressmountain",
+  "resortName": "Cypress Mountain",
+  "date": "2026-01-14",
+  "generated": "2026-01-15T07:23:05.647Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 2,
+      "overnight_cm": 5,
+      "24hour_inches": 7,
+      "24hour_cm": 17,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 12,
+      "7day_cm": 30,
+      "season_total_inches": 74,
+      "season_total_cm": 187,
+      "conditions": {
+        "today": "Powder",
+        "yesterday": "Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 47,
+          "yesterday": 20,
+          "delta": 27
+        },
+        "groomedTrails": {
+          "today": 33,
+          "yesterday": 19,
+          "delta": 14
+        },
+        "totalTrails": 96
+      },
+      "newlyOpened": [
+        {
+          "name": "Panorama",
+          "difficulty": "Novice",
+          "area": "Eagle Express"
+        },
+        {
+          "name": "Windjammer",
+          "difficulty": "Novice",
+          "area": "Eagle Express"
+        },
+        {
+          "name": "Fork",
+          "difficulty": "Blue",
+          "area": "Eagle Express"
+        },
+        {
+          "name": "Lower Fork",
+          "difficulty": "Blue",
+          "area": "Eagle Express"
+        },
+        {
+          "name": "PGS",
+          "difficulty": "Blue",
+          "area": "Eagle Express"
+        },
+        {
+          "name": "Cascade",
+          "difficulty": "Blue",
+          "area": "Eagle Express"
+        },
+        {
+          "name": "Collins",
+          "difficulty": "Novice",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Horizon",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Humpty Dumpty",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Cat Track (upper)",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Primary Power",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Horizon By-Pass",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Lower Bowen",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Hutch",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Gibsons",
+          "difficulty": "Black",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Cat Track (lower)",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "3 Bears",
+          "difficulty": "Blue",
+          "area": "Raven Ridge"
+        },
+        {
+          "name": "Runway",
+          "difficulty": "Novice",
+          "area": "Easy Rider"
+        },
+        {
+          "name": "T-33",
+          "difficulty": "Blue",
+          "area": "Sky Quad"
+        },
+        {
+          "name": "Horsefly Canyon",
+          "difficulty": "Blue",
+          "area": "Sky Quad"
+        },
+        {
+          "name": "Glades",
+          "difficulty": "Black",
+          "area": "Sky Quad"
+        },
+        {
+          "name": "Tomcat",
+          "difficulty": "Black",
+          "area": "Sky Quad"
+        },
+        {
+          "name": "Ripcord",
+          "difficulty": "Black",
+          "area": "Sky Quad"
+        },
+        {
+          "name": "Shuttle",
+          "difficulty": "Novice",
+          "area": "Midway Chair"
+        },
+        {
+          "name": "Blaster",
+          "difficulty": "Blue",
+          "area": "Midway Chair"
+        },
+        {
+          "name": "Hut Run",
+          "difficulty": "Blue",
+          "area": "Midway Chair"
+        },
+        {
+          "name": "Webb-Site",
+          "difficulty": "Blue",
+          "area": "Midway Chair"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Shuttle",
+          "difficulty": "Novice",
+          "area": "Midway Chair"
+        },
+        {
+          "name": "Blaster",
+          "difficulty": "Blue",
+          "area": "Midway Chair"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-13",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 6,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-14",
+        "high_f": null,
+        "low_f": 40,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-15",
+          "high_f": 46,
+          "low_f": 47,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-16",
+          "high_f": 50,
+          "low_f": 46,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-17",
+          "high_f": 47,
+          "low_f": 44,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-15",
+        "high_f": 46,
+        "low_f": 47,
+        "description": "Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2\" fresh snow overnight",
+      "7\" in last 24 hours - powder day!",
+      "27 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 12\" in last 7 days",
+      "Grooming increased 74% from yesterday",
+      "27 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Shuttle - all skill levels",
+      "Fresh corduroy on Blaster - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "MASSIVE Expansion: 27 New Runs",
+    "body": "7\" dumped overnight. The stashes are loaded and the groomers are buried. Major terrain release: 27 new options. Time to explore.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_massive",
+          "category": "terrain",
+          "priority": 95,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_massive",
+          "category": "terrain",
+          "priority": 95,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "terrain_massive",
+        "variationIndex": 0,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "The Floodgates Opened"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

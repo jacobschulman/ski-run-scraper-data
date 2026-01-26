@@ -1,0 +1,92 @@
+{
+  "resort": "copper",
+  "resortName": "Copper Mountain",
+  "date": "2026-01-06",
+  "generated": "2026-01-07T06:28:02.017Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 7,
+      "overnight_cm": 18,
+      "24hour_inches": 7,
+      "24hour_cm": 18,
+      "48hour_inches": 7,
+      "48hour_cm": 18,
+      "7day_inches": 7,
+      "7day_cm": 18,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Powder",
+        "yesterday": "Machine Groomed"
+      }
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-06",
+        "high_f": 23,
+        "low_f": 14,
+        "description": "Mostly Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-07",
+          "high_f": 27,
+          "low_f": 11,
+          "description": "Sunny",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2026-01-08",
+          "high_f": 18,
+          "low_f": 5,
+          "description": "Snow",
+          "snowfall_day_inches": 5,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 5
+        },
+        {
+          "date": "2026-01-09",
+          "high_f": 5,
+          "low_f": -9,
+          "description": "Cloudy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-07",
+        "high_f": 27,
+        "low_f": 11,
+        "description": "Sunny",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 1
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true
+    },
+    "alerts": [
+      "7\" fresh snow overnight",
+      "7\" in last 24 hours - powder day!"
+    ],
+    "trends": [
+      "Steady snowfall - 7\" in last 7 days",
+      "1\" snow expected Wednesday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

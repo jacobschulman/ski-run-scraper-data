@@ -1,0 +1,238 @@
+{
+  "resort": "blue",
+  "resortName": "Blue Mountain",
+  "date": "2025-12-09",
+  "generated": "2025-12-10T04:30:05.137Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 1,
+      "48hour_inches": 2,
+      "48hour_cm": 5,
+      "7day_inches": 6,
+      "7day_cm": 15,
+      "season_total_inches": 9,
+      "season_total_cm": 24,
+      "conditions": {
+        "today": "Machine Groomed",
+        "yesterday": "Variable Conditions"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 6,
+          "yesterday": 0,
+          "delta": 6
+        },
+        "groomedTrails": {
+          "today": 6,
+          "yesterday": 0,
+          "delta": 6
+        },
+        "totalTrails": 63
+      },
+      "newlyOpened": [
+        {
+          "name": "Easy Rider",
+          "difficulty": "Easy",
+          "area": "Village"
+        },
+        {
+          "name": "Graduate",
+          "difficulty": "Easy",
+          "area": "Village"
+        },
+        {
+          "name": "Memory Lane",
+          "difficulty": "Moderately Difficult",
+          "area": "Village"
+        },
+        {
+          "name": "Smart Alec",
+          "difficulty": "Intermediate",
+          "area": "Village"
+        },
+        {
+          "name": "Tranquility",
+          "difficulty": "Intermediate",
+          "area": "Village"
+        },
+        {
+          "name": "Yahoo",
+          "difficulty": "LargePark",
+          "area": "Village"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Easy Rider",
+          "difficulty": "Easy",
+          "area": "Village"
+        },
+        {
+          "name": "Graduate",
+          "difficulty": "Easy",
+          "area": "Village"
+        },
+        {
+          "name": "Memory Lane",
+          "difficulty": "Moderately Difficult",
+          "area": "Village"
+        },
+        {
+          "name": "Smart Alec",
+          "difficulty": "Intermediate",
+          "area": "Village"
+        },
+        {
+          "name": "Tranquility",
+          "difficulty": "Intermediate",
+          "area": "Village"
+        },
+        {
+          "name": "Yahoo",
+          "difficulty": "LargePark",
+          "area": "Village"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-08",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 11,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-09",
+        "high_f": null,
+        "low_f": 27,
+        "high_c": null,
+        "low_c": -3,
+        "description": "Windy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-10",
+          "high_f": 30,
+          "low_f": 15,
+          "high_c": -1,
+          "low_c": -9,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 4,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 5
+        },
+        {
+          "date": "2025-12-11",
+          "high_f": 17,
+          "low_f": 16,
+          "high_c": -9,
+          "low_c": -9,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2025-12-12",
+          "high_f": 26,
+          "low_f": 23,
+          "high_c": -3,
+          "low_c": -5,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-10",
+        "high_f": 30,
+        "low_f": 15,
+        "high_c": -1,
+        "low_c": -9,
+        "description": "Snow Wind",
+        "snowfall_day_inches": 4,
+        "snowfall_night_inches": 1,
+        "snowfall_expected": 5
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "6 new trails opened today",
+      "6 trails freshly groomed"
+    ],
+    "trends": [
+      "Steady snowfall - 6\" in last 7 days",
+      "6 more trails open than yesterday",
+      "5\" snow expected Wednesday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Easy Rider - all skill levels",
+      "Fresh corduroy on Graduate - all skill levels",
+      "Fresh corduroy on Memory Lane - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Boom Boom Pow!",
+    "body": "Steady snowfall with 6\" over the last week. Standard day at Blue Mountain—6 trails open, conditions are Windy, highs near null°. The ski patrol has been busy—6 additional trails are now yours to enjoy.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_storm_major",
+          "category": "weather",
+          "priority": 88,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_week_total",
+          "category": "snow",
+          "priority": 40,
+          "usedFor": "body"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 7,
+      "headlineSelection": {
+        "condition": "storm_major",
+        "variationIndex": 6,
+        "totalVariations": 8,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Prepare for Pow!"
+      },
+      "dayOfWeek": "Tuesday"
+    }
+  },
+  "errors": []
+}

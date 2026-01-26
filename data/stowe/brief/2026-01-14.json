@@ -1,0 +1,307 @@
+{
+  "resort": "stowe",
+  "resortName": "Stowe",
+  "date": "2026-01-14",
+  "generated": "2026-01-14T10:25:13.599Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 1,
+      "24hour_cm": 2,
+      "48hour_inches": 5,
+      "48hour_cm": 12,
+      "7day_inches": 15,
+      "7day_cm": 38,
+      "season_total_inches": 168,
+      "season_total_cm": 426,
+      "conditions": {
+        "today": "Packed Powder",
+        "yesterday": "Packed Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 115,
+          "yesterday": 98,
+          "delta": 17
+        },
+        "groomedTrails": {
+          "today": 58,
+          "yesterday": 60,
+          "delta": -2
+        },
+        "totalTrails": 128
+      },
+      "newlyOpened": [
+        {
+          "name": "Dalton",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Duck Walk",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Goat",
+          "difficulty": "DoubleBlack",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Gulch",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Lower Goat",
+          "difficulty": "DoubleBlack",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Midway",
+          "difficulty": "Black",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Phil's Zuggy",
+          "difficulty": "DoubleBlack",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Shftr's Shot",
+          "difficulty": "Black",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Upper Starr",
+          "difficulty": "DoubleBlack",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Upper T-Line",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Chin Clip",
+          "difficulty": "Black",
+          "area": "Mt. Mansfield - Gondola"
+        },
+        {
+          "name": "Last Exit",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - Gondola"
+        },
+        {
+          "name": "Waterfall",
+          "difficulty": "Black",
+          "area": "Mt. Mansfield - Gondola"
+        },
+        {
+          "name": "Freddie's Chute",
+          "difficulty": "Black",
+          "area": "Spruce Peak"
+        },
+        {
+          "name": "Smugglers",
+          "difficulty": "Black",
+          "area": "Spruce Peak"
+        },
+        {
+          "name": "Spruce Line",
+          "difficulty": "DoubleBlack",
+          "area": "Spruce Peak"
+        },
+        {
+          "name": "West Smugglers",
+          "difficulty": "Black",
+          "area": "Spruce Peak"
+        },
+        {
+          "name": "Whirlaway",
+          "difficulty": "Black",
+          "area": "Spruce Peak"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Upper Liftline",
+          "difficulty": "DoubleBlack",
+          "area": "Mt. Mansfield - FourRunner"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": [
+        {
+          "name": "Haychute",
+          "difficulty": "DoubleBlack",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Liftline",
+          "difficulty": "DoubleBlack",
+          "area": "Mt. Mansfield - FourRunner"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-13",
+        "avgWaitTime": 2.8,
+        "maxWaitTime": 6,
+        "totalLiftsTracked": 12,
+        "busiest": [
+          {
+            "name": "Mansfield Gondola",
+            "avgWait": 3.9,
+            "peakWait": 6,
+            "type": "Gondola",
+            "mountain": "Mt. Mansfield - Gondola"
+          },
+          {
+            "name": "FourRunner Quad",
+            "avgWait": 3.4,
+            "peakWait": 5,
+            "type": "Quad",
+            "mountain": "Mt. Mansfield - FourRunner"
+          },
+          {
+            "name": "Sensation Quad",
+            "avgWait": 2.7,
+            "peakWait": 5,
+            "type": "Quad",
+            "mountain": "Spruce Peak"
+          },
+          {
+            "name": "Sunrise Lift",
+            "avgWait": 1.2,
+            "peakWait": 3,
+            "type": "Six Pack",
+            "mountain": "Mt. Mansfield - FourRunner"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-14",
+        "high_f": 32,
+        "low_f": 28,
+        "high_c": null,
+        "low_c": -2,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-15T05:00:00Z",
+          "high_f": 29,
+          "low_f": 3,
+          "high_c": -2,
+          "low_c": -17,
+          "description": "Snow & Wind",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-16T05:00:00Z",
+          "high_f": 9,
+          "low_f": -5,
+          "high_c": -13,
+          "low_c": -21,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-17T05:00:00Z",
+          "high_f": 21,
+          "low_f": 10,
+          "high_c": -6,
+          "low_c": -12,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-15T05:00:00Z",
+        "high_f": 29,
+        "low_f": 3,
+        "high_c": -2,
+        "low_c": -17,
+        "description": "Snow & Wind",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "18 new trails opened today"
+    ],
+    "trends": [
+      "Great week for snow - 15\" in last 7 days",
+      "17 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Major Terrain Drop: 18 Runs",
+    "body": "A light refresh of 1\" overnight makes the groomers smoother. Major terrain drop: 18 new trails opened overnight. Lift lines were mellow yesterday. Expect a similar vibe today.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_major",
+          "category": "terrain",
+          "priority": 88,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_major",
+          "category": "terrain",
+          "priority": 88,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_mellow",
+          "category": "lifts",
+          "priority": 50,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "terrain_major",
+        "variationIndex": 0,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": null
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

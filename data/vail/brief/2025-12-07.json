@@ -1,0 +1,338 @@
+{
+  "resort": "vail",
+  "resortName": "Vail",
+  "date": "2025-12-07",
+  "generated": "2025-12-07T16:21:24.333Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 8,
+      "overnight_cm": 20,
+      "24hour_inches": 8,
+      "24hour_cm": 20,
+      "48hour_inches": 15,
+      "48hour_cm": 38,
+      "7day_inches": 35,
+      "7day_cm": 88,
+      "season_total_inches": 46,
+      "season_total_cm": 116,
+      "conditions": {
+        "today": "Powder",
+        "yesterday": "Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 34,
+          "yesterday": 16,
+          "delta": 18
+        },
+        "groomedTrails": {
+          "today": 23,
+          "yesterday": 15,
+          "delta": 8
+        },
+        "totalTrails": 277
+      },
+      "newlyOpened": [
+        {
+          "name": "Columbine - Upper",
+          "difficulty": "Blue",
+          "area": "Lionshead"
+        },
+        {
+          "name": "Coyote Crossing",
+          "difficulty": "Green",
+          "area": "Lionshead"
+        },
+        {
+          "name": "Cub's Way - Lower",
+          "difficulty": "Green",
+          "area": "Lionshead"
+        },
+        {
+          "name": "Ridge Route",
+          "difficulty": "Green",
+          "area": "Lionshead"
+        },
+        {
+          "name": "Ski School Ledges",
+          "difficulty": "Green",
+          "area": "Lionshead"
+        },
+        {
+          "name": "Cappuccino",
+          "difficulty": "Blue",
+          "area": "Mid-Vail"
+        },
+        {
+          "name": "Christmas",
+          "difficulty": "Blue",
+          "area": "Mid-Vail"
+        },
+        {
+          "name": "Eagle's Nest Ridge",
+          "difficulty": "Green",
+          "area": "Mid-Vail"
+        },
+        {
+          "name": "Hunky Dory",
+          "difficulty": "Blue",
+          "area": "Mid-Vail"
+        },
+        {
+          "name": "Kangaroo Cornice",
+          "difficulty": "Black",
+          "area": "Mid-Vail"
+        },
+        {
+          "name": "Look Ma",
+          "difficulty": "Black",
+          "area": "Mid-Vail"
+        },
+        {
+          "name": "Mid-Vail Express",
+          "difficulty": "Blue",
+          "area": "Mid-Vail"
+        },
+        {
+          "name": "Overeasy",
+          "difficulty": "Green",
+          "area": "Mid-Vail"
+        },
+        {
+          "name": "Powerline",
+          "difficulty": "Blue",
+          "area": "Mid-Vail"
+        },
+        {
+          "name": "Slifer Express",
+          "difficulty": "Blue",
+          "area": "Mid-Vail"
+        },
+        {
+          "name": "South Look Ma",
+          "difficulty": "Black",
+          "area": "Mid-Vail"
+        },
+        {
+          "name": "Whistle Pig",
+          "difficulty": "Blue",
+          "area": "Mid-Vail"
+        },
+        {
+          "name": "Zot",
+          "difficulty": "Black",
+          "area": "Mid-Vail"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Columbine - Upper",
+          "difficulty": "Blue",
+          "area": "Lionshead"
+        },
+        {
+          "name": "Coyote Crossing",
+          "difficulty": "Green",
+          "area": "Lionshead"
+        },
+        {
+          "name": "Cub's Way - Lower",
+          "difficulty": "Green",
+          "area": "Lionshead"
+        },
+        {
+          "name": "Ridge Route",
+          "difficulty": "Green",
+          "area": "Lionshead"
+        },
+        {
+          "name": "Ski School Ledges",
+          "difficulty": "Green",
+          "area": "Lionshead"
+        },
+        {
+          "name": "Eagle's Nest Ridge",
+          "difficulty": "Green",
+          "area": "Mid-Vail"
+        },
+        {
+          "name": "Hunky Dory",
+          "difficulty": "Blue",
+          "area": "Mid-Vail"
+        },
+        {
+          "name": "Overeasy",
+          "difficulty": "Green",
+          "area": "Mid-Vail"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-06",
+        "avgWaitTime": 3.7,
+        "maxWaitTime": 11,
+        "totalLiftsTracked": 7,
+        "busiest": [
+          {
+            "name": "Mountaintop Express #4",
+            "avgWait": 5.5,
+            "peakWait": 11,
+            "type": "six",
+            "mountain": "Mid-Vail"
+          },
+          {
+            "name": "Eagle Bahn Gondola #19",
+            "avgWait": 4.1,
+            "peakWait": 9,
+            "type": "gondola",
+            "mountain": "Lionshead"
+          },
+          {
+            "name": "Gondola One",
+            "avgWait": 3.5,
+            "peakWait": 8,
+            "type": "gondola",
+            "mountain": "Vail Village"
+          },
+          {
+            "name": "Wildwood Express #3",
+            "avgWait": 3.4,
+            "peakWait": 7,
+            "type": "quad",
+            "mountain": "Mid-Vail"
+          },
+          {
+            "name": "Avanti Express #2",
+            "avgWait": 1.5,
+            "peakWait": 4,
+            "type": "six",
+            "mountain": "Lionshead"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-07",
+        "high_f": 26,
+        "low_f": 16,
+        "high_c": -3,
+        "low_c": -9,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-08T07:00:00Z",
+          "high_f": 31,
+          "low_f": 18,
+          "high_c": -1,
+          "low_c": -8,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-09T07:00:00Z",
+          "high_f": 36,
+          "low_f": 18,
+          "high_c": 2,
+          "low_c": -8,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-10T07:00:00Z",
+          "high_f": 38,
+          "low_f": 30,
+          "high_c": 3,
+          "low_c": -1,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-08T07:00:00Z",
+        "high_f": 31,
+        "low_f": 18,
+        "high_c": -1,
+        "low_c": -8,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "8\" fresh snow overnight",
+      "8\" in last 24 hours - powder day!",
+      "18 new trails opened today",
+      "8 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 35\" in last 7 days",
+      "Grooming increased 53% from yesterday",
+      "18 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Columbine - Upper - perfect for intermediate skiers",
+      "Fresh corduroy on Coyote Crossing - great for beginners",
+      "Fresh corduroy on Cub's Way - Lower - great for beginners"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Powder Day Alert!",
+    "body": "Powder alert with 8\" of fresh overnight and soft conditions across the hill. Terrain is expanding with 18 new trails opening up more room to roam. 8 runs were freshly groomed overnight, with smooth corduroy calling in Lionshead and Mid-Vail.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_newly_groomed",
+          "category": "terrain",
+          "priority": 70,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 7
+    }
+  },
+  "errors": []
+}

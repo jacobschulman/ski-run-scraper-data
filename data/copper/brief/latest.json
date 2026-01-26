@@ -1,0 +1,276 @@
+{
+  "resort": "copper",
+  "resortName": "Copper Mountain",
+  "date": "2026-01-26",
+  "generated": "2026-01-26T19:21:22.273Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 1,
+      "overnight_cm": 3,
+      "24hour_inches": 1,
+      "24hour_cm": 3,
+      "48hour_inches": 3,
+      "48hour_cm": 8,
+      "7day_inches": 3,
+      "7day_cm": 8,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Packed Powder",
+        "yesterday": "Machine Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 109,
+          "yesterday": 115,
+          "delta": -6
+        },
+        "groomedTrails": {
+          "today": 47,
+          "yesterday": 57,
+          "delta": -10
+        },
+        "totalTrails": 202
+      },
+      "newlyOpened": [
+        {
+          "name": "Hidden Vein",
+          "difficulty": "easiest",
+          "area": "West"
+        },
+        {
+          "name": "Scooter",
+          "difficulty": "easiest",
+          "area": "West"
+        },
+        {
+          "name": "Spillway",
+          "difficulty": "Black",
+          "area": "Center"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Hodson's Cut",
+          "difficulty": "Black",
+          "area": "Spaulding & Resolution"
+        },
+        {
+          "name": "Atlantic Cornice",
+          "difficulty": "Double Black",
+          "area": "Spaulding & Resolution"
+        },
+        {
+          "name": "Calendar Chute",
+          "difficulty": "Double Black",
+          "area": "Spaulding & Resolution"
+        },
+        {
+          "name": "Patrol Chute",
+          "difficulty": "Double Black",
+          "area": "Spaulding & Resolution"
+        },
+        {
+          "name": "So Fine",
+          "difficulty": "Double Black",
+          "area": "Spaulding & Resolution"
+        },
+        {
+          "name": "Little Trees",
+          "difficulty": "Black",
+          "area": "Union Peak"
+        },
+        {
+          "name": "Revenge (L)",
+          "difficulty": "Black",
+          "area": "Union Peak"
+        },
+        {
+          "name": "Slip Not",
+          "difficulty": "Black",
+          "area": "Center"
+        },
+        {
+          "name": "Ute Overlook",
+          "difficulty": "Black",
+          "area": "Center"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Scooter",
+          "difficulty": "easiest",
+          "area": "West"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Timber Ridge",
+          "difficulty": "Blue",
+          "area": "Union Peak"
+        },
+        {
+          "name": "Clear Cut",
+          "difficulty": "Blue",
+          "area": "West"
+        },
+        {
+          "name": "Fairway",
+          "difficulty": "easiest",
+          "area": "West"
+        },
+        {
+          "name": "Lyman Lane",
+          "difficulty": "easiest",
+          "area": "West"
+        },
+        {
+          "name": "Pinecone Alley",
+          "difficulty": "Blue",
+          "area": "West"
+        },
+        {
+          "name": "Prospector",
+          "difficulty": "easiest",
+          "area": "West"
+        },
+        {
+          "name": "Roundabout (U)",
+          "difficulty": "easiest",
+          "area": "West"
+        },
+        {
+          "name": "Timber Road",
+          "difficulty": "easiest",
+          "area": "West"
+        },
+        {
+          "name": "Coppertone",
+          "difficulty": "easiest",
+          "area": "Center"
+        },
+        {
+          "name": "Leap Frog (U)",
+          "difficulty": "easiest",
+          "area": "Center"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-25",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 23,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-26",
+        "high_f": 12,
+        "low_f": 1,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-27",
+          "high_f": 17,
+          "low_f": 4,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-28",
+          "high_f": 27,
+          "low_f": 7,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2026-01-29",
+          "high_f": 15,
+          "low_f": 5,
+          "description": "Cloudy",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-27",
+        "high_f": 17,
+        "low_f": 4,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1\" new snow overnight",
+      "3 new trails opened today",
+      "1 trail freshly groomed"
+    ],
+    "trends": [
+      "1\" snow expected Wednesday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Scooter - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Fresh Layer in Place",
+    "body": "Overnight dusting of 1\" means the hardpack got a makeover. The forecast is flirting with us: light snow expected. Not a dump, but welcome.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_snow_coming",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "fresh_coat",
+        "variationIndex": 4,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "The Mountain Got a Touch-Up"
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

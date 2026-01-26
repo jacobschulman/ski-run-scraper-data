@@ -1,0 +1,273 @@
+{
+  "resort": "banff",
+  "resortName": "Banff Sunshine Village",
+  "date": "2026-01-22",
+  "generated": "2026-01-23T06:29:56.404Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 115,
+          "yesterday": 111,
+          "delta": 4
+        },
+        "groomedTrails": {
+          "today": 43,
+          "yesterday": 45,
+          "delta": -2
+        },
+        "totalTrails": 120
+      },
+      "newlyOpened": [
+        {
+          "name": "SS. Ewe First",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "SS. Goat's Head Soup",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "SS. Mother-In-Law",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "GE. Sergie's Shortcut",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "JW. Fireweed",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "GE. Rolling Thunder",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "JW. Short and Sweet",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "UM. Red 90",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "UM. Boundary Bowl",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "UM. Bye Bye Bowl",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Wa. Tilton Trail",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Wa. Wawa Bowl",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "JW. Goat Chicken Gully",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "GE. Wildfire",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "UM. South 205",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "UM. Bronze Ecstasy",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "UM. Gold Ecstasy",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "UM. Piste Noir",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "UM. Silver Ecstasy",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "St. Bunkers",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "St. Little Bunkers",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Wa. The Waterfall",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Wa. Tincan Alley",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-22",
+        "high_f": 12.2,
+        "low_f": -13,
+        "high_c": -11,
+        "low_c": -25,
+        "description": "Unknown",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-24T06:29:56.403Z",
+          "high_f": 17.6,
+          "low_f": -4,
+          "high_c": -8,
+          "low_c": -20,
+          "description": "Unknown",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-25T06:29:56.403Z",
+          "high_f": 3.2,
+          "low_f": -2.2,
+          "high_c": -16,
+          "low_c": -19,
+          "description": "Unknown",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-24T06:29:56.403Z",
+        "high_f": 17.6,
+        "low_f": -4,
+        "high_c": -8,
+        "low_c": -20,
+        "description": "Unknown",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "3 new trails opened today",
+      "9 trails freshly groomed"
+    ],
+    "trends": [
+      "4 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on GE. Sergie's Shortcut - perfect for intermediate skiers",
+      "Fresh corduroy on JW. Fireweed - challenging for advanced skiers",
+      "Fresh corduroy on GE. Rolling Thunder - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "A Few More Options Today",
+    "body": "115 trails open, 43 groomed. Unknown, high of 12.2°. Ski patrol opened 3 additional trails. A few more choices today. Cold day ahead: 12.2° high. Dress warmly.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "temp_cold",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "terrain_few",
+        "variationIndex": 0,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "{newTrailsCount} New Runs Open"
+      },
+      "dayOfWeek": "Thursday"
+    }
+  },
+  "errors": []
+}

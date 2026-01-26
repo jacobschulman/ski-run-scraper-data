@@ -1,0 +1,89 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2025-12-13",
+  "generated": "2025-12-13T10:23:15.822Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 25,
+          "yesterday": 21,
+          "delta": 4
+        },
+        "groomedTrails": {
+          "today": 19,
+          "yesterday": 19,
+          "delta": 0
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Switchback",
+          "difficulty": "Green",
+          "area": "Main Face"
+        },
+        {
+          "name": "Tin Lizzy",
+          "difficulty": "Green",
+          "area": "Main Face"
+        },
+        {
+          "name": "Boulder Pile",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Challenger",
+          "difficulty": "Black",
+          "area": "North Face"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-12",
+        "avgWaitTime": 3.1,
+        "maxWaitTime": 18,
+        "totalLiftsTracked": 19,
+        "busiest": [
+          {
+            "name": "Bluebird Express",
+            "avgWait": 3.1,
+            "peakWait": 5,
+            "type": "six",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 3,
+            "peakWait": 18,
+            "type": "quad",
+            "mountain": "Main Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "4 new trails opened today"
+    ],
+    "trends": [
+      "4 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

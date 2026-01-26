@@ -1,0 +1,212 @@
+{
+  "resort": "okemo",
+  "resortName": "Okemo",
+  "date": "2026-01-20",
+  "generated": "2026-01-20T10:28:22.833Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 1,
+      "24hour_cm": 2,
+      "48hour_inches": 4,
+      "48hour_cm": 10,
+      "7day_inches": 10,
+      "7day_cm": 25,
+      "season_total_inches": 61,
+      "season_total_cm": 154,
+      "conditions": {
+        "today": "Fresh",
+        "yesterday": "Fresh"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 117,
+          "yesterday": 116,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 79,
+          "yesterday": 76,
+          "delta": 3
+        },
+        "totalTrails": 129
+      },
+      "newlyOpened": [
+        {
+          "name": "Cutter's Folly",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Cutter's Folly",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Lower Timberline",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Upper Timberline",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-19",
+        "avgWaitTime": 4.2,
+        "maxWaitTime": 10,
+        "totalLiftsTracked": 21,
+        "busiest": [
+          {
+            "name": "Sunburst Six",
+            "avgWait": 5.3,
+            "peakWait": 10,
+            "type": "Six Pack",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Quantum Six",
+            "avgWait": 3,
+            "peakWait": 3,
+            "type": "Six Pack",
+            "mountain": "Jackson Gore"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-20",
+        "high_f": 13,
+        "low_f": 4,
+        "high_c": -11,
+        "low_c": -16,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-21T05:00:00Z",
+          "high_f": 20,
+          "low_f": 2,
+          "high_c": -7,
+          "low_c": -17,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-22T05:00:00Z",
+          "high_f": 29,
+          "low_f": 19,
+          "high_c": -2,
+          "low_c": -8,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-23T05:00:00Z",
+          "high_f": 18,
+          "low_f": null,
+          "high_c": -8,
+          "low_c": -18,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-21T05:00:00Z",
+        "high_f": 20,
+        "low_f": 2,
+        "high_c": -7,
+        "low_c": -17,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today",
+      "3 trails freshly groomed"
+    ],
+    "trends": [
+      "Steady snowfall - 10\" in last 7 days",
+      "1 more trail open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Cutter's Folly - perfect for intermediate skiers",
+      "Fresh corduroy on Lower Timberline - perfect for intermediate skiers",
+      "Fresh corduroy on Upper Timberline - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "The Mountain Got a Touch-Up",
+    "body": "Overnight dusting of 1\" means the hardpack got a makeover. 1 new trail opened today. Watch for crowds at Sunburst Six, which saw 10-minute waits yesterday.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_micro",
+          "category": "terrain",
+          "priority": 45,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_moderate",
+          "category": "lifts",
+          "priority": 60,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 7,
+      "headlineSelection": {
+        "condition": "fresh_coat",
+        "variationIndex": 4,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "The Mountain Got a Boost"
+      },
+      "dayOfWeek": "Tuesday"
+    }
+  },
+  "errors": []
+}

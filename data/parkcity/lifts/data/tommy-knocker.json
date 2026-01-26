@@ -1,0 +1,208 @@
+{
+  "resort": "parkcity",
+  "resortName": "Park City",
+  "liftId": "8",
+  "liftName": "Tommy Knocker",
+  "slug": "tommy-knocker",
+  "mountain": "Payday/Town/Crescent",
+  "type": "conveyor",
+  "capacity": null,
+  "currentStatus": {
+    "status": "Scheduled",
+    "waitMinutes": null,
+    "openTime": "09:00",
+    "closeTime": "16:00",
+    "timestamp": "2025-12-14T15:32:25.402Z",
+    "localTime": "08:32:25"
+  },
+  "stats": {
+    "totalRecords": 716,
+    "avgWaitTime": null,
+    "minWaitTime": null,
+    "maxWaitTime": null,
+    "daysTracked": 20
+  },
+  "history": [
+    {
+      "date": "2025-12-14",
+      "recordCount": 7,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 14
+    },
+    {
+      "date": "2025-12-13",
+      "recordCount": 44,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 82
+    },
+    {
+      "date": "2025-12-12",
+      "recordCount": 41,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 78
+    },
+    {
+      "date": "2025-12-11",
+      "recordCount": 34,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 76
+    },
+    {
+      "date": "2025-12-10",
+      "recordCount": 37,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 68
+    },
+    {
+      "date": "2025-12-09",
+      "recordCount": 40,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 83
+    },
+    {
+      "date": "2025-12-08",
+      "recordCount": 41,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 85
+    },
+    {
+      "date": "2025-12-07",
+      "recordCount": 46,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 67
+    },
+    {
+      "date": "2025-12-06",
+      "recordCount": 46,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 70
+    },
+    {
+      "date": "2025-12-05",
+      "recordCount": 42,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 43
+    },
+    {
+      "date": "2025-12-04",
+      "recordCount": 34,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": false,
+      "openPercentage": 0
+    },
+    {
+      "date": "2025-12-03",
+      "recordCount": 37,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": false,
+      "openPercentage": 0
+    },
+    {
+      "date": "2025-12-02",
+      "recordCount": 37,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": false,
+      "openPercentage": 0
+    },
+    {
+      "date": "2025-12-01",
+      "recordCount": 37,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": false,
+      "openPercentage": 0
+    },
+    {
+      "date": "2025-11-30",
+      "recordCount": 46,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": false,
+      "openPercentage": 0
+    },
+    {
+      "date": "2025-11-29",
+      "recordCount": 46,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": false,
+      "openPercentage": 0
+    },
+    {
+      "date": "2025-11-28",
+      "recordCount": 43,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": false,
+      "openPercentage": 0
+    },
+    {
+      "date": "2025-11-27",
+      "recordCount": 42,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": false,
+      "openPercentage": 0
+    },
+    {
+      "date": "2025-11-26",
+      "recordCount": 9,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": false,
+      "openPercentage": 0
+    },
+    {
+      "date": "2025-11-25",
+      "recordCount": 7,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": false,
+      "openPercentage": 0
+    }
+  ],
+  "generated": "2025-12-15T13:55:41.461Z"
+}

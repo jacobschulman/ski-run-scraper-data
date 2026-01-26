@@ -1,0 +1,95 @@
+{
+  "resort": "telluride",
+  "resortName": "Telluride",
+  "date": "2026-01-22",
+  "generated": "2026-01-22T12:42:36.366Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 84,
+          "yesterday": 85,
+          "delta": -1
+        },
+        "groomedTrails": {
+          "today": 40,
+          "yesterday": 38,
+          "delta": 2
+        },
+        "totalTrails": 157
+      },
+      "newlyOpened": [],
+      "newlyClosed": [
+        {
+          "name": "Beginner Park",
+          "difficulty": "Green",
+          "area": "UTE Park"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Enchanted Forest",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Bridges",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Sundance",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Madison",
+          "difficulty": "Green",
+          "area": "Prospect Express"
+        },
+        {
+          "name": "Sandia",
+          "difficulty": "Blue",
+          "area": "Prospect Express"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Marmot",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Lower Galloping Goose (Middle)",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Magnolia",
+          "difficulty": "Blue",
+          "area": "Prospect Express"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "5 trails freshly groomed"
+    ],
+    "trends": [],
+    "recommendations": [
+      "Fresh corduroy on Enchanted Forest - perfect for intermediate skiers",
+      "Fresh corduroy on Bridges - great for beginners",
+      "Fresh corduroy on Sundance - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

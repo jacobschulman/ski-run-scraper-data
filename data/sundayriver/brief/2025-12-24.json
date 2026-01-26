@@ -1,0 +1,202 @@
+{
+  "resort": "sundayriver",
+  "resortName": "Sunday River",
+  "date": "2025-12-24",
+  "generated": "2025-12-25T04:35:01.011Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 12,
+      "overnight_cm": 30,
+      "24hour_inches": 12,
+      "24hour_cm": 30,
+      "48hour_inches": 12,
+      "48hour_cm": 30,
+      "7day_inches": 12,
+      "7day_cm": 30,
+      "season_total_inches": 36,
+      "season_total_cm": 91,
+      "conditions": {
+        "today": "Machine Groomed",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 85,
+          "yesterday": 66,
+          "delta": 19
+        },
+        "groomedTrails": {
+          "today": 60,
+          "yesterday": 60,
+          "delta": 0
+        },
+        "totalTrails": 144
+      },
+      "newlyOpened": [
+        {
+          "name": "Obsession",
+          "difficulty": "Black",
+          "area": "WHITE CAP"
+        },
+        {
+          "name": "Snowbound",
+          "difficulty": "Black",
+          "area": "WHITE CAP"
+        },
+        {
+          "name": "Tempest (Upper)",
+          "difficulty": "Black",
+          "area": "WHITE CAP"
+        },
+        {
+          "name": "Goat Path",
+          "difficulty": "Blue",
+          "area": "LOCKE MOUNTAIN"
+        },
+        {
+          "name": "Locke Line",
+          "difficulty": "Black",
+          "area": "LOCKE MOUNTAIN"
+        },
+        {
+          "name": "Upper Cut",
+          "difficulty": "Black",
+          "area": "LOCKE MOUNTAIN"
+        },
+        {
+          "name": "Three Mile Trail",
+          "difficulty": "novice",
+          "area": "BARKER MOUNTAIN"
+        },
+        {
+          "name": "Lower Upper Cut",
+          "difficulty": "Blue",
+          "area": "BARKER MOUNTAIN"
+        },
+        {
+          "name": "Sluice",
+          "difficulty": "Blue",
+          "area": "BARKER MOUNTAIN"
+        },
+        {
+          "name": "Last Tango",
+          "difficulty": "Black",
+          "area": "BARKER MOUNTAIN"
+        },
+        {
+          "name": "Lower Chondi Line",
+          "difficulty": "novice",
+          "area": "SOUTH RIDGE"
+        },
+        {
+          "name": "Ridge Express",
+          "difficulty": "novice",
+          "area": "SOUTH RIDGE"
+        },
+        {
+          "name": "Spectator",
+          "difficulty": "novice",
+          "area": "SOUTH RIDGE"
+        },
+        {
+          "name": "Downdraft",
+          "difficulty": "Black",
+          "area": "SPRUCE PEAK"
+        },
+        {
+          "name": "Broadway Connection",
+          "difficulty": "novice",
+          "area": "NORTH PEAK"
+        },
+        {
+          "name": "3D",
+          "difficulty": "Blue",
+          "area": "NORTH PEAK"
+        },
+        {
+          "name": "Absolutely",
+          "difficulty": "Blue",
+          "area": "NORTH PEAK"
+        },
+        {
+          "name": "Last Mile",
+          "difficulty": "Blue",
+          "area": "NORTH PEAK"
+        },
+        {
+          "name": "Upper Chondi Line",
+          "difficulty": "Blue",
+          "area": "NORTH PEAK"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": [
+        {
+          "name": "Tempest (Upper)",
+          "difficulty": "Black",
+          "area": "WHITE CAP"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "12\" fresh snow overnight",
+      "12\" in last 24 hours - powder day!",
+      "19 new trails opened today"
+    ],
+    "trends": [
+      "Great week for snow - 12\" in last 7 days",
+      "19 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Powder Day Alert! ❄️",
+    "body": "Wake up, it's a powder day! 12\" overnight means hero snow everywhere you look. Terrain is expanding with 19 new trails now open. More room to roam, less traffic to dodge.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 0,
+        "totalVariations": 12,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Deep Day at {resortName}"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

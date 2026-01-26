@@ -1,0 +1,205 @@
+{
+  "resort": "copper",
+  "resortName": "Copper Mountain",
+  "date": "2026-01-13",
+  "generated": "2026-01-14T06:29:01.686Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Packed Powder",
+        "yesterday": "Packed Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 89,
+          "yesterday": 86,
+          "delta": 3
+        },
+        "groomedTrails": {
+          "today": 35,
+          "yesterday": 34,
+          "delta": 1
+        },
+        "totalTrails": 202
+      },
+      "newlyOpened": [
+        {
+          "name": "Colman's Retreat",
+          "difficulty": "Black",
+          "area": "Union Peak"
+        },
+        {
+          "name": "Far West",
+          "difficulty": "Black",
+          "area": "Union Peak"
+        },
+        {
+          "name": "Gold Digger",
+          "difficulty": "Black",
+          "area": "Union Peak"
+        },
+        {
+          "name": "Andy's Encore (L)",
+          "difficulty": "Blue",
+          "area": "East"
+        },
+        {
+          "name": "Copperopolis",
+          "difficulty": "Blue",
+          "area": "Center"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Cabin Chute",
+          "difficulty": "Black",
+          "area": "Spaulding & Resolution"
+        },
+        {
+          "name": "Hodson's Cut",
+          "difficulty": "Black",
+          "area": "Spaulding & Resolution"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Andy's Encore (L)",
+          "difficulty": "Blue",
+          "area": "East"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Collage (U)",
+          "difficulty": "Blue",
+          "area": "Center"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-12",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 23,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-13",
+        "high_f": null,
+        "low_f": 18,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-14",
+          "high_f": 28,
+          "low_f": 15,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-15",
+          "high_f": 28,
+          "low_f": 9,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-16",
+          "high_f": 15,
+          "low_f": 8,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-14",
+        "high_f": 28,
+        "low_f": 15,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "5 new trails opened today",
+      "1 trail freshly groomed"
+    ],
+    "trends": [
+      "3 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Andy's Encore (L) - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "A Few More Options Today",
+    "body": "89 trails open, 35 groomed. Cloudy, temperatures TBD. The terrain list grew by 5 today. More variety to choose from.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "terrain_few",
+        "variationIndex": 0,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "More Variety Today"
+      },
+      "dayOfWeek": "Tuesday"
+    }
+  },
+  "errors": []
+}

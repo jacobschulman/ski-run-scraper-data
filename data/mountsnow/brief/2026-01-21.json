@@ -1,0 +1,92 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2026-01-21",
+  "generated": "2026-01-21T10:30:53.131Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 70,
+          "yesterday": 70,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 44,
+          "yesterday": 44,
+          "delta": 0
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Moonwalk",
+          "difficulty": "Blue",
+          "area": "Sunbrook"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Olympic",
+          "difficulty": "Black",
+          "area": "North Face"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-20",
+        "avgWaitTime": 2.8,
+        "maxWaitTime": 17,
+        "totalLiftsTracked": 18,
+        "busiest": [
+          {
+            "name": "Nitro Express",
+            "avgWait": 3.5,
+            "peakWait": 17,
+            "type": "Quad",
+            "mountain": "Carinthia"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 3,
+            "peakWait": 4,
+            "type": "Quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Bluebird Express",
+            "avgWait": 2.4,
+            "peakWait": 4,
+            "type": "Six Pack",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Challenger",
+            "avgWait": 1.4,
+            "peakWait": 2,
+            "type": "Triple",
+            "mountain": "North Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today"
+    ],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

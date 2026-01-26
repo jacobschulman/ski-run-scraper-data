@@ -1,0 +1,301 @@
+{
+  "resort": "bigsky",
+  "resortName": "Big Sky",
+  "date": "2025-12-27",
+  "generated": "2025-12-28T06:25:55.429Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 3,
+      "overnight_cm": 8,
+      "24hour_inches": 7,
+      "24hour_cm": 18,
+      "48hour_inches": 9,
+      "48hour_cm": 23,
+      "7day_inches": 14,
+      "7day_cm": 36,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 193,
+          "yesterday": 170,
+          "delta": 23
+        },
+        "groomedTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "totalTrails": 319
+      },
+      "newlyOpened": [
+        {
+          "name": "Mule Skinner",
+          "difficulty": "Blue",
+          "area": "Dakota Area"
+        },
+        {
+          "name": "Aspen Meadows",
+          "difficulty": "Black",
+          "area": "Dakota Area"
+        },
+        {
+          "name": "Badlands",
+          "difficulty": "Black",
+          "area": "Dakota Area"
+        },
+        {
+          "name": "Bavarian Forest",
+          "difficulty": "Black",
+          "area": "Dakota Area"
+        },
+        {
+          "name": "Cardio Trio",
+          "difficulty": "Black",
+          "area": "Dakota Area"
+        },
+        {
+          "name": "Dakota Gully",
+          "difficulty": "Black",
+          "area": "Dakota Area"
+        },
+        {
+          "name": "Erika's",
+          "difficulty": "Black",
+          "area": "Dakota Area"
+        },
+        {
+          "name": "Stillwater Bowl",
+          "difficulty": "Black",
+          "area": "Headwaters Area"
+        },
+        {
+          "name": "Flyrock Gully",
+          "difficulty": "advanced intermediate",
+          "area": "Madison Area"
+        },
+        {
+          "name": "Blue Room",
+          "difficulty": "Black",
+          "area": "Ramcharger Area"
+        },
+        {
+          "name": "Colter's Hell",
+          "difficulty": "Black",
+          "area": "Ramcharger Area"
+        },
+        {
+          "name": "Upper Sunlight",
+          "difficulty": "Blue",
+          "area": "Shedhorn Area"
+        },
+        {
+          "name": "Bacon Rind",
+          "difficulty": "Black",
+          "area": "Shedhorn Area"
+        },
+        {
+          "name": "White Pine",
+          "difficulty": "Black",
+          "area": "Shedhorn Area"
+        },
+        {
+          "name": "Highlands Access",
+          "difficulty": "Green",
+          "area": "Spanish Peaks Area"
+        },
+        {
+          "name": "K1 Return",
+          "difficulty": "Green",
+          "area": "Spanish Peaks Area"
+        },
+        {
+          "name": "Take a Bough (Lower)",
+          "difficulty": "Green",
+          "area": "Spanish Peaks Area"
+        },
+        {
+          "name": "Woodlands Return",
+          "difficulty": "Green",
+          "area": "Spanish Peaks Area"
+        },
+        {
+          "name": "Rudy",
+          "difficulty": "Blue",
+          "area": "Spanish Peaks Area"
+        },
+        {
+          "name": "Stumpy's",
+          "difficulty": "Blue",
+          "area": "Spanish Peaks Area"
+        },
+        {
+          "name": "Take a Bough (Upper)",
+          "difficulty": "Black",
+          "area": "Spanish Peaks Area"
+        },
+        {
+          "name": "Wild Bill",
+          "difficulty": "advanced intermediate",
+          "area": "Swift Current Area"
+        },
+        {
+          "name": "Low Dog",
+          "difficulty": "Blue",
+          "area": "Thunder Wolf Area"
+        },
+        {
+          "name": "Shady Chute",
+          "difficulty": "Black",
+          "area": "Thunder Wolf Area"
+        },
+        {
+          "name": "War Dance",
+          "difficulty": "Black",
+          "area": "Thunder Wolf Area"
+        },
+        {
+          "name": "Wolverine",
+          "difficulty": "Black",
+          "area": "Thunder Wolf Area"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Alder Gulch",
+          "difficulty": "Double Black",
+          "area": "Headwaters Area"
+        },
+        {
+          "name": "Cold Spring",
+          "difficulty": "Double Black",
+          "area": "Headwaters Area"
+        },
+        {
+          "name": "Headwaters Bowl",
+          "difficulty": "Double Black",
+          "area": "Headwaters Area"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-27",
+        "high_f": null,
+        "low_f": -4,
+        "description": "Cold",
+        "snowfall_day_inches": 2,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-28",
+          "high_f": 11,
+          "low_f": 9,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-29",
+          "high_f": 24,
+          "low_f": 21,
+          "description": "Mostly Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-30",
+          "high_f": 31,
+          "low_f": 28,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-28",
+        "high_f": 11,
+        "low_f": 9,
+        "description": "Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "3\" fresh snow overnight",
+      "7\" in last 24 hours - powder day!",
+      "26 new trails opened today"
+    ],
+    "trends": [
+      "Great week for snow - 14\" in last 7 days",
+      "23 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "The Mountain Got Buried",
+    "body": "Wake up, it's a powder day! 7\" overnight means hero snow everywhere you look. Terrain is expanding with 26 new trails now open. More room to roam, less traffic to dodge. Snow expected today or tomorrow with conditions continuing to improve.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_snow_today_tomorrow",
+          "category": "weather",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 2,
+        "totalVariations": 12,
+        "usedWeekendVariation": false,
+        "previousHeadline": "{snow24h}\" of Fresh Overnight"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

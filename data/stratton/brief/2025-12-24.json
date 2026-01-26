@@ -1,0 +1,228 @@
+{
+  "resort": "stratton",
+  "resortName": "Stratton",
+  "date": "2025-12-24",
+  "generated": "2025-12-25T04:35:00.931Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 5,
+      "overnight_cm": 13,
+      "24hour_inches": 5,
+      "24hour_cm": 13,
+      "48hour_inches": 5,
+      "48hour_cm": 13,
+      "7day_inches": 5,
+      "7day_cm": 13,
+      "season_total_inches": 51,
+      "season_total_cm": 130,
+      "conditions": {
+        "today": "Machine Groomed Variable Conditions",
+        "yesterday": "Machine Groomed Frozen Granular"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 58,
+          "yesterday": 53,
+          "delta": 5
+        },
+        "groomedTrails": {
+          "today": 58,
+          "yesterday": 53,
+          "delta": 5
+        },
+        "totalTrails": 123
+      },
+      "newlyOpened": [
+        {
+          "name": "Big Ben",
+          "difficulty": "Intermediate",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Shortcut Big Ben",
+          "difficulty": "Intermediate",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Bear Bottom",
+          "difficulty": "Intermediate",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Lower Spruce",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Upper Spruce",
+          "difficulty": "Extreme Terrain",
+          "area": "Upper Mountain"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Big Ben",
+          "difficulty": "Intermediate",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Shortcut Big Ben",
+          "difficulty": "Intermediate",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Bear Bottom",
+          "difficulty": "Intermediate",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Lower Spruce",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Upper Spruce",
+          "difficulty": "Extreme Terrain",
+          "area": "Upper Mountain"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-23",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 14,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-24",
+        "high_f": null,
+        "low_f": 18,
+        "high_c": null,
+        "low_c": -8,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-25",
+          "high_f": 27,
+          "low_f": 0,
+          "high_c": -3,
+          "low_c": -18,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-26",
+          "high_f": 11,
+          "low_f": 10,
+          "high_c": -12,
+          "low_c": -12,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2025-12-27",
+          "high_f": 19,
+          "low_f": 20,
+          "high_c": -7,
+          "low_c": -7,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-25",
+        "high_f": 27,
+        "low_f": 0,
+        "high_c": -3,
+        "low_c": -18,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "5\" fresh snow overnight",
+      "5 new trails opened today",
+      "5 trails freshly groomed"
+    ],
+    "trends": [
+      "5 more trails open than yesterday",
+      "1\" snow expected Friday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Big Ben - all skill levels",
+      "Fresh corduroy on Shortcut Big Ben - all skill levels",
+      "Fresh corduroy on Bear Bottom - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Fresh Terrain Unlocked",
+    "body": "5\" fell while you were sleeping. The bumps are softer and the groomers are primo. 5 new runs just opened up. Time to explore some fresh terrain. Light snow possible in the forecast.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_flurries",
+          "category": "weather",
+          "priority": 30,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 3,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "More Mountain to Explore"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

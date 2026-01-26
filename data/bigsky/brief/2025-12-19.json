@@ -1,0 +1,224 @@
+{
+  "resort": "bigsky",
+  "resortName": "Big Sky",
+  "date": "2025-12-19",
+  "generated": "2025-12-20T06:24:55.743Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 41,
+          "yesterday": 33,
+          "delta": 8
+        },
+        "groomedTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "totalTrails": 319
+      },
+      "newlyOpened": [
+        {
+          "name": "Big Rock Tongue",
+          "difficulty": "Double Black",
+          "area": "Challenger Area"
+        },
+        {
+          "name": "Ambush Meadows",
+          "difficulty": "advanced intermediate",
+          "area": "Ramcharger Area"
+        },
+        {
+          "name": "Congo",
+          "difficulty": "advanced intermediate",
+          "area": "Ramcharger Area"
+        },
+        {
+          "name": "Hangman's",
+          "difficulty": "advanced intermediate",
+          "area": "Ramcharger Area"
+        },
+        {
+          "name": "Old Tippy's",
+          "difficulty": "advanced intermediate",
+          "area": "Ramcharger Area"
+        },
+        {
+          "name": "Ramcharger Lift Line (The Bumps)",
+          "difficulty": "advanced intermediate",
+          "area": "Ramcharger Area"
+        },
+        {
+          "name": "Silverknife",
+          "difficulty": "advanced intermediate",
+          "area": "Ramcharger Area"
+        },
+        {
+          "name": "Ambush Glades",
+          "difficulty": "Black",
+          "area": "Ramcharger Area"
+        },
+        {
+          "name": "Spotted Elk",
+          "difficulty": "Black",
+          "area": "Ramcharger Area"
+        },
+        {
+          "name": "Elk Park Meadows Area",
+          "difficulty": "advanced intermediate",
+          "area": "Thunder Wolf Area"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Alder Gulch",
+          "difficulty": "Double Black",
+          "area": "Headwaters Area"
+        },
+        {
+          "name": "Steep and Deep",
+          "difficulty": "Black",
+          "area": "Powder Seeker Area"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-19",
+        "high_f": null,
+        "low_f": 9,
+        "high_c": null,
+        "low_c": -13,
+        "description": "Windy",
+        "snowfall_day_inches": 2,
+        "snowfall_night_inches": 1
+      },
+      "outlook": [
+        {
+          "date": "2025-12-20",
+          "high_f": 15,
+          "low_f": 13,
+          "high_c": -10,
+          "low_c": -11,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-21",
+          "high_f": 28,
+          "low_f": 28,
+          "high_c": -2,
+          "low_c": -2,
+          "description": "Windy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2025-12-22",
+          "high_f": 30,
+          "low_f": 27,
+          "high_c": -1,
+          "low_c": -3,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-20",
+        "high_f": 15,
+        "low_f": 13,
+        "high_c": -10,
+        "low_c": -11,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "10 new trails opened today"
+    ],
+    "trends": [
+      "8 more trails open than yesterday",
+      "2\" snow expected Sunday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "10 New Trails Today",
+    "body": "41 of 319 trails are open with 0 groomed. Windy with a high of null°F. 10 more trails are in play today. The groomers are getting stretched thin (in a good way). The weather gods are being generous (ish). Some snow headed our way soon.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_snow_coming",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 1,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "New Runs Now Open"
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
+  "errors": []
+}

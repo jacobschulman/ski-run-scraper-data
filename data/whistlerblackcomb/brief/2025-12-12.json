@@ -1,0 +1,301 @@
+{
+  "resort": "whistlerblackcomb",
+  "resortName": "Whistler Blackcomb",
+  "date": "2025-12-12",
+  "generated": "2025-12-12T13:34:44.189Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 2,
+      "48hour_inches": 5,
+      "48hour_cm": 15,
+      "7day_inches": 18,
+      "7day_cm": 47,
+      "season_total_inches": 28,
+      "season_total_cm": 73,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 73,
+          "yesterday": 67,
+          "delta": 6
+        },
+        "groomedTrails": {
+          "today": 44,
+          "yesterday": 39,
+          "delta": 5
+        },
+        "totalTrails": 305
+      },
+      "newlyOpened": [
+        {
+          "name": "7th Avenue",
+          "difficulty": "Green",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Cloud 9 - Lower",
+          "difficulty": "Blue",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Cloud 9 - Upper",
+          "difficulty": "Blue",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Hugh's Heaven - Upper",
+          "difficulty": "Blue",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Panorama - Mid",
+          "difficulty": "Blue",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Panorama - Upper",
+          "difficulty": "Blue",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Southside Green",
+          "difficulty": "Green",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Stephan's Chute",
+          "difficulty": "DoubleBlack",
+          "area": "Peak / T-bar"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Ego Park",
+          "difficulty": "TerrainPark",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Choker",
+          "difficulty": "TerrainPark",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "7th Avenue",
+          "difficulty": "Green",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Cloud 9 - Lower",
+          "difficulty": "Blue",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Hugh's Heaven - Upper",
+          "difficulty": "Blue",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Panorama - Mid",
+          "difficulty": "Blue",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Panorama - Upper",
+          "difficulty": "Blue",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Southside Green",
+          "difficulty": "Green",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Ross' Gold",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-11",
+        "avgWaitTime": 4.4,
+        "maxWaitTime": 40,
+        "totalLiftsTracked": 37,
+        "busiest": [
+          {
+            "name": "Blackcomb Gondola - Lower",
+            "avgWait": 17,
+            "peakWait": 17,
+            "type": "gondola",
+            "mountain": "Blackcomb Lifts"
+          },
+          {
+            "name": "7th Heaven Express",
+            "avgWait": 13.6,
+            "peakWait": 40,
+            "type": "quad",
+            "mountain": "Blackcomb Lifts"
+          },
+          {
+            "name": "Emerald 6 Express",
+            "avgWait": 9.7,
+            "peakWait": 40,
+            "type": "six",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Harmony 6 Express",
+            "avgWait": 8.8,
+            "peakWait": 37,
+            "type": "six",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Excalibur Gondola - Upper",
+            "avgWait": 4.4,
+            "peakWait": 22,
+            "type": "gondola",
+            "mountain": "Blackcomb Lifts"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-12",
+        "high_f": 33,
+        "low_f": 32,
+        "high_c": 1,
+        "low_c": null,
+        "description": "Flurries.",
+        "snowfall_day_inches": 3,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-13T02:08:16-07:00",
+          "high_f": 35,
+          "low_f": 32,
+          "high_c": 2,
+          "low_c": null,
+          "description": "Cloudy with scattered wet flurries.",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-14T02:08:16-07:00",
+          "high_f": 33,
+          "low_f": 30,
+          "high_c": 1,
+          "low_c": -1,
+          "description": "Snow, heavy at times.",
+          "snowfall_day_inches": 11,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 11
+        },
+        {
+          "date": "2025-12-15T02:08:16-07:00",
+          "high_f": 37,
+          "low_f": 24,
+          "high_c": 3,
+          "low_c": -4,
+          "description": "Snow, heavy at times.",
+          "snowfall_day_inches": 18,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 18
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-13T02:08:16-07:00",
+        "high_f": 35,
+        "low_f": 32,
+        "high_c": 2,
+        "low_c": null,
+        "description": "Cloudy with scattered wet flurries.",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "8 new trails opened today",
+      "7 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 18\" in last 7 days",
+      "6 more trails open than yesterday",
+      "11\" snow expected Sunday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on 7th Avenue - great for beginners",
+      "Fresh corduroy on Cloud 9 - Lower - perfect for intermediate skiers",
+      "Fresh corduroy on Hugh's Heaven - Upper - perfect for intermediate skiers",
+      "Blackcomb Gondola - Lower had longest waits (17 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": {
+    "headline": "The Forecast Looks Loaded",
+    "body": "No refresh overnight, but 18\" of recent snow means the base is doing its job. 8 new runs just opened up. Time to explore some fresh terrain. Watch for crowds at Blackcomb Gondola - Lower, which peaked around 40 minutes yesterday.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_storm_major",
+          "category": "weather",
+          "priority": 88,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_holding_strong",
+          "category": "snow",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_watch_crowds",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 8,
+      "headlineSelection": {
+        "condition": "storm_major",
+        "variationIndex": 4,
+        "totalVariations": 8,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Storm Cycle Building"
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
+  "errors": []
+}

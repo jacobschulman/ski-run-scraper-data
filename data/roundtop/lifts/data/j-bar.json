@@ -1,0 +1,145 @@
+{
+  "resort": "roundtop",
+  "resortName": "Roundtop Mountain",
+  "liftId": "5",
+  "liftName": "J-bar",
+  "slug": "j-bar",
+  "mountain": "Roundtop",
+  "type": "T-Bar",
+  "capacity": 1,
+  "currentStatus": {
+    "status": "Open",
+    "waitMinutes": null,
+    "openTime": "09:00",
+    "closeTime": "20:00",
+    "timestamp": "2026-01-25T01:02:27.711Z",
+    "localTime": "20:02:27"
+  },
+  "stats": {
+    "totalRecords": 323,
+    "avgWaitTime": null,
+    "minWaitTime": null,
+    "maxWaitTime": null,
+    "daysTracked": 13
+  },
+  "history": [
+    {
+      "date": "2026-01-25",
+      "recordCount": 1,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-24",
+      "recordCount": 37,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-22",
+      "recordCount": 1,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": false,
+      "openPercentage": 0
+    },
+    {
+      "date": "2026-01-21",
+      "recordCount": 9,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": false,
+      "openPercentage": 0
+    },
+    {
+      "date": "2026-01-20",
+      "recordCount": 24,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 42
+    },
+    {
+      "date": "2026-01-19",
+      "recordCount": 31,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-18",
+      "recordCount": 41,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-17",
+      "recordCount": 41,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-11",
+      "recordCount": 19,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-10",
+      "recordCount": 19,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-22",
+      "recordCount": 31,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 23
+    },
+    {
+      "date": "2025-12-21",
+      "recordCount": 34,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-20",
+      "recordCount": 35,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    }
+  ],
+  "generated": "2026-01-26T19:57:32.948Z"
+}

@@ -1,0 +1,166 @@
+{
+  "resort": "jacksonhole",
+  "resortName": "Jackson Hole",
+  "date": "2026-01-23",
+  "generated": "2026-01-24T06:26:47.794Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 217,
+      "season_total_cm": 551,
+      "conditions": {
+        "today": "6 AM— A recently unfamiliar sight greets our weary early morning eyes, Jackson, as cloud cover enshrouds the mountain. Cooling temperatures may even squeeze a stray snow shower or two out of the clouds before they dissipate this afternoon. It's going to be a good day to warm up with a waffle before you shred, as high temperatures will top out barely in the double digits on the deck of Corbet's Cabin and in the low 20s in the Village. The winds will be on the docile side, breezing out of the west between zero and no more than 15 mph. Don't fear the specter of flat-light firmpack. Feel free to unleash your wildest alpine attacks because our crack grooming crew has created miles of forgiving and smooth tracks. -Lege",
+        "yesterday": "6 AM— Thursday dawns with some clouds preparing to crest the horizon ahead of a full day of dancing across our blue sky. The passing shadows that they drop will land on perfectly manicured slopes, weaving through an endless array of off-trail textures. Cool mountain temperatures and gentle winds will keep the crystals you kick up hovering overhead a little extra long today. Prepare for highs that top out in the teens outside Corbet's Cabin and in the mid- to upper 20s in the Village. West-northwest winds will breeze through between zip and 15 mph. Come out and cleanse your cluttered mind's interior design with a hefty dose of the genuine sunflakes and snowshine. -Lege"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 111,
+          "yesterday": 115,
+          "delta": -4
+        },
+        "groomedTrails": {
+          "today": 48,
+          "yesterday": 48,
+          "delta": 0
+        },
+        "totalTrails": 145
+      },
+      "newlyOpened": [],
+      "newlyClosed": [
+        {
+          "name": "Togwotee Pass Traverse",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Moran (Lower)",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Crags Run",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Moran (Upper)",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Sleeping Indian",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Kemmerer (Lower)",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Snag Tree",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Tensleep",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Gros Ventre (Upper)",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Thunder",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-22",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 13,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "5 trails freshly groomed"
+    ],
+    "trends": [],
+    "recommendations": [
+      "Fresh corduroy on Sleeping Indian - perfect for intermediate skiers",
+      "Fresh corduroy on Kemmerer (Lower) - perfect for intermediate skiers",
+      "Fresh corduroy on Snag Tree - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Is It the Weekend Yet?",
+    "body": "111 of 145 trails are open with 48 groomed. Variable conditions with a temperatures TBD. 5 runs freshly groomed, mostly in All Terrain. 111/145 trails open, 48 groomed. Variable conditions.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "time_weekend_kickoff",
+          "category": "time",
+          "priority": 52,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "grooming_moderate",
+          "category": "terrain",
+          "priority": 55,
+          "usedFor": "body"
+        },
+        {
+          "id": "fallback_body",
+          "category": "weather",
+          "priority": 5,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "weekend_kickoff",
+        "variationIndex": 0,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "TGIF"
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
+  "errors": []
+}

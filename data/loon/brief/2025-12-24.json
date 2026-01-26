@@ -1,0 +1,126 @@
+{
+  "resort": "loon",
+  "resortName": "Loon Mountain",
+  "date": "2025-12-24",
+  "generated": "2025-12-25T04:35:01.014Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 6,
+      "overnight_cm": 15,
+      "24hour_inches": 8,
+      "24hour_cm": 20,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 8,
+      "7day_cm": 20,
+      "season_total_inches": 34,
+      "season_total_cm": 86,
+      "conditions": {
+        "today": "Powder",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 52,
+          "yesterday": 50,
+          "delta": 2
+        },
+        "groomedTrails": {
+          "today": 44,
+          "yesterday": 42,
+          "delta": 2
+        },
+        "totalTrails": 85
+      },
+      "newlyOpened": [
+        {
+          "name": "Bear Pause",
+          "difficulty": "Blue",
+          "area": "Loon Peak"
+        },
+        {
+          "name": "Rolling Bear",
+          "difficulty": "Black",
+          "area": "Loon Peak"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Bear Pause",
+          "difficulty": "Blue",
+          "area": "Loon Peak"
+        },
+        {
+          "name": "Rolling Bear",
+          "difficulty": "Black",
+          "area": "Loon Peak"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "6\" fresh snow overnight",
+      "8\" in last 24 hours - powder day!",
+      "2 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "Steady snowfall - 8\" in last 7 days",
+      "2 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Bear Pause - perfect for intermediate skiers",
+      "Fresh corduroy on Rolling Bear - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Dump Day at Loon Mountain",
+    "body": "The mountain is absolutely buried with 8\" of fresh. This is not a drill. 2 more trails are in play today. The groomers are getting stretched thin (in a good way).",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 7,
+        "totalVariations": 12,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Waist-Deep Conditions"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

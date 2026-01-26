@@ -1,0 +1,80 @@
+{
+  "resort": "wildcat",
+  "resortName": "Wildcat Mountain",
+  "provider": "vail",
+  "liftWaitTimesAvailable": false,
+  "liftCount": 5,
+  "lifts": [
+    {
+      "liftId": "1",
+      "name": "Bobcat",
+      "slug": "bobcat",
+      "mountain": "Wildcat",
+      "type": "Triple",
+      "capacity": 3,
+      "status": "Open",
+      "waitMinutes": null,
+      "openTime": "08:30",
+      "closeTime": "16:00",
+      "avgWaitTime": null,
+      "lastUpdated": "2026-01-25T19:19:45.476Z"
+    },
+    {
+      "liftId": "4",
+      "name": "Snowbelt",
+      "slug": "snowbelt",
+      "mountain": "Wildcat",
+      "type": "Conveyor",
+      "capacity": 3,
+      "status": "Open",
+      "waitMinutes": null,
+      "openTime": "08:30",
+      "closeTime": "16:00",
+      "avgWaitTime": null,
+      "lastUpdated": "2026-01-25T19:19:45.476Z"
+    },
+    {
+      "liftId": "2",
+      "name": "Snowcat",
+      "slug": "snowcat",
+      "mountain": "Wildcat",
+      "type": "Triple",
+      "capacity": 3,
+      "status": "Open",
+      "waitMinutes": null,
+      "openTime": "08:30",
+      "closeTime": "16:00",
+      "avgWaitTime": null,
+      "lastUpdated": "2026-01-25T19:19:45.476Z"
+    },
+    {
+      "liftId": "3",
+      "name": "Tomcat",
+      "slug": "tomcat",
+      "mountain": "Wildcat",
+      "type": "Triple",
+      "capacity": 3,
+      "status": "Closed",
+      "waitMinutes": null,
+      "openTime": "08:30",
+      "closeTime": "16:00",
+      "avgWaitTime": null,
+      "lastUpdated": "2026-01-25T19:19:45.476Z"
+    },
+    {
+      "liftId": "0",
+      "name": "Wildcat Express",
+      "slug": "wildcat-express",
+      "mountain": "Wildcat",
+      "type": "Quad",
+      "capacity": 4,
+      "status": "Open",
+      "waitMinutes": null,
+      "openTime": "08:30",
+      "closeTime": "16:00",
+      "avgWaitTime": null,
+      "lastUpdated": "2026-01-25T19:19:45.476Z"
+    }
+  ],
+  "generated": "2026-01-26T19:57:32.644Z"
+}

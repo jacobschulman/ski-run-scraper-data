@@ -1,0 +1,243 @@
+{
+  "resort": "hunter",
+  "resortName": "Hunter Mountain",
+  "date": "2025-12-16",
+  "generated": "2025-12-16T10:27:23.937Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 2,
+      "48hour_cm": 5,
+      "7day_inches": 5,
+      "7day_cm": 12,
+      "season_total_inches": 14,
+      "season_total_cm": 35,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 39,
+          "yesterday": 39,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 35,
+          "yesterday": 34,
+          "delta": 1
+        },
+        "totalTrails": 71
+      },
+      "newlyOpened": [
+        {
+          "name": "Empire Trail",
+          "difficulty": "Blue",
+          "area": "Main Mountain"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "KMC Drive",
+          "difficulty": "Green",
+          "area": "Main Mountain"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Bleeker Street",
+          "difficulty": "Black",
+          "area": "Main Mountain"
+        },
+        {
+          "name": "Empire Trail",
+          "difficulty": "Blue",
+          "area": "Main Mountain"
+        },
+        {
+          "name": "Lower Broadway",
+          "difficulty": "Black",
+          "area": "Main Mountain"
+        },
+        {
+          "name": "Lower Crossover",
+          "difficulty": "Black",
+          "area": "Main Mountain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Overlook",
+          "difficulty": "Black",
+          "area": "Hunter North"
+        },
+        {
+          "name": "Mad Box",
+          "difficulty": "Black",
+          "area": "Main Mountain"
+        },
+        {
+          "name": "Upper K27",
+          "difficulty": "Black",
+          "area": "Main Mountain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-15",
+        "avgWaitTime": 2,
+        "maxWaitTime": 8,
+        "totalLiftsTracked": 12,
+        "busiest": [
+          {
+            "name": "Broadway Express",
+            "avgWait": 2.6,
+            "peakWait": 8,
+            "type": "six",
+            "mountain": "Main Mountain"
+          },
+          {
+            "name": "Kaatskill Flyer",
+            "avgWait": 1.7,
+            "peakWait": 3,
+            "type": "six",
+            "mountain": "Main Mountain"
+          },
+          {
+            "name": "Northern Express",
+            "avgWait": 1.1,
+            "peakWait": 2,
+            "type": "six",
+            "mountain": "Hunter North"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-16",
+        "high_f": 28,
+        "low_f": 13,
+        "high_c": -3,
+        "low_c": -11,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-17T05:00:00Z",
+          "high_f": 34,
+          "low_f": 27,
+          "high_c": 1,
+          "low_c": -3,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-18T05:00:00Z",
+          "high_f": 41,
+          "low_f": 28,
+          "high_c": 5,
+          "low_c": -2,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-19T05:00:00Z",
+          "high_f": 48,
+          "low_f": 19,
+          "high_c": 8,
+          "low_c": -8,
+          "description": "Rain/Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-17T05:00:00Z",
+        "high_f": 34,
+        "low_f": 27,
+        "high_c": 1,
+        "low_c": -3,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today",
+      "4 trails freshly groomed"
+    ],
+    "trends": [],
+    "recommendations": [
+      "Fresh corduroy on Bleeker Street - challenging for advanced skiers",
+      "Fresh corduroy on Empire Trail - perfect for intermediate skiers",
+      "Fresh corduroy on Lower Broadway - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Quiet Days on the Hill",
+    "body": "The rundown: 39 trails open, 35 groomed. Windy with temps around 28°. 1 trails opened today expanding access to fresh terrain. Lift lines stayed mellow yesterday, so early laps should feel quick.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "time_midweek_mellow",
+          "category": "time",
+          "priority": 45,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_new_trails_opened",
+          "category": "terrain",
+          "priority": 65,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_mellow_lines",
+          "category": "lifts",
+          "priority": 50,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "midweek_mellow",
+        "variationIndex": 1,
+        "totalVariations": 4,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Terrain is Expanding"
+      },
+      "dayOfWeek": "Tuesday"
+    }
+  },
+  "errors": []
+}

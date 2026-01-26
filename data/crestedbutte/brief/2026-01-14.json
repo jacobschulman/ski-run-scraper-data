@@ -1,0 +1,99 @@
+{
+  "resort": "crestedbutte",
+  "resortName": "Crested Butte",
+  "date": "2026-01-14",
+  "generated": "2026-01-14T12:42:27.129Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 89,
+          "yesterday": 89,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 38,
+          "yesterday": 39,
+          "delta": -1
+        },
+        "totalTrails": 168
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Buckley",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Upper Conundrum",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Upper Gallowich",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-13",
+        "avgWaitTime": 1.9,
+        "maxWaitTime": 15,
+        "totalLiftsTracked": 15,
+        "busiest": [
+          {
+            "name": "Red Lady Express",
+            "avgWait": 2.3,
+            "peakWait": 7,
+            "type": "Quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "Silver Queen Express",
+            "avgWait": 2,
+            "peakWait": 15,
+            "type": "Quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "East River Express",
+            "avgWait": 1.7,
+            "peakWait": 3,
+            "type": "Quad",
+            "mountain": "Back Side"
+          },
+          {
+            "name": "Paradise Express",
+            "avgWait": 1.3,
+            "peakWait": 2,
+            "type": "Quad",
+            "mountain": "Back Side"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 trail freshly groomed"
+    ],
+    "trends": [],
+    "recommendations": [
+      "Fresh corduroy on Buckley - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

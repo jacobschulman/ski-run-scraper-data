@@ -1,0 +1,104 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2026-01-14",
+  "generated": "2026-01-14T10:25:13.610Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 46,
+          "yesterday": 44,
+          "delta": 2
+        },
+        "groomedTrails": {
+          "today": 44,
+          "yesterday": 42,
+          "delta": 2
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Committed",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Roller Coaster",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Plummet",
+          "difficulty": "Black",
+          "area": "North Face"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Inferno",
+          "difficulty": "TerrainPark",
+          "area": "Carinthia"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-13",
+        "avgWaitTime": 2.9,
+        "maxWaitTime": 10,
+        "totalLiftsTracked": 18,
+        "busiest": [
+          {
+            "name": "Nitro Express",
+            "avgWait": 4.3,
+            "peakWait": 10,
+            "type": "Quad",
+            "mountain": "Carinthia"
+          },
+          {
+            "name": "Bluebird Express",
+            "avgWait": 2.8,
+            "peakWait": 7,
+            "type": "Six Pack",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 2.3,
+            "peakWait": 4,
+            "type": "Quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Challenger",
+            "avgWait": 1.5,
+            "peakWait": 3,
+            "type": "Triple",
+            "mountain": "North Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "3 new trails opened today"
+    ],
+    "trends": [
+      "2 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

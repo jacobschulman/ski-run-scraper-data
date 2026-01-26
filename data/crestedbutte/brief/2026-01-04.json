@@ -1,0 +1,119 @@
+{
+  "resort": "crestedbutte",
+  "resortName": "Crested Butte",
+  "date": "2026-01-04",
+  "generated": "2026-01-04T12:36:18.644Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 63,
+          "yesterday": 61,
+          "delta": 2
+        },
+        "groomedTrails": {
+          "today": 32,
+          "yesterday": 28,
+          "delta": 4
+        },
+        "totalTrails": 168
+      },
+      "newlyOpened": [
+        {
+          "name": "Breakfast Trail",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Ruby Steep",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Fallaway",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Lower International",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "Mineral Point",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Poverty Gulch",
+          "difficulty": "Green",
+          "area": "Front Side"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-03",
+        "avgWaitTime": 5.1,
+        "maxWaitTime": 18,
+        "totalLiftsTracked": 15,
+        "busiest": [
+          {
+            "name": "Red Lady Express",
+            "avgWait": 8.5,
+            "peakWait": 18,
+            "type": "Quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "Silver Queen Express",
+            "avgWait": 4.5,
+            "peakWait": 10,
+            "type": "Quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "Paradise Express",
+            "avgWait": 3.8,
+            "peakWait": 7,
+            "type": "Quad",
+            "mountain": "Back Side"
+          },
+          {
+            "name": "East River Express",
+            "avgWait": 3.2,
+            "peakWait": 9,
+            "type": "Quad",
+            "mountain": "Back Side"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2 new trails opened today",
+      "4 trails freshly groomed"
+    ],
+    "trends": [
+      "2 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Fallaway - perfect for intermediate skiers",
+      "Fresh corduroy on Lower International - challenging for advanced skiers",
+      "Fresh corduroy on Mineral Point - great for beginners"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

@@ -1,0 +1,69 @@
+{
+  "resort": "snowbird",
+  "resortName": "Snowbird",
+  "date": "2026-01-16",
+  "generated": "2026-01-17T06:25:40.123Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 183,
+          "yesterday": 180,
+          "delta": 3
+        },
+        "groomedTrails": {
+          "today": 50,
+          "yesterday": 50,
+          "delta": 0
+        },
+        "totalTrails": 200
+      },
+      "newlyOpened": [
+        {
+          "name": "Defiance Ledge",
+          "difficulty": "Double Black",
+          "area": "Gad Valley"
+        },
+        {
+          "name": "Temptation Chutes",
+          "difficulty": "Double Black",
+          "area": "Gad Valley"
+        },
+        {
+          "name": "Boundary Bowl",
+          "difficulty": "Double Black",
+          "area": "Gad Valley"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-15",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 14,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "3 new trails opened today"
+    ],
+    "trends": [
+      "3 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

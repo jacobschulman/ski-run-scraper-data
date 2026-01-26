@@ -1,0 +1,345 @@
+{
+  "resort": "stratton",
+  "resortName": "Stratton",
+  "date": "2026-01-17",
+  "generated": "2026-01-18T04:39:02.695Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 6,
+      "overnight_cm": 15,
+      "24hour_inches": 6,
+      "24hour_cm": 15,
+      "48hour_inches": 6,
+      "48hour_cm": 15,
+      "7day_inches": 10,
+      "7day_cm": 25,
+      "season_total_inches": 84,
+      "season_total_cm": 213,
+      "conditions": {
+        "today": "Machine Groomed Variable Conditions",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 101,
+          "yesterday": 72,
+          "delta": 29
+        },
+        "groomedTrails": {
+          "today": 76,
+          "yesterday": 72,
+          "delta": 4
+        },
+        "totalTrails": 123
+      },
+      "newlyOpened": [
+        {
+          "name": "Buck Shot",
+          "difficulty": "Intermediate",
+          "area": "Glades"
+        },
+        {
+          "name": "Cabin Fever",
+          "difficulty": "Expert",
+          "area": "Glades"
+        },
+        {
+          "name": "Dancing Bear",
+          "difficulty": "Expert",
+          "area": "Glades"
+        },
+        {
+          "name": "Daniel's Web",
+          "difficulty": "Easy",
+          "area": "Glades"
+        },
+        {
+          "name": "Diamond in the Rough",
+          "difficulty": "Expert",
+          "area": "Glades"
+        },
+        {
+          "name": "Eclipse",
+          "difficulty": "Intermediate",
+          "area": "Glades"
+        },
+        {
+          "name": "Moonbeam",
+          "difficulty": "Intermediate",
+          "area": "Glades"
+        },
+        {
+          "name": "Moondance",
+          "difficulty": "Extreme Terrain",
+          "area": "Glades"
+        },
+        {
+          "name": "Shred Wood Forest",
+          "difficulty": "Extreme Terrain",
+          "area": "Glades"
+        },
+        {
+          "name": "Squirrel's Nest",
+          "difficulty": "Extreme Terrain",
+          "area": "Glades"
+        },
+        {
+          "name": "West Pilot",
+          "difficulty": "Intermediate",
+          "area": "Glades"
+        },
+        {
+          "name": "Why Not",
+          "difficulty": "Extreme Terrain",
+          "area": "Glades"
+        },
+        {
+          "name": "Downtowner",
+          "difficulty": "Easy",
+          "area": "Learning Areas"
+        },
+        {
+          "name": "Cabot's Run",
+          "difficulty": "Easy",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Ethan's Alley",
+          "difficulty": "Easy",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Lad's Legacy",
+          "difficulty": "Easy",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "91 Extension",
+          "difficulty": "Easy",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Buster's Trail",
+          "difficulty": "Intermediate",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Main Line",
+          "difficulty": "Easy",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Rick's Catch 22",
+          "difficulty": "Expert",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Rising Star",
+          "difficulty": "Expert",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Rowley's Run",
+          "difficulty": "Intermediate",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Solstice Way",
+          "difficulty": "Easy",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Sunriser Supertrail",
+          "difficulty": "Intermediate",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Dino's Drop",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Liftline Cut Through",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Lower Wanderer",
+          "difficulty": "Easy",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Upper Liftline",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Work Road",
+          "difficulty": "Easy",
+          "area": "Upper Mountain"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Cabot's Run",
+          "difficulty": "Easy",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "91 Extension",
+          "difficulty": "Easy",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Solstice Way",
+          "difficulty": "Easy",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Lower Wanderer",
+          "difficulty": "Easy",
+          "area": "Upper Mountain"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-16",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 14,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-17",
+        "high_f": null,
+        "low_f": 23,
+        "high_c": null,
+        "low_c": -5,
+        "description": "Windy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-18",
+          "high_f": 22,
+          "low_f": 14,
+          "high_c": -5,
+          "low_c": -10,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2026-01-19",
+          "high_f": 14,
+          "low_f": 4,
+          "high_c": -10,
+          "low_c": -16,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-20",
+          "high_f": 3,
+          "low_f": 1,
+          "high_c": -16,
+          "low_c": -17,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-18",
+        "high_f": 22,
+        "low_f": 14,
+        "high_c": -5,
+        "low_c": -10,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 1,
+        "snowfall_expected": 1
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "6\" fresh snow overnight",
+      "6\" in last 24 hours - powder day!",
+      "29 new trails opened today",
+      "4 trails freshly groomed"
+    ],
+    "trends": [
+      "Steady snowfall - 10\" in last 7 days",
+      "29 more trails open than yesterday",
+      "1\" snow expected Sunday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Cabot's Run - all skill levels",
+      "Fresh corduroy on 91 Extension - all skill levels",
+      "Fresh corduroy on Solstice Way - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "MASSIVE Expansion: 29 New Runs",
+    "body": "It's a 6\" day. You know what to do. First chair or regret it. Ski patrol went absolutely huge: 29 new runs available today. Light snow possible in the forecast.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_massive",
+          "category": "terrain",
+          "priority": 95,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_massive",
+          "category": "terrain",
+          "priority": 95,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_flurries",
+          "category": "weather",
+          "priority": 30,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 7,
+      "headlineSelection": {
+        "condition": "terrain_massive",
+        "variationIndex": 0,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "The Floodgates Opened"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,65 @@
+{
+  "resort": "aspenmountain",
+  "resortName": "Aspen Mountain",
+  "date": "2025-12-30",
+  "generated": "2025-12-31T06:27:46.590Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 48,
+          "yesterday": 48,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 18,
+          "yesterday": 15,
+          "delta": 3
+        },
+        "totalTrails": 140
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Buckhorn (Lower)",
+          "difficulty": "Intermediate",
+          "area": "Ajax Express"
+        },
+        {
+          "name": "Buckhorn Cutoff",
+          "difficulty": "Intermediate",
+          "area": "Ajax Express"
+        },
+        {
+          "name": "North American",
+          "difficulty": "Intermediate",
+          "area": "Ajax Express"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": true
+    },
+    "alerts": [
+      "3 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 20% from yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Buckhorn (Lower) - all skill levels",
+      "Fresh corduroy on Buckhorn Cutoff - all skill levels",
+      "Fresh corduroy on North American - all skill levels"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

@@ -1,0 +1,233 @@
+{
+  "resort": "sugarloaf",
+  "resortName": "Sugarloaf",
+  "date": "2025-12-29",
+  "generated": "2025-12-30T04:36:35.100Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 2,
+      "overnight_cm": 5,
+      "24hour_inches": 2,
+      "24hour_cm": 5,
+      "48hour_inches": 2,
+      "48hour_cm": 5,
+      "7day_inches": 14,
+      "7day_cm": 36,
+      "season_total_inches": 43,
+      "season_total_cm": 109,
+      "conditions": {
+        "today": "Wet Snow",
+        "yesterday": "Packed Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 52,
+          "yesterday": 58,
+          "delta": -6
+        },
+        "groomedTrails": {
+          "today": 38,
+          "yesterday": 51,
+          "delta": -13
+        },
+        "totalTrails": 176
+      },
+      "newlyOpened": [],
+      "newlyClosed": [
+        {
+          "name": "Double Bitter",
+          "difficulty": "Black",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Haywire",
+          "difficulty": "Blue",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Midstation X-Cut",
+          "difficulty": "Blue",
+          "area": "Skyline"
+        },
+        {
+          "name": "Spillway X-Cut",
+          "difficulty": "Black",
+          "area": "Skyline"
+        },
+        {
+          "name": "Wedge",
+          "difficulty": "Black",
+          "area": "Skyline"
+        },
+        {
+          "name": "Lower Boomauger",
+          "difficulty": "Blue",
+          "area": "King Pine"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": [
+        {
+          "name": "Picaroon",
+          "difficulty": "Novice",
+          "area": "Double Runner"
+        },
+        {
+          "name": "Tote Road X-Cut",
+          "difficulty": "Blue",
+          "area": "Double Runner"
+        },
+        {
+          "name": "Hayburner",
+          "difficulty": "Black",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Lower Spillway",
+          "difficulty": "Blue",
+          "area": "Skyline"
+        },
+        {
+          "name": "Sluice Chute",
+          "difficulty": "Black",
+          "area": "Skyline"
+        },
+        {
+          "name": "Sluice Headwall",
+          "difficulty": "Black",
+          "area": "Skyline"
+        },
+        {
+          "name": "Upper Spillway",
+          "difficulty": "Black",
+          "area": "Skyline"
+        },
+        {
+          "name": "Bucksaw X-Cut",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Lower West Mountain",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Upper West Mountain",
+          "difficulty": "Blue",
+          "area": "West Mountain"
+        },
+        {
+          "name": "WMXCut",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-29",
+        "high_f": null,
+        "low_f": 3,
+        "description": "Rain Snow",
+        "snowfall_day_inches": 2,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-30",
+          "high_f": 1,
+          "low_f": -9,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-31",
+          "high_f": 6,
+          "low_f": 7,
+          "description": "Windy",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2026-01-01",
+          "high_f": 9,
+          "low_f": -3,
+          "description": "Windy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-30",
+        "high_f": 1,
+        "low_f": -9,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "2\" fresh snow overnight"
+    ],
+    "trends": [
+      "Great week for snow - 14\" in last 7 days",
+      "2\" snow expected Wednesday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "A Little Sugar on Top",
+    "body": "2\" fell while you were sleeping. The bumps are softer and the groomers are primo. The weather gods are being generous (ish). Some snow headed our way soon.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_snow_coming",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "fresh_coat",
+        "variationIndex": 1,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "{snow24h}\" Freshened Things Up"
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

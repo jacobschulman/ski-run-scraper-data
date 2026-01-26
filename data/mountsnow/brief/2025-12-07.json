@@ -1,0 +1,95 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2025-12-07",
+  "generated": "2025-12-07T16:21:24.483Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 16,
+          "yesterday": 11,
+          "delta": 5
+        },
+        "groomedTrails": {
+          "today": 13,
+          "yesterday": 10,
+          "delta": 3
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "The Gulch",
+          "difficulty": "TerrainPark",
+          "area": "Carinthia"
+        },
+        {
+          "name": "Chute",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Free Fall",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "River Run",
+          "difficulty": "Blue",
+          "area": "North Face"
+        },
+        {
+          "name": "Skyline",
+          "difficulty": "Blue",
+          "area": "North Face"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-06",
+        "avgWaitTime": 6.2,
+        "maxWaitTime": 17,
+        "totalLiftsTracked": 19,
+        "busiest": [
+          {
+            "name": "Bluebird Express",
+            "avgWait": 9.3,
+            "peakWait": 17,
+            "type": "six",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 3,
+            "peakWait": 5,
+            "type": "quad",
+            "mountain": "Main Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "5 new trails opened today"
+    ],
+    "trends": [
+      "Grooming increased 30% from yesterday",
+      "5 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

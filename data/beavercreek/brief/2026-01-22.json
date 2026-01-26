@@ -1,0 +1,252 @@
+{
+  "resort": "beavercreek",
+  "resortName": "Beaver Creek",
+  "date": "2026-01-22",
+  "generated": "2026-01-22T12:42:36.345Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 2,
+      "7day_cm": 5,
+      "season_total_inches": 54,
+      "season_total_cm": 137,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 60,
+          "yesterday": 54,
+          "delta": 6
+        },
+        "groomedTrails": {
+          "today": 26,
+          "yesterday": 24,
+          "delta": 2
+        },
+        "totalTrails": 183
+      },
+      "newlyOpened": [
+        {
+          "name": "Grubstake",
+          "difficulty": "Blue",
+          "area": "Bachelor Gulch"
+        },
+        {
+          "name": "Centennial - Flats",
+          "difficulty": "Blue",
+          "area": "Beaver Creek Lower"
+        },
+        {
+          "name": "Bootleg",
+          "difficulty": "Black",
+          "area": "Beaver Creek Lower"
+        },
+        {
+          "name": "Buckboard",
+          "difficulty": "Black",
+          "area": "Beaver Creek Lower"
+        },
+        {
+          "name": "Centennial - Finish Face",
+          "difficulty": "Black",
+          "area": "Beaver Creek Lower"
+        },
+        {
+          "name": "Moonshine",
+          "difficulty": "Black",
+          "area": "Beaver Creek Lower"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Centennial - Flats",
+          "difficulty": "Blue",
+          "area": "Beaver Creek Lower"
+        },
+        {
+          "name": "Centennial - Finish Face",
+          "difficulty": "Black",
+          "area": "Beaver Creek Lower"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-21",
+        "avgWaitTime": 3,
+        "maxWaitTime": 26,
+        "totalLiftsTracked": 25,
+        "busiest": [
+          {
+            "name": "Upper BC Mtn Express",
+            "avgWait": 7,
+            "peakWait": 10,
+            "type": "Quad",
+            "mountain": "Bachelor Gulch"
+          },
+          {
+            "name": "Haymeadow Express",
+            "avgWait": 5.6,
+            "peakWait": 26,
+            "type": "Gondola",
+            "mountain": "Beaver Creek Lower"
+          },
+          {
+            "name": "Lower BC Mtn Express",
+            "avgWait": 5,
+            "peakWait": 22,
+            "type": "Quad",
+            "mountain": "Bachelor Gulch"
+          },
+          {
+            "name": "Strawberry Park Express",
+            "avgWait": 3,
+            "peakWait": 7,
+            "type": "Quad",
+            "mountain": "Strawberry Park"
+          },
+          {
+            "name": "Centennial Express",
+            "avgWait": 2.8,
+            "peakWait": 5,
+            "type": "Gondola",
+            "mountain": "Beaver Creek Lower"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-22",
+        "high_f": 36,
+        "low_f": 19,
+        "high_c": 2,
+        "low_c": -7,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-23T07:00:00Z",
+          "high_f": 31,
+          "low_f": 22,
+          "high_c": -1,
+          "low_c": -6,
+          "description": "Snow",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 4,
+          "snowfall_expected": 5
+        },
+        {
+          "date": "2026-01-24T07:00:00Z",
+          "high_f": 23,
+          "low_f": 1,
+          "high_c": -5,
+          "low_c": -18,
+          "description": "Snow",
+          "snowfall_day_inches": 3,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 3
+        },
+        {
+          "date": "2026-01-25T07:00:00Z",
+          "high_f": 13,
+          "low_f": -2,
+          "high_c": -11,
+          "low_c": -19,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-23T07:00:00Z",
+        "high_f": 31,
+        "low_f": 22,
+        "high_c": -1,
+        "low_c": -6,
+        "description": "Snow",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 4,
+        "snowfall_expected": 5
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "6 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "6 more trails open than yesterday",
+      "5\" snow expected Friday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Centennial - Flats - perfect for intermediate skiers",
+      "Fresh corduroy on Centennial - Finish Face - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "The Forecast Looks Loaded",
+    "body": "The rundown: 60 trails open, 26 groomed. Mostly Clear with temps around 36°. Terrain expanding: 6 new trails opening up more options. Heads up: Upper BC Mtn Express peaked at 26 minutes yesterday. Consider alternatives.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "forecast_storm",
+          "category": "weather",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_busy",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "storm_major",
+        "variationIndex": 5,
+        "totalVariations": 7,
+        "usedWeekendVariation": false,
+        "previousHeadline": "More Snow Coming"
+      },
+      "dayOfWeek": "Thursday"
+    }
+  },
+  "errors": []
+}

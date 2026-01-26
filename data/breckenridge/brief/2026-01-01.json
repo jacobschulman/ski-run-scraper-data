@@ -1,0 +1,221 @@
+{
+  "resort": "breckenridge",
+  "resortName": "Breckenridge",
+  "date": "2026-01-01",
+  "generated": "2026-01-01T12:38:49.413Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 5,
+      "7day_cm": 12,
+      "season_total_inches": 46,
+      "season_total_cm": 116,
+      "conditions": {
+        "today": "Early Season",
+        "yesterday": "Early Season"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 39,
+          "yesterday": 38,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 27,
+          "yesterday": 26,
+          "delta": 1
+        },
+        "totalTrails": 193
+      },
+      "newlyOpened": [
+        {
+          "name": "Pioneer",
+          "difficulty": "Blue",
+          "area": "Peak 7"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Pioneer",
+          "difficulty": "Blue",
+          "area": "Peak 7"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-31",
+        "avgWaitTime": 5,
+        "maxWaitTime": 41,
+        "totalLiftsTracked": 35,
+        "busiest": [
+          {
+            "name": "Quicksilver SuperChair",
+            "avgWait": 14.8,
+            "peakWait": 27,
+            "type": "Six Pack",
+            "mountain": "Peak 9"
+          },
+          {
+            "name": "Beaver Run SuperChair",
+            "avgWait": 7.1,
+            "peakWait": 24,
+            "type": "Quad",
+            "mountain": "Peak 9"
+          },
+          {
+            "name": "Rip's Ride",
+            "avgWait": 5.7,
+            "peakWait": 18,
+            "type": "Quad",
+            "mountain": "Peak 8"
+          },
+          {
+            "name": "Mercury SuperChair",
+            "avgWait": 5.3,
+            "peakWait": 10,
+            "type": "Quad",
+            "mountain": "Peak 9"
+          },
+          {
+            "name": "Five SuperChair",
+            "avgWait": 5,
+            "peakWait": 41,
+            "type": "Quad",
+            "mountain": "Peak 8"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-01",
+        "high_f": 35,
+        "low_f": 23,
+        "high_c": 1,
+        "low_c": -5,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-02T07:00:00Z",
+          "high_f": 30,
+          "low_f": 24,
+          "high_c": -1,
+          "low_c": -5,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-03T07:00:00Z",
+          "high_f": 38,
+          "low_f": 18,
+          "high_c": 3,
+          "low_c": -8,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-04T07:00:00Z",
+          "high_f": 35,
+          "low_f": 22,
+          "high_c": 1,
+          "low_c": -6,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-02T07:00:00Z",
+        "high_f": 30,
+        "low_f": 24,
+        "high_c": -1,
+        "low_c": -5,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today",
+      "1 trail freshly groomed"
+    ],
+    "trends": [
+      "1 more trail open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Pioneer - perfect for intermediate skiers",
+      "Quicksilver SuperChair had longest waits (14.8 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": {
+    "headline": "The Map Just Got Bigger",
+    "body": "39/193 trails spinning, 27 freshly groomed. 35° and Cloudy. 1 new run just opened up. Time to explore some fresh terrain. Watch for crowds at Quicksilver SuperChair, which peaked around 41 minutes yesterday.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_watch_crowds",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 4,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Fresh Terrain Unlocked"
+      },
+      "dayOfWeek": "Thursday"
+    }
+  },
+  "errors": []
+}

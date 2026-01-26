@@ -1,0 +1,318 @@
+{
+  "resort": "bigsky",
+  "resortName": "Big Sky",
+  "date": "2025-12-17",
+  "generated": "2025-12-18T06:27:08.738Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 21,
+          "yesterday": 50,
+          "delta": -29
+        },
+        "groomedTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "totalTrails": 319
+      },
+      "newlyOpened": [
+        {
+          "name": "Chet's Knob",
+          "difficulty": "Blue",
+          "area": "Explorer Area"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Challenger Lift Line",
+          "difficulty": "Black",
+          "area": "Challenger Area"
+        },
+        {
+          "name": "Country Club",
+          "difficulty": "Black",
+          "area": "Challenger Area"
+        },
+        {
+          "name": "Highway",
+          "difficulty": "Black",
+          "area": "Challenger Area"
+        },
+        {
+          "name": "Midnight",
+          "difficulty": "Black",
+          "area": "Challenger Area"
+        },
+        {
+          "name": "Moonlight",
+          "difficulty": "Black",
+          "area": "Challenger Area"
+        },
+        {
+          "name": "SA Road",
+          "difficulty": "Green",
+          "area": "Iron Horse Area"
+        },
+        {
+          "name": "Blue Moon",
+          "difficulty": "Blue",
+          "area": "Iron Horse Area"
+        },
+        {
+          "name": "Fast Lane",
+          "difficulty": "Blue",
+          "area": "Iron Horse Area"
+        },
+        {
+          "name": "Powder River",
+          "difficulty": "Blue",
+          "area": "Iron Horse Area"
+        },
+        {
+          "name": "Riffle",
+          "difficulty": "Blue",
+          "area": "Iron Horse Area"
+        },
+        {
+          "name": "Liberty Bowl",
+          "difficulty": "Black",
+          "area": "Lone Peak Area"
+        },
+        {
+          "name": "Bootlegger",
+          "difficulty": "Green",
+          "area": "Pony Express Area"
+        },
+        {
+          "name": "Natawista",
+          "difficulty": "Green",
+          "area": "Pony Express Area"
+        },
+        {
+          "name": "Morningstar",
+          "difficulty": "Blue",
+          "area": "Powder Seeker Area"
+        },
+        {
+          "name": "Gun Mount",
+          "difficulty": "advanced intermediate",
+          "area": "Powder Seeker Area"
+        },
+        {
+          "name": "Ski Time",
+          "difficulty": "advanced intermediate",
+          "area": "Powder Seeker Area"
+        },
+        {
+          "name": "Black Rock Gully",
+          "difficulty": "Black",
+          "area": "Powder Seeker Area"
+        },
+        {
+          "name": "Never Sweat",
+          "difficulty": "Black",
+          "area": "Powder Seeker Area"
+        },
+        {
+          "name": "South Wall",
+          "difficulty": "Black",
+          "area": "Powder Seeker Area"
+        },
+        {
+          "name": "Steep and Deep",
+          "difficulty": "Black",
+          "area": "Powder Seeker Area"
+        },
+        {
+          "name": "The Bowl",
+          "difficulty": "Black",
+          "area": "Powder Seeker Area"
+        },
+        {
+          "name": "Turkey Traverse",
+          "difficulty": "Black",
+          "area": "Powder Seeker Area"
+        },
+        {
+          "name": "Exit Chute",
+          "difficulty": "Double Black",
+          "area": "Powder Seeker Area"
+        },
+        {
+          "name": "Safari",
+          "difficulty": "Blue",
+          "area": "Ramcharger Area"
+        },
+        {
+          "name": "Ambush Meadows",
+          "difficulty": "advanced intermediate",
+          "area": "Ramcharger Area"
+        },
+        {
+          "name": "Hangman's",
+          "difficulty": "advanced intermediate",
+          "area": "Ramcharger Area"
+        },
+        {
+          "name": "Old Tippy's",
+          "difficulty": "advanced intermediate",
+          "area": "Ramcharger Area"
+        },
+        {
+          "name": "Ramcharger Lift Line (The Bumps)",
+          "difficulty": "advanced intermediate",
+          "area": "Ramcharger Area"
+        },
+        {
+          "name": "Tippy's Tumble",
+          "difficulty": "advanced intermediate",
+          "area": "Ramcharger Area"
+        },
+        {
+          "name": "Elk Park Ridge",
+          "difficulty": "advanced intermediate",
+          "area": "Thunder Wolf Area"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-17",
+        "high_f": null,
+        "low_f": 10,
+        "high_c": null,
+        "low_c": -12,
+        "description": "Windy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-18",
+          "high_f": 21,
+          "low_f": 21,
+          "high_c": -6,
+          "low_c": -6,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2025-12-19",
+          "high_f": 29,
+          "low_f": 9,
+          "high_c": -2,
+          "low_c": -13,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 2,
+          "snowfall_expected": 3
+        },
+        {
+          "date": "2025-12-20",
+          "high_f": 15,
+          "low_f": 14,
+          "high_c": -10,
+          "low_c": -10,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-18",
+        "high_f": 21,
+        "low_f": 21,
+        "high_c": -6,
+        "low_c": -6,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 1,
+        "snowfall_expected": 1
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "1 new trail opened today"
+    ],
+    "trends": [
+      "1\" snow expected Thursday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "More Snow Coming",
+    "body": "21/319 trails spinning, 0 freshly groomed. null° and Windy. 1 trails opened today expanding access to fresh terrain. Keep an eye on the sky—a refresh is coming. A few inches of snow on the way.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_snow_coming",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_new_trails_opened",
+          "category": "terrain",
+          "priority": 65,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_snow_coming",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "snow_coming",
+        "variationIndex": 2,
+        "totalVariations": 7,
+        "usedWeekendVariation": false,
+        "previousHeadline": "A Refresh Is Coming"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

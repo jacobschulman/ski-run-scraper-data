@@ -1,0 +1,81 @@
+{
+  "resort": "norquay",
+  "resortName": "Mt Norquay",
+  "provider": "canadian-big3",
+  "apiProvider": "hybrid-wordpress",
+  "liftCount": 6,
+  "lifts": [
+    {
+      "liftId": "north-american-chair",
+      "name": "North American Chair",
+      "slug": "north-american-chair",
+      "type": "Chair",
+      "status": "Open",
+      "waitMinutes": null,
+      "openTime": null,
+      "closeTime": null,
+      "lastUpdated": "2026-01-26T19:21:40.674Z"
+    },
+    {
+      "liftId": "spirit-chair",
+      "name": "Spirit Chair",
+      "slug": "spirit-chair",
+      "type": "Chair",
+      "status": "Open",
+      "waitMinutes": null,
+      "openTime": null,
+      "closeTime": null,
+      "lastUpdated": "2026-01-26T19:21:40.674Z"
+    },
+    {
+      "liftId": "mystic-chair",
+      "name": "Mystic Chair",
+      "slug": "mystic-chair",
+      "type": "Chair",
+      "status": "Open",
+      "waitMinutes": null,
+      "openTime": null,
+      "closeTime": null,
+      "lastUpdated": "2026-01-26T19:21:40.674Z"
+    },
+    {
+      "liftId": "sundance-carpet",
+      "name": "Sundance Carpet",
+      "slug": "sundance-carpet",
+      "type": "Carpet",
+      "status": "Open",
+      "waitMinutes": null,
+      "openTime": null,
+      "closeTime": null,
+      "lastUpdated": "2026-01-26T19:21:40.674Z"
+    },
+    {
+      "liftId": "tube-park-carpet",
+      "name": "Tube Park Carpet",
+      "slug": "tube-park-carpet",
+      "type": "Carpet",
+      "status": "Open",
+      "waitMinutes": null,
+      "openTime": null,
+      "closeTime": null,
+      "lastUpdated": "2026-01-26T19:21:40.674Z"
+    },
+    {
+      "liftId": "rundle-conveyor",
+      "name": "Rundle Conveyor",
+      "slug": "rundle-conveyor",
+      "type": "Carpet",
+      "status": "Open",
+      "waitMinutes": null,
+      "openTime": null,
+      "closeTime": null,
+      "lastUpdated": "2026-01-26T19:21:40.674Z"
+    }
+  ],
+  "timezone": "America/Edmonton",
+  "operatingHours": {
+    "open": "09:00",
+    "close": "16:00"
+  },
+  "lastUpdated": "2026-01-26T19:21:40.675Z"
+}

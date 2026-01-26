@@ -1,0 +1,489 @@
+{
+  "resort": "tremblant",
+  "resortName": "Tremblant",
+  "date": "2026-01-11",
+  "generated": "2026-01-12T02:22:11.141Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 3,
+      "24hour_cm": 7,
+      "48hour_inches": 3,
+      "48hour_cm": 7,
+      "7day_inches": 5,
+      "7day_cm": 12,
+      "season_total_inches": 98,
+      "season_total_cm": 249,
+      "conditions": {
+        "today": "Machine Groomed",
+        "yesterday": "Machine Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 115,
+          "yesterday": 61,
+          "delta": 54
+        },
+        "groomedTrails": {
+          "today": 69,
+          "yesterday": 57,
+          "delta": 12
+        },
+        "totalTrails": 129
+      },
+      "newlyOpened": [
+        {
+          "name": "Belvédère",
+          "difficulty": "Very Difficult",
+          "area": "South Side"
+        },
+        {
+          "name": "Bon Vivant",
+          "difficulty": "Easy",
+          "area": "South Side"
+        },
+        {
+          "name": "Dernier Cri",
+          "difficulty": "Very Difficult",
+          "area": "South Side"
+        },
+        {
+          "name": "Flying Mile Haut",
+          "difficulty": "Extreme Terrain",
+          "area": "South Side"
+        },
+        {
+          "name": "Johannsen",
+          "difficulty": "Extreme Terrain",
+          "area": "Alpine Touring & Snowshoeing"
+        },
+        {
+          "name": "Nansen",
+          "difficulty": "Difficult",
+          "area": "South Side"
+        },
+        {
+          "name": "Ryan Haut",
+          "difficulty": "Very Difficult",
+          "area": "South Side"
+        },
+        {
+          "name": "Archipel Bas",
+          "difficulty": "Very Difficult",
+          "area": "North Side"
+        },
+        {
+          "name": "Archipel Haut",
+          "difficulty": "Difficult",
+          "area": "North Side"
+        },
+        {
+          "name": "Banzaï",
+          "difficulty": "Very Difficult",
+          "area": "North Side"
+        },
+        {
+          "name": "Boiling Kettle",
+          "difficulty": "Extreme Terrain",
+          "area": "North Side"
+        },
+        {
+          "name": "Buzz",
+          "difficulty": "Extreme Terrain",
+          "area": "North Side"
+        },
+        {
+          "name": "C.B.C.",
+          "difficulty": "Extreme Terrain",
+          "area": "North Side"
+        },
+        {
+          "name": "Cossak",
+          "difficulty": "Extreme Terrain",
+          "area": "North Side"
+        },
+        {
+          "name": "Dynagriffe",
+          "difficulty": "Very Difficult",
+          "area": "North Side"
+        },
+        {
+          "name": "Dynamite",
+          "difficulty": "Extreme Terrain",
+          "area": "North Side"
+        },
+        {
+          "name": "Expo Bas",
+          "difficulty": "Difficult",
+          "area": "North Side"
+        },
+        {
+          "name": "Fuddle Duddle Haut",
+          "difficulty": "Difficult",
+          "area": "North Side"
+        },
+        {
+          "name": "Gagnon Haut",
+          "difficulty": "Difficult",
+          "area": "North Side"
+        },
+        {
+          "name": "La Griffe",
+          "difficulty": "Very Difficult",
+          "area": "North Side"
+        },
+        {
+          "name": "Les Rapides",
+          "difficulty": "Very Difficult",
+          "area": "North Side"
+        },
+        {
+          "name": "Les Vallons",
+          "difficulty": "Difficult",
+          "area": "North Side"
+        },
+        {
+          "name": "LTE",
+          "difficulty": "Difficult",
+          "area": "North Side"
+        },
+        {
+          "name": "Marie-Claude Asselin",
+          "difficulty": "Very Difficult",
+          "area": "North Side"
+        },
+        {
+          "name": "Rigodon",
+          "difficulty": "Difficult",
+          "area": "North Side"
+        },
+        {
+          "name": "Short Cut",
+          "difficulty": "Very Difficult",
+          "area": "North Side"
+        },
+        {
+          "name": "Sissy Schuss",
+          "difficulty": "Difficult",
+          "area": "North Side"
+        },
+        {
+          "name": "Taïga",
+          "difficulty": "Extreme Terrain",
+          "area": "North Side"
+        },
+        {
+          "name": "Tunnel",
+          "difficulty": "Very Difficult",
+          "area": "North Side"
+        },
+        {
+          "name": "Windigo",
+          "difficulty": "Difficult",
+          "area": "North Side"
+        },
+        {
+          "name": "Action",
+          "difficulty": "Very Difficult",
+          "area": "The Edge"
+        },
+        {
+          "name": "Émotion",
+          "difficulty": "Extreme Terrain",
+          "area": "The Edge"
+        },
+        {
+          "name": "Escapade",
+          "difficulty": "Difficult",
+          "area": "The Edge"
+        },
+        {
+          "name": "Extension",
+          "difficulty": "Difficult",
+          "area": "The Edge"
+        },
+        {
+          "name": "Réaction",
+          "difficulty": "Very Difficult",
+          "area": "The Edge"
+        },
+        {
+          "name": "Sensation Bas",
+          "difficulty": "Difficult",
+          "area": "The Edge"
+        },
+        {
+          "name": "Sensation Haut",
+          "difficulty": "Extreme Terrain",
+          "area": "The Edge"
+        },
+        {
+          "name": "Cascades",
+          "difficulty": "Very Difficult",
+          "area": "Versant Soleil"
+        },
+        {
+          "name": "La Garette",
+          "difficulty": "Difficult",
+          "area": "Versant Soleil"
+        },
+        {
+          "name": "La Jamme",
+          "difficulty": "Difficult",
+          "area": "Versant Soleil"
+        },
+        {
+          "name": "Laurentienne",
+          "difficulty": "Very Difficult",
+          "area": "Versant Soleil"
+        },
+        {
+          "name": "Les Bouleaux",
+          "difficulty": "Very Difficult",
+          "area": "Versant Soleil"
+        },
+        {
+          "name": "Porc-à-Pic",
+          "difficulty": "Very Difficult",
+          "area": "Versant Soleil"
+        },
+        {
+          "name": "Tiguidou",
+          "difficulty": "Very Difficult",
+          "area": "Versant Soleil"
+        },
+        {
+          "name": "Caps",
+          "difficulty": "Very Difficult",
+          "area": "Alpine Touring & Snowshoeing"
+        },
+        {
+          "name": "Grand-Nord",
+          "difficulty": "Very Difficult",
+          "area": "Alpine Touring & Snowshoeing"
+        },
+        {
+          "name": "Nord-Sud",
+          "difficulty": "Difficult",
+          "area": "Alpine Touring & Snowshoeing"
+        },
+        {
+          "name": "Parben",
+          "difficulty": "Extreme Terrain",
+          "area": "Alpine Touring & Snowshoeing"
+        },
+        {
+          "name": "Sasquatch Bas",
+          "difficulty": "Very Difficult",
+          "area": "Alpine Touring & Snowshoeing"
+        },
+        {
+          "name": "Sasquatch Haut",
+          "difficulty": "Very Difficult",
+          "area": "Alpine Touring & Snowshoeing"
+        },
+        {
+          "name": "Sentier du refuge",
+          "difficulty": "Difficult",
+          "area": "Alpine Touring & Snowshoeing"
+        },
+        {
+          "name": "Sommets",
+          "difficulty": "Difficult",
+          "area": "Alpine Touring & Snowshoeing"
+        },
+        {
+          "name": "Tour du Timber",
+          "difficulty": "Very Difficult",
+          "area": "Alpine Touring & Snowshoeing"
+        },
+        {
+          "name": "Vertigo Bas",
+          "difficulty": "Very Difficult",
+          "area": "Alpine Touring & Snowshoeing"
+        },
+        {
+          "name": "Vertigo Haut",
+          "difficulty": "Very Difficult",
+          "area": "Alpine Touring & Snowshoeing"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Roger McCarthy",
+          "difficulty": "Difficult",
+          "area": "South Side"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Flying Mile Haut",
+          "difficulty": "Extreme Terrain",
+          "area": "South Side"
+        },
+        {
+          "name": "Expo Bas",
+          "difficulty": "Difficult",
+          "area": "North Side"
+        },
+        {
+          "name": "La Griffe",
+          "difficulty": "Very Difficult",
+          "area": "North Side"
+        },
+        {
+          "name": "La Garette",
+          "difficulty": "Difficult",
+          "area": "Versant Soleil"
+        },
+        {
+          "name": "Laurentienne",
+          "difficulty": "Very Difficult",
+          "area": "Versant Soleil"
+        },
+        {
+          "name": "Tiguidou",
+          "difficulty": "Very Difficult",
+          "area": "Versant Soleil"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-10",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 14,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-11",
+        "high_f": null,
+        "low_f": 5,
+        "high_c": null,
+        "low_c": -15,
+        "description": "Windy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-12",
+          "high_f": 22,
+          "low_f": 23,
+          "high_c": -5,
+          "low_c": -5,
+          "description": "Windy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2026-01-13",
+          "high_f": 28,
+          "low_f": 28,
+          "high_c": -2,
+          "low_c": -2,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 3,
+          "snowfall_expected": 3
+        },
+        {
+          "date": "2026-01-14",
+          "high_f": 32,
+          "low_f": 5,
+          "high_c": 0,
+          "low_c": -15,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 2
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-12",
+        "high_f": 22,
+        "low_f": 23,
+        "high_c": -5,
+        "low_c": -5,
+        "description": "Windy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 1,
+        "snowfall_expected": 2
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "55 new trails opened today",
+      "6 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 21% from yesterday",
+      "54 more trails open than yesterday",
+      "2\" snow expected Sunday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Flying Mile Haut - all skill levels",
+      "Fresh corduroy on Expo Bas - all skill levels",
+      "Fresh corduroy on La Griffe - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "The Floodgates Opened",
+    "body": "Solid refresh: 3\" overnight freshened up the mountain nicely. Major terrain release: 55 new options. Time to explore. A significant storm is brewing with 7\" expected over the next few days.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_massive",
+          "category": "terrain",
+          "priority": 95,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_solid",
+          "category": "snow",
+          "priority": 82,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_massive",
+          "category": "terrain",
+          "priority": 95,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_storm",
+          "category": "weather",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 7,
+      "headlineSelection": {
+        "condition": "terrain_massive",
+        "variationIndex": 1,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Half the Mountain Just Dropped"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,250 @@
+{
+  "resort": "whitetail",
+  "resortName": "Whitetail",
+  "trailCount": 22,
+  "trails": [
+    {
+      "name": "101 Terrain Park",
+      "slug": "101-terrain-park",
+      "area": "Whitetail",
+      "difficulty": "TerrainPark",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 97,
+      "currentStreak": 37,
+      "longestStreak": 37
+    },
+    {
+      "name": "Almost Home",
+      "slug": "almost-home",
+      "area": "Whitetail",
+      "difficulty": "Green",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 97,
+      "currentStreak": 37,
+      "longestStreak": 37
+    },
+    {
+      "name": "Angel Drop - Lower",
+      "slug": "angel-drop-lower",
+      "area": "Whitetail",
+      "difficulty": "Blue",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 89,
+      "currentStreak": 33,
+      "longestStreak": 33
+    },
+    {
+      "name": "Angel Drop - Upper",
+      "slug": "angel-drop-upper",
+      "area": "Whitetail",
+      "difficulty": "Blue",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 89,
+      "currentStreak": 33,
+      "longestStreak": 33
+    },
+    {
+      "name": "Bob Small's Traverse",
+      "slug": "bob-smalls-traverse",
+      "area": "Whitetail",
+      "difficulty": "Blue",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 61,
+      "currentStreak": 23,
+      "longestStreak": 23
+    },
+    {
+      "name": "Bold Decision",
+      "slug": "bold-decision",
+      "area": "Whitetail",
+      "difficulty": "DoubleBlack",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 58,
+      "currentStreak": 16,
+      "longestStreak": 16
+    },
+    {
+      "name": "Drop In",
+      "slug": "drop-in",
+      "area": "Whitetail",
+      "difficulty": "DoubleBlack",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 97,
+      "currentStreak": 37,
+      "longestStreak": 37
+    },
+    {
+      "name": "Drop Out",
+      "slug": "drop-out",
+      "area": "Whitetail",
+      "difficulty": "Blue",
+      "isGroomedToday": false,
+      "isOpen": false,
+      "groomingPercentage": 0,
+      "currentStreak": 0,
+      "longestStreak": 0
+    },
+    {
+      "name": "Exhibition",
+      "slug": "exhibition",
+      "area": "Whitetail",
+      "difficulty": "Black",
+      "isGroomedToday": false,
+      "isOpen": true,
+      "groomingPercentage": 74,
+      "currentStreak": 0,
+      "longestStreak": 28
+    },
+    {
+      "name": "Fall Mount",
+      "slug": "fall-mount",
+      "area": "Whitetail",
+      "difficulty": "Blue",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 82,
+      "currentStreak": 12,
+      "longestStreak": 19
+    },
+    {
+      "name": "Fanciful",
+      "slug": "fanciful",
+      "area": "Whitetail",
+      "difficulty": "Blue",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 89,
+      "currentStreak": 33,
+      "longestStreak": 33
+    },
+    {
+      "name": "Farside",
+      "slug": "farside",
+      "area": "Whitetail",
+      "difficulty": "Black",
+      "isGroomedToday": false,
+      "isOpen": false,
+      "groomingPercentage": 0,
+      "currentStreak": 0,
+      "longestStreak": 0
+    },
+    {
+      "name": "Home Run",
+      "slug": "home-run",
+      "area": "Whitetail",
+      "difficulty": "Blue",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 61,
+      "currentStreak": 23,
+      "longestStreak": 23
+    },
+    {
+      "name": "Launching Pad",
+      "slug": "launching-pad",
+      "area": "Whitetail",
+      "difficulty": "Green",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 97,
+      "currentStreak": 37,
+      "longestStreak": 37
+    },
+    {
+      "name": "Limelight",
+      "slug": "limelight",
+      "area": "Whitetail",
+      "difficulty": "Blue",
+      "isGroomedToday": false,
+      "isOpen": false,
+      "groomingPercentage": 0,
+      "currentStreak": 0,
+      "longestStreak": 0
+    },
+    {
+      "name": "Northern Lights",
+      "slug": "northern-lights",
+      "area": "Whitetail",
+      "difficulty": "Green",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 97,
+      "currentStreak": 37,
+      "longestStreak": 37
+    },
+    {
+      "name": "Ridge Runner",
+      "slug": "ridge-runner",
+      "area": "Whitetail",
+      "difficulty": "Blue",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 97,
+      "currentStreak": 37,
+      "longestStreak": 37
+    },
+    {
+      "name": "Sidewinder",
+      "slug": "sidewinder",
+      "area": "Whitetail",
+      "difficulty": "Green",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 97,
+      "currentStreak": 37,
+      "longestStreak": 37
+    },
+    {
+      "name": "Snow Dancer",
+      "slug": "snow-dancer",
+      "area": "Whitetail",
+      "difficulty": "Blue",
+      "isGroomedToday": false,
+      "isOpen": false,
+      "groomingPercentage": 0,
+      "currentStreak": 0,
+      "longestStreak": 0
+    },
+    {
+      "name": "Snowpark",
+      "slug": "snowpark",
+      "area": "Whitetail",
+      "difficulty": "Green",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 97,
+      "currentStreak": 37,
+      "longestStreak": 37
+    },
+    {
+      "name": "Stalker",
+      "slug": "stalker",
+      "area": "Whitetail",
+      "difficulty": "Blue",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 97,
+      "currentStreak": 37,
+      "longestStreak": 37
+    },
+    {
+      "name": "Velvet",
+      "slug": "velvet",
+      "area": "Whitetail",
+      "difficulty": "Green",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 97,
+      "currentStreak": 37,
+      "longestStreak": 37
+    }
+  ],
+  "lastUpdated": "2026-01-26T19:30:29.087Z"
+}

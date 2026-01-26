@@ -1,0 +1,327 @@
+{
+  "resort": "whistlerblackcomb",
+  "resortName": "Whistler Blackcomb",
+  "date": "2025-12-23",
+  "generated": "2025-12-23T13:35:45.726Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 9,
+      "24hour_cm": 23,
+      "48hour_inches": 12,
+      "48hour_cm": 31,
+      "7day_inches": 43,
+      "7day_cm": 110,
+      "season_total_inches": 73,
+      "season_total_cm": 186,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 149,
+          "yesterday": 138,
+          "delta": 11
+        },
+        "groomedTrails": {
+          "today": 81,
+          "yesterday": 73,
+          "delta": 8
+        },
+        "totalTrails": 305
+      },
+      "newlyOpened": [
+        {
+          "name": "Backstage Pass",
+          "difficulty": "Blue",
+          "area": "Crystal Ridge"
+        },
+        {
+          "name": "Crystal Road",
+          "difficulty": "Green",
+          "area": "Crystal Ridge"
+        },
+        {
+          "name": "Ridge Runner - Lower",
+          "difficulty": "Blue",
+          "area": "Crystal Ridge"
+        },
+        {
+          "name": "Big Easy",
+          "difficulty": "Green",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Come-a-long",
+          "difficulty": "Green",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Cruiser - Snoozer",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Greenline - Mid",
+          "difficulty": "Green",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Greenline - Upper",
+          "difficulty": "Green",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Jackpot",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Over Easy",
+          "difficulty": "Green",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Sunset Boulevard",
+          "difficulty": "Green",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Rock & Roll - Lower",
+          "difficulty": "Blue",
+          "area": "Crystal Ridge"
+        },
+        {
+          "name": "Olympic - Upper",
+          "difficulty": "Green",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Greenline - Mid",
+          "difficulty": "Green",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Greenline - Upper",
+          "difficulty": "Green",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Jackpot",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "The Saddle",
+          "difficulty": "Black",
+          "area": "Peak / T-bar"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Cloud 9 - Upper",
+          "difficulty": "Blue",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Hugh's Heaven - Upper",
+          "difficulty": "Blue",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Enchanted Forest - Adventure Trail",
+          "difficulty": "Blue",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Old Crow",
+          "difficulty": "Blue",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Harmony Piste",
+          "difficulty": "Blue",
+          "area": "Harmony"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-22",
+        "avgWaitTime": 8.4,
+        "maxWaitTime": 40,
+        "totalLiftsTracked": 37,
+        "busiest": [
+          {
+            "name": "Blackcomb Gondola - Lower",
+            "avgWait": 20,
+            "peakWait": 20,
+            "type": "Gondola",
+            "mountain": "Blackcomb Lifts"
+          },
+          {
+            "name": "Whistler Village Gondola  - Lower",
+            "avgWait": 18.2,
+            "peakWait": 40,
+            "type": "Gondola",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Whistler Village Gondola - Upper",
+            "avgWait": 16,
+            "peakWait": 39,
+            "type": "Gondola",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Crystal Ridge Express",
+            "avgWait": 15.2,
+            "peakWait": 27,
+            "type": "Quad",
+            "mountain": "Blackcomb Lifts"
+          },
+          {
+            "name": "Emerald 6 Express",
+            "avgWait": 10.8,
+            "peakWait": 16,
+            "type": "Six Pack",
+            "mountain": "Whistler Lifts"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-23",
+        "high_f": 32,
+        "low_f": 32,
+        "high_c": null,
+        "low_c": null,
+        "description": "Cloudy with sunny periods and isolated flurries.",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-24T02:05:34-07:00",
+          "high_f": 26,
+          "low_f": 17,
+          "high_c": -3,
+          "low_c": -8,
+          "description": "Periods of snow.",
+          "snowfall_day_inches": 7,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 7
+        },
+        {
+          "date": "2025-12-25T02:05:34-07:00",
+          "high_f": 30,
+          "low_f": 19,
+          "high_c": -1,
+          "low_c": -7,
+          "description": "Mainly cloudy with isolated flurries.",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-26T02:05:34-07:00",
+          "high_f": 21,
+          "low_f": 12,
+          "high_c": -6,
+          "low_c": -11,
+          "description": "Cloudy with sunny periods and isolated flurries.",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-24T02:05:34-07:00",
+        "high_f": 26,
+        "low_f": 17,
+        "high_c": -3,
+        "low_c": -8,
+        "description": "Periods of snow.",
+        "snowfall_day_inches": 7,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 7
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "9\" in last 24 hours - powder day!",
+      "11 new trails opened today",
+      "6 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 43\" in last 7 days",
+      "11 more trails open than yesterday",
+      "7\" snow expected Wednesday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Rock & Roll - Lower - perfect for intermediate skiers",
+      "Fresh corduroy on Olympic - Upper - great for beginners",
+      "Fresh corduroy on Greenline - Mid - great for beginners",
+      "Blackcomb Gondola - Lower had longest waits (20 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Winter Delivered Big",
+    "body": "Mother Nature delivered 9\" of the good stuff. Face shots are on the menu today. 11 new runs just opened up. Time to explore some fresh terrain. Watch for crowds at Blackcomb Gondola - Lower, which peaked around 40 minutes yesterday.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_watch_crowds",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 9,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 4,
+        "totalVariations": 12,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Storm Cycle Building"
+      },
+      "dayOfWeek": "Tuesday"
+    }
+  },
+  "errors": []
+}

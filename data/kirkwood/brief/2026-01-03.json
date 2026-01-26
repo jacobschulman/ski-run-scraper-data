@@ -1,0 +1,320 @@
+{
+  "resort": "kirkwood",
+  "resortName": "Kirkwood",
+  "date": "2026-01-03",
+  "generated": "2026-01-03T13:28:10.022Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 5,
+      "24hour_cm": 12,
+      "48hour_inches": 5,
+      "48hour_cm": 12,
+      "7day_inches": 12,
+      "7day_cm": 30,
+      "season_total_inches": 121,
+      "season_total_cm": 307,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 89,
+          "yesterday": 63,
+          "delta": 26
+        },
+        "groomedTrails": {
+          "today": 27,
+          "yesterday": 24,
+          "delta": 3
+        },
+        "totalTrails": 110
+      },
+      "newlyOpened": [
+        {
+          "name": "Bud's Alley",
+          "difficulty": "Blue",
+          "area": "Backside"
+        },
+        {
+          "name": "Button Bowl",
+          "difficulty": "Black",
+          "area": "Backside"
+        },
+        {
+          "name": "Cold Shoulder",
+          "difficulty": "Black",
+          "area": "Backside"
+        },
+        {
+          "name": "Covered Wagon",
+          "difficulty": "Black",
+          "area": "Backside"
+        },
+        {
+          "name": "Coyote",
+          "difficulty": "Black",
+          "area": "Backside"
+        },
+        {
+          "name": "Deadwood Spur",
+          "difficulty": "Black",
+          "area": "Backside"
+        },
+        {
+          "name": "Devil's Draw",
+          "difficulty": "Blue",
+          "area": "Backside"
+        },
+        {
+          "name": "Easy Rider",
+          "difficulty": "Blue",
+          "area": "Backside"
+        },
+        {
+          "name": "Happiness is",
+          "difficulty": "Blue",
+          "area": "Backside"
+        },
+        {
+          "name": "Herringbone Straight",
+          "difficulty": "Blue",
+          "area": "Backside"
+        },
+        {
+          "name": "Hully Gully",
+          "difficulty": "Black",
+          "area": "Backside"
+        },
+        {
+          "name": "Larry's Lip",
+          "difficulty": "Black",
+          "area": "Backside"
+        },
+        {
+          "name": "Lower Elevator Shaft",
+          "difficulty": "Blue",
+          "area": "Backside"
+        },
+        {
+          "name": "Sunnyside",
+          "difficulty": "Black",
+          "area": "Backside"
+        },
+        {
+          "name": "The Wave",
+          "difficulty": "Black",
+          "area": "Backside"
+        },
+        {
+          "name": "Upper Devil's Draw",
+          "difficulty": "Black",
+          "area": "Backside"
+        },
+        {
+          "name": "Upper Elevator Shaft",
+          "difficulty": "Blue",
+          "area": "Backside"
+        },
+        {
+          "name": "Palisades Bowl",
+          "difficulty": "Black",
+          "area": "Bowls"
+        },
+        {
+          "name": "Reuter Bowl",
+          "difficulty": "Black",
+          "area": "Bowls"
+        },
+        {
+          "name": "Bogies Slide",
+          "difficulty": "DoubleBlack",
+          "area": "Frontside"
+        },
+        {
+          "name": "Boylemaker",
+          "difficulty": "DoubleBlack",
+          "area": "Frontside"
+        },
+        {
+          "name": "Hell's Delight",
+          "difficulty": "DoubleBlack",
+          "area": "Frontside"
+        },
+        {
+          "name": "One Man Chute",
+          "difficulty": "DoubleBlack",
+          "area": "Frontside"
+        },
+        {
+          "name": "Shot 5",
+          "difficulty": "DoubleBlack",
+          "area": "Frontside"
+        },
+        {
+          "name": "Thunder Saddle",
+          "difficulty": "Black",
+          "area": "Frontside"
+        },
+        {
+          "name": "Two Man Chute",
+          "difficulty": "DoubleBlack",
+          "area": "Frontside"
+        },
+        {
+          "name": "Trench of Terror",
+          "difficulty": "Blue",
+          "area": "Timber Creek"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Eagle Bowl",
+          "difficulty": "Black",
+          "area": "Bowls"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-02",
+        "avgWaitTime": 2.4,
+        "maxWaitTime": 5,
+        "totalLiftsTracked": 13,
+        "busiest": [
+          {
+            "name": "#2 Caples Crest",
+            "avgWait": 2.4,
+            "peakWait": 5,
+            "type": "Triple",
+            "mountain": "Backside"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-03",
+        "high_f": 31,
+        "low_f": 26,
+        "high_c": -1,
+        "low_c": -3,
+        "description": "Rain/Snow",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-04T08:00:00Z",
+          "high_f": 28,
+          "low_f": 25,
+          "high_c": -3,
+          "low_c": -4,
+          "description": "Snow & Wind",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-05T08:00:00Z",
+          "high_f": 27,
+          "low_f": 23,
+          "high_c": -3,
+          "low_c": -5,
+          "description": "Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-06T08:00:00Z",
+          "high_f": 31,
+          "low_f": 21,
+          "high_c": -1,
+          "low_c": -6,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-04T08:00:00Z",
+        "high_f": 28,
+        "low_f": 25,
+        "high_c": -3,
+        "low_c": -4,
+        "description": "Snow & Wind",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "27 new trails opened today"
+    ],
+    "trends": [
+      "Great week for snow - 12\" in last 7 days",
+      "26 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "The Map Just Got Bigger",
+    "body": "5\" of fresh snow settled in overnight. Not a powder day, but definitely an upgrade. The ski patrol has been busy—27 additional trails are now yours to enjoy. Lift lines stayed mellow yesterday, so early laps should feel quick.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_mellow_lines",
+          "category": "lifts",
+          "priority": 50,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 5,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "The Weekend Starts Now"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

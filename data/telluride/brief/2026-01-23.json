@@ -1,0 +1,183 @@
+{
+  "resort": "telluride",
+  "resortName": "Telluride",
+  "date": "2026-01-23",
+  "generated": "2026-01-23T12:40:39.853Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 100,
+          "yesterday": 84,
+          "delta": 16
+        },
+        "groomedTrails": {
+          "today": 36,
+          "yesterday": 40,
+          "delta": -4
+        },
+        "totalTrails": 157
+      },
+      "newlyOpened": [
+        {
+          "name": "Joint Point",
+          "difficulty": "",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Kant-Mak-M",
+          "difficulty": "",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Last Chance",
+          "difficulty": "Blue",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Log Pile",
+          "difficulty": "",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Mammoth",
+          "difficulty": "",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Satisfaction",
+          "difficulty": "",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Spiral Stairs",
+          "difficulty": "",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "East Drain",
+          "difficulty": "",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Bushwacker – Upper",
+          "difficulty": "",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Bushwacker – Lower",
+          "difficulty": "",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "West Drain",
+          "difficulty": "",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Power Line",
+          "difficulty": "",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Plunge – Lower",
+          "difficulty": "",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Plunge",
+          "difficulty": "",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Beginner Park",
+          "difficulty": "Green",
+          "area": "UTE Park"
+        },
+        {
+          "name": "Zipper",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Marmot",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Beginner Park",
+          "difficulty": "Green",
+          "area": "UTE Park"
+        },
+        {
+          "name": "Magnolia",
+          "difficulty": "Blue",
+          "area": "Prospect Express"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Lower Ophir Loop",
+          "difficulty": "Blue",
+          "area": "Polar Queen Express"
+        },
+        {
+          "name": "Lower Galloping Goose (Upper)",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Enchanted Forest",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Bridges",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Sundance",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Madison",
+          "difficulty": "Green",
+          "area": "Prospect Express"
+        },
+        {
+          "name": "Sandia",
+          "difficulty": "Blue",
+          "area": "Prospect Express"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "16 new trails opened today",
+      "3 trails freshly groomed"
+    ],
+    "trends": [
+      "16 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Marmot - perfect for intermediate skiers",
+      "Fresh corduroy on Beginner Park - great for beginners",
+      "Fresh corduroy on Magnolia - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

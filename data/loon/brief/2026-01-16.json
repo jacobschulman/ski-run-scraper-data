@@ -1,0 +1,49 @@
+{
+  "resort": "loon",
+  "resortName": "Loon Mountain",
+  "date": "2026-01-16",
+  "generated": "2026-01-17T04:29:49.353Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 76,
+          "yesterday": 76,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 69,
+          "yesterday": 69,
+          "delta": 0
+        },
+        "totalTrails": 85
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-15",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 14,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

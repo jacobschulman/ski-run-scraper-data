@@ -1,0 +1,65 @@
+{
+  "resort": "aspenmountain",
+  "resortName": "Aspen Mountain",
+  "date": "2026-01-04",
+  "generated": "2026-01-05T06:33:18.851Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 58,
+          "yesterday": 57,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 18,
+          "yesterday": 19,
+          "delta": -1
+        },
+        "totalTrails": 140
+      },
+      "newlyOpened": [
+        {
+          "name": "Aztec",
+          "difficulty": "Advanced",
+          "area": "Ruthie's"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": [
+        {
+          "name": "Buckhorn Cutoff",
+          "difficulty": "Intermediate",
+          "area": "Ajax Express"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-03",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 8,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today"
+    ],
+    "trends": [
+      "1 more trail open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

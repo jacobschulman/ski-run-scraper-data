@@ -1,0 +1,147 @@
+{
+  "resort": "jacksonhole",
+  "resortName": "Jackson Hole",
+  "date": "2026-01-04",
+  "generated": "2026-01-05T06:33:18.845Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 5,
+      "overnight_cm": 13,
+      "24hour_inches": 5,
+      "24hour_cm": 13,
+      "48hour_inches": 9,
+      "48hour_cm": 23,
+      "7day_inches": 15,
+      "7day_cm": 38,
+      "season_total_inches": 184,
+      "season_total_cm": 467,
+      "conditions": {
+        "today": "The Holiday weekend closes out with another 5\" of fresh snow since lifts closed yesterday. The high mountain terrain has been refreshed and awaits your inspection on this first Sunday of the year. Look for cloudy skies bringing more snowfall throughout the morning and then moving into mixed precipitation by early afternoon. Temperatures will hover in the low to mid-20's at the summit while the base area will reach the upper 30's by lunchtime. Moderate winds will be trending out of the WSW at 12-20 MPH with some afternoon gusts up near 30 MPH. The new snow will be creamy, and the high elevations will be offering up delicious Sunday treats. Come out for a snack! -MB",
+        "yesterday": "6 AM- Greetings, Jackson Hole. It's the first weekend of 2026, and we're here to supply your latest big-mountain fix. Following four warm inches of pow and a little wind whippin', we've got something for everyone sprinkled in the mix. Clouds and sunshine will dance across the sky, taking turns at the lead. Come equipped for mild temperatures that tickle the 30-degree mark at the summit and 40 in Teton Village. South to southwest winds will pick up a touch this afternoon ahead of the next round of moisture, eventually cranking between 10 and 30 mph. Since the recent weather and warmth have nearly eradicated the scratchin', sniff around. Because it's always past the next curve that your ultimate crystal destiny is found. -Lege"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 83,
+          "yesterday": 81,
+          "delta": 2
+        },
+        "groomedTrails": {
+          "today": 42,
+          "yesterday": 43,
+          "delta": -1
+        },
+        "totalTrails": 145
+      },
+      "newlyOpened": [
+        {
+          "name": "Slalom",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Ashley Ridge (Lower)",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Laramie",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Cirque Gully",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Ashley Ridge (Upper)",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Ranger",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Grand",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "5\" fresh snow overnight",
+      "2 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 15\" in last 7 days",
+      "2 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Laramie - perfect for intermediate skiers",
+      "Fresh corduroy on Cirque Gully - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Nice Little Top-Up",
+    "body": "A proper refresh: 5\" of new snow making everything ski better. 2 new trails opened today. Peak season vibes today. Expect longer lift lines, especially late morning.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_solid",
+          "category": "snow",
+          "priority": 82,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_solid",
+          "category": "snow",
+          "priority": 82,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_micro",
+          "category": "terrain",
+          "priority": 45,
+          "usedFor": "body"
+        },
+        {
+          "id": "time_holiday",
+          "category": "time",
+          "priority": 70,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "snow_solid",
+        "variationIndex": 0,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Solid Refresh: {snow24h}\""
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,106 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2025-12-06",
+  "generated": "2025-12-06T10:22:55.141Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 11,
+          "yesterday": 8,
+          "delta": 3
+        },
+        "groomedTrails": {
+          "today": 10,
+          "yesterday": 7,
+          "delta": 3
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Beaver Hill",
+          "difficulty": "Green",
+          "area": "Main Face"
+        },
+        {
+          "name": "Deer Run",
+          "difficulty": "Green",
+          "area": "Main Face"
+        },
+        {
+          "name": "Long John",
+          "difficulty": "Green",
+          "area": "Main Face"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Beaver Hill",
+          "difficulty": "Green",
+          "area": "Main Face"
+        },
+        {
+          "name": "Deer Run",
+          "difficulty": "Green",
+          "area": "Main Face"
+        },
+        {
+          "name": "Long John",
+          "difficulty": "Green",
+          "area": "Main Face"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-05",
+        "avgWaitTime": 2,
+        "maxWaitTime": 4,
+        "totalLiftsTracked": 19,
+        "busiest": [
+          {
+            "name": "Canyon Express",
+            "avgWait": 2.2,
+            "peakWait": 4,
+            "type": "quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Bluebird Express",
+            "avgWait": 1.6,
+            "peakWait": 3,
+            "type": "six",
+            "mountain": "Main Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "3 new trails opened today",
+      "3 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 43% from yesterday",
+      "3 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Beaver Hill - great for beginners",
+      "Fresh corduroy on Deer Run - great for beginners",
+      "Fresh corduroy on Long John - great for beginners"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

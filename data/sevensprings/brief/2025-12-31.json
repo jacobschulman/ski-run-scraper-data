@@ -1,0 +1,169 @@
+{
+  "resort": "sevensprings",
+  "resortName": "Seven Springs",
+  "date": "2025-12-31",
+  "generated": "2025-12-31T10:24:16.367Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 3,
+      "24hour_cm": 7,
+      "48hour_inches": 3,
+      "48hour_cm": 7,
+      "7day_inches": 3,
+      "7day_cm": 7,
+      "season_total_inches": 33,
+      "season_total_cm": 83,
+      "conditions": {
+        "today": "Fresh",
+        "yesterday": "Fresh"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 20,
+          "yesterday": 19,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 20,
+          "yesterday": 19,
+          "delta": 1
+        },
+        "totalTrails": 51
+      },
+      "newlyOpened": [
+        {
+          "name": "Lost Boy - Lower",
+          "difficulty": "Green",
+          "area": "North Face"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-30",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 14,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-31",
+        "high_f": 24,
+        "low_f": 11,
+        "high_c": -4,
+        "low_c": -12,
+        "description": "Snow & Wind",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-01T05:00:00Z",
+          "high_f": 25,
+          "low_f": 8,
+          "high_c": -4,
+          "low_c": -13,
+          "description": "Snow & Wind",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-02T05:00:00Z",
+          "high_f": 21,
+          "low_f": 11,
+          "high_c": -7,
+          "low_c": -12,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-03T05:00:00Z",
+          "high_f": 26,
+          "low_f": 16,
+          "high_c": -4,
+          "low_c": -9,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-01T05:00:00Z",
+        "high_f": 25,
+        "low_f": 8,
+        "high_c": -4,
+        "low_c": -13,
+        "description": "Snow & Wind",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today"
+    ],
+    "trends": [
+      "1 more trail open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Fresh Terrain Unlocked",
+    "body": "The mountain got a nice 3\" touch-up. Expect improved conditions across the board. 1 new run just opened up. Time to explore some fresh terrain.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 4,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Fewer Crowds, More Turns"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

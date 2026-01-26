@@ -1,0 +1,142 @@
+{
+  "resort": "jacksonhole",
+  "resortName": "Jackson Hole",
+  "date": "2026-01-02",
+  "generated": "2026-01-03T06:25:51.441Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 5,
+      "overnight_cm": 13,
+      "24hour_inches": 5,
+      "24hour_cm": 13,
+      "48hour_inches": 5,
+      "48hour_cm": 13,
+      "7day_inches": 19,
+      "7day_cm": 48,
+      "season_total_inches": 175,
+      "season_total_cm": 445,
+      "conditions": {
+        "today": "6 AM- Climb on out from under those covers; we've got a better blanket. 5 fluffy inches fell overnight at all elevations, and periods of heavy powfall are poised to continue through the day. Gusty west winds in the 10-30 mph range will be whipping up white vapor trails, adding to the storm's beautiful chaos. Mild temperatures will rise to the mid-20s at the summit while the Village hits the mid-30s. The flanks of Rendezvous Mountain are being fully redesigned. So, empty your mind. Take a trip on the tram and leave those alpine inhibitions behind. But beware. You're entering a white-room wormhole where reality refuses to be defined. -Lege",
+        "yesterday": "6 AM- Happy 2026, everyone! There's little time for the party-weary to ease into things because Baby New Year is waking up with energetic intentions. Clouds will be building through the day in prelude to afternoon snow showers. Mild highs will hang in the upper 20s on the deck of Corbet's Cabin and push into the mid-30s down in the Village. Gentle winds from the west-southwest will slowly usher in this year's inaugural storm as they breeze through between 5 and 10 mph. So, prepare to join in on our next powder-plundering revolution. Let this afternoon's incoming crystals be the inspirational catalyst for your next resolution. Because regardless of affliction, fresh falling snow is the ultimate solution. -Lege"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 81,
+          "yesterday": 80,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 43,
+          "yesterday": 39,
+          "delta": 4
+        },
+        "totalTrails": 145
+      },
+      "newlyOpened": [
+        {
+          "name": "Lander Bowl",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Tram Line",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Kemmerer (Upper)",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Laramie",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Jerry's Way",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Cirque Gully",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Grand",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "5\" fresh snow overnight",
+      "1 new trail opened today",
+      "5 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 19\" in last 7 days",
+      "1 more trail open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Tram Line - perfect for intermediate skiers",
+      "Fresh corduroy on Kemmerer (Upper) - challenging for advanced skiers",
+      "Fresh corduroy on Laramie - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "New Runs Now Open",
+    "body": "Overnight dusting of 5\" means the hardpack got a makeover. Looking good out there. Rope drop! 1 trail opened overnight, expanding your playground significantly.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 0,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Terrain is Expanding"
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
+  "errors": []
+}

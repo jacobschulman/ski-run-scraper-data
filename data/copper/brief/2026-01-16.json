@@ -1,0 +1,74 @@
+{
+  "resort": "copper",
+  "resortName": "Copper Mountain",
+  "date": "2026-01-16",
+  "generated": "2026-01-17T06:25:40.128Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 90,
+          "yesterday": 86,
+          "delta": 4
+        },
+        "groomedTrails": {
+          "today": 36,
+          "yesterday": 36,
+          "delta": 0
+        },
+        "totalTrails": 202
+      },
+      "newlyOpened": [
+        {
+          "name": "Hallelujah Ridge",
+          "difficulty": "Black",
+          "area": "Spaulding & Resolution"
+        },
+        {
+          "name": "Spaulding Ridge",
+          "difficulty": "Black",
+          "area": "Spaulding & Resolution"
+        },
+        {
+          "name": "Hallelujah",
+          "difficulty": "Black",
+          "area": "Center"
+        },
+        {
+          "name": "Ute Overlook",
+          "difficulty": "Black",
+          "area": "Center"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-15",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 23,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "4 new trails opened today"
+    ],
+    "trends": [
+      "4 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

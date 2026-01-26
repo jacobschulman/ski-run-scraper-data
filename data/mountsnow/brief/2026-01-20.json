@@ -1,0 +1,126 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2026-01-20",
+  "generated": "2026-01-20T10:28:22.838Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 70,
+          "yesterday": 67,
+          "delta": 3
+        },
+        "groomedTrails": {
+          "today": 44,
+          "yesterday": 43,
+          "delta": 1
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Inferno",
+          "difficulty": "TerrainPark",
+          "area": "Carinthia"
+        },
+        {
+          "name": "Roller Coaster",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Sap Bucket",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Under Pressure",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Big Dipper",
+          "difficulty": "Blue",
+          "area": "Sunbrook"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "The Gulch",
+          "difficulty": "TerrainPark",
+          "area": "Carinthia"
+        },
+        {
+          "name": "Overbrook",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-19",
+        "avgWaitTime": 3.7,
+        "maxWaitTime": 12,
+        "totalLiftsTracked": 18,
+        "busiest": [
+          {
+            "name": "Bluebird Express",
+            "avgWait": 6.5,
+            "peakWait": 12,
+            "type": "Six Pack",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Nitro Express",
+            "avgWait": 4.9,
+            "peakWait": 10,
+            "type": "Quad",
+            "mountain": "Carinthia"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 2.8,
+            "peakWait": 7,
+            "type": "Quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Grand Summit Express",
+            "avgWait": 2.3,
+            "peakWait": 7,
+            "type": "Quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Challenger",
+            "avgWait": 1.7,
+            "peakWait": 5,
+            "type": "Triple",
+            "mountain": "North Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "5 new trails opened today"
+    ],
+    "trends": [
+      "3 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

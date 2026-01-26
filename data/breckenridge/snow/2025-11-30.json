@@ -1,0 +1,95 @@
+{
+  "resort": "breckenridge",
+  "resortName": "Breckenridge",
+  "date": "2025-11-30",
+  "timestamp": "2025-11-30T12:33:02.434Z",
+  "lastUpdated": "Updated November 30, 2025 at 4:54 AM MST",
+  "conditions": "Early Season",
+  "snowfall": {
+    "overnight_inches": 2,
+    "overnight_cm": 5,
+    "24hour_inches": 2,
+    "24hour_cm": 5,
+    "48hour_inches": 6,
+    "48hour_cm": 15,
+    "7day_inches": 7,
+    "7day_cm": 17,
+    "season_total_inches": 12,
+    "season_total_cm": 30
+  },
+  "baseDepth": {
+    "inches": 18,
+    "cm": 45
+  },
+  "forecast": {
+    "locations": [
+      {
+        "name": "Unknown",
+        "elevation": null,
+        "today": {
+          "high_f": 25,
+          "high_c": -4,
+          "low_f": 10,
+          "low_c": -12,
+          "description": "Cloudy",
+          "wind": "WSW",
+          "wind_speed": 4.91,
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0
+        },
+        "forecast_days": [
+          {
+            "date": "2025-11-30T07:00:00Z",
+            "high_f": 25,
+            "high_c": -4,
+            "low_f": 10,
+            "low_c": -12,
+            "description": "Cloudy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2025-12-01T07:00:00Z",
+            "high_f": 17,
+            "high_c": -9,
+            "low_f": 5,
+            "low_c": -15,
+            "description": "Partly Cloudy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2025-12-02T07:00:00Z",
+            "high_f": 26,
+            "high_c": -3,
+            "low_f": 4,
+            "low_c": -16,
+            "description": "Partly Cloudy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2025-12-03T07:00:00Z",
+            "high_f": 20,
+            "high_c": -7,
+            "low_f": 6,
+            "low_c": -15,
+            "description": "Snow",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2025-12-04T07:00:00Z",
+            "high_f": 21,
+            "high_c": -6,
+            "low_f": -1,
+            "low_c": -19,
+            "description": "Clear",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          }
+        ]
+      }
+    ]
+  }
+}

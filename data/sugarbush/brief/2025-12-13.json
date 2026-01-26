@@ -1,0 +1,214 @@
+{
+  "resort": "sugarbush",
+  "resortName": "Sugarbush",
+  "date": "2025-12-13",
+  "generated": "2025-12-14T04:33:28.407Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 1,
+      "24hour_cm": 3,
+      "48hour_inches": 4,
+      "48hour_cm": 10,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 60,
+      "season_total_cm": 152,
+      "conditions": {
+        "today": "Machine Groomed Packed Powder",
+        "yesterday": "Machine Groomed Packed Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 65,
+          "yesterday": 65,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 20,
+          "yesterday": 17,
+          "delta": 3
+        },
+        "totalTrails": 142
+      },
+      "newlyOpened": [
+        {
+          "name": "Paradise Extension",
+          "difficulty": "Difficult",
+          "area": "Lincoln Peak"
+        },
+        {
+          "name": "Downspout",
+          "difficulty": "Intermediate",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "Gondolier",
+          "difficulty": "Easy",
+          "area": "Gadd Peak"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Sleeper",
+          "difficulty": "Intermediate",
+          "area": "North Lynx Peak"
+        },
+        {
+          "name": "Sleeper Chutes",
+          "difficulty": "Difficult",
+          "area": "North Lynx Peak"
+        },
+        {
+          "name": "Sleeper Road",
+          "difficulty": "Intermediate",
+          "area": "North Lynx Peak"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Lower Downspout",
+          "difficulty": "Intermediate",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "Lower Jester",
+          "difficulty": "Intermediate",
+          "area": "Gadd Peak"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-12",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 16,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-13",
+        "high_f": null,
+        "low_f": 13,
+        "high_c": null,
+        "low_c": -10,
+        "description": "Windy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-14",
+          "high_f": 13,
+          "low_f": 0,
+          "high_c": -11,
+          "low_c": -18,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-15",
+          "high_f": 9,
+          "low_f": 10,
+          "high_c": -13,
+          "low_c": -12,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-16",
+          "high_f": 17,
+          "low_f": 17,
+          "high_c": -8,
+          "low_c": -8,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-14",
+        "high_f": 13,
+        "low_f": 0,
+        "high_c": -11,
+        "low_c": -18,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "3 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [],
+    "recommendations": [
+      "Fresh corduroy on Lower Downspout - all skill levels",
+      "Fresh corduroy on Lower Jester - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "A Little Sugar on Top",
+    "body": "A fresh 1\" coating has things skiing better than yesterday. Small gifts matter. 3 trails opened today expanding access to fresh terrain. Snow expected today or tomorrow with conditions continuing to improve.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_new_trails_opened",
+          "category": "terrain",
+          "priority": 65,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_snow_today_tomorrow",
+          "category": "weather",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "fresh_coat",
+        "variationIndex": 0,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Fresh Coat on the Mountain"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

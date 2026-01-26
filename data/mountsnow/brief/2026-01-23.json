@@ -1,0 +1,129 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2026-01-23",
+  "generated": "2026-01-23T10:24:05.006Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 75,
+          "yesterday": 70,
+          "delta": 5
+        },
+        "groomedTrails": {
+          "today": 47,
+          "yesterday": 44,
+          "delta": 3
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Drop",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Illusion",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Overbrook",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Fallen Timbers",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Olympic",
+          "difficulty": "Black",
+          "area": "North Face"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Drop",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Fallen Timbers",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Plummet",
+          "difficulty": "Black",
+          "area": "North Face"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-22",
+        "avgWaitTime": 2.6,
+        "maxWaitTime": 7,
+        "totalLiftsTracked": 18,
+        "busiest": [
+          {
+            "name": "Bluebird Express",
+            "avgWait": 3.5,
+            "peakWait": 7,
+            "type": "Six Pack",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Nitro Express",
+            "avgWait": 2.7,
+            "peakWait": 7,
+            "type": "Quad",
+            "mountain": "Carinthia"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 2.1,
+            "peakWait": 4,
+            "type": "Quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Challenger",
+            "avgWait": 1.8,
+            "peakWait": 2,
+            "type": "Triple",
+            "mountain": "North Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "5 new trails opened today",
+      "3 trails freshly groomed"
+    ],
+    "trends": [
+      "5 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Drop - perfect for intermediate skiers",
+      "Fresh corduroy on Fallen Timbers - challenging for advanced skiers",
+      "Fresh corduroy on Plummet - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

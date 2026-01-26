@@ -1,0 +1,19 @@
+{
+  "resort": "sundayriver",
+  "resortName": "Sunday River",
+  "date": "2026-01-07",
+  "generated": "2026-01-08T03:26:43.331Z",
+  "rawData": {
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {},
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

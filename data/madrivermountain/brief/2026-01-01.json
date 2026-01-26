@@ -1,0 +1,169 @@
+{
+  "resort": "madrivermountain",
+  "resortName": "Mad River Mountain",
+  "date": "2026-01-01",
+  "generated": "2026-01-01T10:24:53.223Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 1,
+      "48hour_cm": 2,
+      "7day_inches": 1,
+      "7day_cm": 2,
+      "season_total_inches": 6,
+      "season_total_cm": 15,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 14,
+          "yesterday": 13,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 14,
+          "yesterday": 13,
+          "delta": 1
+        },
+        "totalTrails": 20
+      },
+      "newlyOpened": [
+        {
+          "name": "Louie Vito Learning Park",
+          "difficulty": "TerrainPark",
+          "area": "MRM"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-31",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 11,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-01",
+        "high_f": 26,
+        "low_f": 11,
+        "high_c": -4,
+        "low_c": -12,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-02T05:00:00Z",
+          "high_f": 24,
+          "low_f": 15,
+          "high_c": -5,
+          "low_c": -9,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-03T05:00:00Z",
+          "high_f": 24,
+          "low_f": 16,
+          "high_c": -4,
+          "low_c": -9,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-04T05:00:00Z",
+          "high_f": 26,
+          "low_f": 18,
+          "high_c": -4,
+          "low_c": -8,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-02T05:00:00Z",
+        "high_f": 24,
+        "low_f": 15,
+        "high_c": -5,
+        "low_c": -9,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today"
+    ],
+    "trends": [
+      "1 more trail open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Terrain is Expanding",
+    "body": "14/20 trails spinning, 14 freshly groomed. 26° and Cloudy. New terrain alert: 1 trail added to the mix. The mountain just got bigger.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 0,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "A Little Sugar on Top"
+      },
+      "dayOfWeek": "Thursday"
+    }
+  },
+  "errors": []
+}

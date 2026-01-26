@@ -1,0 +1,159 @@
+{
+  "resort": "attitash",
+  "resortName": "Attitash",
+  "date": "2026-01-13",
+  "generated": "2026-01-13T10:24:10.917Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 1,
+      "48hour_cm": 2,
+      "7day_inches": 5,
+      "7day_cm": 14,
+      "season_total_inches": 32,
+      "season_total_cm": 82,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 38,
+          "yesterday": 38,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 35,
+          "yesterday": 35,
+          "delta": 0
+        },
+        "totalTrails": 76
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-12",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 8,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-13",
+        "high_f": 38,
+        "low_f": 23,
+        "high_c": 3,
+        "low_c": -5,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-14T05:00:00Z",
+          "high_f": 41,
+          "low_f": 29,
+          "high_c": 5,
+          "low_c": -2,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-15T05:00:00Z",
+          "high_f": 36,
+          "low_f": 8,
+          "high_c": 2,
+          "low_c": -13,
+          "description": "Rain/Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-16T05:00:00Z",
+          "high_f": 18,
+          "low_f": 1,
+          "high_c": -8,
+          "low_c": -18,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-14T05:00:00Z",
+        "high_f": 41,
+        "low_f": 29,
+        "high_c": 5,
+        "low_c": -2,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Midweek Mountain Report",
+    "body": "38/76 trails spinning, 35 freshly groomed. 38° and Mostly Cloudy. 38/76 trails open, 35 groomed. 38° and Mostly Cloudy.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "time_midweek_mellow",
+          "category": "time",
+          "priority": 45,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "fallback_body",
+          "category": "weather",
+          "priority": 5,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "midweek_mellow",
+        "variationIndex": 0,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": null
+      },
+      "dayOfWeek": "Tuesday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,216 @@
+{
+  "resort": "keystone",
+  "resortName": "Keystone",
+  "date": "2026-01-02",
+  "generated": "2026-01-02T12:37:15.300Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 3,
+      "7day_cm": 7,
+      "season_total_inches": 61,
+      "season_total_cm": 154,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 43,
+          "yesterday": 41,
+          "delta": 2
+        },
+        "groomedTrails": {
+          "today": 29,
+          "yesterday": 29,
+          "delta": 0
+        },
+        "totalTrails": 142
+      },
+      "newlyOpened": [
+        {
+          "name": "Miners",
+          "difficulty": "Green",
+          "area": "Bergman"
+        },
+        {
+          "name": "Thorne",
+          "difficulty": "Blue",
+          "area": "Bergman"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-01",
+        "avgWaitTime": 4.7,
+        "maxWaitTime": 20,
+        "totalLiftsTracked": 21,
+        "busiest": [
+          {
+            "name": "Montezuma Express",
+            "avgWait": 5.9,
+            "peakWait": 12,
+            "type": "Six Pack",
+            "mountain": "Dercum Mountain"
+          },
+          {
+            "name": "River Run Gondola",
+            "avgWait": 5.5,
+            "peakWait": 19,
+            "type": "Gondola",
+            "mountain": "Dercum Mountain"
+          },
+          {
+            "name": "Ranger",
+            "avgWait": 5,
+            "peakWait": 7,
+            "type": "Triple",
+            "mountain": "Dercum Mountain"
+          },
+          {
+            "name": "Summit Express",
+            "avgWait": 5,
+            "peakWait": 20,
+            "type": "Quad",
+            "mountain": "Dercum Mountain"
+          },
+          {
+            "name": "Peru Express",
+            "avgWait": 4.9,
+            "peakWait": 8,
+            "type": "Six Pack",
+            "mountain": "Dercum Mountain"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-02",
+        "high_f": 33,
+        "low_f": 26,
+        "high_c": null,
+        "low_c": -4,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-03T07:00:00Z",
+          "high_f": 41,
+          "low_f": 21,
+          "high_c": 5,
+          "low_c": -6,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-04T07:00:00Z",
+          "high_f": 37,
+          "low_f": 24,
+          "high_c": 2,
+          "low_c": -5,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-05T07:00:00Z",
+          "high_f": 33,
+          "low_f": 21,
+          "high_c": null,
+          "low_c": -6,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-03T07:00:00Z",
+        "high_f": 41,
+        "low_f": 21,
+        "high_c": 5,
+        "low_c": -6,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2 new trails opened today"
+    ],
+    "trends": [
+      "2 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "2 New Trails Today",
+    "body": "43/142 trails spinning, 29 freshly groomed. 33° and Cloudy. 2 new runs just opened up. Time to explore some fresh terrain. Watch for crowds at Montezuma Express, which peaked around 20 minutes yesterday.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_watch_crowds",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 1,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "New Runs Now Open"
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
+  "errors": []
+}

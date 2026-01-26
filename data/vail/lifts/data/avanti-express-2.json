@@ -1,0 +1,541 @@
+{
+  "resort": "vail",
+  "resortName": "Vail",
+  "liftId": "15",
+  "liftName": "Avanti Express #2",
+  "slug": "avanti-express-2",
+  "mountain": "Lionshead",
+  "type": "Six Pack",
+  "capacity": 6,
+  "currentStatus": {
+    "status": "Open",
+    "waitMinutes": 0,
+    "openTime": "08:30",
+    "closeTime": "15:30",
+    "timestamp": "2026-01-25T23:13:55.035Z",
+    "localTime": "16:13:55"
+  },
+  "stats": {
+    "totalRecords": 1634,
+    "avgWaitTime": 2,
+    "minWaitTime": 0,
+    "maxWaitTime": 19,
+    "daysTracked": 57
+  },
+  "history": [
+    {
+      "date": "2026-01-25",
+      "recordCount": 29,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 6,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-24",
+      "recordCount": 28,
+      "avgWaitTime": 6,
+      "minWaitTime": 0,
+      "maxWaitTime": 14,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-23",
+      "recordCount": 23,
+      "avgWaitTime": 3,
+      "minWaitTime": 0,
+      "maxWaitTime": 10,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-22",
+      "recordCount": 19,
+      "avgWaitTime": 1,
+      "minWaitTime": 0,
+      "maxWaitTime": 2,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-21",
+      "recordCount": 14,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 4,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-20",
+      "recordCount": 17,
+      "avgWaitTime": 1,
+      "minWaitTime": 0,
+      "maxWaitTime": 5,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-19",
+      "recordCount": 24,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 6,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-18",
+      "recordCount": 31,
+      "avgWaitTime": 5,
+      "minWaitTime": 0,
+      "maxWaitTime": 16,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-17",
+      "recordCount": 33,
+      "avgWaitTime": 3,
+      "minWaitTime": 0,
+      "maxWaitTime": 8,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-16",
+      "recordCount": 29,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 6,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-14",
+      "recordCount": 30,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 6,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-13",
+      "recordCount": 28,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 5,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-12",
+      "recordCount": 30,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 6,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-11",
+      "recordCount": 35,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 6,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-10",
+      "recordCount": 35,
+      "avgWaitTime": 5,
+      "minWaitTime": 0,
+      "maxWaitTime": 11,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-09",
+      "recordCount": 29,
+      "avgWaitTime": 3,
+      "minWaitTime": 0,
+      "maxWaitTime": 8,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-08",
+      "recordCount": 27,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 5,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-07",
+      "recordCount": 28,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 4,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-06",
+      "recordCount": 30,
+      "avgWaitTime": 3,
+      "minWaitTime": 0,
+      "maxWaitTime": 9,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-05",
+      "recordCount": 28,
+      "avgWaitTime": 3,
+      "minWaitTime": 0,
+      "maxWaitTime": 16,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-04",
+      "recordCount": 35,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 8,
+      "wasOpen": true,
+      "openPercentage": 97
+    },
+    {
+      "date": "2026-01-03",
+      "recordCount": 35,
+      "avgWaitTime": 5,
+      "minWaitTime": 0,
+      "maxWaitTime": 19,
+      "wasOpen": true,
+      "openPercentage": 94
+    },
+    {
+      "date": "2026-01-02",
+      "recordCount": 36,
+      "avgWaitTime": 5,
+      "minWaitTime": 0,
+      "maxWaitTime": 11,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-01",
+      "recordCount": 34,
+      "avgWaitTime": 3,
+      "minWaitTime": 0,
+      "maxWaitTime": 10,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-31",
+      "recordCount": 35,
+      "avgWaitTime": 4,
+      "minWaitTime": 0,
+      "maxWaitTime": 10,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-30",
+      "recordCount": 34,
+      "avgWaitTime": 3,
+      "minWaitTime": 0,
+      "maxWaitTime": 9,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-29",
+      "recordCount": 34,
+      "avgWaitTime": 5,
+      "minWaitTime": 0,
+      "maxWaitTime": 12,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-28",
+      "recordCount": 35,
+      "avgWaitTime": 5,
+      "minWaitTime": 0,
+      "maxWaitTime": 16,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-27",
+      "recordCount": 36,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 5,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-26",
+      "recordCount": 35,
+      "avgWaitTime": 1,
+      "minWaitTime": 0,
+      "maxWaitTime": 5,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-25",
+      "recordCount": 35,
+      "avgWaitTime": 1,
+      "minWaitTime": 0,
+      "maxWaitTime": 4,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-24",
+      "recordCount": 35,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 7,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-23",
+      "recordCount": 35,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 7,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-22",
+      "recordCount": 34,
+      "avgWaitTime": 3,
+      "minWaitTime": 0,
+      "maxWaitTime": 8,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-21",
+      "recordCount": 38,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 6,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-20",
+      "recordCount": 39,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 8,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-19",
+      "recordCount": 31,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 5,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-18",
+      "recordCount": 28,
+      "avgWaitTime": 1,
+      "minWaitTime": 0,
+      "maxWaitTime": 3,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-17",
+      "recordCount": 25,
+      "avgWaitTime": 1,
+      "minWaitTime": 0,
+      "maxWaitTime": 3,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-16",
+      "recordCount": 25,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 8,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-15",
+      "recordCount": 21,
+      "avgWaitTime": 1,
+      "minWaitTime": 0,
+      "maxWaitTime": 3,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-14",
+      "recordCount": 27,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 4,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-13",
+      "recordCount": 27,
+      "avgWaitTime": 3,
+      "minWaitTime": 0,
+      "maxWaitTime": 6,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-12",
+      "recordCount": 25,
+      "avgWaitTime": 1,
+      "minWaitTime": 0,
+      "maxWaitTime": 3,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-11",
+      "recordCount": 21,
+      "avgWaitTime": 1,
+      "minWaitTime": 0,
+      "maxWaitTime": 3,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-10",
+      "recordCount": 22,
+      "avgWaitTime": 1,
+      "minWaitTime": 0,
+      "maxWaitTime": 4,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-09",
+      "recordCount": 25,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 7,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-08",
+      "recordCount": 24,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 3,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-07",
+      "recordCount": 28,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 4,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-06",
+      "recordCount": 28,
+      "avgWaitTime": 1,
+      "minWaitTime": 0,
+      "maxWaitTime": 4,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-05",
+      "recordCount": 26,
+      "avgWaitTime": 1,
+      "minWaitTime": 0,
+      "maxWaitTime": 4,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-04",
+      "recordCount": 20,
+      "avgWaitTime": 1,
+      "minWaitTime": 0,
+      "maxWaitTime": 2,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-03",
+      "recordCount": 23,
+      "avgWaitTime": 1,
+      "minWaitTime": 0,
+      "maxWaitTime": 4,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-02",
+      "recordCount": 23,
+      "avgWaitTime": 1,
+      "minWaitTime": 0,
+      "maxWaitTime": 3,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-01",
+      "recordCount": 22,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 6,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-11-30",
+      "recordCount": 27,
+      "avgWaitTime": 1,
+      "minWaitTime": 0,
+      "maxWaitTime": 3,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-11-29",
+      "recordCount": 24,
+      "avgWaitTime": 2,
+      "minWaitTime": 0,
+      "maxWaitTime": 5,
+      "wasOpen": true,
+      "openPercentage": 100
+    }
+  ],
+  "generated": "2026-01-26T19:57:27.362Z"
+}

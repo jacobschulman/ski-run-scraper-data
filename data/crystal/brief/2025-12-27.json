@@ -1,0 +1,221 @@
+{
+  "resort": "crystal",
+  "resortName": "Crystal Mountain",
+  "date": "2025-12-27",
+  "generated": "2025-12-28T07:17:28.783Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 8,
+      "overnight_cm": 20,
+      "24hour_inches": 13,
+      "24hour_cm": 33,
+      "48hour_inches": 17,
+      "48hour_cm": 43,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 110,
+      "season_total_cm": 279,
+      "conditions": {
+        "today": "Obstacles Exist",
+        "yesterday": "Obstacles Exist"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 51,
+          "yesterday": 40,
+          "delta": 11
+        },
+        "groomedTrails": {
+          "today": 13,
+          "yesterday": 13,
+          "delta": 0
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Gold Hills",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Snow Garden",
+          "difficulty": "Easy",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Stump Farm",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Buck",
+          "difficulty": "Intermediate",
+          "area": "Frontside"
+        },
+        {
+          "name": "Sheppard",
+          "difficulty": "Intermediate",
+          "area": "Frontside"
+        },
+        {
+          "name": "Willie's Run",
+          "difficulty": "Difficult",
+          "area": "Frontside"
+        },
+        {
+          "name": "Bear Pits",
+          "difficulty": "Very Difficult",
+          "area": "High Campbell"
+        },
+        {
+          "name": "A-Basin",
+          "difficulty": "Very Difficult",
+          "area": "South"
+        },
+        {
+          "name": "Silver Basin",
+          "difficulty": "Very Difficult",
+          "area": "South"
+        },
+        {
+          "name": "Silver King",
+          "difficulty": "Very Difficult",
+          "area": "South"
+        },
+        {
+          "name": "Three Way Peak",
+          "difficulty": "Very Difficult",
+          "area": "South"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-26",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 11,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-27",
+        "high_f": null,
+        "low_f": 17,
+        "high_c": null,
+        "low_c": -9,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-28",
+          "high_f": 29,
+          "low_f": 28,
+          "high_c": -2,
+          "low_c": -2,
+          "description": "Mostly Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-29",
+          "high_f": 38,
+          "low_f": 37,
+          "high_c": 3,
+          "low_c": 3,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-30",
+          "high_f": 41,
+          "low_f": 39,
+          "high_c": 5,
+          "low_c": 4,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-28",
+        "high_f": 29,
+        "low_f": 28,
+        "high_c": -2,
+        "low_c": -2,
+        "description": "Mostly Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "8\" fresh snow overnight",
+      "13\" in last 24 hours - powder day!",
+      "11 new trails opened today"
+    ],
+    "trends": [
+      "11 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Powder Day Alert! ❄️",
+    "body": "Wake up, it's a powder day! 13\" overnight means hero snow everywhere you look. Rope drop! 11 trails opened overnight, expanding your playground significantly.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 0,
+        "totalVariations": 12,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Deep Day at {resortName}"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

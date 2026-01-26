@@ -1,0 +1,243 @@
+{
+  "resort": "parkcity",
+  "resortName": "Park City",
+  "date": "2025-12-14",
+  "generated": "2025-12-14T12:33:49.435Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 4,
+      "7day_cm": 10,
+      "season_total_inches": 27,
+      "season_total_cm": 68,
+      "conditions": {
+        "today": "Early Season",
+        "yesterday": "Early Season"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 11,
+          "yesterday": 8,
+          "delta": 3
+        },
+        "groomedTrails": {
+          "today": 11,
+          "yesterday": 8,
+          "delta": 3
+        },
+        "totalTrails": 349
+      },
+      "newlyOpened": [
+        {
+          "name": "Raptor Way",
+          "difficulty": "Blue",
+          "area": "OBX/Saddleback/Sun Peak"
+        },
+        {
+          "name": "Chicane",
+          "difficulty": "Blue",
+          "area": "Peak 5/9990/Tombstone"
+        },
+        {
+          "name": "Red Pine Road",
+          "difficulty": "Blue",
+          "area": "Peak 5/9990/Tombstone"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Raptor Way",
+          "difficulty": "Blue",
+          "area": "OBX/Saddleback/Sun Peak"
+        },
+        {
+          "name": "Chicane",
+          "difficulty": "Blue",
+          "area": "Peak 5/9990/Tombstone"
+        },
+        {
+          "name": "Red Pine Road",
+          "difficulty": "Blue",
+          "area": "Peak 5/9990/Tombstone"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-13",
+        "avgWaitTime": 3.1,
+        "maxWaitTime": 23,
+        "totalLiftsTracked": 44,
+        "busiest": [
+          {
+            "name": "First Time Lift",
+            "avgWait": 6.4,
+            "peakWait": 23,
+            "type": "quad",
+            "mountain": "Payday/Town/Crescent"
+          },
+          {
+            "name": "High Meadow",
+            "avgWait": 5,
+            "peakWait": 8,
+            "type": "quad",
+            "mountain": "OBX/Saddleback/Sun Peak"
+          },
+          {
+            "name": "Red Pine Gondola",
+            "avgWait": 3.4,
+            "peakWait": 14,
+            "type": "gondola",
+            "mountain": "OBX/Saddleback/Sun Peak"
+          },
+          {
+            "name": "Saddleback Express",
+            "avgWait": 3.4,
+            "peakWait": 7,
+            "type": "quad",
+            "mountain": "OBX/Saddleback/Sun Peak"
+          },
+          {
+            "name": "3 Kings Lift",
+            "avgWait": 2.8,
+            "peakWait": 15,
+            "type": "triple",
+            "mountain": "Payday/Town/Crescent"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-14",
+        "high_f": 49,
+        "low_f": 33,
+        "high_c": 9,
+        "low_c": 1,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-15T07:00:00Z",
+          "high_f": 47,
+          "low_f": 33,
+          "high_c": 8,
+          "low_c": 1,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-16T07:00:00Z",
+          "high_f": 44,
+          "low_f": 32,
+          "high_c": 6,
+          "low_c": null,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-17T07:00:00Z",
+          "high_f": 41,
+          "low_f": 29,
+          "high_c": 5,
+          "low_c": -2,
+          "description": "Scattered T-Storms",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-15T07:00:00Z",
+        "high_f": 47,
+        "low_f": 33,
+        "high_c": 8,
+        "low_c": 1,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "3 new trails opened today",
+      "3 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 38% from yesterday",
+      "3 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Raptor Way - perfect for intermediate skiers",
+      "Fresh corduroy on Chicane - perfect for intermediate skiers",
+      "Fresh corduroy on Red Pine Road - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "More Mountain to Explore",
+    "body": "11 trails open, 11 groomed. Mostly Cloudy, high of 49°. Rope drop! 3 trails opened overnight, expanding your playground significantly. Lift lines stayed mellow yesterday, so early laps should feel quick.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_mellow_lines",
+          "category": "lifts",
+          "priority": 50,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 3,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "The Base Is Holding Up"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

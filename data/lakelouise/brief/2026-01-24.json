@@ -1,0 +1,225 @@
+{
+  "resort": "lakelouise",
+  "resortName": "Lake Louise",
+  "date": "2026-01-24",
+  "generated": "2026-01-25T06:27:15.477Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0.4,
+      "overnight_cm": 1,
+      "24hour_inches": 0.4,
+      "24hour_cm": 1,
+      "48hour_inches": 0.4,
+      "48hour_cm": 1,
+      "7day_inches": 0.4,
+      "7day_cm": 1,
+      "season_total_inches": 231.9,
+      "season_total_cm": 589,
+      "conditions": {
+        "today": "Sunny Spells",
+        "yesterday": "Sunny Spells"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 170,
+          "yesterday": 170,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 36,
+          "yesterday": 34,
+          "delta": 2
+        },
+        "totalTrails": 170
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Bearberry",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        },
+        {
+          "name": "Jerry's Jungle",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Lake Lindsey Way",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "Buffaloberry",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        },
+        {
+          "name": "Charlie's Choice",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        },
+        {
+          "name": "Larch Poma",
+          "difficulty": "Blue",
+          "area": "Larch"
+        },
+        {
+          "name": "Merlin",
+          "difficulty": "Blue",
+          "area": "Richardson's Ridge"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Men's Downhill",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "Grizzly Gully",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        },
+        {
+          "name": "Meadowlark",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "Bunchberry",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        },
+        {
+          "name": "30 Goats",
+          "difficulty": "Blue",
+          "area": "Larch"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-24",
+        "high_f": 32,
+        "low_f": 32,
+        "high_c": 0,
+        "low_c": 0,
+        "description": "Cloud/Sun/Mixed",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-26T06:27:15.476Z",
+          "high_f": 32,
+          "low_f": 32,
+          "high_c": 0,
+          "low_c": 0,
+          "description": "Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-27T06:27:15.476Z",
+          "high_f": 32,
+          "low_f": 32,
+          "high_c": 0,
+          "low_c": 0,
+          "description": "Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-28T06:27:15.476Z",
+          "high_f": 32,
+          "low_f": 32,
+          "high_c": 0,
+          "low_c": 0,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-26T06:27:15.476Z",
+        "high_f": 32,
+        "low_f": 32,
+        "high_c": 0,
+        "low_c": 0,
+        "description": "Snow",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "7 trails freshly groomed"
+    ],
+    "trends": [],
+    "recommendations": [
+      "Fresh corduroy on Bearberry - perfect for intermediate skiers",
+      "Fresh corduroy on Jerry's Jungle - great for beginners",
+      "Fresh corduroy on Lake Lindsey Way - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Variable Conditions",
+    "body": "170 of 170 trails are open with 36 groomed. Cloud/Sun/Mixed with a high of 32°F. 7 runs freshly groomed, mostly in Front Side, Larch, and more. Mixed precipitation expected. Rain at base, snow up top. Dress in layers.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_mixed",
+          "category": "weather",
+          "priority": 195,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "grooming_moderate",
+          "category": "terrain",
+          "priority": 55,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_mixed",
+          "category": "weather",
+          "priority": 195,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "weather_mixed",
+        "variationIndex": 1,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Rain at Base, Snow Up Top"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,114 @@
+{
+  "resort": "crestedbutte",
+  "resortName": "Crested Butte",
+  "date": "2025-12-31",
+  "generated": "2025-12-31T12:40:29.067Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 48,
+          "yesterday": 45,
+          "delta": 3
+        },
+        "groomedTrails": {
+          "today": 27,
+          "yesterday": 27,
+          "delta": 0
+        },
+        "totalTrails": 168
+      },
+      "newlyOpened": [
+        {
+          "name": "Daisy",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Lower Treasury",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Upper Treasury",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": [
+        {
+          "name": "Bubba's Way Jib Park",
+          "difficulty": "TerrainPark",
+          "area": "Back Side"
+        },
+        {
+          "name": "Lower Treasury",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Upper Treasury",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-30",
+        "avgWaitTime": 6,
+        "maxWaitTime": 17,
+        "totalLiftsTracked": 15,
+        "busiest": [
+          {
+            "name": "Red Lady Express",
+            "avgWait": 9.8,
+            "peakWait": 17,
+            "type": "Quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "Silver Queen Express",
+            "avgWait": 5.8,
+            "peakWait": 12,
+            "type": "Quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "Paradise Express",
+            "avgWait": 4.8,
+            "peakWait": 9,
+            "type": "Quad",
+            "mountain": "Back Side"
+          },
+          {
+            "name": "East River Express",
+            "avgWait": 2.4,
+            "peakWait": 5,
+            "type": "Quad",
+            "mountain": "Back Side"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "3 new trails opened today"
+    ],
+    "trends": [
+      "3 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

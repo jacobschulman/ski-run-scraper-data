@@ -1,0 +1,61 @@
+{
+  "resort": "alpinevalley",
+  "resortName": "Alpine Valley",
+  "date": "2026-01-17",
+  "generated": "2026-01-17T10:19:56.471Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 9,
+          "yesterday": 6,
+          "delta": 3
+        },
+        "groomedTrails": {
+          "today": 6,
+          "yesterday": 6,
+          "delta": 0
+        },
+        "totalTrails": 9
+      },
+      "newlyOpened": [
+        {
+          "name": "Nugget",
+          "difficulty": "Black",
+          "area": "Alpine Valley"
+        },
+        {
+          "name": "Outer Limits",
+          "difficulty": "Blue",
+          "area": "Alpine Valley"
+        },
+        {
+          "name": "The Meadow",
+          "difficulty": "Blue",
+          "area": "Alpine Valley"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "3 new trails opened today"
+    ],
+    "trends": [
+      "3 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

@@ -1,0 +1,224 @@
+{
+  "resort": "sugarloaf",
+  "resortName": "Sugarloaf",
+  "date": "2025-12-24",
+  "generated": "2025-12-25T04:35:01.008Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 7,
+      "overnight_cm": 18,
+      "24hour_inches": 9,
+      "24hour_cm": 23,
+      "48hour_inches": 9,
+      "48hour_cm": 23,
+      "7day_inches": 9,
+      "7day_cm": 23,
+      "season_total_inches": 38,
+      "season_total_cm": 97,
+      "conditions": {
+        "today": "Powder",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 44,
+          "yesterday": 36,
+          "delta": 8
+        },
+        "groomedTrails": {
+          "today": 31,
+          "yesterday": 29,
+          "delta": 2
+        },
+        "totalTrails": 176
+      },
+      "newlyOpened": [
+        {
+          "name": "Double Bitter",
+          "difficulty": "Black",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Haywire",
+          "difficulty": "Blue",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Lower Competition Hill",
+          "difficulty": "Blue",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Upper Competition Hill",
+          "difficulty": "Black",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Lower Spillway",
+          "difficulty": "Blue",
+          "area": "Skyline"
+        },
+        {
+          "name": "Upper Spillway",
+          "difficulty": "Black",
+          "area": "Skyline"
+        },
+        {
+          "name": "Chipper",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Lower West Mountain",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Upper West Mountain",
+          "difficulty": "Blue",
+          "area": "West Mountain"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Alice's Winterland Glade",
+          "difficulty": "Novice",
+          "area": "Double Runner"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Snowbrook",
+          "difficulty": "Novice",
+          "area": "Base Area"
+        },
+        {
+          "name": "Boardwalk",
+          "difficulty": "Novice",
+          "area": "Double Runner"
+        },
+        {
+          "name": "Picaroon",
+          "difficulty": "Novice",
+          "area": "Double Runner"
+        },
+        {
+          "name": "Hayburner",
+          "difficulty": "Black",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Lower Spillway",
+          "difficulty": "Blue",
+          "area": "Skyline"
+        },
+        {
+          "name": "Upper Spillway",
+          "difficulty": "Black",
+          "area": "Skyline"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Lower Skidder",
+          "difficulty": "Double Black",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Upper Skidder",
+          "difficulty": "Double Black",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Bucksaw X-Cut",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Chipper",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Horseshoe",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Lower West Mountain",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Upper West Mountain",
+          "difficulty": "Blue",
+          "area": "West Mountain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "7\" fresh snow overnight",
+      "9\" in last 24 hours - powder day!",
+      "9 new trails opened today",
+      "6 trails freshly groomed"
+    ],
+    "trends": [
+      "Steady snowfall - 9\" in last 7 days",
+      "8 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Snowbrook - all skill levels",
+      "Fresh corduroy on Boardwalk - all skill levels",
+      "Fresh corduroy on Picaroon - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "9\" of Fresh Overnight",
+    "body": "It's a 9\" day. You know what to do. First chair or regret it. Terrain is expanding with 9 new trails now open. More room to roam, less traffic to dodge.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 2,
+        "totalVariations": 12,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Dump Day at {resortName}"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,187 @@
+{
+  "resort": "stratton",
+  "resortName": "Stratton",
+  "date": "2025-12-30",
+  "generated": "2025-12-31T04:35:59.350Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 1,
+      "overnight_cm": 3,
+      "24hour_inches": 1,
+      "24hour_cm": 3,
+      "48hour_inches": 1,
+      "48hour_cm": 3,
+      "7day_inches": 7,
+      "7day_cm": 18,
+      "season_total_inches": 58,
+      "season_total_cm": 147,
+      "conditions": {
+        "today": "Machine Groomed Variable Conditions",
+        "yesterday": "Machine Groomed Variable Conditions"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 64,
+          "yesterday": 63,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 64,
+          "yesterday": 63,
+          "delta": 1
+        },
+        "totalTrails": 123
+      },
+      "newlyOpened": [
+        {
+          "name": "Polar Bear",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Polar Bear",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-29",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 14,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-30",
+        "high_f": null,
+        "low_f": 7,
+        "high_c": null,
+        "low_c": -14,
+        "description": "Windy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-31",
+          "high_f": 14,
+          "low_f": 12,
+          "high_c": -10,
+          "low_c": -11,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2026-01-01",
+          "high_f": 11,
+          "low_f": 1,
+          "high_c": -12,
+          "low_c": -17,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-02",
+          "high_f": 10,
+          "low_f": 7,
+          "high_c": -12,
+          "low_c": -14,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-31",
+        "high_f": 14,
+        "low_f": 12,
+        "high_c": -10,
+        "low_c": -11,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 1,
+        "snowfall_expected": 1
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1\" new snow overnight",
+      "1 new trail opened today",
+      "1 trail freshly groomed"
+    ],
+    "trends": [
+      "Steady snowfall - 7\" in last 7 days",
+      "1 more trail open than yesterday",
+      "1\" snow expected Wednesday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Polar Bear - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "The Map Just Got Bigger",
+    "body": "Overnight dusting of 1\" means the hardpack got a makeover. Looking good out there. Terrain is expanding with 1 new trail now open. More room to roam, less traffic to dodge. Light snow possible in the forecast.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_flurries",
+          "category": "weather",
+          "priority": 30,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 8,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 4,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Fresh Terrain Unlocked"
+      },
+      "dayOfWeek": "Tuesday"
+    }
+  },
+  "errors": []
+}

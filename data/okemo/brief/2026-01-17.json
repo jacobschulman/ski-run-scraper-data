@@ -1,0 +1,166 @@
+{
+  "resort": "okemo",
+  "resortName": "Okemo",
+  "date": "2026-01-17",
+  "generated": "2026-01-17T10:19:56.450Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 97,
+          "yesterday": 89,
+          "delta": 8
+        },
+        "groomedTrails": {
+          "today": 73,
+          "yesterday": 74,
+          "delta": -1
+        },
+        "totalTrails": 129
+      },
+      "newlyOpened": [
+        {
+          "name": "Hot Dog Hill",
+          "difficulty": "Green",
+          "area": "Clock Tower"
+        },
+        {
+          "name": "Black Hole",
+          "difficulty": "DoubleBlack",
+          "area": "Jackson Gore"
+        },
+        {
+          "name": "Eclipse",
+          "difficulty": "Black",
+          "area": "Jackson Gore"
+        },
+        {
+          "name": "Challenger",
+          "difficulty": "Black",
+          "area": "Main Face"
+        },
+        {
+          "name": "Scooter",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "The Narrows",
+          "difficulty": "Black",
+          "area": "Main Face"
+        },
+        {
+          "name": "Upper Mtn Road",
+          "difficulty": "Green",
+          "area": "Main Face"
+        },
+        {
+          "name": "Whispering Pines",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Boomerang",
+          "difficulty": "Blue",
+          "area": "Solitude"
+        },
+        {
+          "name": "Exhibition",
+          "difficulty": "Black",
+          "area": "Solitude"
+        },
+        {
+          "name": "The Shadows",
+          "difficulty": "Black",
+          "area": "Solitude"
+        },
+        {
+          "name": "Dream Weaver",
+          "difficulty": "Green",
+          "area": "South Face"
+        },
+        {
+          "name": "Rimrock",
+          "difficulty": "Blue",
+          "area": "South Face"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Chute",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Lower Chief",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Upper Chief",
+          "difficulty": "Black",
+          "area": "Main Face"
+        },
+        {
+          "name": "Wardance",
+          "difficulty": "Black",
+          "area": "Main Face"
+        },
+        {
+          "name": "Willie's Way",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Hot Dog Hill",
+          "difficulty": "Green",
+          "area": "Clock Tower"
+        },
+        {
+          "name": "Upper Mtn Road",
+          "difficulty": "Green",
+          "area": "Main Face"
+        },
+        {
+          "name": "Rimrock",
+          "difficulty": "Blue",
+          "area": "South Face"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-16",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 21,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "13 new trails opened today",
+      "3 trails freshly groomed"
+    ],
+    "trends": [
+      "8 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Hot Dog Hill - great for beginners",
+      "Fresh corduroy on Upper Mtn Road - great for beginners",
+      "Fresh corduroy on Rimrock - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

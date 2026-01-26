@@ -1,0 +1,195 @@
+{
+  "resort": "kirkwood",
+  "resortName": "Kirkwood",
+  "date": "2026-01-13",
+  "generated": "2026-01-13T14:24:03.738Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 5,
+      "7day_cm": 12,
+      "season_total_inches": 160,
+      "season_total_cm": 406,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 98,
+          "yesterday": 98,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 38,
+          "yesterday": 37,
+          "delta": 1
+        },
+        "totalTrails": 111
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Caples - High Trail - 2km",
+          "difficulty": "Blue",
+          "area": "Cross Country Center"
+        },
+        {
+          "name": "Short Spoke",
+          "difficulty": "Black",
+          "area": "Frontside"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Zachary",
+          "difficulty": "Black",
+          "area": "Frontside"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-12",
+        "avgWaitTime": 1,
+        "maxWaitTime": 1,
+        "totalLiftsTracked": 13,
+        "busiest": [
+          {
+            "name": "#2 Caples Crest",
+            "avgWait": 1,
+            "peakWait": 1,
+            "type": "Triple",
+            "mountain": "Backside"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-13",
+        "high_f": 47,
+        "low_f": 34,
+        "high_c": 8,
+        "low_c": 1,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-14T08:00:00Z",
+          "high_f": 49,
+          "low_f": 39,
+          "high_c": 9,
+          "low_c": 4,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-15T08:00:00Z",
+          "high_f": 47,
+          "low_f": 37,
+          "high_c": 8,
+          "low_c": 3,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-16T08:00:00Z",
+          "high_f": 47,
+          "low_f": 35,
+          "high_c": 8,
+          "low_c": 2,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-14T08:00:00Z",
+        "high_f": 49,
+        "low_f": 39,
+        "high_c": 9,
+        "low_c": 4,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2 trails freshly groomed"
+    ],
+    "trends": [],
+    "recommendations": [
+      "Fresh corduroy on Caples - High Trail - 2km - perfect for intermediate skiers",
+      "Fresh corduroy on Short Spoke - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Soft Snow Alert",
+    "body": "98 of 111 trails are open with 38 groomed. Clear with a high of 47°F. Lift lines were mellow yesterday. Expect a similar vibe today. Above average temps (47°) will soften things up. Hit it early.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "temp_unseasonably_warm",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_mellow",
+          "category": "lifts",
+          "priority": 50,
+          "usedFor": "body"
+        },
+        {
+          "id": "temp_unseasonably_warm",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "unseasonably_warm",
+        "variationIndex": 4,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": null
+      },
+      "dayOfWeek": "Tuesday"
+    }
+  },
+  "errors": []
+}

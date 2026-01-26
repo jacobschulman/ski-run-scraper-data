@@ -1,0 +1,205 @@
+{
+  "resort": "attitash",
+  "resortName": "Attitash",
+  "date": "2026-01-24",
+  "generated": "2026-01-24T10:22:00.468Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 1,
+      "48hour_cm": 2,
+      "7day_inches": 4,
+      "7day_cm": 11,
+      "season_total_inches": 38,
+      "season_total_cm": 98,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 58,
+          "yesterday": 54,
+          "delta": 4
+        },
+        "groomedTrails": {
+          "today": 46,
+          "yesterday": 43,
+          "delta": 3
+        },
+        "totalTrails": 76
+      },
+      "newlyOpened": [
+        {
+          "name": "Upper Ptarmigan",
+          "difficulty": "Black",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Arcade",
+          "difficulty": "TerrainPark",
+          "area": "Bear Peak"
+        },
+        {
+          "name": "Crawfords Path",
+          "difficulty": "Blue",
+          "area": "Bear Peak"
+        },
+        {
+          "name": "Ski-Ball",
+          "difficulty": "TerrainPark",
+          "area": "Bear Peak"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Upper Ptarmigan",
+          "difficulty": "Black",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Ski-Ball",
+          "difficulty": "TerrainPark",
+          "area": "Bear Peak"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-23",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 8,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-24",
+        "high_f": 1,
+        "low_f": -10,
+        "high_c": -17,
+        "low_c": -24,
+        "description": "Cold",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-25T05:00:00Z",
+          "high_f": 9,
+          "low_f": -10,
+          "high_c": -13,
+          "low_c": -23,
+          "description": "Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-26T05:00:00Z",
+          "high_f": 16,
+          "low_f": 5,
+          "high_c": -9,
+          "low_c": -15,
+          "description": "Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-27T05:00:00Z",
+          "high_f": 13,
+          "low_f": 1,
+          "high_c": -11,
+          "low_c": -17,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-25T05:00:00Z",
+        "high_f": 9,
+        "low_f": -10,
+        "high_c": -13,
+        "low_c": -23,
+        "description": "Snow",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "4 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "4 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Upper Ptarmigan - challenging for advanced skiers",
+      "Fresh corduroy on Ski-Ball - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Bundle Up Out There",
+    "body": "58/76 trails spinning, 46 freshly groomed. 1° and Cold. 4 more trails opened today, expanding your options. Bundle up! 1° is no joke. The snow will be fast though.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "temp_frigid",
+          "category": "weather",
+          "priority": 73,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "temp_frigid",
+          "category": "weather",
+          "priority": 73,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "cold_snap",
+        "variationIndex": 0,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": null
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

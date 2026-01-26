@@ -1,0 +1,222 @@
+{
+  "resort": "killington",
+  "resortName": "Killington",
+  "date": "2026-01-23",
+  "generated": "2026-01-24T04:33:03.092Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 2,
+      "overnight_cm": 5,
+      "24hour_inches": 2,
+      "24hour_cm": 5,
+      "48hour_inches": 4,
+      "48hour_cm": 10,
+      "7day_inches": 4,
+      "7day_cm": 10,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Packed Powder",
+        "yesterday": "Packed Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 166,
+          "yesterday": 166,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 76,
+          "yesterday": 85,
+          "delta": -9
+        },
+        "totalTrails": 222
+      },
+      "newlyOpened": [
+        {
+          "name": "Double Dipper - Lower",
+          "difficulty": "Double Black",
+          "area": "Canyon Area"
+        },
+        {
+          "name": "Great Bear - Lower",
+          "difficulty": "Black",
+          "area": "Snowdon"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Solitude",
+          "difficulty": "Blue",
+          "area": "South Ridge Area"
+        },
+        {
+          "name": "Sassafras",
+          "difficulty": "Blue",
+          "area": "South Ridge Area"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": [
+        {
+          "name": "Yodeler",
+          "difficulty": "easiest",
+          "area": "Snowshed"
+        },
+        {
+          "name": "Wildfire - Upper",
+          "difficulty": "Black",
+          "area": "Bear Mountain"
+        },
+        {
+          "name": "Skyelark - Lower",
+          "difficulty": "Black",
+          "area": "Skye Peak"
+        },
+        {
+          "name": "South Ridge Link",
+          "difficulty": "easiest",
+          "area": "Skye Peak"
+        },
+        {
+          "name": "Chute - Upper",
+          "difficulty": "Blue",
+          "area": "Snowdon"
+        },
+        {
+          "name": "Great Bear - Upper",
+          "difficulty": "Blue",
+          "area": "Snowdon"
+        },
+        {
+          "name": "Mouse Run - Lower",
+          "difficulty": "Blue",
+          "area": "Snowdon"
+        },
+        {
+          "name": "Pipe Dream - Lower",
+          "difficulty": "Blue",
+          "area": "South Ridge Area"
+        },
+        {
+          "name": "Pipe Dream - Upper",
+          "difficulty": "Blue",
+          "area": "South Ridge Area"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-22",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 19,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-23",
+        "high_f": 7,
+        "low_f": -17,
+        "description": "Windy",
+        "snowfall_day_inches": 3,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-24",
+          "high_f": -9,
+          "low_f": -9,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-25",
+          "high_f": 2,
+          "low_f": 2,
+          "description": "Windy",
+          "snowfall_day_inches": 11,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 11
+        },
+        {
+          "date": "2026-01-26",
+          "high_f": 8,
+          "low_f": -4,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 6,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 6
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-24",
+        "high_f": -9,
+        "low_f": -9,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2\" fresh snow overnight",
+      "2 new trails opened today"
+    ],
+    "trends": [
+      "11\" snow expected Sunday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Storm Cycle Building",
+    "body": "Overnight dusting of 2\" means the hardpack got a makeover. Storm cycle alert! 17\" on the way. Conditions are about to level up.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "forecast_major_storm",
+          "category": "weather",
+          "priority": 92,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_major_storm",
+          "category": "weather",
+          "priority": 92,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "storm_major",
+        "variationIndex": 2,
+        "totalVariations": 7,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Winter's Coming Back"
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
+  "errors": []
+}

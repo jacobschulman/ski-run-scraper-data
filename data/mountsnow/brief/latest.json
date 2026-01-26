@@ -1,0 +1,93 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2026-01-26",
+  "generated": "2026-01-26T10:26:39.161Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 78,
+          "yesterday": 76,
+          "delta": 2
+        },
+        "groomedTrails": {
+          "today": 47,
+          "yesterday": 45,
+          "delta": 2
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "The Gulch",
+          "difficulty": "TerrainPark",
+          "area": "Carinthia"
+        },
+        {
+          "name": "South Bowl",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-25",
+        "avgWaitTime": 3.2,
+        "maxWaitTime": 11,
+        "totalLiftsTracked": 18,
+        "busiest": [
+          {
+            "name": "Bluebird Express",
+            "avgWait": 5.4,
+            "peakWait": 11,
+            "type": "Six Pack",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Nitro Express",
+            "avgWait": 3.3,
+            "peakWait": 8,
+            "type": "Quad",
+            "mountain": "Carinthia"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 2.5,
+            "peakWait": 4,
+            "type": "Quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Challenger",
+            "avgWait": 1.6,
+            "peakWait": 4,
+            "type": "Triple",
+            "mountain": "North Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2 new trails opened today"
+    ],
+    "trends": [
+      "2 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

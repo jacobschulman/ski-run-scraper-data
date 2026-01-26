@@ -1,0 +1,156 @@
+{
+  "trailName": "Teddy’s Way",
+  "trailSlug": "teddys-way",
+  "resort": "telluride",
+  "resortName": "Telluride",
+  "area": "Sunshine Express",
+  "difficulty": "Green",
+  "trailType": "Skiing",
+  "currentStatus": {
+    "date": "2026-01-26",
+    "isOpen": true,
+    "isGroomed": true,
+    "groomingStatus": "Groomed",
+    "status": "Open"
+  },
+  "stats": {
+    "seasonStartDate": "2025-11-20",
+    "daysTracked": 12,
+    "daysGroomed": 10,
+    "groomingPercentage": 83,
+    "currentStreak": 1,
+    "longestStreak": 7,
+    "lastGroomed": "2026-01-26",
+    "dayOfWeek": [
+      {
+        "day": "Sun",
+        "percentage": 50,
+        "groomed": 1,
+        "total": 2
+      },
+      {
+        "day": "Mon",
+        "percentage": 100,
+        "groomed": 2,
+        "total": 2
+      },
+      {
+        "day": "Tue",
+        "percentage": 100,
+        "groomed": 1,
+        "total": 1
+      },
+      {
+        "day": "Wed",
+        "percentage": 100,
+        "groomed": 1,
+        "total": 1
+      },
+      {
+        "day": "Thu",
+        "percentage": 100,
+        "groomed": 2,
+        "total": 2
+      },
+      {
+        "day": "Fri",
+        "percentage": 100,
+        "groomed": 2,
+        "total": 2
+      },
+      {
+        "day": "Sat",
+        "percentage": 50,
+        "groomed": 1,
+        "total": 2
+      }
+    ]
+  },
+  "history": [
+    {
+      "date": "2026-01-26",
+      "isOpen": true,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": null
+    },
+    {
+      "date": "2026-01-25",
+      "isOpen": true,
+      "isGroomed": false,
+      "groomingStatus": null,
+      "groomingType": null
+    },
+    {
+      "date": "2026-01-24",
+      "isOpen": true,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": null
+    },
+    {
+      "date": "2026-01-23",
+      "isOpen": true,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": null
+    },
+    {
+      "date": "2026-01-22",
+      "isOpen": true,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": null
+    },
+    {
+      "date": "2026-01-21",
+      "isOpen": true,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": null
+    },
+    {
+      "date": "2026-01-20",
+      "isOpen": true,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": null
+    },
+    {
+      "date": "2026-01-19",
+      "isOpen": true,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": null
+    },
+    {
+      "date": "2026-01-18",
+      "isOpen": true,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": null
+    },
+    {
+      "date": "2026-01-17",
+      "isOpen": true,
+      "isGroomed": false,
+      "groomingStatus": null,
+      "groomingType": null
+    },
+    {
+      "date": "2026-01-16",
+      "isOpen": true,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": null
+    },
+    {
+      "date": "2026-01-15",
+      "isOpen": true,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": null
+    }
+  ],
+  "generated": "2026-01-26T19:30:31.790Z"
+}

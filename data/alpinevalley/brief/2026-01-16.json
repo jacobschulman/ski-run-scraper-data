@@ -1,0 +1,41 @@
+{
+  "resort": "alpinevalley",
+  "resortName": "Alpine Valley",
+  "date": "2026-01-16",
+  "generated": "2026-01-16T10:23:49.812Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 6,
+          "yesterday": 6,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 6,
+          "yesterday": 6,
+          "delta": 0
+        },
+        "totalTrails": 9
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

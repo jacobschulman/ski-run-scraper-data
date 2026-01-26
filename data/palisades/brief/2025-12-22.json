@@ -1,0 +1,164 @@
+{
+  "resort": "palisades",
+  "resortName": "Palisades Tahoe",
+  "date": "2025-12-22",
+  "generated": "2025-12-23T07:21:17.201Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 4,
+      "overnight_cm": 10,
+      "24hour_inches": 4,
+      "24hour_cm": 10,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 6,
+      "7day_cm": 15,
+      "season_total_inches": 29,
+      "season_total_cm": 74,
+      "conditions": {
+        "today": "Machine Groomed Variable Conditions",
+        "yesterday": "Machine Made"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 3,
+          "yesterday": 3,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "totalTrails": 301
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-21",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 39,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-22",
+        "high_f": null,
+        "low_f": 35,
+        "high_c": null,
+        "low_c": 2,
+        "description": "Windy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-23",
+          "high_f": 39,
+          "low_f": 32,
+          "high_c": 4,
+          "low_c": 0,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2025-12-24",
+          "high_f": 32,
+          "low_f": 29,
+          "high_c": 0,
+          "low_c": -2,
+          "description": "Rain Snow",
+          "snowfall_day_inches": 10,
+          "snowfall_night_inches": 4,
+          "snowfall_expected": 14
+        },
+        {
+          "date": "2025-12-25",
+          "high_f": 29,
+          "low_f": 25,
+          "high_c": -2,
+          "low_c": -4,
+          "description": "Thundersnow",
+          "snowfall_day_inches": 9,
+          "snowfall_night_inches": 10,
+          "snowfall_expected": 19
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-23",
+        "high_f": 39,
+        "low_f": 32,
+        "high_c": 4,
+        "low_c": 0,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 1,
+        "snowfall_expected": 1
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "4\" fresh snow overnight"
+    ],
+    "trends": [
+      "Steady snowfall - 6\" in last 7 days",
+      "1\" snow expected Tuesday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Big Snow Incoming",
+    "body": "4\" fell while you were sleeping. The bumps are softer and the groomers are primo. The jet stream is doing its thing. Expect 34\" of fresh snow rolling in soon.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_storm_major",
+          "category": "weather",
+          "priority": 88,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_storm_major",
+          "category": "weather",
+          "priority": 88,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "storm_major",
+        "variationIndex": 0,
+        "totalVariations": 8,
+        "usedWeekendVariation": false,
+        "previousHeadline": "❄️ Storm on the Horizon ❄️"
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

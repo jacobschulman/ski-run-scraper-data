@@ -1,0 +1,145 @@
+{
+  "resort": "paolipeaks",
+  "resortName": "Paoli Peaks",
+  "date": "2025-12-14",
+  "generated": "2025-12-14T10:23:18.248Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "totalTrails": 0
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-14",
+        "high_f": 12,
+        "low_f": 2,
+        "high_c": -11,
+        "low_c": -17,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-15T05:00:00Z",
+          "high_f": 28,
+          "low_f": 5,
+          "high_c": -3,
+          "low_c": -15,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-16T05:00:00Z",
+          "high_f": 40,
+          "low_f": 23,
+          "high_c": 4,
+          "low_c": -5,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-17T05:00:00Z",
+          "high_f": 46,
+          "low_f": 38,
+          "high_c": 7,
+          "low_c": 3,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-15T05:00:00Z",
+        "high_f": 28,
+        "low_f": 5,
+        "high_c": -3,
+        "low_c": -15,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Checking the Forecast",
+    "body": "Not open for the season yet. Current conditions: Clear with temps around 12°.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "resort_closed",
+          "category": "terrain",
+          "priority": 95,
+          "usedFor": "headline"
+        },
+        {
+          "id": "resort_closed",
+          "category": "terrain",
+          "priority": 95,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "resort_closed",
+        "variationIndex": 4,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Waiting for Opening Day"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

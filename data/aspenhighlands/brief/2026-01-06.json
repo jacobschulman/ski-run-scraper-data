@@ -1,0 +1,162 @@
+{
+  "resort": "aspenhighlands",
+  "resortName": "Aspen Highlands",
+  "date": "2026-01-06",
+  "generated": "2026-01-07T06:28:02.012Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 59,
+          "yesterday": 48,
+          "delta": 11
+        },
+        "groomedTrails": {
+          "today": 17,
+          "yesterday": 14,
+          "delta": 3
+        },
+        "totalTrails": 126
+      },
+      "newlyOpened": [
+        {
+          "name": "Aerobie",
+          "difficulty": "Expert",
+          "area": "Olympic Side"
+        },
+        {
+          "name": "Why",
+          "difficulty": "Advanced",
+          "area": "Olympic Side"
+        },
+        {
+          "name": "Why Not",
+          "difficulty": "Advanced",
+          "area": "Olympic Side"
+        },
+        {
+          "name": "Boomerang",
+          "difficulty": "Advanced",
+          "area": "Steeplechase"
+        },
+        {
+          "name": "Garmisch",
+          "difficulty": "Expert",
+          "area": "Steeplechase"
+        },
+        {
+          "name": "Grand Reverse",
+          "difficulty": "Advanced",
+          "area": "Steeplechase"
+        },
+        {
+          "name": "Kessler's",
+          "difficulty": "Expert",
+          "area": "Steeplechase"
+        },
+        {
+          "name": "Snyder's Ridge",
+          "difficulty": "Expert",
+          "area": "Steeplechase"
+        },
+        {
+          "name": "St. Moritz",
+          "difficulty": "Expert",
+          "area": "Steeplechase"
+        },
+        {
+          "name": "The Wall",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Aspen Highlands (Lower)",
+          "difficulty": "Intermediate",
+          "area": "Uphill Routes"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Apple Strudel",
+          "difficulty": "Intermediate",
+          "area": "Mid Mountain"
+        },
+        {
+          "name": "Red Onion",
+          "difficulty": "Intermediate",
+          "area": "Mid Mountain"
+        },
+        {
+          "name": "Face of Oly",
+          "difficulty": "Advanced",
+          "area": "Olympic Side"
+        },
+        {
+          "name": "Lower Olympic",
+          "difficulty": "Intermediate",
+          "area": "Olympic Side"
+        },
+        {
+          "name": "Gunbarrel",
+          "difficulty": "Intermediate",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Pyramid Park",
+          "difficulty": "Intermediate",
+          "area": "Upper Mountain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Riverside Drive",
+          "difficulty": "Intermediate",
+          "area": "Mid Mountain"
+        },
+        {
+          "name": "Kandahar",
+          "difficulty": "Intermediate",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Scarlett's ",
+          "difficulty": "Intermediate",
+          "area": "Upper Mountain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-05",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 5,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "11 new trails opened today",
+      "6 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 21% from yesterday",
+      "11 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Apple Strudel - all skill levels",
+      "Fresh corduroy on Red Onion - all skill levels",
+      "Fresh corduroy on Face of Oly - all skill levels"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

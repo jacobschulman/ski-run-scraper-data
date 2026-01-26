@@ -1,0 +1,288 @@
+{
+  "resort": "sugarbush",
+  "resortName": "Sugarbush",
+  "date": "2025-12-08",
+  "generated": "2025-12-09T04:25:30.448Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 5,
+      "24hour_cm": 13,
+      "48hour_inches": 6,
+      "48hour_cm": 15,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 53,
+      "season_total_cm": 135,
+      "conditions": {
+        "today": "Powder, Machine Groomed",
+        "yesterday": "Hard Pack"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 64,
+          "yesterday": 39,
+          "delta": 25
+        },
+        "groomedTrails": {
+          "today": 18,
+          "yesterday": 18,
+          "delta": 0
+        },
+        "totalTrails": 142
+      },
+      "newlyOpened": [
+        {
+          "name": "Cat's Meow",
+          "difficulty": "Intermediate",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "Lixi's Twist",
+          "difficulty": "Difficult",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "Lower Moonshine",
+          "difficulty": "Intermediate",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "Lower Snowball",
+          "difficulty": "Intermediate",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "Lower Twist",
+          "difficulty": "Difficult",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "Moonshine",
+          "difficulty": "Intermediate",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "Racer's Edge",
+          "difficulty": "Intermediate",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "Snowball",
+          "difficulty": "Intermediate",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "Spring Fling",
+          "difficulty": "Intermediate",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "Spring Road",
+          "difficulty": "Intermediate",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "Stein's Run",
+          "difficulty": "Expert",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "The Mall",
+          "difficulty": "Difficult",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "Valley House Traverse",
+          "difficulty": "Intermediate",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "Hot Shot",
+          "difficulty": "Intermediate",
+          "area": "North Lynx Peak"
+        },
+        {
+          "name": "In Road",
+          "difficulty": "Easy",
+          "area": "North Lynx Peak"
+        },
+        {
+          "name": "Lower Hot Shot",
+          "difficulty": "Intermediate",
+          "area": "North Lynx Peak"
+        },
+        {
+          "name": "Out Road",
+          "difficulty": "Easy",
+          "area": "North Lynx Peak"
+        },
+        {
+          "name": "Out to Lunch",
+          "difficulty": "Easy",
+          "area": "North Lynx Peak"
+        },
+        {
+          "name": "Overshot",
+          "difficulty": "Intermediate",
+          "area": "North Lynx Peak"
+        },
+        {
+          "name": "Second Thoughts",
+          "difficulty": "Intermediate",
+          "area": "North Lynx Peak"
+        },
+        {
+          "name": "Sleeper",
+          "difficulty": "Intermediate",
+          "area": "North Lynx Peak"
+        },
+        {
+          "name": "Sleeper Chutes",
+          "difficulty": "Difficult",
+          "area": "North Lynx Peak"
+        },
+        {
+          "name": "Sleeper Road",
+          "difficulty": "Intermediate",
+          "area": "North Lynx Peak"
+        },
+        {
+          "name": "Village Run",
+          "difficulty": "Intermediate",
+          "area": "North Lynx Peak"
+        },
+        {
+          "name": "Waterfall",
+          "difficulty": "Difficult",
+          "area": "North Lynx Peak"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-07",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 16,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-08",
+        "high_f": null,
+        "low_f": 2,
+        "high_c": null,
+        "low_c": -17,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-09",
+          "high_f": 12,
+          "low_f": 12,
+          "high_c": -11,
+          "low_c": -11,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-10",
+          "high_f": 25,
+          "low_f": 19,
+          "high_c": -4,
+          "low_c": -7,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 3
+        },
+        {
+          "date": "2025-12-11",
+          "high_f": 17,
+          "low_f": 3,
+          "high_c": -8,
+          "low_c": -16,
+          "description": "Windy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-09",
+        "high_f": 12,
+        "low_f": 12,
+        "high_c": -11,
+        "low_c": -11,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "25 new trails opened today"
+    ],
+    "trends": [
+      "25 more trails open than yesterday",
+      "3\" snow expected Wednesday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Storm on the Horizon",
+    "body": "A light refresh of 5\" makes groomers smoother and off-piste a bit softer. Terrain is expanding with 25 new trails opening up more room to roam. A storm is lining up, so expect conditions to evolve through the day.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_storm_incoming",
+          "category": "weather",
+          "priority": 90,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_storm_incoming",
+          "category": "weather",
+          "priority": 90,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4
+    }
+  },
+  "errors": []
+}

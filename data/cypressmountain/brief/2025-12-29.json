@@ -1,0 +1,266 @@
+{
+  "resort": "cypressmountain",
+  "resortName": "Cypress Mountain",
+  "date": "2025-12-29",
+  "generated": "2025-12-30T07:20:04.114Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 1,
+      "24hour_inches": 1,
+      "24hour_cm": 2,
+      "48hour_inches": 1,
+      "48hour_cm": 3,
+      "7day_inches": 29,
+      "7day_cm": 73,
+      "season_total_inches": 74,
+      "season_total_cm": 187,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 17,
+          "yesterday": 33,
+          "delta": -16
+        },
+        "groomedTrails": {
+          "today": 14,
+          "yesterday": 27,
+          "delta": -13
+        },
+        "totalTrails": 96
+      },
+      "newlyOpened": [
+        {
+          "name": "Jack Rabbit Loop",
+          "difficulty": "Novice",
+          "area": "Nordic Lower Trails"
+        },
+        {
+          "name": "Roller Coaster",
+          "difficulty": "Black",
+          "area": "Nordic Lower Trails"
+        },
+        {
+          "name": "Upper Powerline",
+          "difficulty": "Blue",
+          "area": "Nordic Ridge Trails"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Panorama",
+          "difficulty": "Novice",
+          "area": "Eagle Express"
+        },
+        {
+          "name": "Windjammer",
+          "difficulty": "Novice",
+          "area": "Eagle Express"
+        },
+        {
+          "name": "Fork",
+          "difficulty": "Blue",
+          "area": "Eagle Express"
+        },
+        {
+          "name": "Lower Fork",
+          "difficulty": "Blue",
+          "area": "Eagle Express"
+        },
+        {
+          "name": "PGS",
+          "difficulty": "Blue",
+          "area": "Eagle Express"
+        },
+        {
+          "name": "Collins",
+          "difficulty": "Novice",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Horizon",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Humpty Dumpty",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Cat Track (upper)",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Primary Power",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Horizon By-Pass",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Lower Bowen",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "3 Bears",
+          "difficulty": "Blue",
+          "area": "Raven Ridge"
+        },
+        {
+          "name": "Runway",
+          "difficulty": "Novice",
+          "area": "Easy Rider"
+        },
+        {
+          "name": "T-33",
+          "difficulty": "Blue",
+          "area": "Sky Quad"
+        },
+        {
+          "name": "Horsefly Canyon",
+          "difficulty": "Blue",
+          "area": "Sky Quad"
+        },
+        {
+          "name": "Glades",
+          "difficulty": "Black",
+          "area": "Sky Quad"
+        },
+        {
+          "name": "Tomcat",
+          "difficulty": "Black",
+          "area": "Sky Quad"
+        },
+        {
+          "name": "Ripcord",
+          "difficulty": "Black",
+          "area": "Sky Quad"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Jack Rabbit Loop",
+          "difficulty": "Novice",
+          "area": "Nordic Lower Trails"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-29",
+        "high_f": null,
+        "low_f": 36,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-30",
+          "high_f": 42,
+          "low_f": 41,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-31",
+          "high_f": 41,
+          "low_f": 38,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-01",
+          "high_f": 38,
+          "low_f": 34,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-30",
+        "high_f": 42,
+        "low_f": 41,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "3 new trails opened today",
+      "1 trail freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 29\" in last 7 days"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Jack Rabbit Loop - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "A Little Sugar on Top",
+    "body": "A light refresh of 1\" overnight makes the groomers smoother and the off-piste a bit softer. 3 trails opened today expanding access to fresh terrain.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_new_trails_opened",
+          "category": "terrain",
+          "priority": 65,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "fresh_coat",
+        "variationIndex": 0,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Fresh Coat on the Mountain"
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,340 @@
+{
+  "resort": "parkcity",
+  "resortName": "Park City",
+  "date": "2025-12-31",
+  "generated": "2025-12-31T12:40:29.052Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 9,
+      "7day_cm": 22,
+      "season_total_inches": 43,
+      "season_total_cm": 109,
+      "conditions": {
+        "today": "Early Season",
+        "yesterday": "Early Season"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 48,
+          "yesterday": 26,
+          "delta": 22
+        },
+        "groomedTrails": {
+          "today": 16,
+          "yesterday": 13,
+          "delta": 3
+        },
+        "totalTrails": 349
+      },
+      "newlyOpened": [
+        {
+          "name": "Blueslip Bowl",
+          "difficulty": "DoubleBlack",
+          "area": "Bonanza/McConkey's/Pioneer"
+        },
+        {
+          "name": "Comstock",
+          "difficulty": "Blue",
+          "area": "Bonanza/McConkey's/Pioneer"
+        },
+        {
+          "name": "Lucky Boy",
+          "difficulty": "Blue",
+          "area": "Bonanza/McConkey's/Pioneer"
+        },
+        {
+          "name": "Pioneer",
+          "difficulty": "Black",
+          "area": "Bonanza/McConkey's/Pioneer"
+        },
+        {
+          "name": "Red Fox",
+          "difficulty": "Blue",
+          "area": "Bonanza/McConkey's/Pioneer"
+        },
+        {
+          "name": "Sampson",
+          "difficulty": "Black",
+          "area": "Bonanza/McConkey's/Pioneer"
+        },
+        {
+          "name": "Hidden Bear",
+          "difficulty": "Green",
+          "area": "OBX/Saddleback/Sun Peak"
+        },
+        {
+          "name": "1/4 Load",
+          "difficulty": "Green",
+          "area": "Payday/Town/Crescent"
+        },
+        {
+          "name": "94 Turns",
+          "difficulty": "DoubleBlack",
+          "area": "Peak 5/9990/Tombstone"
+        },
+        {
+          "name": "Aspen Grove",
+          "difficulty": "DoubleBlack",
+          "area": "Peak 5/9990/Tombstone"
+        },
+        {
+          "name": "Charlie Brown",
+          "difficulty": "DoubleBlack",
+          "area": "Peak 5/9990/Tombstone"
+        },
+        {
+          "name": "Dutch Hollow",
+          "difficulty": "DoubleBlack",
+          "area": "Peak 5/9990/Tombstone"
+        },
+        {
+          "name": "End Zone",
+          "difficulty": "DoubleBlack",
+          "area": "Peak 5/9990/Tombstone"
+        },
+        {
+          "name": "Fright Gully",
+          "difficulty": "DoubleBlack",
+          "area": "Peak 5/9990/Tombstone"
+        },
+        {
+          "name": "Lower East Face",
+          "difficulty": "DoubleBlack",
+          "area": "Peak 5/9990/Tombstone"
+        },
+        {
+          "name": "Magic Line",
+          "difficulty": "DoubleBlack",
+          "area": "Peak 5/9990/Tombstone"
+        },
+        {
+          "name": "Moraine",
+          "difficulty": "DoubleBlack",
+          "area": "Peak 5/9990/Tombstone"
+        },
+        {
+          "name": "Red Pine Chutes",
+          "difficulty": "DoubleBlack",
+          "area": "Peak 5/9990/Tombstone"
+        },
+        {
+          "name": "Silver Spur",
+          "difficulty": "Blue",
+          "area": "Peak 5/9990/Tombstone"
+        },
+        {
+          "name": "Talus Garden",
+          "difficulty": "DoubleBlack",
+          "area": "Peak 5/9990/Tombstone"
+        },
+        {
+          "name": "Upper East Face",
+          "difficulty": "DoubleBlack",
+          "area": "Peak 5/9990/Tombstone"
+        },
+        {
+          "name": "Claimjumper",
+          "difficulty": "Green",
+          "area": "Silverlode/Thaynes/Motherlode"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Raptor Way",
+          "difficulty": "Blue",
+          "area": "OBX/Saddleback/Sun Peak"
+        },
+        {
+          "name": "1/4 Load",
+          "difficulty": "Green",
+          "area": "Payday/Town/Crescent"
+        },
+        {
+          "name": "Claimjumper",
+          "difficulty": "Green",
+          "area": "Silverlode/Thaynes/Motherlode"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-30",
+        "avgWaitTime": 5.7,
+        "maxWaitTime": 45,
+        "totalLiftsTracked": 43,
+        "busiest": [
+          {
+            "name": "PayDay Lift",
+            "avgWait": 14.7,
+            "peakWait": 45,
+            "type": "Six Pack",
+            "mountain": "Payday/Town/Crescent"
+          },
+          {
+            "name": "Bonanza Lift",
+            "avgWait": 11.5,
+            "peakWait": 30,
+            "type": "Six Pack",
+            "mountain": "Bonanza/McConkey's/Pioneer"
+          },
+          {
+            "name": "First Time Lift",
+            "avgWait": 10.1,
+            "peakWait": 21,
+            "type": "Quad",
+            "mountain": "Payday/Town/Crescent"
+          },
+          {
+            "name": "High Meadow",
+            "avgWait": 8.9,
+            "peakWait": 17,
+            "type": "Quad",
+            "mountain": "OBX/Saddleback/Sun Peak"
+          },
+          {
+            "name": "Red Pine Gondola",
+            "avgWait": 5.9,
+            "peakWait": 22,
+            "type": "Gondola",
+            "mountain": "OBX/Saddleback/Sun Peak"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-31",
+        "high_f": 43,
+        "low_f": 30,
+        "high_c": 6,
+        "low_c": -1,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-01T07:00:00Z",
+          "high_f": 37,
+          "low_f": 32,
+          "high_c": 3,
+          "low_c": null,
+          "description": "Rain/Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-02T07:00:00Z",
+          "high_f": 36,
+          "low_f": 30,
+          "high_c": 2,
+          "low_c": -1,
+          "description": "Rain/Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-03T07:00:00Z",
+          "high_f": 42,
+          "low_f": 30,
+          "high_c": 6,
+          "low_c": -2,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-01T07:00:00Z",
+        "high_f": 37,
+        "low_f": 32,
+        "high_c": 3,
+        "low_c": null,
+        "description": "Rain/Snow",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "22 new trails opened today",
+      "3 trails freshly groomed"
+    ],
+    "trends": [
+      "Steady snowfall - 9\" in last 7 days",
+      "Grooming increased 23% from yesterday",
+      "22 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Raptor Way - perfect for intermediate skiers",
+      "Fresh corduroy on 1/4 Load - great for beginners",
+      "Fresh corduroy on Claimjumper - great for beginners",
+      "PayDay Lift had longest waits (14.7 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": {
+    "headline": "22 New Trails Today",
+    "body": "Steady snowfall with 9\" over the last week. 22 more trails are in play today. The groomers are getting stretched thin (in a good way). Watch for crowds at PayDay Lift, which peaked around 45 minutes yesterday.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_week_total",
+          "category": "snow",
+          "priority": 40,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_watch_crowds",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 2,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Fewer Crowds, More Turns"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

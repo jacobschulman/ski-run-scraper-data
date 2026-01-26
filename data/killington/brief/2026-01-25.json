@@ -1,0 +1,153 @@
+{
+  "resort": "killington",
+  "resortName": "Killington",
+  "date": "2026-01-25",
+  "generated": "2026-01-26T04:53:14.414Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 2,
+      "overnight_cm": 5,
+      "24hour_inches": 2,
+      "24hour_cm": 5,
+      "48hour_inches": 3,
+      "48hour_cm": 8,
+      "7day_inches": 3,
+      "7day_cm": 8,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Packed Powder",
+        "yesterday": "Packed Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 165,
+          "yesterday": 165,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 83,
+          "yesterday": 83,
+          "delta": 0
+        },
+        "totalTrails": 222
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-24",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 19,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-25",
+        "high_f": null,
+        "low_f": 1,
+        "description": "Snow Wind",
+        "snowfall_day_inches": 9,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-26",
+          "high_f": 11,
+          "low_f": -3,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 7,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 7
+        },
+        {
+          "date": "2026-01-27",
+          "high_f": 2,
+          "low_f": -1,
+          "description": "Windy",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2026-01-28",
+          "high_f": 3,
+          "low_f": -1,
+          "description": "Windy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-26",
+        "high_f": 11,
+        "low_f": -3,
+        "description": "Snow Wind",
+        "snowfall_day_inches": 7,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 7
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2\" fresh snow overnight"
+    ],
+    "trends": [
+      "7\" snow expected Monday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "The Forecast Looks Loaded",
+    "body": "2\" fell while you were sleeping. The bumps are softer, groomers are primo. Big things coming. 10\" in the forecast. Might be time to plan ahead.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "forecast_storm",
+          "category": "weather",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_storm",
+          "category": "weather",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "storm_major",
+        "variationIndex": 4,
+        "totalVariations": 7,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Major System Approaching"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,230 @@
+{
+  "resort": "jacksonhole",
+  "resortName": "Jackson Hole",
+  "date": "2025-12-22",
+  "generated": "2025-12-23T06:27:56.410Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 63,
+          "yesterday": 57,
+          "delta": 6
+        },
+        "groomedTrails": {
+          "today": 38,
+          "yesterday": 36,
+          "delta": 2
+        },
+        "totalTrails": 145
+      },
+      "newlyOpened": [
+        {
+          "name": "Eagle's Rest",
+          "difficulty": "Green",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Timbered Island",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "St. John's",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Pooh Bear",
+          "difficulty": "Green",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Broadway",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Snag Tree",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Timbered Island",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Grand",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Camp Ground",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Laramie",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Ashley Ridge (Upper)",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Gros Ventre (Upper)",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-22",
+        "high_f": null,
+        "low_f": 31,
+        "high_c": null,
+        "low_c": -1,
+        "description": "Cloudy",
+        "snowfall_day_inches": 2,
+        "snowfall_night_inches": 1
+      },
+      "outlook": [
+        {
+          "date": "2025-12-23",
+          "high_f": 36,
+          "low_f": 31,
+          "high_c": 2,
+          "low_c": -1,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-24",
+          "high_f": 35,
+          "low_f": 34,
+          "high_c": 2,
+          "low_c": 1,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-25",
+          "high_f": 34,
+          "low_f": 28,
+          "high_c": 1,
+          "low_c": -2,
+          "description": "Scattered T Storms",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 3
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-23",
+        "high_f": 36,
+        "low_f": 31,
+        "high_c": 2,
+        "low_c": -1,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "6 new trails opened today",
+      "3 trails freshly groomed"
+    ],
+    "trends": [
+      "6 more trails open than yesterday",
+      "3\" snow expected Thursday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Timbered Island - perfect for intermediate skiers",
+      "Fresh corduroy on Grand - perfect for intermediate skiers",
+      "Fresh corduroy on Camp Ground - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Terrain is Expanding",
+    "body": "63 of 145 trails are open with 38 groomed. Cloudy with a high of null°F. 6 more trails are in play today. The groomers are getting stretched thin (in a good way). Keep an eye on the sky—a refresh is coming. A few inches of snow on the way.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_snow_coming",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 0,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "New Runs Now Open"
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

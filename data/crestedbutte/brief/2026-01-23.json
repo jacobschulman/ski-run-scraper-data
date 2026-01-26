@@ -1,0 +1,84 @@
+{
+  "resort": "crestedbutte",
+  "resortName": "Crested Butte",
+  "date": "2026-01-23",
+  "generated": "2026-01-23T12:40:39.851Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 89,
+          "yesterday": 89,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 38,
+          "yesterday": 39,
+          "delta": -1
+        },
+        "totalTrails": 168
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": [
+        {
+          "name": "Upper Gallowich",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-22",
+        "avgWaitTime": 1.6,
+        "maxWaitTime": 8,
+        "totalLiftsTracked": 15,
+        "busiest": [
+          {
+            "name": "East River Express",
+            "avgWait": 2.5,
+            "peakWait": 8,
+            "type": "Quad",
+            "mountain": "Back Side"
+          },
+          {
+            "name": "Red Lady Express",
+            "avgWait": 1.9,
+            "peakWait": 5,
+            "type": "Quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "Paradise Express",
+            "avgWait": 1.3,
+            "peakWait": 2,
+            "type": "Quad",
+            "mountain": "Back Side"
+          },
+          {
+            "name": "Silver Queen Express",
+            "avgWait": 1.1,
+            "peakWait": 2,
+            "type": "Quad",
+            "mountain": "Front Side"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

@@ -1,0 +1,481 @@
+{
+  "resort": "palisades",
+  "resortName": "Palisades Tahoe",
+  "date": "2026-01-03",
+  "generated": "2026-01-04T07:18:26.618Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 5,
+      "overnight_cm": 13,
+      "24hour_inches": 5,
+      "24hour_cm": 13,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 8,
+      "7day_cm": 20,
+      "season_total_inches": 110,
+      "season_total_cm": 279,
+      "conditions": {
+        "today": "Machine Groomed Variable Conditions",
+        "yesterday": "Machine Groomed Variable Conditions"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 106,
+          "yesterday": 114,
+          "delta": -8
+        },
+        "groomedTrails": {
+          "today": 20,
+          "yesterday": 28,
+          "delta": -8
+        },
+        "totalTrails": 301
+      },
+      "newlyOpened": [
+        {
+          "name": "Lower Dog Leg",
+          "difficulty": "Very Difficult",
+          "area": "Snow King Peak"
+        },
+        {
+          "name": "Upper Dog Leg",
+          "difficulty": "Very Difficult",
+          "area": "Snow King Peak"
+        },
+        {
+          "name": "Arnie's",
+          "difficulty": "Very Difficult",
+          "area": "KT Peak"
+        },
+        {
+          "name": "Dead Tree",
+          "difficulty": "Expert",
+          "area": "KT Peak"
+        },
+        {
+          "name": "Downhill Cliffs",
+          "difficulty": "Very Difficult",
+          "area": "KT Peak"
+        },
+        {
+          "name": "East Face Cliffs",
+          "difficulty": "Very Difficult",
+          "area": "KT Peak"
+        },
+        {
+          "name": "East Face Gully",
+          "difficulty": "Very Difficult",
+          "area": "KT Peak"
+        },
+        {
+          "name": "Fingers",
+          "difficulty": "Expert",
+          "area": "KT Peak"
+        },
+        {
+          "name": "GS Bowl",
+          "difficulty": "Very Difficult",
+          "area": "KT Peak"
+        },
+        {
+          "name": "GS Cliffs",
+          "difficulty": "Very Difficult",
+          "area": "KT Peak"
+        },
+        {
+          "name": "Heidi's",
+          "difficulty": "Very Difficult",
+          "area": "KT Peak"
+        },
+        {
+          "name": "Heidi's Glades",
+          "difficulty": "Very Difficult",
+          "area": "KT Peak"
+        },
+        {
+          "name": "McConkey's",
+          "difficulty": "Expert",
+          "area": "KT Peak"
+        },
+        {
+          "name": "Nose",
+          "difficulty": "Very Difficult",
+          "area": "KT Peak"
+        },
+        {
+          "name": "Nose Chutes",
+          "difficulty": "Expert",
+          "area": "KT Peak"
+        },
+        {
+          "name": "Red Dog Ridge",
+          "difficulty": "Very Difficult",
+          "area": "KT Peak"
+        },
+        {
+          "name": "Red Trail",
+          "difficulty": "Very Difficult",
+          "area": "KT Peak"
+        },
+        {
+          "name": "Strawberry Fields",
+          "difficulty": "Very Difficult",
+          "area": "KT Peak"
+        },
+        {
+          "name": "Tamara's",
+          "difficulty": "Expert",
+          "area": "KT Peak"
+        },
+        {
+          "name": "Tom's Tumble",
+          "difficulty": "Expert",
+          "area": "KT Peak"
+        },
+        {
+          "name": "Waterfall Gully",
+          "difficulty": "Very Difficult",
+          "area": "KT Peak"
+        },
+        {
+          "name": "Women's Downhill",
+          "difficulty": "Very Difficult",
+          "area": "KT Peak"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Bill's Boardwalk",
+          "difficulty": "Intermediate",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Chicken Bowl",
+          "difficulty": "Very Difficult",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Garbage Chutes",
+          "difficulty": "Very Difficult",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Groove Tube",
+          "difficulty": "Intermediate",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Headwall Face",
+          "difficulty": "Very Difficult",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Hogsback",
+          "difficulty": "Very Difficult",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Killy's",
+          "difficulty": "Intermediate",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "National",
+          "difficulty": "Expert",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Newport",
+          "difficulty": "Intermediate",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Norm's",
+          "difficulty": "Very Difficult",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "North Bowl",
+          "difficulty": "Expert",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Racers",
+          "difficulty": "Intermediate",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Ridge Run",
+          "difficulty": "Intermediate",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Siberia Bowl",
+          "difficulty": "Very Difficult",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Siberia Lift Line",
+          "difficulty": "Very Difficult",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Siberia Ridge",
+          "difficulty": "Very Difficult",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "To Mountain Run",
+          "difficulty": "Intermediate",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Backside",
+          "difficulty": "Very Difficult",
+          "area": "Emigrant Peak"
+        },
+        {
+          "name": "Emigrant Face",
+          "difficulty": "Intermediate",
+          "area": "Emigrant Peak"
+        },
+        {
+          "name": "Emigrant Gully",
+          "difficulty": "Intermediate",
+          "area": "Emigrant Peak"
+        },
+        {
+          "name": "Gold Coast",
+          "difficulty": "Intermediate",
+          "area": "Emigrant Peak"
+        },
+        {
+          "name": "Gold Coast Face",
+          "difficulty": "Intermediate",
+          "area": "Emigrant Peak"
+        },
+        {
+          "name": "Jimmy Heuga Raceway",
+          "difficulty": "Easy",
+          "area": "Emigrant Peak"
+        },
+        {
+          "name": "Monument Ridge",
+          "difficulty": "Intermediate",
+          "area": "Emigrant Peak"
+        },
+        {
+          "name": "Mystery",
+          "difficulty": "Intermediate",
+          "area": "Emigrant Peak"
+        },
+        {
+          "name": "Ramp Run",
+          "difficulty": "Easy",
+          "area": "Emigrant Peak"
+        },
+        {
+          "name": "Riviera",
+          "difficulty": "Easy",
+          "area": "Emigrant Peak"
+        },
+        {
+          "name": "Snow Flower",
+          "difficulty": "Easy",
+          "area": "Emigrant Peak"
+        },
+        {
+          "name": "The Mora",
+          "difficulty": "Easy",
+          "area": "Emigrant Peak"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Meadow Beginner Area",
+          "difficulty": "Easy",
+          "area": "Scott/Lakeview Peak"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Scott Ridge",
+          "difficulty": "Intermediate",
+          "area": "Scott/Lakeview Peak"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-02",
+        "avgWaitTime": 215.8,
+        "maxWaitTime": 927,
+        "totalLiftsTracked": 39,
+        "busiest": [
+          {
+            "name": "Gold Coast Express",
+            "avgWait": 443.3,
+            "peakWait": 648,
+            "type": "High-Speed 6 Chair",
+            "mountain": "Emigrant Peak"
+          },
+          {
+            "name": "Big Blue Express",
+            "avgWait": 407.7,
+            "peakWait": 869,
+            "type": "High-Speed 6 Chair",
+            "mountain": "Emigrant Peak"
+          },
+          {
+            "name": "Shirley Lake Express",
+            "avgWait": 370,
+            "peakWait": 927,
+            "type": "High-Speed 6 Chair",
+            "mountain": "Granite Peak"
+          },
+          {
+            "name": "Summit Express",
+            "avgWait": 353.9,
+            "peakWait": 784,
+            "type": "High-Speed 6 Chair",
+            "mountain": "Summit Peak"
+          },
+          {
+            "name": "Siberia Express",
+            "avgWait": 314,
+            "peakWait": 566,
+            "type": "High-Speed 6 Chair",
+            "mountain": "Palisades Peak"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-03",
+        "high_f": null,
+        "low_f": 27,
+        "high_c": null,
+        "low_c": -3,
+        "description": "Snow Wind",
+        "snowfall_day_inches": 8,
+        "snowfall_night_inches": 4
+      },
+      "outlook": [
+        {
+          "date": "2026-01-04",
+          "high_f": 28,
+          "low_f": 22,
+          "high_c": -2,
+          "low_c": -5,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 10,
+          "snowfall_night_inches": 4,
+          "snowfall_expected": 14
+        },
+        {
+          "date": "2026-01-05",
+          "high_f": 27,
+          "low_f": 24,
+          "high_c": -3,
+          "low_c": -5,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2026-01-06",
+          "high_f": 31,
+          "low_f": 27,
+          "high_c": -1,
+          "low_c": -3,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-04",
+        "high_f": 28,
+        "low_f": 22,
+        "high_c": -2,
+        "low_c": -5,
+        "description": "Snow Wind",
+        "snowfall_day_inches": 10,
+        "snowfall_night_inches": 4,
+        "snowfall_expected": 14
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": true
+    },
+    "alerts": [
+      "5\" fresh snow overnight",
+      "22 new trails opened today",
+      "1 trail freshly groomed"
+    ],
+    "trends": [
+      "Steady snowfall - 8\" in last 7 days",
+      "High demand yesterday - average wait time 215.8 min",
+      "14\" snow expected Sunday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Meadow Beginner Area - all skill levels",
+      "Gold Coast Express had longest waits (443.3 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Storm Cycle Building",
+    "body": "The mountain got a nice 5\" boost overnight. Conditions are improved. Storm cycle alert! 16\" on the way. Conditions are about to level up. Peak season vibes today. Expect longer lift lines, especially late morning.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "forecast_major_storm",
+          "category": "weather",
+          "priority": 92,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_solid",
+          "category": "snow",
+          "priority": 82,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_major_storm",
+          "category": "weather",
+          "priority": 92,
+          "usedFor": "body"
+        },
+        {
+          "id": "time_holiday",
+          "category": "time",
+          "priority": 70,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "storm_major",
+        "variationIndex": 1,
+        "totalVariations": 7,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Big Snow Incoming"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

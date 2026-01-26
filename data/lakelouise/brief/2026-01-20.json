@@ -1,0 +1,214 @@
+{
+  "resort": "lakelouise",
+  "resortName": "Lake Louise",
+  "date": "2026-01-20",
+  "generated": "2026-01-21T06:30:53.376Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 231.5,
+      "season_total_cm": 588,
+      "conditions": {
+        "today": "Sunny Spells",
+        "yesterday": "Sunny Spells"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 169,
+          "yesterday": 168,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 34,
+          "yesterday": 30,
+          "delta": 4
+        },
+        "totalTrails": 170
+      },
+      "newlyOpened": [
+        {
+          "name": "Buffaloberry",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Meadowlark",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "Jerry's Jungle",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Buffaloberry",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        },
+        {
+          "name": "Wrong Turn",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        },
+        {
+          "name": "Charlie's Choice",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        },
+        {
+          "name": "Wolverine",
+          "difficulty": "Blue",
+          "area": "Larch"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Bunchberry",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        },
+        {
+          "name": "30 Goats",
+          "difficulty": "Blue",
+          "area": "Larch"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-20",
+        "high_f": 32,
+        "low_f": 32,
+        "high_c": 0,
+        "low_c": 0,
+        "description": "Cloud/Sun/Mixed",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-22T06:30:53.375Z",
+          "high_f": 32,
+          "low_f": 32,
+          "high_c": 0,
+          "low_c": 0,
+          "description": "Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-23T06:30:53.375Z",
+          "high_f": 32,
+          "low_f": 32,
+          "high_c": 0,
+          "low_c": 0,
+          "description": "Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-24T06:30:53.375Z",
+          "high_f": 32,
+          "low_f": 32,
+          "high_c": 0,
+          "low_c": 0,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-22T06:30:53.375Z",
+        "high_f": 32,
+        "low_f": 32,
+        "high_c": 0,
+        "low_c": 0,
+        "description": "Snow",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "1 new trail opened today",
+      "6 trails freshly groomed"
+    ],
+    "trends": [
+      "1 more trail open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Meadowlark - challenging for advanced skiers",
+      "Fresh corduroy on Jerry's Jungle - great for beginners",
+      "Fresh corduroy on Buffaloberry - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Variable Conditions",
+    "body": "169 of 170 trails are open with 34 groomed. Cloud/Sun/Mixed with a high of 32°F. 6 runs freshly groomed, mostly in Front Side and Larch. Mixed precipitation expected. Rain at base, snow up top. Dress in layers.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_mixed",
+          "category": "weather",
+          "priority": 195,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "grooming_moderate",
+          "category": "terrain",
+          "priority": 55,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_mixed",
+          "category": "weather",
+          "priority": 195,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "weather_mixed",
+        "variationIndex": 1,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Rain at Base, Snow Up Top"
+      },
+      "dayOfWeek": "Tuesday"
+    }
+  },
+  "errors": []
+}

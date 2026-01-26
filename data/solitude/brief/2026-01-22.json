@@ -1,0 +1,190 @@
+{
+  "resort": "solitude",
+  "resortName": "Solitude",
+  "date": "2026-01-22",
+  "generated": "2026-01-23T06:29:43.812Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 130,
+      "season_total_cm": 330,
+      "conditions": {
+        "today": "Variable Conditions",
+        "yesterday": "Variable Conditions"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 96,
+          "yesterday": 93,
+          "delta": 3
+        },
+        "groomedTrails": {
+          "today": 32,
+          "yesterday": 32,
+          "delta": 0
+        },
+        "totalTrails": 107
+      },
+      "newlyOpened": [
+        {
+          "name": "Boundary Chutes",
+          "difficulty": "Difficult",
+          "area": "Honeycomb Canyon"
+        },
+        {
+          "name": "Crystal Point",
+          "difficulty": "Expert",
+          "area": "Honeycomb Canyon"
+        },
+        {
+          "name": "No Man's Land",
+          "difficulty": "Expert",
+          "area": "Honeycomb Canyon"
+        },
+        {
+          "name": "Prince of Wales",
+          "difficulty": "Difficult",
+          "area": "Honeycomb Canyon"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Main Street Terrain Park",
+          "difficulty": "Intermediate",
+          "area": "Eagle Ridge"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-21",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 9,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-22",
+        "high_f": null,
+        "low_f": 22,
+        "high_c": null,
+        "low_c": -5,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-23",
+          "high_f": 27,
+          "low_f": 13,
+          "high_c": -3,
+          "low_c": -11,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-24",
+          "high_f": 14,
+          "low_f": 9,
+          "high_c": -10,
+          "low_c": -13,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-25",
+          "high_f": 15,
+          "low_f": 13,
+          "high_c": -9,
+          "low_c": -11,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-23",
+        "high_f": 27,
+        "low_f": 13,
+        "high_c": -3,
+        "low_c": -11,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "4 new trails opened today"
+    ],
+    "trends": [
+      "3 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "4 New Runs Open",
+    "body": "The rundown: 96 trails open, 32 groomed. Partly Cloudy with temps around temps TBD. Ski patrol opened 4 additional trails. A few more choices today.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "terrain_few",
+        "variationIndex": 0,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "A Few More Options Today"
+      },
+      "dayOfWeek": "Thursday"
+    }
+  },
+  "errors": []
+}

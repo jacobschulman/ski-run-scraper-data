@@ -1,0 +1,294 @@
+{
+  "resort": "stratton",
+  "resortName": "Stratton",
+  "date": "2025-12-27",
+  "generated": "2025-12-28T04:41:12.849Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 6,
+      "overnight_cm": 15,
+      "24hour_inches": 6,
+      "24hour_cm": 15,
+      "48hour_inches": 6,
+      "48hour_cm": 15,
+      "7day_inches": 6,
+      "7day_cm": 15,
+      "season_total_inches": 57,
+      "season_total_cm": 145,
+      "conditions": {
+        "today": "Machine Groomed Packed Powder",
+        "yesterday": "Machine Groomed Variable Conditions"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 86,
+          "yesterday": 62,
+          "delta": 24
+        },
+        "groomedTrails": {
+          "today": 59,
+          "yesterday": 59,
+          "delta": 0
+        },
+        "totalTrails": 123
+      },
+      "newlyOpened": [
+        {
+          "name": "Cabin Fever",
+          "difficulty": "Expert",
+          "area": "Glades"
+        },
+        {
+          "name": "Dancing Bear",
+          "difficulty": "Expert",
+          "area": "Glades"
+        },
+        {
+          "name": "Daniel's Web",
+          "difficulty": "Easy",
+          "area": "Glades"
+        },
+        {
+          "name": "Diamond in the Rough",
+          "difficulty": "Expert",
+          "area": "Glades"
+        },
+        {
+          "name": "Eclipse",
+          "difficulty": "Intermediate",
+          "area": "Glades"
+        },
+        {
+          "name": "Emerald Forest",
+          "difficulty": "Intermediate",
+          "area": "Glades"
+        },
+        {
+          "name": "Moonbeam",
+          "difficulty": "Intermediate",
+          "area": "Glades"
+        },
+        {
+          "name": "Moondance",
+          "difficulty": "Extreme Terrain",
+          "area": "Glades"
+        },
+        {
+          "name": "Shred Wood Forest",
+          "difficulty": "Extreme Terrain",
+          "area": "Glades"
+        },
+        {
+          "name": "West Pilot",
+          "difficulty": "Intermediate",
+          "area": "Glades"
+        },
+        {
+          "name": "Why Not",
+          "difficulty": "Extreme Terrain",
+          "area": "Glades"
+        },
+        {
+          "name": "Buster's Trail",
+          "difficulty": "Intermediate",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Main Line",
+          "difficulty": "Easy",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Rick's Catch 22",
+          "difficulty": "Expert",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Rising Star",
+          "difficulty": "Expert",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Sunriser Supertrail",
+          "difficulty": "Intermediate",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Lower Slalom Glade",
+          "difficulty": "Extreme Terrain",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Rimeline",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Stevek",
+          "difficulty": "Extreme Terrain",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Sun Bowl Express",
+          "difficulty": "Intermediate",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Upper Standard",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Upper Switchback",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Work Road",
+          "difficulty": "Easy",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "World Cup",
+          "difficulty": "Extreme Terrain",
+          "area": "Upper Mountain"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-26",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 14,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-27",
+        "high_f": null,
+        "low_f": 17,
+        "high_c": null,
+        "low_c": -8,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-28",
+          "high_f": 38,
+          "low_f": 32,
+          "high_c": 3,
+          "low_c": 0,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 3,
+          "snowfall_expected": 3
+        },
+        {
+          "date": "2025-12-29",
+          "high_f": 42,
+          "low_f": 10,
+          "high_c": 6,
+          "low_c": -12,
+          "description": "Rain Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-30",
+          "high_f": 9,
+          "low_f": 7,
+          "high_c": -13,
+          "low_c": -14,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-28",
+        "high_f": 38,
+        "low_f": 32,
+        "high_c": 3,
+        "low_c": 0,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 3,
+        "snowfall_expected": 3
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "6\" fresh snow overnight",
+      "6\" in last 24 hours - powder day!",
+      "24 new trails opened today"
+    ],
+    "trends": [
+      "Steady snowfall - 6\" in last 7 days",
+      "24 more trails open than yesterday",
+      "3\" snow expected Sunday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Deep Day at Stratton",
+    "body": "6\" dumped overnight. The stashes are loaded and the groomers are buried. Go find 'em. Rope drop! 24 trails opened overnight, expanding your playground significantly. The forecast is flirting with us: light snow expected. Not a dump, but we'll take it.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_snow_coming",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 0,
+        "totalVariations": 12,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Powder Day Alert! ❄️"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

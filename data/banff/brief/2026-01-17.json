@@ -1,0 +1,233 @@
+{
+  "resort": "banff",
+  "resortName": "Banff Sunshine Village",
+  "date": "2026-01-17",
+  "generated": "2026-01-18T06:26:41.406Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 9.4,
+      "7day_cm": 24,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 114,
+          "yesterday": 114,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 37,
+          "yesterday": 39,
+          "delta": -2
+        },
+        "totalTrails": 120
+      },
+      "newlyOpened": [
+        {
+          "name": "UM. Delirium Dive",
+          "difficulty": "DoubleBlack",
+          "area": "All Terrain"
+        },
+        {
+          "name": "UM. Viking Ridge",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "GE. Wildfire",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Wa. Tincan Alley",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "JW. Fireweed",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "JW. Powerline",
+          "difficulty": "Green",
+          "area": "All Terrain"
+        },
+        {
+          "name": "JW. Short and Sweet",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "JW. Trapper's Trail",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "St. Borderline",
+          "difficulty": "Green",
+          "area": "All Terrain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "GE. Sergie's Shortcut",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "JW. Jackrabbit",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "GE. Stampeders Way",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "GE. Rolling Thunder",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "UM. Piste Noir",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "St. Bunkers",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "St. Little Bunkers",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-17",
+        "high_f": 24.8,
+        "low_f": 5,
+        "high_c": -4,
+        "low_c": -15,
+        "description": "Unknown",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-19T06:26:41.405Z",
+          "high_f": 24.8,
+          "low_f": 3.2,
+          "high_c": -4,
+          "low_c": -16,
+          "description": "Unknown",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-20T06:26:41.405Z",
+          "high_f": 14,
+          "low_f": 5,
+          "high_c": -10,
+          "low_c": -15,
+          "description": "Unknown",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-19T06:26:41.405Z",
+        "high_f": 24.8,
+        "low_f": 3.2,
+        "high_c": -4,
+        "low_c": -16,
+        "description": "Unknown",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "2 new trails opened today",
+      "5 trails freshly groomed"
+    ],
+    "trends": [
+      "Steady snowfall - 9.4\" in last 7 days"
+    ],
+    "recommendations": [
+      "Fresh corduroy on JW. Fireweed - challenging for advanced skiers",
+      "Fresh corduroy on JW. Powerline - great for beginners",
+      "Fresh corduroy on JW. Short and Sweet - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Peak Terrain",
+    "body": "Steady snowfall with 9.4\" over the last week. 5 runs freshly groomed, mostly in All Terrain.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "percent_full",
+          "category": "terrain",
+          "priority": 45,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_week_total",
+          "category": "snow",
+          "priority": 40,
+          "usedFor": "body"
+        },
+        {
+          "id": "grooming_moderate",
+          "category": "terrain",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "percent_full",
+        "variationIndex": 3,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "All Systems Go"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

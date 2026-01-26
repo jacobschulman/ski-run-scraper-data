@@ -1,0 +1,303 @@
+{
+  "resort": "palisades",
+  "resortName": "Palisades Tahoe",
+  "date": "2026-01-08",
+  "generated": "2026-01-09T07:22:44.259Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 5,
+      "overnight_cm": 13,
+      "24hour_inches": 6,
+      "24hour_cm": 15,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 50,
+      "7day_cm": 127,
+      "season_total_inches": 152,
+      "season_total_cm": 386,
+      "conditions": {
+        "today": "Powder, Machine Groomed",
+        "yesterday": "Powder, Machine Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 247,
+          "yesterday": 230,
+          "delta": 17
+        },
+        "groomedTrails": {
+          "today": 41,
+          "yesterday": 39,
+          "delta": 2
+        },
+        "totalTrails": 301
+      },
+      "newlyOpened": [
+        {
+          "name": "Funnel",
+          "difficulty": "Expert",
+          "area": "Emigrant Peak"
+        },
+        {
+          "name": "Mainline Pocket",
+          "difficulty": "Expert",
+          "area": "Emigrant Peak"
+        },
+        {
+          "name": "Beaver Bowl",
+          "difficulty": "Expert",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Bernie's Bowl",
+          "difficulty": "Expert",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Estelle Bowl",
+          "difficulty": "Expert",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Idiot's Delight",
+          "difficulty": "Expert",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Lower Saddle",
+          "difficulty": "Very Difficult",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "South Beaver",
+          "difficulty": "Expert",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "The Buttress",
+          "difficulty": "Expert",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "The Keyhole",
+          "difficulty": "Very Difficult",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Top Alpine Bowl",
+          "difficulty": "Very Difficult",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Gentian Gully",
+          "difficulty": "Very Difficult",
+          "area": "Scott/Lakeview Peak"
+        },
+        {
+          "name": "Lower 40 Face",
+          "difficulty": "Very Difficult",
+          "area": "Scott/Lakeview Peak"
+        },
+        {
+          "name": "Lower 40 Gully",
+          "difficulty": "Very Difficult",
+          "area": "Scott/Lakeview Peak"
+        },
+        {
+          "name": "Promised Land",
+          "difficulty": "Very Difficult",
+          "area": "Scott/Lakeview Peak"
+        },
+        {
+          "name": "Subway Cirque",
+          "difficulty": "Very Difficult",
+          "area": "Scott/Lakeview Peak"
+        },
+        {
+          "name": "Reily's Run",
+          "difficulty": "Intermediate",
+          "area": "Sherwood Bowl"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "South Face",
+          "difficulty": "Very Difficult",
+          "area": "Sherwood Bowl"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-07",
+        "avgWaitTime": 33.1,
+        "maxWaitTime": 134,
+        "totalLiftsTracked": 39,
+        "busiest": [
+          {
+            "name": "Subway",
+            "avgWait": 122,
+            "peakWait": 126,
+            "type": "Double",
+            "mountain": "Scott/Lakeview Peak"
+          },
+          {
+            "name": "Funitel",
+            "avgWait": 109.3,
+            "peakWait": 134,
+            "type": "Funitel",
+            "mountain": "Emigrant Peak"
+          },
+          {
+            "name": "Granite Chief",
+            "avgWait": 76.3,
+            "peakWait": 88,
+            "type": "Triple Chair",
+            "mountain": "Granite Peak"
+          },
+          {
+            "name": "KT-22 Express",
+            "avgWait": 75.7,
+            "peakWait": 100,
+            "type": "High-Speed Quad",
+            "mountain": "KT Peak"
+          },
+          {
+            "name": "Headwall Express",
+            "avgWait": 74,
+            "peakWait": 91,
+            "type": "High-Speed 6 Chair",
+            "mountain": "Palisades Peak"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-08",
+        "high_f": null,
+        "low_f": 15,
+        "high_c": null,
+        "low_c": -10,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-09",
+          "high_f": 31,
+          "low_f": 21,
+          "high_c": -1,
+          "low_c": -6,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-10",
+          "high_f": 37,
+          "low_f": 30,
+          "high_c": 3,
+          "low_c": -1,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-11",
+          "high_f": 43,
+          "low_f": 34,
+          "high_c": 6,
+          "low_c": 1,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-09",
+        "high_f": 31,
+        "low_f": 21,
+        "high_c": -1,
+        "low_c": -6,
+        "description": "Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": true
+    },
+    "alerts": [
+      "5\" fresh snow overnight",
+      "6\" in last 24 hours - powder day!",
+      "17 new trails opened today"
+    ],
+    "trends": [
+      "Great week for snow - 50\" in last 7 days",
+      "17 more trails open than yesterday",
+      "High demand yesterday - average wait time 33.1 min"
+    ],
+    "recommendations": [
+      "Subway had longest waits (122 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": {
+    "headline": "6\" of Fresh Overnight",
+    "body": "Mother Nature delivered 6\" of the good stuff. Face shots are on the menu. Ski patrol opened 17 new runs. Major expansion today. Heads up: Subway peaked at 134 minutes yesterday. Consider alternatives.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_major",
+          "category": "terrain",
+          "priority": 88,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_busy",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 2,
+        "totalVariations": 11,
+        "usedWeekendVariation": false,
+        "previousHeadline": "The Mountain Got Buried"
+      },
+      "dayOfWeek": "Thursday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,184 @@
+{
+  "resort": "cypressmountain",
+  "resortName": "Cypress Mountain",
+  "date": "2025-12-28",
+  "generated": "2025-12-29T07:22:55.801Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 1,
+      "24hour_inches": 1,
+      "24hour_cm": 2,
+      "48hour_inches": 1,
+      "48hour_cm": 3,
+      "7day_inches": 29,
+      "7day_cm": 73,
+      "season_total_inches": 74,
+      "season_total_cm": 187,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 33,
+          "yesterday": 31,
+          "delta": 2
+        },
+        "groomedTrails": {
+          "today": 27,
+          "yesterday": 26,
+          "delta": 1
+        },
+        "totalTrails": 96
+      },
+      "newlyOpened": [
+        {
+          "name": "Primary Power",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Lower Bowen",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Primary Power",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Lower Bowen",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Cat Track (lower)",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-28",
+        "high_f": null,
+        "low_f": 28,
+        "description": "Cloudy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-29",
+          "high_f": 38,
+          "low_f": 38,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-30",
+          "high_f": 43,
+          "low_f": 39,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-31",
+          "high_f": 40,
+          "low_f": 38,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-29",
+        "high_f": 38,
+        "low_f": 38,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "2 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 29\" in last 7 days",
+      "2 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Primary Power - perfect for intermediate skiers",
+      "Fresh corduroy on Lower Bowen - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "2 New Trails Today",
+    "body": "1\" of fresh snow settled in overnight. Not a powder day, but definitely an upgrade. The ski patrol has been busy—2 additional trails are now yours to enjoy. Snow expected today or tomorrow with conditions continuing to improve.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_snow_today_tomorrow",
+          "category": "weather",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 2,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "More Mountain to Explore"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

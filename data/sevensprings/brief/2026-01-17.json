@@ -1,0 +1,49 @@
+{
+  "resort": "sevensprings",
+  "resortName": "Seven Springs",
+  "date": "2026-01-17",
+  "generated": "2026-01-17T10:19:56.468Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 22,
+          "yesterday": 22,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 21,
+          "yesterday": 21,
+          "delta": 0
+        },
+        "totalTrails": 51
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-16",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 14,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

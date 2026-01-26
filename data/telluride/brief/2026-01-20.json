@@ -1,0 +1,99 @@
+{
+  "resort": "telluride",
+  "resortName": "Telluride",
+  "date": "2026-01-20",
+  "generated": "2026-01-20T12:43:02.630Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 83,
+          "yesterday": 83,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 39,
+          "yesterday": 35,
+          "delta": 4
+        },
+        "totalTrails": 157
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Pick ‘n Gad",
+          "difficulty": "Blue",
+          "area": "Village Express"
+        },
+        {
+          "name": "Lower Galloping Goose (Upper)",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Enchanted Forest",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Double Cabin (Upper)",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Bridges",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "May Girl",
+          "difficulty": "Green",
+          "area": "Prospect Express"
+        },
+        {
+          "name": "Sandia",
+          "difficulty": "Blue",
+          "area": "Prospect Express"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Lower Galloping Goose (Middle)",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Sundance",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Magnolia",
+          "difficulty": "Blue",
+          "area": "Prospect Express"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "7 trails freshly groomed"
+    ],
+    "trends": [],
+    "recommendations": [
+      "Fresh corduroy on Pick ‘n Gad - perfect for intermediate skiers",
+      "Fresh corduroy on Lower Galloping Goose (Upper) - great for beginners",
+      "Fresh corduroy on Enchanted Forest - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

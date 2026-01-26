@@ -1,0 +1,129 @@
+{
+  "resort": "crestedbutte",
+  "resortName": "Crested Butte",
+  "date": "2025-12-30",
+  "generated": "2025-12-30T12:39:57.306Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 45,
+          "yesterday": 44,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 27,
+          "yesterday": 19,
+          "delta": 8
+        },
+        "totalTrails": 168
+      },
+      "newlyOpened": [
+        {
+          "name": "Ten Peaks Progression Park",
+          "difficulty": "TerrainPark",
+          "area": "Ten Peaks"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Bubba's Way Jib Park",
+          "difficulty": "TerrainPark",
+          "area": "Back Side"
+        },
+        {
+          "name": "Ruby Road",
+          "difficulty": "Black",
+          "area": "Back Side"
+        },
+        {
+          "name": "Big Al's",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Lower Twister",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Peanut",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Upper International",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "Warming House Hill",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Splain's Gulch",
+          "difficulty": "Green",
+          "area": "Ten Peaks"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-29",
+        "avgWaitTime": 7.2,
+        "maxWaitTime": 19,
+        "totalLiftsTracked": 15,
+        "busiest": [
+          {
+            "name": "Red Lady Express",
+            "avgWait": 11.1,
+            "peakWait": 19,
+            "type": "Quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "Silver Queen Express",
+            "avgWait": 5.7,
+            "peakWait": 12,
+            "type": "Quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "Paradise Express",
+            "avgWait": 4.6,
+            "peakWait": 11,
+            "type": "Quad",
+            "mountain": "Back Side"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today",
+      "8 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 42% from yesterday",
+      "1 more trail open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Bubba's Way Jib Park - all skill levels",
+      "Fresh corduroy on Ruby Road - challenging for advanced skiers",
+      "Fresh corduroy on Big Al's - great for beginners",
+      "Red Lady Express had longest waits (11.1 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

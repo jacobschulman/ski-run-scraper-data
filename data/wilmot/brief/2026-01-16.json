@@ -1,0 +1,41 @@
+{
+  "resort": "wilmot",
+  "resortName": "Wilmot Mountain",
+  "date": "2026-01-16",
+  "generated": "2026-01-16T16:23:49.901Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 21,
+          "yesterday": 21,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 21,
+          "yesterday": 21,
+          "delta": 0
+        },
+        "totalTrails": 26
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

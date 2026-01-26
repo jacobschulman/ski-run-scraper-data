@@ -1,0 +1,196 @@
+{
+  "resort": "banff",
+  "resortName": "Banff Sunshine Village",
+  "date": "2026-01-08",
+  "generated": "2026-01-09T06:33:52.631Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 2,
+      "overnight_cm": 5,
+      "24hour_inches": 2,
+      "24hour_cm": 5,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 13.4,
+      "7day_cm": 34,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 72,
+          "yesterday": 57,
+          "delta": 15
+        },
+        "groomedTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "totalTrails": 120
+      },
+      "newlyOpened": [
+        {
+          "name": "JW. Jackrabbit",
+          "difficulty": "advanced",
+          "area": "All Terrain"
+        },
+        {
+          "name": "SO. Middle Canyon",
+          "difficulty": "advanced",
+          "area": "All Terrain"
+        },
+        {
+          "name": "GE. Rolling Thunder",
+          "difficulty": "advanced",
+          "area": "All Terrain"
+        },
+        {
+          "name": "JW. Trapper's Trail",
+          "difficulty": "advanced",
+          "area": "All Terrain"
+        },
+        {
+          "name": "JW. Upper Canyon",
+          "difficulty": "intermediate",
+          "area": "All Terrain"
+        },
+        {
+          "name": "TP. Bushwhackers",
+          "difficulty": "advanced",
+          "area": "All Terrain"
+        },
+        {
+          "name": "TP. Horto's Revenge",
+          "difficulty": "advanced",
+          "area": "All Terrain"
+        },
+        {
+          "name": "UM. Piste Noir",
+          "difficulty": "advanced",
+          "area": "All Terrain"
+        },
+        {
+          "name": "TP. The Shoulder",
+          "difficulty": "advanced",
+          "area": "All Terrain"
+        },
+        {
+          "name": "UM. Yellowhead North",
+          "difficulty": "intermediate",
+          "area": "All Terrain"
+        },
+        {
+          "name": "St. Borderline",
+          "difficulty": "beginner",
+          "area": "All Terrain"
+        },
+        {
+          "name": "St. Little Bunkers",
+          "difficulty": "intermediate",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Wa. Old T-Bar",
+          "difficulty": "advanced",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Wa. The Waterfall",
+          "difficulty": "advanced",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Wa. Tilton Trail",
+          "difficulty": "intermediate",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Wa. Tincan Alley",
+          "difficulty": "intermediate",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Wa. Wawa Bowl",
+          "difficulty": "intermediate",
+          "area": "All Terrain"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "UM. Bye Bye Bowl",
+          "difficulty": "advanced",
+          "area": "All Terrain"
+        },
+        {
+          "name": "St. Laryx",
+          "difficulty": "advanced",
+          "area": "All Terrain"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "2\" fresh snow overnight",
+      "17 new trails opened today"
+    ],
+    "trends": [
+      "Great week for snow - 13.4\" in last 7 days",
+      "15 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Big Expansion Today",
+    "body": "2\" of fresh snow settled in overnight. Not a powder day, but an upgrade. 17 additional trails are now available. Lots of new ground to cover.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_major",
+          "category": "terrain",
+          "priority": 88,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_major",
+          "category": "terrain",
+          "priority": 88,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "terrain_major",
+        "variationIndex": 1,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Patrol Won't Quit"
+      },
+      "dayOfWeek": "Thursday"
+    }
+  },
+  "errors": []
+}

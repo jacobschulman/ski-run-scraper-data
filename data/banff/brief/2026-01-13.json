@@ -1,0 +1,251 @@
+{
+  "resort": "banff",
+  "resortName": "Banff Sunshine Village",
+  "date": "2026-01-13",
+<<<<<<< Updated upstream
+  "generated": "2026-01-14T06:32:35.706Z",
+=======
+  "generated": "2026-01-14T06:29:11.640Z",
+>>>>>>> Stashed changes
+  "rawData": {
+    "snow": {
+      "overnight_inches": 5.5,
+      "overnight_cm": 14,
+      "24hour_inches": 7.1,
+      "24hour_cm": 18,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 20.9,
+      "7day_cm": 53,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 113,
+          "yesterday": 111,
+          "delta": 2
+        },
+        "groomedTrails": {
+          "today": 47,
+          "yesterday": 43,
+          "delta": 4
+        },
+        "totalTrails": 120
+      },
+      "newlyOpened": [
+        {
+          "name": "TP. Horto's Revenge",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "TP. The Shoulder",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "SO. Lower Canyon Trail",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "GE. Sergie's Shortcut",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "GE. Cayuse Creek",
+          "difficulty": "Green",
+          "area": "All Terrain"
+        },
+        {
+          "name": "SO. Middle Canyon",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "JW. Upper Canyon",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "GE. Wildfire",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "JW. Wolverine Liftline",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "St. Borderline",
+          "difficulty": "Green",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Wa. The Waterfall",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "JW. Jackrabbit",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "JW. Trapper's Trail",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "UM. South 205",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Wa. Tilton Trail",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Wa. Wawa Bowl",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-13",
+        "high_f": 37.4,
+        "low_f": 26.6,
+        "high_c": 3,
+        "low_c": -3,
+        "description": "Unknown",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+<<<<<<< Updated upstream
+          "date": "2026-01-15T06:32:35.705Z",
+=======
+          "date": "2026-01-15T06:29:11.639Z",
+>>>>>>> Stashed changes
+          "high_f": 30.2,
+          "low_f": 14,
+          "high_c": -1,
+          "low_c": -10,
+          "description": "Unknown",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+<<<<<<< Updated upstream
+          "date": "2026-01-16T06:32:35.705Z",
+=======
+          "date": "2026-01-16T06:29:11.639Z",
+>>>>>>> Stashed changes
+          "high_f": 14,
+          "low_f": 6.8,
+          "high_c": -10,
+          "low_c": -14,
+          "description": "Unknown",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+<<<<<<< Updated upstream
+        "date": "2026-01-15T06:32:35.705Z",
+=======
+        "date": "2026-01-15T06:29:11.639Z",
+>>>>>>> Stashed changes
+        "high_f": 30.2,
+        "low_f": 14,
+        "high_c": -1,
+        "low_c": -10,
+        "description": "Unknown",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "5.5\" fresh snow overnight",
+      "7.1\" in last 24 hours - powder day!",
+      "2 new trails opened today",
+      "9 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 20.9\" in last 7 days",
+      "2 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on SO. Lower Canyon Trail - perfect for intermediate skiers",
+      "Fresh corduroy on GE. Sergie's Shortcut - perfect for intermediate skiers",
+      "Fresh corduroy on GE. Cayuse Creek - great for beginners"
+    ]
+  },
+  "morningBrief": {
+    "headline": "7.1\" of Fresh Overnight",
+    "body": "Wake up, it's a powder day! 7.1\" overnight means hero snow everywhere. 9 runs freshly groomed, mostly in All Terrain.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "body"
+        },
+        {
+          "id": "grooming_moderate",
+          "category": "terrain",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 2,
+        "totalVariations": 11,
+        "usedWeekendVariation": false,
+        "previousHeadline": null
+      },
+      "dayOfWeek": "Tuesday"
+    }
+  },
+  "errors": []
+}

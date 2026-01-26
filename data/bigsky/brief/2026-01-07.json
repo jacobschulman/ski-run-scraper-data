@@ -1,0 +1,19 @@
+{
+  "resort": "bigsky",
+  "resortName": "Big Sky",
+  "date": "2026-01-07",
+  "generated": "2026-01-08T06:28:38.270Z",
+  "rawData": {
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {},
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

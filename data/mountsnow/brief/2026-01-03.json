@@ -1,0 +1,108 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2026-01-03",
+  "generated": "2026-01-03T10:23:49.202Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 45,
+          "yesterday": 43,
+          "delta": 2
+        },
+        "groomedTrails": {
+          "today": 39,
+          "yesterday": 40,
+          "delta": -1
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Choke",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Moonbeam",
+          "difficulty": "Blue",
+          "area": "Sunbrook"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Inferno",
+          "difficulty": "TerrainPark",
+          "area": "Carinthia"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-02",
+        "avgWaitTime": 7.3,
+        "maxWaitTime": 26,
+        "totalLiftsTracked": 18,
+        "busiest": [
+          {
+            "name": "Bluebird Express",
+            "avgWait": 12.8,
+            "peakWait": 26,
+            "type": "Six Pack",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Nitro Express",
+            "avgWait": 9.7,
+            "peakWait": 20,
+            "type": "Quad",
+            "mountain": "Carinthia"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 6.9,
+            "peakWait": 14,
+            "type": "Quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Grand Summit Express",
+            "avgWait": 3.3,
+            "peakWait": 12,
+            "type": "Quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Challenger",
+            "avgWait": 1.5,
+            "peakWait": 4,
+            "type": "Triple",
+            "mountain": "North Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2 new trails opened today"
+    ],
+    "trends": [
+      "2 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Bluebird Express had longest waits (12.8 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

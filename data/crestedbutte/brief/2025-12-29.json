@@ -1,0 +1,129 @@
+{
+  "resort": "crestedbutte",
+  "resortName": "Crested Butte",
+  "date": "2025-12-29",
+  "generated": "2025-12-29T12:38:35.888Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 44,
+          "yesterday": 40,
+          "delta": 4
+        },
+        "groomedTrails": {
+          "today": 19,
+          "yesterday": 25,
+          "delta": -6
+        },
+        "totalTrails": 168
+      },
+      "newlyOpened": [
+        {
+          "name": "Gus' Way",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Rosebush Glades",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Crystal",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "Twister",
+          "difficulty": "Black",
+          "area": "Front Side"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": [
+        {
+          "name": "Ruby Road",
+          "difficulty": "Black",
+          "area": "Back Side"
+        },
+        {
+          "name": "Big Al's",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Lower Twister",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Peanut",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Upper International",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "Warming House Hill",
+          "difficulty": "Green",
+          "area": "Front Side"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-28",
+        "avgWaitTime": 8.5,
+        "maxWaitTime": 36,
+        "totalLiftsTracked": 15,
+        "busiest": [
+          {
+            "name": "Red Lady Express",
+            "avgWait": 11.7,
+            "peakWait": 16,
+            "type": "Quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "Silver Queen Express",
+            "avgWait": 8.1,
+            "peakWait": 36,
+            "type": "Quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "Paradise Express",
+            "avgWait": 5.7,
+            "peakWait": 11,
+            "type": "Quad",
+            "mountain": "Back Side"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "4 new trails opened today"
+    ],
+    "trends": [
+      "4 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Red Lady Express had longest waits (11.7 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

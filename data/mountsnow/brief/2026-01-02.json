@@ -1,0 +1,90 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2026-01-02",
+  "generated": "2026-01-02T10:22:05.189Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 43,
+          "yesterday": 42,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 40,
+          "yesterday": 40,
+          "delta": 0
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Bear Paw",
+          "difficulty": "Green",
+          "area": "Sunbrook"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-01",
+        "avgWaitTime": 6.1,
+        "maxWaitTime": 15,
+        "totalLiftsTracked": 18,
+        "busiest": [
+          {
+            "name": "Bluebird Express",
+            "avgWait": 10.3,
+            "peakWait": 15,
+            "type": "Six Pack",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Nitro Express",
+            "avgWait": 5.6,
+            "peakWait": 13,
+            "type": "Quad",
+            "mountain": "Carinthia"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 5.2,
+            "peakWait": 10,
+            "type": "Quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Grand Summit Express",
+            "avgWait": 4.2,
+            "peakWait": 13,
+            "type": "Quad",
+            "mountain": "Main Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today"
+    ],
+    "trends": [
+      "1 more trail open than yesterday"
+    ],
+    "recommendations": [
+      "Bluebird Express had longest waits (10.3 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

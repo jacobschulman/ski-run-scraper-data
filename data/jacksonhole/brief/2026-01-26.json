@@ -1,0 +1,148 @@
+{
+  "resort": "jacksonhole",
+  "resortName": "Jackson Hole",
+  "date": "2026-01-26",
+  "generated": "2026-01-26T19:21:22.252Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 1,
+      "24hour_cm": 3,
+      "48hour_inches": 2,
+      "48hour_cm": 5,
+      "7day_inches": 2,
+      "7day_cm": 5,
+      "season_total_inches": 219,
+      "season_total_cm": 556,
+      "conditions": {
+        "today": "6am - With back to back days of 1\" reported at JHMR, it feels like dry January was all a dream. You'll want an extra layer or two if you plan to enjoy today's bounty, especially during the morning hours with single digit temps sticking around until just before noon. Mostly clear skies will provide ample sunshine to light your way before clouds build back up in the evening hours. Breezy winds prevailing from the West are forecast to be 10-20mph with gusts of 30mph+ possible along ridgetops. Afternoon temps will be in the low 20s at the base and stick in the teens higher up. We hope to see you here! - Orion",
+        "yesterday": "1\" of new snow since our lifts closed yesterday will provide a nice, light touch-up across all elevations. Look for morning snow flurries to transition into clear and sunny skies by late morning. Cold mountain temperatures will continue with ranges from the low single digits across the high elevations to the mid-teens down on the valley floor. Light winds will be trending out of the WNW at 10-13 MPH with little to no gusting. The 1\" refresh will provide the vapor trail foundation for your early Sunday needs. The sunshine will arrive to close out the weekend. A delightful day is in store for the Rendezvous Mountain Strong! Stay safe out there. -MB  "
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 111,
+          "yesterday": 111,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 46,
+          "yesterday": 47,
+          "delta": -1
+        },
+        "totalTrails": 145
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Kemmerer (Lower)",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Snag Tree",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Tensleep",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Gros Ventre (Upper)",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Sleeping Indian",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "St. John's",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Symmetry",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Ranger",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Buck Run",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-25",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 13,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "4 trails freshly groomed"
+    ],
+    "trends": [],
+    "recommendations": [
+      "Fresh corduroy on Kemmerer (Lower) - perfect for intermediate skiers",
+      "Fresh corduroy on Snag Tree - challenging for advanced skiers",
+      "Fresh corduroy on Tensleep - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Overnight Refresh",
+    "body": "The mountain got a nice 1\" touch-up. Expect improved conditions.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 2,
+      "headlineSelection": {
+        "condition": "fresh_coat",
+        "variationIndex": 2,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "{snow24h}\" Freshened Things Up"
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

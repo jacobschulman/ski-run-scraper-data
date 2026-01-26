@@ -1,0 +1,80 @@
+{
+  "resort": "crestedbutte",
+  "resortName": "Crested Butte",
+  "date": "2026-01-10",
+  "generated": "2026-01-10T14:24:11.676Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 85,
+          "yesterday": 0,
+          "delta": 85
+        },
+        "groomedTrails": {
+          "today": 22,
+          "yesterday": 0,
+          "delta": 22
+        },
+        "totalTrails": 168
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-09",
+        "avgWaitTime": 2,
+        "maxWaitTime": 10,
+        "totalLiftsTracked": 15,
+        "busiest": [
+          {
+            "name": "Red Lady Express",
+            "avgWait": 2.7,
+            "peakWait": 6,
+            "type": "Quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "East River Express",
+            "avgWait": 2.6,
+            "peakWait": 10,
+            "type": "Quad",
+            "mountain": "Back Side"
+          },
+          {
+            "name": "Paradise Express",
+            "avgWait": 1.6,
+            "peakWait": 3,
+            "type": "Quad",
+            "mountain": "Back Side"
+          },
+          {
+            "name": "Silver Queen Express",
+            "avgWait": 1.3,
+            "peakWait": 3,
+            "type": "Quad",
+            "mountain": "Front Side"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [],
+    "trends": [
+      "85 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

@@ -1,0 +1,229 @@
+{
+  "resort": "sugarbush",
+  "resortName": "Sugarbush",
+  "date": "2025-12-26",
+  "generated": "2025-12-27T04:29:24.716Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 2,
+      "24hour_cm": 5,
+      "48hour_inches": 3,
+      "48hour_cm": 8,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 80,
+      "season_total_cm": 203,
+      "conditions": {
+        "today": "Machine Groomed Packed Powder",
+        "yesterday": "Machine Groomed Packed Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 106,
+          "yesterday": 102,
+          "delta": 4
+        },
+        "groomedTrails": {
+          "today": 39,
+          "yesterday": 36,
+          "delta": 3
+        },
+        "totalTrails": 142
+      },
+      "newlyOpened": [
+        {
+          "name": "Header",
+          "difficulty": "Intermediate",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "Lower Snowball",
+          "difficulty": "Intermediate",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "Spring Road",
+          "difficulty": "Intermediate",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "Castlerock Connection",
+          "difficulty": "Intermediate",
+          "area": "North Lynx Peak"
+        },
+        {
+          "name": "Sugarbear Forest",
+          "difficulty": "Easy",
+          "area": "North Lynx Peak"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Cat's Meow",
+          "difficulty": "Intermediate",
+          "area": "Gadd Peak"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Murphy's Glades",
+          "difficulty": "Intermediate",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "Sugarbear Forest",
+          "difficulty": "Easy",
+          "area": "North Lynx Peak"
+        },
+        {
+          "name": "Way Back",
+          "difficulty": "Intermediate",
+          "area": "Mt. Ellen"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Lower Snowball",
+          "difficulty": "Intermediate",
+          "area": "Gadd Peak"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-25",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 16,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-26",
+        "high_f": null,
+        "low_f": 9,
+        "high_c": null,
+        "low_c": -13,
+        "description": "Windy",
+        "snowfall_day_inches": 2,
+        "snowfall_night_inches": 1
+      },
+      "outlook": [
+        {
+          "date": "2025-12-27",
+          "high_f": 15,
+          "low_f": 15,
+          "high_c": -9,
+          "low_c": -9,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-28",
+          "high_f": 34,
+          "low_f": 32,
+          "high_c": 1,
+          "low_c": 0,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-29",
+          "high_f": 38,
+          "low_f": 7,
+          "high_c": 4,
+          "low_c": -14,
+          "description": "Rain Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 1
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-27",
+        "high_f": 15,
+        "low_f": 15,
+        "high_c": -9,
+        "low_c": -9,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "5 new trails opened today",
+      "3 trails freshly groomed"
+    ],
+    "trends": [
+      "4 more trails open than yesterday",
+      "1\" snow expected Monday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Murphy's Glades - all skill levels",
+      "Fresh corduroy on Sugarbear Forest - all skill levels",
+      "Fresh corduroy on Way Back - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "New Runs Now Open",
+    "body": "2\" of fresh snow settled in overnight. Not a powder day, but definitely an upgrade. Rope drop! 5 trails opened overnight, expanding your playground significantly. Light snow possible in the forecast.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_flurries",
+          "category": "weather",
+          "priority": 30,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 1,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "{newTrailsCount} New {NewTrailWord} Today"
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
+  "errors": []
+}

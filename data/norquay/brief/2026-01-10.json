@@ -1,0 +1,95 @@
+{
+  "resort": "norquay",
+  "resortName": "Mt Norquay",
+  "date": "2026-01-10",
+  "generated": "2026-01-11T06:31:20.971Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 2.8,
+      "7day_cm": 7,
+      "season_total_inches": 73.6,
+      "season_total_cm": 187,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 53,
+          "yesterday": 0,
+          "delta": 53
+        },
+        "groomedTrails": {
+          "today": 18,
+          "yesterday": 0,
+          "delta": 18
+        },
+        "totalTrails": 64
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [],
+    "trends": [
+      "53 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Major Terrain Drop",
+    "body": "53 of 64 trails are open with 18 groomed. Variable conditions with a temperatures TBD. 0 trails just opened. The mountain just got a whole lot bigger.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_massive",
+          "category": "terrain",
+          "priority": 95,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_massive",
+          "category": "terrain",
+          "priority": 95,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "terrain_massive",
+        "variationIndex": 3,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Patrol Went Big Today"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

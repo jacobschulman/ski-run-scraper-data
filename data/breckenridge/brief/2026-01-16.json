@@ -1,0 +1,100 @@
+{
+  "resort": "breckenridge",
+  "resortName": "Breckenridge",
+  "date": "2026-01-16",
+  "generated": "2026-01-16T12:39:03.277Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 65,
+          "yesterday": 64,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 33,
+          "yesterday": 35,
+          "delta": -2
+        },
+        "totalTrails": 193
+      },
+      "newlyOpened": [
+        {
+          "name": "Powerline",
+          "difficulty": "Green",
+          "area": "Peak 8"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Duke's Run",
+          "difficulty": "Black",
+          "area": "Peak 8"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Boreas",
+          "difficulty": "Black",
+          "area": "Peak 8"
+        },
+        {
+          "name": "High Anxiety",
+          "difficulty": "Black",
+          "area": "Peak 8"
+        },
+        {
+          "name": "Little Johnny",
+          "difficulty": "Black",
+          "area": "Peak 8"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-15",
+        "avgWaitTime": 8,
+        "maxWaitTime": 14,
+        "totalLiftsTracked": 35,
+        "busiest": [
+          {
+            "name": "Colorado SuperChair",
+            "avgWait": 14,
+            "peakWait": 14,
+            "type": "Six Pack",
+            "mountain": "Peak 8"
+          },
+          {
+            "name": "Mercury SuperChair",
+            "avgWait": 2,
+            "peakWait": 2,
+            "type": "Quad",
+            "mountain": "Peak 9"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today",
+      "1 trail freshly groomed"
+    ],
+    "trends": [
+      "1 more trail open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Duke's Run - challenging for advanced skiers",
+      "Colorado SuperChair had longest waits (14 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

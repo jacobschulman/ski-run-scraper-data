@@ -1,0 +1,116 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2026-01-05",
+  "generated": "2026-01-05T10:25:21.430Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 52,
+          "yesterday": 49,
+          "delta": 3
+        },
+        "groomedTrails": {
+          "today": 42,
+          "yesterday": 38,
+          "delta": 4
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Inferno",
+          "difficulty": "TerrainPark",
+          "area": "Carinthia"
+        },
+        {
+          "name": "Charlie's Chase",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Roller Coaster",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "South Bowl",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Skyline",
+          "difficulty": "Blue",
+          "area": "North Face"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-04",
+        "avgWaitTime": 3,
+        "maxWaitTime": 10,
+        "totalLiftsTracked": 18,
+        "busiest": [
+          {
+            "name": "Bluebird Express",
+            "avgWait": 4.8,
+            "peakWait": 10,
+            "type": "Six Pack",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Nitro Express",
+            "avgWait": 3,
+            "peakWait": 6,
+            "type": "Quad",
+            "mountain": "Carinthia"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 2.8,
+            "peakWait": 8,
+            "type": "Quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Grand Summit Express",
+            "avgWait": 1.9,
+            "peakWait": 4,
+            "type": "Quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Challenger",
+            "avgWait": 1.8,
+            "peakWait": 10,
+            "type": "Triple",
+            "mountain": "North Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "4 new trails opened today"
+    ],
+    "trends": [
+      "3 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

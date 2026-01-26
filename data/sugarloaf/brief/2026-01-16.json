@@ -1,0 +1,230 @@
+{
+  "resort": "sugarloaf",
+  "resortName": "Sugarloaf",
+  "date": "2026-01-16",
+  "generated": "2026-01-17T04:29:49.350Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 86,
+          "yesterday": 92,
+          "delta": -6
+        },
+        "groomedTrails": {
+          "today": 60,
+          "yesterday": 40,
+          "delta": 20
+        },
+        "totalTrails": 176
+      },
+      "newlyOpened": [],
+      "newlyClosed": [
+        {
+          "name": "Lower Narrow Gauge",
+          "difficulty": "Novice",
+          "area": "Double Runner"
+        },
+        {
+          "name": "Middle Narrow Gauge",
+          "difficulty": "Blue",
+          "area": "Double Runner"
+        },
+        {
+          "name": "Cribworks",
+          "difficulty": "Double Black",
+          "area": "Skyline"
+        },
+        {
+          "name": "Upper Narrow Gauge",
+          "difficulty": "Black",
+          "area": "Skyline"
+        },
+        {
+          "name": "West Sluice Chute",
+          "difficulty": "Black",
+          "area": "Skyline"
+        },
+        {
+          "name": "Lower Scoot",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Hayburner",
+          "difficulty": "Black",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Haywire",
+          "difficulty": "Blue",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Upper Competition Hill",
+          "difficulty": "Black",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Spurline",
+          "difficulty": "Blue",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Gondola Line",
+          "difficulty": "Blue",
+          "area": "Skyline"
+        },
+        {
+          "name": "Lower Spillway",
+          "difficulty": "Blue",
+          "area": "Skyline"
+        },
+        {
+          "name": "Midstation X-Cut",
+          "difficulty": "Blue",
+          "area": "Skyline"
+        },
+        {
+          "name": "Sluice Chute",
+          "difficulty": "Black",
+          "area": "Skyline"
+        },
+        {
+          "name": "Sluice Headwall",
+          "difficulty": "Black",
+          "area": "Skyline"
+        },
+        {
+          "name": "Upper Gondola Line",
+          "difficulty": "Double Black",
+          "area": "Skyline"
+        },
+        {
+          "name": "Upper Spillway",
+          "difficulty": "Black",
+          "area": "Skyline"
+        },
+        {
+          "name": "Wedge",
+          "difficulty": "Black",
+          "area": "Skyline"
+        },
+        {
+          "name": "Condo X-Cut",
+          "difficulty": "Novice",
+          "area": "Whiffletree"
+        },
+        {
+          "name": "Cross Haul",
+          "difficulty": "Novice",
+          "area": "Whiffletree"
+        },
+        {
+          "name": "Rollway",
+          "difficulty": "Novice",
+          "area": "Whiffletree"
+        },
+        {
+          "name": "Slasher",
+          "difficulty": "Blue",
+          "area": "Whiffletree"
+        },
+        {
+          "name": "Flume",
+          "difficulty": "Black",
+          "area": "King Pine"
+        },
+        {
+          "name": "Haulback",
+          "difficulty": "Black",
+          "area": "King Pine"
+        },
+        {
+          "name": "Widowmaker",
+          "difficulty": "Black",
+          "area": "King Pine"
+        },
+        {
+          "name": "Good Chance X-Cut",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Lower West Mountain",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Twitcher",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Upper West Mountain",
+          "difficulty": "Blue",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Upper Windrow",
+          "difficulty": "Blue",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Whistle Punk",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "WMXCut",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Lower Whiffletree",
+          "difficulty": "Novice",
+          "area": "Whiffletree"
+        },
+        {
+          "name": "Upper Glancer",
+          "difficulty": "Blue",
+          "area": "West Mountain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-15",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 15,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "26 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 50% from yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Hayburner - challenging for advanced skiers",
+      "Fresh corduroy on Haywire - perfect for intermediate skiers",
+      "Fresh corduroy on Upper Competition Hill - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

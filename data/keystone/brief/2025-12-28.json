@@ -1,0 +1,307 @@
+{
+  "resort": "keystone",
+  "resortName": "Keystone",
+  "date": "2025-12-28",
+  "generated": "2025-12-28T12:35:09.972Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 58,
+      "season_total_cm": 147,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 32,
+          "yesterday": 12,
+          "delta": 20
+        },
+        "groomedTrails": {
+          "today": 27,
+          "yesterday": 12,
+          "delta": 15
+        },
+        "totalTrails": 142
+      },
+      "newlyOpened": [
+        {
+          "name": "Discovery",
+          "difficulty": "Green",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Endeavor",
+          "difficulty": "Green",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Freda's",
+          "difficulty": "Green",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Frenchman",
+          "difficulty": "Blue",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Gassy Thompson",
+          "difficulty": "Blue",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Haywood",
+          "difficulty": "Blue",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Hoodoo",
+          "difficulty": "Blue",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Ida Belle",
+          "difficulty": "Black",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Mozart",
+          "difficulty": "Blue",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Paymaster",
+          "difficulty": "Blue",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Santa Fe",
+          "difficulty": "Blue",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Scout",
+          "difficulty": "Green",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Silvermaster",
+          "difficulty": "Blue",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Ski-Daddle",
+          "difficulty": "Green",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Two Sled Road",
+          "difficulty": "Green",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Upper Frenchman",
+          "difficulty": "Black",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Anticipation",
+          "difficulty": "Blue",
+          "area": "North Peak"
+        },
+        {
+          "name": "Last Alamo",
+          "difficulty": "Blue",
+          "area": "North Peak"
+        },
+        {
+          "name": "Prospector",
+          "difficulty": "Blue",
+          "area": "North Peak"
+        },
+        {
+          "name": "Starfire",
+          "difficulty": "Black",
+          "area": "North Peak"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-27",
+        "avgWaitTime": 3.7,
+        "maxWaitTime": 28,
+        "totalLiftsTracked": 21,
+        "busiest": [
+          {
+            "name": "Peru Express",
+            "avgWait": 4.7,
+            "peakWait": 28,
+            "type": "Six Pack",
+            "mountain": "Dercum Mountain"
+          },
+          {
+            "name": "River Run Gondola",
+            "avgWait": 4.7,
+            "peakWait": 25,
+            "type": "Gondola",
+            "mountain": "Dercum Mountain"
+          },
+          {
+            "name": "Montezuma Express",
+            "avgWait": 4.1,
+            "peakWait": 10,
+            "type": "Six Pack",
+            "mountain": "Dercum Mountain"
+          },
+          {
+            "name": "Santiago Express",
+            "avgWait": 3.4,
+            "peakWait": 6,
+            "type": "Quad",
+            "mountain": "North Peak"
+          },
+          {
+            "name": "Ranger",
+            "avgWait": 3.3,
+            "peakWait": 8,
+            "type": "Triple",
+            "mountain": "Dercum Mountain"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-28",
+        "high_f": 21,
+        "low_f": 3,
+        "high_c": -6,
+        "low_c": -16,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-29T07:00:00Z",
+          "high_f": 27,
+          "low_f": 3,
+          "high_c": -3,
+          "low_c": -17,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-30T07:00:00Z",
+          "high_f": 36,
+          "low_f": 11,
+          "high_c": 2,
+          "low_c": -12,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-31T07:00:00Z",
+          "high_f": 40,
+          "low_f": 17,
+          "high_c": 4,
+          "low_c": -9,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-29T07:00:00Z",
+        "high_f": 27,
+        "low_f": 3,
+        "high_c": -3,
+        "low_c": -17,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "20 new trails opened today"
+    ],
+    "trends": [
+      "Grooming increased 125% from yesterday",
+      "20 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "More Mountain to Explore",
+    "body": "32 trails open, 27 groomed. Windy, high of 21°. The ski patrol has been busy—20 additional trails are now yours to enjoy. Lift lines stayed mellow yesterday, so early laps should feel quick.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_mellow_lines",
+          "category": "lifts",
+          "priority": 50,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 3,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Your Daily Ski Report"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

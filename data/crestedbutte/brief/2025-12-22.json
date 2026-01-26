@@ -1,0 +1,143 @@
+{
+  "resort": "crestedbutte",
+  "resortName": "Crested Butte",
+  "date": "2025-12-22",
+  "generated": "2025-12-22T12:38:00.258Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 40,
+          "yesterday": 36,
+          "delta": 4
+        },
+        "groomedTrails": {
+          "today": 27,
+          "yesterday": 19,
+          "delta": 8
+        },
+        "totalTrails": 168
+      },
+      "newlyOpened": [
+        {
+          "name": "Ruby Road",
+          "difficulty": "Black",
+          "area": "Back Side"
+        },
+        {
+          "name": "Yellow Brick Road",
+          "difficulty": "Green",
+          "area": "Back Side"
+        },
+        {
+          "name": "Beginner Area - Aspen Conveyor",
+          "difficulty": "Green",
+          "area": "Learning Area"
+        },
+        {
+          "name": "Beginner Area - Spruce Conveyor",
+          "difficulty": "Green",
+          "area": "Learning Area"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Yellow Brick Road",
+          "difficulty": "Green",
+          "area": "Back Side"
+        },
+        {
+          "name": "Kubler",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Lower Keystone",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Upper International",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "Warming House Hill",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Beginner Area - Aspen Conveyor",
+          "difficulty": "Green",
+          "area": "Learning Area"
+        },
+        {
+          "name": "Beginner Area - Pine Conveyor",
+          "difficulty": "Green",
+          "area": "Learning Area"
+        },
+        {
+          "name": "Beginner Area - Spruce Conveyor",
+          "difficulty": "Green",
+          "area": "Learning Area"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-21",
+        "avgWaitTime": 3.3,
+        "maxWaitTime": 11,
+        "totalLiftsTracked": 15,
+        "busiest": [
+          {
+            "name": "Red Lady Express",
+            "avgWait": 5.5,
+            "peakWait": 11,
+            "type": "quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "Silver Queen Express",
+            "avgWait": 2.4,
+            "peakWait": 8,
+            "type": "quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "Paradise Express",
+            "avgWait": 1.7,
+            "peakWait": 4,
+            "type": "quad",
+            "mountain": "Back Side"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "4 new trails opened today",
+      "8 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 42% from yesterday",
+      "4 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Yellow Brick Road - great for beginners",
+      "Fresh corduroy on Kubler - great for beginners",
+      "Fresh corduroy on Lower Keystone - great for beginners"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

@@ -1,0 +1,173 @@
+{
+  "resort": "snowcreek",
+  "resortName": "Snow Creek",
+  "trailCount": 15,
+  "trails": [
+    {
+      "name": "Flatlands",
+      "slug": "flatlands",
+      "area": "Snow Creek",
+      "difficulty": "Green",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 100,
+      "currentStreak": 16,
+      "longestStreak": 16
+    },
+    {
+      "name": "Grenier's Gamble",
+      "slug": "greniers-gamble",
+      "area": "Snow Creek",
+      "difficulty": "Blue",
+      "isGroomedToday": false,
+      "isOpen": false,
+      "groomingPercentage": 22,
+      "currentStreak": 0,
+      "longestStreak": 6
+    },
+    {
+      "name": "Gunslinger Progression Park",
+      "slug": "gunslinger-progression-park",
+      "area": "Snow Creek",
+      "difficulty": "Blue",
+      "isGroomedToday": false,
+      "isOpen": true,
+      "groomingPercentage": 19,
+      "currentStreak": 0,
+      "longestStreak": 5
+    },
+    {
+      "name": "Holiday Bowl",
+      "slug": "holiday-bowl",
+      "area": "Snow Creek",
+      "difficulty": "Blue",
+      "isGroomedToday": false,
+      "isOpen": true,
+      "groomingPercentage": 22,
+      "currentStreak": 0,
+      "longestStreak": 6
+    },
+    {
+      "name": "Jasons Run",
+      "slug": "jasons-run",
+      "area": "Snow Creek",
+      "difficulty": "Blue",
+      "isGroomedToday": false,
+      "isOpen": true,
+      "groomingPercentage": 22,
+      "currentStreak": 0,
+      "longestStreak": 6
+    },
+    {
+      "name": "Jayme's Way",
+      "slug": "jaymes-way",
+      "area": "Snow Creek",
+      "difficulty": "Blue",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 100,
+      "currentStreak": 16,
+      "longestStreak": 16
+    },
+    {
+      "name": "Lower Six Shooter",
+      "slug": "lower-six-shooter",
+      "area": "Snow Creek",
+      "difficulty": "Blue",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 100,
+      "currentStreak": 16,
+      "longestStreak": 16
+    },
+    {
+      "name": "Oregon Trail",
+      "slug": "oregon-trail",
+      "area": "Snow Creek",
+      "difficulty": "Green",
+      "isGroomedToday": false,
+      "isOpen": false,
+      "groomingPercentage": 22,
+      "currentStreak": 0,
+      "longestStreak": 6
+    },
+    {
+      "name": "Rainbow Ridge",
+      "slug": "rainbow-ridge",
+      "area": "Snow Creek",
+      "difficulty": "Green",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 100,
+      "currentStreak": 16,
+      "longestStreak": 16
+    },
+    {
+      "name": "Rattlesnake",
+      "slug": "rattlesnake",
+      "area": "Snow Creek",
+      "difficulty": "Blue",
+      "isGroomedToday": true,
+      "isOpen": false,
+      "groomingPercentage": 100,
+      "currentStreak": 1,
+      "longestStreak": 1
+    },
+    {
+      "name": "Rattlesnake Terrain Park",
+      "slug": "rattlesnake-terrain-park",
+      "area": "Snow Creek",
+      "difficulty": "TerrainPark",
+      "isGroomedToday": false,
+      "isOpen": false,
+      "groomingPercentage": 19,
+      "currentStreak": 0,
+      "longestStreak": 5
+    },
+    {
+      "name": "Santa Fe Trail",
+      "slug": "santa-fe-trail",
+      "area": "Snow Creek",
+      "difficulty": "Blue",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 100,
+      "currentStreak": 16,
+      "longestStreak": 16
+    },
+    {
+      "name": "Six Shooter",
+      "slug": "six-shooter",
+      "area": "Snow Creek",
+      "difficulty": "Black",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 100,
+      "currentStreak": 16,
+      "longestStreak": 16
+    },
+    {
+      "name": "Wagon Wheel",
+      "slug": "wagon-wheel",
+      "area": "Snow Creek",
+      "difficulty": "Blue",
+      "isGroomedToday": false,
+      "isOpen": true,
+      "groomingPercentage": 22,
+      "currentStreak": 0,
+      "longestStreak": 6
+    },
+    {
+      "name": "Wild Turkey",
+      "slug": "wild-turkey",
+      "area": "Snow Creek",
+      "difficulty": "Blue",
+      "isGroomedToday": false,
+      "isOpen": true,
+      "groomingPercentage": 22,
+      "currentStreak": 0,
+      "longestStreak": 6
+    }
+  ],
+  "lastUpdated": "2026-01-26T19:30:29.394Z"
+}

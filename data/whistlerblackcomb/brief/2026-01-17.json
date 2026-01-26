@@ -1,0 +1,259 @@
+{
+  "resort": "whistlerblackcomb",
+  "resortName": "Whistler Blackcomb",
+  "date": "2026-01-17",
+  "generated": "2026-01-17T13:28:06.476Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 23,
+      "7day_cm": 60,
+      "season_total_inches": 189,
+      "season_total_cm": 482,
+      "conditions": {
+        "today": "Spring",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 254,
+          "yesterday": 265,
+          "delta": -11
+        },
+        "groomedTrails": {
+          "today": 131,
+          "yesterday": 133,
+          "delta": -2
+        },
+        "totalTrails": 305
+      },
+      "newlyOpened": [],
+      "newlyClosed": [
+        {
+          "name": "Sunnyside Up",
+          "difficulty": "Green",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Blackcomb Race Centre",
+          "difficulty": "Blue",
+          "area": "Jersey Cream"
+        },
+        {
+          "name": "Doom",
+          "difficulty": "Black",
+          "area": "Peak / T-bar"
+        },
+        {
+          "name": "Gloom",
+          "difficulty": "Black",
+          "area": "Peak / T-bar"
+        },
+        {
+          "name": "Grand Finale",
+          "difficulty": "Black",
+          "area": "Peak / T-bar"
+        },
+        {
+          "name": "Shale Slope",
+          "difficulty": "Black",
+          "area": "Peak / T-bar"
+        },
+        {
+          "name": "The Cirque",
+          "difficulty": "DoubleBlack",
+          "area": "Peak / T-bar"
+        },
+        {
+          "name": "The Couloir",
+          "difficulty": "DoubleBlack",
+          "area": "Peak / T-bar"
+        },
+        {
+          "name": "West Cirque",
+          "difficulty": "DoubleBlack",
+          "area": "Peak / T-bar"
+        },
+        {
+          "name": "West Ridge",
+          "difficulty": "Black",
+          "area": "Peak / T-bar"
+        },
+        {
+          "name": "Whistler Bowl",
+          "difficulty": "Black",
+          "area": "Peak / T-bar"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-16",
+        "avgWaitTime": 3.4,
+        "maxWaitTime": 25,
+        "totalLiftsTracked": 36,
+        "busiest": [
+          {
+            "name": "7th Heaven Express",
+            "avgWait": 9.9,
+            "peakWait": 15,
+            "type": "Quad",
+            "mountain": "Blackcomb Lifts"
+          },
+          {
+            "name": "Whistler Village Gondola  - Lower",
+            "avgWait": 6.7,
+            "peakWait": 25,
+            "type": "Gondola",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Whistler Village Gondola - Upper",
+            "avgWait": 6.7,
+            "peakWait": 14,
+            "type": "Gondola",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Symphony Express",
+            "avgWait": 5.1,
+            "peakWait": 11,
+            "type": "Quad",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Harmony 6 Express",
+            "avgWait": 3.8,
+            "peakWait": 17,
+            "type": "Six Pack",
+            "mountain": "Whistler Lifts"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-17",
+        "high_f": 50,
+        "low_f": 32,
+        "high_c": 10,
+        "low_c": null,
+        "description": "Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-18T02:10:51-07:00",
+          "high_f": 46,
+          "low_f": 42,
+          "high_c": 8,
+          "low_c": 6,
+          "description": "Sunny with cloudy periods.",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-19T02:10:51-07:00",
+          "high_f": 48,
+          "low_f": 46,
+          "high_c": 9,
+          "low_c": 8,
+          "description": "A mix of sun and cloud.",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-20T02:10:51-07:00",
+          "high_f": 44,
+          "low_f": 35,
+          "high_c": 7,
+          "low_c": 2,
+          "description": "Cloudy with sunny periods.",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-18T02:10:51-07:00",
+        "high_f": 46,
+        "low_f": 42,
+        "high_c": 8,
+        "low_c": 6,
+        "description": "Sunny with cloudy periods.",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [],
+    "trends": [
+      "Great week for snow - 23\" in last 7 days"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Soft Snow Holding Strong",
+    "body": "The 23\" from this week is still skiing great. No new snow needed (yet). Heads up: 7th Heaven Express peaked at 25 minutes yesterday. Consider alternatives. Above average temps (50°) will soften things up. Hit it early.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_holding_strong",
+          "category": "snow",
+          "priority": 60,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_holding_strong",
+          "category": "snow",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_busy",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "temp_unseasonably_warm",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "holding_strong",
+        "variationIndex": 0,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Mother Nature Can't Decide"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

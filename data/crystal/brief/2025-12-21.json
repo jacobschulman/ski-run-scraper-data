@@ -1,0 +1,197 @@
+{
+  "resort": "crystal",
+  "resortName": "Crystal Mountain",
+  "date": "2025-12-21",
+  "generated": "2025-12-22T07:21:17.224Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 1,
+      "overnight_cm": 3,
+      "24hour_inches": 3,
+      "24hour_cm": 8,
+      "48hour_inches": 4,
+      "48hour_cm": 10,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 80,
+      "season_total_cm": 203,
+      "conditions": {
+        "today": "Obstacles Exist",
+        "yesterday": "Obstacles Exist"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 17,
+          "yesterday": 12,
+          "delta": 5
+        },
+        "groomedTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Gandy's Run",
+          "difficulty": "Intermediate",
+          "area": "Frontside"
+        },
+        {
+          "name": "Little Portillo",
+          "difficulty": "Difficult",
+          "area": "Frontside"
+        },
+        {
+          "name": "Little Shot",
+          "difficulty": "Intermediate",
+          "area": "Frontside"
+        },
+        {
+          "name": "Lucky Shot",
+          "difficulty": "Intermediate",
+          "area": "Frontside"
+        },
+        {
+          "name": "Mel's Left",
+          "difficulty": "Intermediate",
+          "area": "Frontside"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-20",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 11,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-21",
+        "high_f": null,
+        "low_f": 21,
+        "high_c": null,
+        "low_c": -6,
+        "description": "Snow",
+        "snowfall_day_inches": 6,
+        "snowfall_night_inches": 4
+      },
+      "outlook": [
+        {
+          "date": "2025-12-22",
+          "high_f": 25,
+          "low_f": 21,
+          "high_c": -4,
+          "low_c": -6,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 3,
+          "snowfall_expected": 4
+        },
+        {
+          "date": "2025-12-23",
+          "high_f": 26,
+          "low_f": 26,
+          "high_c": -3,
+          "low_c": -3,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 2,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2025-12-24",
+          "high_f": 32,
+          "low_f": 25,
+          "high_c": 0,
+          "low_c": -4,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-22",
+        "high_f": 25,
+        "low_f": 21,
+        "high_c": -4,
+        "low_c": -6,
+        "description": "Snow Wind",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 3,
+        "snowfall_expected": 4
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1\" new snow overnight",
+      "5 new trails opened today"
+    ],
+    "trends": [
+      "5 more trails open than yesterday",
+      "4\" snow expected Monday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Winter's Coming Back",
+    "body": "3\" of fresh snow settled in overnight. Not a powder day, but definitely an upgrade. Rope drop! 5 trails opened overnight, expanding your playground significantly. A significant storm is brewing with 8\" expected over the next few days. Plan accordingly.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_storm_major",
+          "category": "weather",
+          "priority": 88,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_storm_major",
+          "category": "weather",
+          "priority": 88,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "storm_major",
+        "variationIndex": 2,
+        "totalVariations": 8,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Storm Cycle Building"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

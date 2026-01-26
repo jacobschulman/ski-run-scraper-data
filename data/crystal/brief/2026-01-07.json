@@ -1,0 +1,208 @@
+{
+  "resort": "crystal",
+  "resortName": "Crystal Mountain",
+  "date": "2026-01-07",
+  "generated": "2026-01-08T07:21:43.675Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 10,
+      "overnight_cm": 25,
+      "24hour_inches": 20,
+      "24hour_cm": 51,
+      "48hour_inches": 20,
+      "48hour_cm": 51,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 132,
+      "season_total_cm": 335,
+      "conditions": {
+        "today": "Powder",
+        "yesterday": "Variable Conditions"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 53,
+          "yesterday": 46,
+          "delta": 7
+        },
+        "groomedTrails": {
+          "today": 22,
+          "yesterday": 22,
+          "delta": 0
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Boondoggle",
+          "difficulty": "Difficult",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Deer Fly",
+          "difficulty": "Difficult",
+          "area": "Frontside"
+        },
+        {
+          "name": "Lower Ferk's",
+          "difficulty": "Difficult",
+          "area": "Frontside"
+        },
+        {
+          "name": "A-Basin",
+          "difficulty": "Very Difficult",
+          "area": "South"
+        },
+        {
+          "name": "Silver Basin",
+          "difficulty": "Very Difficult",
+          "area": "South"
+        },
+        {
+          "name": "Silver King",
+          "difficulty": "Very Difficult",
+          "area": "South"
+        },
+        {
+          "name": "Three Way Peak",
+          "difficulty": "Very Difficult",
+          "area": "South"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-06",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 11,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-07",
+        "high_f": 22,
+        "low_f": 17,
+        "high_c": -6,
+        "low_c": -8,
+        "description": "Snow",
+        "snowfall_day_inches": 3,
+        "snowfall_night_inches": 3
+      },
+      "outlook": [
+        {
+          "date": "2026-01-08",
+          "high_f": 23,
+          "low_f": 23,
+          "high_c": -5,
+          "low_c": -5,
+          "description": "Windy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2026-01-09",
+          "high_f": 34,
+          "low_f": 34,
+          "high_c": 1,
+          "low_c": 1,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-10",
+          "high_f": 39,
+          "low_f": 33,
+          "high_c": 4,
+          "low_c": 0,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-08",
+        "high_f": 23,
+        "low_f": 23,
+        "high_c": -5,
+        "low_c": -5,
+        "description": "Windy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 1
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "10\" fresh snow overnight",
+      "20\" in last 24 hours - powder day!",
+      "7 new trails opened today"
+    ],
+    "trends": [
+      "7 more trails open than yesterday",
+      "1\" snow expected Thursday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "The Storm Delivered Big",
+    "body": "EPIC: 20\" of fresh powder. Career day potential. First chair or regret it. Terrain expanding: 7 new trails opening up more options. Light snow possible in the forecast.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_epic",
+          "category": "snow",
+          "priority": 98,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_epic",
+          "category": "snow",
+          "priority": 98,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_flurries",
+          "category": "weather",
+          "priority": 30,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "snow_epic",
+        "variationIndex": 5,
+        "totalVariations": 9,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Face Shots Guaranteed"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

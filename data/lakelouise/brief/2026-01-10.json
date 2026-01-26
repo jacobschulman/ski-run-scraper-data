@@ -1,0 +1,148 @@
+{
+  "resort": "lakelouise",
+  "resortName": "Lake Louise",
+  "date": "2026-01-10",
+  "generated": "2026-01-11T06:31:13.684Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0.4,
+      "24hour_cm": 1,
+      "48hour_inches": 2.4,
+      "48hour_cm": 6,
+      "7day_inches": 18.1,
+      "7day_cm": 46,
+      "season_total_inches": 216.1,
+      "season_total_cm": 549,
+      "conditions": {
+        "today": "Changeable",
+        "yesterday": "Snowing"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 166,
+          "yesterday": 166,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 34,
+          "yesterday": 33,
+          "delta": 1
+        },
+        "totalTrails": 169
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Buffaloberry",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        },
+        {
+          "name": "Charlie's Choice",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        },
+        {
+          "name": "Jerry's Jungle",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Wolverine",
+          "difficulty": "Blue",
+          "area": "Larch"
+        },
+        {
+          "name": "Larch Poma",
+          "difficulty": "Blue",
+          "area": "Larch"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Men's Downhill",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "Grizzly Gully",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        },
+        {
+          "name": "Meadowlark",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "30 Goats",
+          "difficulty": "Blue",
+          "area": "Larch"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "5 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 18.1\" in last 7 days"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Buffaloberry - perfect for intermediate skiers",
+      "Fresh corduroy on Charlie's Choice - perfect for intermediate skiers",
+      "Fresh corduroy on Jerry's Jungle - great for beginners"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Nearly Everything Open",
+    "body": "166 trails open, 34 groomed. Variable conditions, temperatures TBD. 5 runs freshly groomed, mostly in Front Side and Larch.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "percent_full",
+          "category": "terrain",
+          "priority": 45,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "grooming_moderate",
+          "category": "terrain",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "percent_full",
+        "variationIndex": 1,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "The Whole Mountain Awaits"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

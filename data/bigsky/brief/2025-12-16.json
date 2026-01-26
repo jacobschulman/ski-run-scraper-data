@@ -1,0 +1,219 @@
+{
+  "resort": "bigsky",
+  "resortName": "Big Sky",
+  "date": "2025-12-16",
+  "generated": "2025-12-17T06:27:04.082Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 50,
+          "yesterday": 43,
+          "delta": 7
+        },
+        "groomedTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "totalTrails": 319
+      },
+      "newlyOpened": [
+        {
+          "name": "Challenger Lift Line",
+          "difficulty": "Black",
+          "area": "Challenger Area"
+        },
+        {
+          "name": "Country Club",
+          "difficulty": "Black",
+          "area": "Challenger Area"
+        },
+        {
+          "name": "Alder Gulch",
+          "difficulty": "Double Black",
+          "area": "Headwaters Area"
+        },
+        {
+          "name": "Headwaters Bowl",
+          "difficulty": "Double Black",
+          "area": "Headwaters Area"
+        },
+        {
+          "name": "Liberty Bowl",
+          "difficulty": "Black",
+          "area": "Lone Peak Area"
+        },
+        {
+          "name": "Black Rock Gully",
+          "difficulty": "Black",
+          "area": "Powder Seeker Area"
+        },
+        {
+          "name": "South Wall",
+          "difficulty": "Black",
+          "area": "Powder Seeker Area"
+        },
+        {
+          "name": "Steep and Deep",
+          "difficulty": "Black",
+          "area": "Powder Seeker Area"
+        },
+        {
+          "name": "Exit Chute",
+          "difficulty": "Double Black",
+          "area": "Powder Seeker Area"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Chet's Knob",
+          "difficulty": "Blue",
+          "area": "Explorer Area"
+        },
+        {
+          "name": "Ambush",
+          "difficulty": "advanced intermediate",
+          "area": "Ramcharger Area"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-16",
+        "high_f": null,
+        "low_f": 28,
+        "high_c": null,
+        "low_c": -2,
+        "description": "Windy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-17",
+          "high_f": 30,
+          "low_f": 11,
+          "high_c": -1,
+          "low_c": -12,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2025-12-18",
+          "high_f": 22,
+          "low_f": 22,
+          "high_c": -5,
+          "low_c": -6,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2025-12-19",
+          "high_f": 30,
+          "low_f": 13,
+          "high_c": -1,
+          "low_c": -11,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 4,
+          "snowfall_expected": 4
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-17",
+        "high_f": 30,
+        "low_f": 11,
+        "high_c": -1,
+        "low_c": -12,
+        "description": "Snow Wind",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 1
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "9 new trails opened today"
+    ],
+    "trends": [
+      "7 more trails open than yesterday",
+      "1\" snow expected Wednesday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Big Snow Incoming",
+    "body": "50 trails open, 0 groomed. Windy, high of null°. The ski patrol has been busy—9 additional trails are now yours to enjoy. Storm cycle alert! 6\" on the way. The mountain is about to get a serious refresh.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_storm_major",
+          "category": "weather",
+          "priority": 88,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_storm_major",
+          "category": "weather",
+          "priority": 88,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "storm_major",
+        "variationIndex": 1,
+        "totalVariations": 8,
+        "usedWeekendVariation": false,
+        "previousHeadline": "The Map Just Got Bigger"
+      },
+      "dayOfWeek": "Tuesday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,319 @@
+{
+  "resort": "kirkwood",
+  "resortName": "Kirkwood",
+  "date": "2025-12-27",
+  "generated": "2025-12-27T13:28:21.630Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 20,
+      "24hour_cm": 50,
+      "48hour_inches": 41,
+      "48hour_cm": 104,
+      "7day_inches": 65,
+      "7day_cm": 165,
+      "season_total_inches": 109,
+      "season_total_cm": 276,
+      "conditions": {
+        "today": "Powder",
+        "yesterday": "Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 25,
+          "yesterday": 0,
+          "delta": 25
+        },
+        "groomedTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "totalTrails": 110
+      },
+      "newlyOpened": [
+        {
+          "name": "Sentinel Bowl",
+          "difficulty": "Black",
+          "area": "Bowls"
+        },
+        {
+          "name": "Home Run to Timber Creek",
+          "difficulty": "Blue",
+          "area": "Frontside"
+        },
+        {
+          "name": "Look Out Janek",
+          "difficulty": "Black",
+          "area": "Frontside"
+        },
+        {
+          "name": "Lost Cabin",
+          "difficulty": "Black",
+          "area": "Frontside"
+        },
+        {
+          "name": "Lower Monte Wolfe",
+          "difficulty": "Blue",
+          "area": "Frontside"
+        },
+        {
+          "name": "Lower Olympic",
+          "difficulty": "Black",
+          "area": "Frontside"
+        },
+        {
+          "name": "Lower Zachary",
+          "difficulty": "Blue",
+          "area": "Frontside"
+        },
+        {
+          "name": "Mokelumne",
+          "difficulty": "Blue",
+          "area": "Frontside"
+        },
+        {
+          "name": "Monte Wolfe",
+          "difficulty": "Black",
+          "area": "Frontside"
+        },
+        {
+          "name": "Olympic",
+          "difficulty": "Black",
+          "area": "Frontside"
+        },
+        {
+          "name": "Race Course",
+          "difficulty": "Blue",
+          "area": "Frontside"
+        },
+        {
+          "name": "Zachary",
+          "difficulty": "Black",
+          "area": "Frontside"
+        },
+        {
+          "name": "Ditch of Doom",
+          "difficulty": "Blue",
+          "area": "Timber Creek"
+        },
+        {
+          "name": "Free 'N' Easy",
+          "difficulty": "Blue",
+          "area": "Timber Creek"
+        },
+        {
+          "name": "Funny Bunny",
+          "difficulty": "Green",
+          "area": "Timber Creek"
+        },
+        {
+          "name": "Gold Rush",
+          "difficulty": "Green",
+          "area": "Timber Creek"
+        },
+        {
+          "name": "Graduation",
+          "difficulty": "Green",
+          "area": "Timber Creek"
+        },
+        {
+          "name": "Hide N' Seek",
+          "difficulty": "Green",
+          "area": "Timber Creek"
+        },
+        {
+          "name": "Hole N' Wall",
+          "difficulty": "Blue",
+          "area": "Timber Creek"
+        },
+        {
+          "name": "Jambi's Jaunt",
+          "difficulty": "Blue",
+          "area": "Timber Creek"
+        },
+        {
+          "name": "Jane's Juant",
+          "difficulty": "Blue",
+          "area": "Timber Creek"
+        },
+        {
+          "name": "School Run",
+          "difficulty": "Green",
+          "area": "Timber Creek"
+        },
+        {
+          "name": "Squirrel Ridge",
+          "difficulty": "Green",
+          "area": "Timber Creek"
+        },
+        {
+          "name": "Trench of Terror",
+          "difficulty": "Blue",
+          "area": "Timber Creek"
+        },
+        {
+          "name": "Up N' Over",
+          "difficulty": "Blue",
+          "area": "Timber Creek"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-26",
+        "avgWaitTime": 4.2,
+        "maxWaitTime": 40,
+        "totalLiftsTracked": 14,
+        "busiest": [
+          {
+            "name": "#6 Cornice Express",
+            "avgWait": 7.5,
+            "peakWait": 40,
+            "type": "Quad",
+            "mountain": "Frontside"
+          },
+          {
+            "name": "#7 TC Express",
+            "avgWait": 5.3,
+            "peakWait": 15,
+            "type": "Quad",
+            "mountain": "Timber Creek"
+          },
+          {
+            "name": "#9 Bunny",
+            "avgWait": 1.7,
+            "peakWait": 4,
+            "type": "Triple",
+            "mountain": "Timber Creek"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-27",
+        "high_f": 27,
+        "low_f": 16,
+        "high_c": -3,
+        "low_c": -9,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-28T08:00:00Z",
+          "high_f": 31,
+          "low_f": 20,
+          "high_c": -1,
+          "low_c": -7,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-29T08:00:00Z",
+          "high_f": 40,
+          "low_f": 26,
+          "high_c": 4,
+          "low_c": -3,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-30T08:00:00Z",
+          "high_f": 45,
+          "low_f": 33,
+          "high_c": 7,
+          "low_c": null,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-28T08:00:00Z",
+        "high_f": 31,
+        "low_f": 20,
+        "high_c": -1,
+        "low_c": -7,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "20\" in last 24 hours - powder day!",
+      "25 new trails opened today"
+    ],
+    "trends": [
+      "Great week for snow - 65\" in last 7 days",
+      "25 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Sunday Sent It",
+    "body": "The mountain is absolutely buried with 20\" of fresh. This is not a drill. 25 more trails are in play today. The groomers are getting stretched thin (in a good way). Watch for crowds at #6 Cornice Express, which peaked around 40 minutes yesterday.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_watch_crowds",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 2,
+        "totalVariations": 12,
+        "usedWeekendVariation": true,
+        "previousHeadline": "The Mountain Got Buried"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,125 @@
+{
+  "resort": "crestedbutte",
+  "resortName": "Crested Butte",
+  "date": "2026-01-05",
+  "generated": "2026-01-05T12:40:45.298Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 65,
+          "yesterday": 63,
+          "delta": 2
+        },
+        "groomedTrails": {
+          "today": 33,
+          "yesterday": 32,
+          "delta": 1
+        },
+        "totalTrails": 168
+      },
+      "newlyOpened": [
+        {
+          "name": "Mach 1",
+          "difficulty": "Black",
+          "area": "Back Side"
+        },
+        {
+          "name": "Gunsight Pass",
+          "difficulty": "Green",
+          "area": "Ten Peaks"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Conundrum",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Upper Treasury",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "T-Bar Road",
+          "difficulty": "Green",
+          "area": "Front Side"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Poverty Gulch",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "High Tide",
+          "difficulty": "Green",
+          "area": "Learning Area"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-04",
+        "avgWaitTime": 3,
+        "maxWaitTime": 10,
+        "totalLiftsTracked": 15,
+        "busiest": [
+          {
+            "name": "Red Lady Express",
+            "avgWait": 5.7,
+            "peakWait": 10,
+            "type": "Quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "Paradise Express",
+            "avgWait": 2.3,
+            "peakWait": 5,
+            "type": "Quad",
+            "mountain": "Back Side"
+          },
+          {
+            "name": "East River Express",
+            "avgWait": 2,
+            "peakWait": 6,
+            "type": "Quad",
+            "mountain": "Back Side"
+          },
+          {
+            "name": "Silver Queen Express",
+            "avgWait": 1.9,
+            "peakWait": 4,
+            "type": "Quad",
+            "mountain": "Front Side"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2 new trails opened today",
+      "3 trails freshly groomed"
+    ],
+    "trends": [
+      "2 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Conundrum - perfect for intermediate skiers",
+      "Fresh corduroy on Upper Treasury - perfect for intermediate skiers",
+      "Fresh corduroy on T-Bar Road - great for beginners"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

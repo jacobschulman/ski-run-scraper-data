@@ -1,0 +1,57 @@
+{
+  "resort": "liberty",
+  "resortName": "Liberty Mountain",
+  "date": "2026-01-16",
+  "generated": "2026-01-16T10:23:49.804Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 17,
+          "yesterday": 17,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 17,
+          "yesterday": 15,
+          "delta": 2
+        },
+        "totalTrails": 20
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Lower Eastwind",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Upper Eastwind",
+          "difficulty": "DoubleBlack",
+          "area": "Back Side"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "2 trails freshly groomed"
+    ],
+    "trends": [],
+    "recommendations": [
+      "Fresh corduroy on Lower Eastwind - perfect for intermediate skiers",
+      "Fresh corduroy on Upper Eastwind - expert terrain only"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

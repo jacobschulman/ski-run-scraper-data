@@ -1,0 +1,223 @@
+{
+  "resort": "killington",
+  "resortName": "Killington",
+  "date": "2026-01-24",
+  "generated": "2026-01-25T04:49:29.666Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 1,
+      "overnight_cm": 3,
+      "24hour_inches": 1,
+      "24hour_cm": 3,
+      "48hour_inches": 5,
+      "48hour_cm": 13,
+      "7day_inches": 5,
+      "7day_cm": 13,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Packed Powder",
+        "yesterday": "Packed Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 165,
+          "yesterday": 166,
+          "delta": -1
+        },
+        "groomedTrails": {
+          "today": 83,
+          "yesterday": 76,
+          "delta": 7
+        },
+        "totalTrails": 222
+      },
+      "newlyOpened": [
+        {
+          "name": "Ovation - Lower",
+          "difficulty": "Double Black",
+          "area": "Skye Peak"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Shorty",
+          "difficulty": "Blue",
+          "area": "Bear Mountain"
+        },
+        {
+          "name": "Needles Eye - Middle",
+          "difficulty": "Blue",
+          "area": "Skye Peak"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Ridge Run - Upper",
+          "difficulty": "Black",
+          "area": "North Ridge Area"
+        },
+        {
+          "name": "Outer Limits",
+          "difficulty": "Double Black",
+          "area": "Bear Mountain"
+        },
+        {
+          "name": "Skyelark - Lower",
+          "difficulty": "Black",
+          "area": "Skye Peak"
+        },
+        {
+          "name": "Chute - Upper",
+          "difficulty": "Blue",
+          "area": "Snowdon"
+        },
+        {
+          "name": "Great Bear - Lower",
+          "difficulty": "Black",
+          "area": "Snowdon"
+        },
+        {
+          "name": "Great Bear - Upper",
+          "difficulty": "Blue",
+          "area": "Snowdon"
+        },
+        {
+          "name": "Pipe Dream - Lower",
+          "difficulty": "Blue",
+          "area": "South Ridge Area"
+        },
+        {
+          "name": "Pipe Dream - Upper",
+          "difficulty": "Blue",
+          "area": "South Ridge Area"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-23",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 19,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-24",
+        "high_f": null,
+        "low_f": -9,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-25",
+          "high_f": 1,
+          "low_f": 2,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 12,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 12
+        },
+        {
+          "date": "2026-01-26",
+          "high_f": 10,
+          "low_f": -3,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 7,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 7
+        },
+        {
+          "date": "2026-01-27",
+          "high_f": 1,
+          "low_f": -3,
+          "description": "Windy",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-25",
+        "high_f": 1,
+        "low_f": 2,
+        "description": "Snow Wind",
+        "snowfall_day_inches": 12,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 12
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1\" new snow overnight",
+      "1 new trail opened today",
+      "8 trails freshly groomed"
+    ],
+    "trends": [
+      "12\" snow expected Sunday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Ridge Run - Upper - challenging for advanced skiers",
+      "Fresh corduroy on Outer Limits - all skill levels",
+      "Fresh corduroy on Skyelark - Lower - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Winter's Coming Back",
+    "body": "1\" of fresh snow settled in overnight. Not a powder day, but an upgrade. 8 runs freshly groomed, mostly in North Ridge Area, Bear Mountain, and more. The weather models are locked in: 21\" of snow heading our way.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "forecast_major_storm",
+          "category": "weather",
+          "priority": 92,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "body"
+        },
+        {
+          "id": "grooming_moderate",
+          "category": "terrain",
+          "priority": 55,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_major_storm",
+          "category": "weather",
+          "priority": 92,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "storm_major",
+        "variationIndex": 3,
+        "totalVariations": 7,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Major System Approaching"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

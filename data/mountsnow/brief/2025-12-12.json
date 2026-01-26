@@ -1,0 +1,61 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2025-12-12",
+  "generated": "2025-12-12T10:24:08.822Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 21,
+          "yesterday": 21,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 19,
+          "yesterday": 19,
+          "delta": 0
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-11",
+        "avgWaitTime": 12,
+        "maxWaitTime": 12,
+        "totalLiftsTracked": 19,
+        "busiest": [
+          {
+            "name": "Bluebird Express",
+            "avgWait": 12,
+            "peakWait": 12,
+            "type": "six",
+            "mountain": "Main Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": true
+    },
+    "alerts": [],
+    "trends": [
+      "High demand yesterday - average wait time 12 min"
+    ],
+    "recommendations": [
+      "Bluebird Express had longest waits (12 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

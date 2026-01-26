@@ -1,0 +1,280 @@
+{
+  "resort": "northstar",
+  "resortName": "Northstar",
+  "date": "2026-01-06",
+  "generated": "2026-01-06T13:37:31.359Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 17,
+      "24hour_cm": 43,
+      "48hour_inches": 27,
+      "48hour_cm": 68,
+      "7day_inches": 29,
+      "7day_cm": 73,
+      "season_total_inches": 143,
+      "season_total_cm": 363,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 76,
+          "yesterday": 75,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 47,
+          "yesterday": 46,
+          "delta": 1
+        },
+        "totalTrails": 107
+      },
+      "newlyOpened": [
+        {
+          "name": "Bearly",
+          "difficulty": "Green",
+          "area": "Village at Northstar"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Delight",
+          "difficulty": "Blue",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "Tonini's",
+          "difficulty": "Black",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "Bobcat Bowl",
+          "difficulty": "Blue",
+          "area": "Northwest Territory"
+        },
+        {
+          "name": "Challenger",
+          "difficulty": "Black",
+          "area": "The Backside"
+        },
+        {
+          "name": "Down Under",
+          "difficulty": "Black",
+          "area": "The Backside"
+        },
+        {
+          "name": "The Woods",
+          "difficulty": "Blue",
+          "area": "Village at Northstar"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Flying Squirrel",
+          "difficulty": "Blue",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "Stump Alley",
+          "difficulty": "Blue",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "Christmas Tree",
+          "difficulty": "Blue",
+          "area": "Northwest Territory"
+        },
+        {
+          "name": "The Gully",
+          "difficulty": "Blue",
+          "area": "Northwest Territory"
+        },
+        {
+          "name": "Monument Glade",
+          "difficulty": "Black",
+          "area": "The Backside"
+        },
+        {
+          "name": "Rail Splitter",
+          "difficulty": "Black",
+          "area": "The Backside"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-05",
+        "avgWaitTime": 3.5,
+        "maxWaitTime": 36,
+        "totalLiftsTracked": 19,
+        "busiest": [
+          {
+            "name": "Big Springs Express Gondola",
+            "avgWait": 5.3,
+            "peakWait": 19,
+            "type": "Gondola",
+            "mountain": "Village at Northstar"
+          },
+          {
+            "name": "Martis Camp Express",
+            "avgWait": 3.9,
+            "peakWait": 36,
+            "type": "Quad",
+            "mountain": "Lookout Mountain"
+          },
+          {
+            "name": "The Big Easy Quad",
+            "avgWait": 3.7,
+            "peakWait": 22,
+            "type": "Quad",
+            "mountain": "Northwest Territory"
+          },
+          {
+            "name": "Vista Express",
+            "avgWait": 3.5,
+            "peakWait": 7,
+            "type": "Quad",
+            "mountain": "Terrain Parks"
+          },
+          {
+            "name": "Highlands Gondola",
+            "avgWait": 3.4,
+            "peakWait": 29,
+            "type": "Gondola",
+            "mountain": "Northwest Territory"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-06",
+        "high_f": 37,
+        "low_f": 26,
+        "high_c": 3,
+        "low_c": -4,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-07T08:00:00Z",
+          "high_f": 34,
+          "low_f": 26,
+          "high_c": 1,
+          "low_c": -3,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-08T08:00:00Z",
+          "high_f": 25,
+          "low_f": 14,
+          "high_c": -4,
+          "low_c": -10,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-09T08:00:00Z",
+          "high_f": 32,
+          "low_f": 14,
+          "high_c": null,
+          "low_c": -10,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-07T08:00:00Z",
+        "high_f": 34,
+        "low_f": 26,
+        "high_c": 1,
+        "low_c": -3,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "17\" in last 24 hours - powder day!",
+      "1 new trail opened today",
+      "6 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 29\" in last 7 days",
+      "1 more trail open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Delight - perfect for intermediate skiers",
+      "Fresh corduroy on Tonini's - challenging for advanced skiers",
+      "Fresh corduroy on Bobcat Bowl - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Powder Emergency",
+    "body": "17\" of fresh powder waiting. This is a powder emergency. Act accordingly. 6 runs freshly groomed, mostly in Mt. Pluto, Northwest Territory, and more. Heads up: Big Springs Express Gondola peaked at 36 minutes yesterday. Consider alternatives.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_deep",
+          "category": "snow",
+          "priority": 95,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_deep",
+          "category": "snow",
+          "priority": 95,
+          "usedFor": "body"
+        },
+        {
+          "id": "grooming_moderate",
+          "category": "terrain",
+          "priority": 55,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_busy",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 7,
+      "headlineSelection": {
+        "condition": "snow_deep",
+        "variationIndex": 2,
+        "totalVariations": 8,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Deep Day at {resortName}"
+      },
+      "dayOfWeek": "Tuesday"
+    }
+  },
+  "errors": []
+}

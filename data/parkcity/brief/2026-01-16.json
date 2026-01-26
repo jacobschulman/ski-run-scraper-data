@@ -1,0 +1,255 @@
+{
+  "resort": "parkcity",
+  "resortName": "Park City",
+  "date": "2026-01-16",
+  "generated": "2026-01-16T12:39:03.279Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 196,
+          "yesterday": 181,
+          "delta": 15
+        },
+        "groomedTrails": {
+          "today": 55,
+          "yesterday": 45,
+          "delta": 10
+        },
+        "totalTrails": 349
+      },
+      "newlyOpened": [
+        {
+          "name": "Bliss",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Day Dream",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Déjà Vu",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "McDonalds Meadow",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Panorama",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Sleeper",
+          "difficulty": "Black",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Snow Meadow",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Whitewater",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Blaise's Way",
+          "difficulty": "Blue",
+          "area": "Iron Mountain"
+        },
+        {
+          "name": "The Highway",
+          "difficulty": "Blue",
+          "area": "Iron Mountain"
+        },
+        {
+          "name": "Limelite",
+          "difficulty": "DoubleBlack",
+          "area": "Jupiter"
+        },
+        {
+          "name": "Lite's Out",
+          "difficulty": "DoubleBlack",
+          "area": "Jupiter"
+        },
+        {
+          "name": "Mainline",
+          "difficulty": "Blue",
+          "area": "OBX/Saddleback/Sun Peak"
+        },
+        {
+          "name": "Painted Horse",
+          "difficulty": "Blue",
+          "area": "OBX/Saddleback/Sun Peak"
+        },
+        {
+          "name": "Upper Harmony",
+          "difficulty": "Blue",
+          "area": "Peak 5/9990/Tombstone"
+        },
+        {
+          "name": "Zeke's Road",
+          "difficulty": "Blue",
+          "area": "Silverlode/Thaynes/Motherlode"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Mid-Mountain Meadows",
+          "difficulty": "Blue",
+          "area": "Bonanza/McConkey's/Pioneer"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Sundog",
+          "difficulty": "Black",
+          "area": "Bonanza/McConkey's/Pioneer"
+        },
+        {
+          "name": "Panorama",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Twilight",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Whitewater",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        },
+        {
+          "name": "Blaise's Way",
+          "difficulty": "Blue",
+          "area": "Iron Mountain"
+        },
+        {
+          "name": "The Highway",
+          "difficulty": "Blue",
+          "area": "Iron Mountain"
+        },
+        {
+          "name": "Mainline",
+          "difficulty": "Blue",
+          "area": "OBX/Saddleback/Sun Peak"
+        },
+        {
+          "name": "Painted Horse",
+          "difficulty": "Blue",
+          "area": "OBX/Saddleback/Sun Peak"
+        },
+        {
+          "name": "Upper Harmony",
+          "difficulty": "Blue",
+          "area": "Peak 5/9990/Tombstone"
+        },
+        {
+          "name": "Lost Prospector",
+          "difficulty": "Black",
+          "area": "Silverlode/Thaynes/Motherlode"
+        },
+        {
+          "name": "Newport",
+          "difficulty": "Black",
+          "area": "Silverlode/Thaynes/Motherlode"
+        },
+        {
+          "name": "Single Jack",
+          "difficulty": "Blue",
+          "area": "Silverlode/Thaynes/Motherlode"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Assessment",
+          "difficulty": "Blue",
+          "area": "Silverlode/Thaynes/Motherlode"
+        },
+        {
+          "name": "Hidden Splendor",
+          "difficulty": "Blue",
+          "area": "Silverlode/Thaynes/Motherlode"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-15",
+        "avgWaitTime": 8.9,
+        "maxWaitTime": 23,
+        "totalLiftsTracked": 43,
+        "busiest": [
+          {
+            "name": "Saddleback Express",
+            "avgWait": 23,
+            "peakWait": 23,
+            "type": "Quad",
+            "mountain": "OBX/Saddleback/Sun Peak"
+          },
+          {
+            "name": "Crescent Lift",
+            "avgWait": 17,
+            "peakWait": 17,
+            "type": "Quad",
+            "mountain": "Payday/Town/Crescent"
+          },
+          {
+            "name": "Quicksilver MV Side",
+            "avgWait": 14,
+            "peakWait": 14,
+            "type": "Gondola",
+            "mountain": "Iron Mountain"
+          },
+          {
+            "name": "First Time Lift",
+            "avgWait": 13,
+            "peakWait": 13,
+            "type": "Quad",
+            "mountain": "Payday/Town/Crescent"
+          },
+          {
+            "name": "Red Pine Gondola",
+            "avgWait": 5,
+            "peakWait": 8,
+            "type": "Gondola",
+            "mountain": "OBX/Saddleback/Sun Peak"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "16 new trails opened today",
+      "12 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 22% from yesterday",
+      "15 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Sundog - challenging for advanced skiers",
+      "Fresh corduroy on Panorama - perfect for intermediate skiers",
+      "Fresh corduroy on Twilight - perfect for intermediate skiers",
+      "Saddleback Express had longest waits (23 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

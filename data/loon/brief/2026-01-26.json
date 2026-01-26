@@ -1,0 +1,205 @@
+{
+  "resort": "loon",
+  "resortName": "Loon Mountain",
+  "date": "2026-01-26",
+  "generated": "2026-01-26T19:21:22.289Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 12,
+      "overnight_cm": 30,
+      "24hour_inches": 12,
+      "24hour_cm": 30,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 19,
+      "7day_cm": 48,
+      "season_total_inches": 84,
+      "season_total_cm": 213,
+      "conditions": {
+        "today": "Powder",
+        "yesterday": "Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 85,
+          "yesterday": 80,
+          "delta": 5
+        },
+        "groomedTrails": {
+          "today": 67,
+          "yesterday": 70,
+          "delta": -3
+        },
+        "totalTrails": 85
+      },
+      "newlyOpened": [
+        {
+          "name": "Bucksaw",
+          "difficulty": "Black",
+          "area": "North Peak"
+        },
+        {
+          "name": "Wildwood",
+          "difficulty": "Blue",
+          "area": "South Peak"
+        },
+        {
+          "name": "Undercut",
+          "difficulty": "Black",
+          "area": "South Peak"
+        },
+        {
+          "name": "Missing Link",
+          "difficulty": "Blue",
+          "area": "Loon Peak"
+        },
+        {
+          "name": "Picaroon",
+          "difficulty": "Blue",
+          "area": "Loon Peak"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": [
+        {
+          "name": "Angel Street",
+          "difficulty": "Black",
+          "area": "Loon Peak"
+        },
+        {
+          "name": "Basin Street",
+          "difficulty": "Blue",
+          "area": "Loon Peak"
+        },
+        {
+          "name": "Big Dipper",
+          "difficulty": "Black",
+          "area": "Loon Peak"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-25",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 14,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-26",
+        "high_f": 14,
+        "low_f": 0,
+        "description": "Cloudy",
+        "snowfall_day_inches": 4,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-27",
+          "high_f": 8,
+          "low_f": 1,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2026-01-28",
+          "high_f": 9,
+          "low_f": 0,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2026-01-29",
+          "high_f": 7,
+          "low_f": -6,
+          "description": "Cloudy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-27",
+        "high_f": 8,
+        "low_f": 1,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 2,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 2
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "12\" fresh snow overnight",
+      "12\" in last 24 hours - powder day!",
+      "5 new trails opened today"
+    ],
+    "trends": [
+      "Great week for snow - 19\" in last 7 days",
+      "5 more trails open than yesterday",
+      "2\" snow expected Tuesday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Deep Day: 12\" Fresh",
+    "body": "Deep day: 12\" overnight. Stashes are loaded, groomers are buried. Time to hunt. 5 new trails are now available. Nice little expansion. Keep an eye on the sky - a refresh is coming. A few inches on the way.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_deep",
+          "category": "snow",
+          "priority": 95,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_deep",
+          "category": "snow",
+          "priority": 95,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_snow_coming",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "snow_deep",
+        "variationIndex": 0,
+        "totalVariations": 8,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Time to Call in Sick"
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

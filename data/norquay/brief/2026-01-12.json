@@ -1,0 +1,110 @@
+{
+  "resort": "norquay",
+  "resortName": "Mt Norquay",
+  "date": "2026-01-12",
+  "generated": "2026-01-12T20:27:12.289Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 2,
+      "overnight_cm": 5,
+      "24hour_inches": 2,
+      "24hour_cm": 5,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 3.5,
+      "7day_cm": 9,
+      "season_total_inches": 75.2,
+      "season_total_cm": 191,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 58,
+          "yesterday": 0,
+          "delta": 58
+        },
+        "groomedTrails": {
+          "today": 21,
+          "yesterday": 0,
+          "delta": 21
+        },
+        "totalTrails": 64
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-12",
+        "high_f": 39.2,
+        "low_f": 39.2,
+        "high_c": 4,
+        "low_c": 4,
+        "description": "Unknown",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": []
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "2\" fresh snow overnight"
+    ],
+    "trends": [
+      "58 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "The Map Exploded",
+    "body": "Overnight dusting of 2\" means the hardpack got a makeover. MASSIVE expansion: 0 new trails opened. The floodgates are open.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_massive",
+          "category": "terrain",
+          "priority": 95,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_massive",
+          "category": "terrain",
+          "priority": 95,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "terrain_massive",
+        "variationIndex": 4,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Patrol Went Big Today"
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

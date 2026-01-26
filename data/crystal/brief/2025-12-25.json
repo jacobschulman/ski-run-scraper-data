@@ -1,0 +1,198 @@
+{
+  "resort": "crystal",
+  "resortName": "Crystal Mountain",
+  "date": "2025-12-25",
+  "generated": "2025-12-26T07:19:26.055Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 1,
+      "overnight_cm": 3,
+      "24hour_inches": 6,
+      "24hour_cm": 15,
+      "48hour_inches": 9,
+      "48hour_cm": 23,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 98,
+      "season_total_cm": 249,
+      "conditions": {
+        "today": "Obstacles Exist",
+        "yesterday": "Obstacles Exist"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 40,
+          "yesterday": 35,
+          "delta": 5
+        },
+        "groomedTrails": {
+          "today": 2,
+          "yesterday": 2,
+          "delta": 0
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Lower Arwine's",
+          "difficulty": "Easy",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Memorial Forest",
+          "difficulty": "Difficult",
+          "area": "Frontside"
+        },
+        {
+          "name": "Middle Ferk's",
+          "difficulty": "Difficult",
+          "area": "Frontside"
+        },
+        {
+          "name": "Sunnyside",
+          "difficulty": "Difficult",
+          "area": "Frontside"
+        },
+        {
+          "name": "The Doors",
+          "difficulty": "Difficult",
+          "area": "Frontside"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-24",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 11,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-25",
+        "high_f": null,
+        "low_f": 24,
+        "high_c": null,
+        "low_c": -5,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-26",
+          "high_f": 25,
+          "low_f": 14,
+          "high_c": -4,
+          "low_c": -10,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 2,
+          "snowfall_expected": 4
+        },
+        {
+          "date": "2025-12-27",
+          "high_f": 18,
+          "low_f": 18,
+          "high_c": -8,
+          "low_c": -8,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-28",
+          "high_f": 30,
+          "low_f": 29,
+          "high_c": -1,
+          "low_c": -2,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-26",
+        "high_f": 25,
+        "low_f": 14,
+        "high_c": -4,
+        "low_c": -10,
+        "description": "Snow Wind",
+        "snowfall_day_inches": 2,
+        "snowfall_night_inches": 2,
+        "snowfall_expected": 4
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1\" new snow overnight",
+      "6\" in last 24 hours - powder day!",
+      "5 new trails opened today"
+    ],
+    "trends": [
+      "5 more trails open than yesterday",
+      "4\" snow expected Friday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "The Mountain Got Buried",
+    "body": "6\" dumped overnight. The stashes are loaded and the groomers are buried. Go find 'em. The ski patrol has been busy—5 additional trails are now yours to enjoy. Snow showers in the forecast with a few inches expected. Conditions should improve soon.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_snow_coming",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 2,
+        "totalVariations": 12,
+        "usedWeekendVariation": false,
+        "previousHeadline": "{snow24h}\" of Fresh Overnight"
+      },
+      "dayOfWeek": "Thursday"
+    }
+  },
+  "errors": []
+}

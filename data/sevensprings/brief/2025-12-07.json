@@ -1,0 +1,154 @@
+{
+  "resort": "sevensprings",
+  "resortName": "Seven Springs",
+  "date": "2025-12-07",
+  "generated": "2025-12-07T16:21:24.510Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 7,
+      "7day_cm": 17,
+      "season_total_inches": 7,
+      "season_total_cm": 17,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 9,
+          "yesterday": 9,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 9,
+          "yesterday": 9,
+          "delta": 0
+        },
+        "totalTrails": 51
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-06",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 14,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-07",
+        "high_f": 30,
+        "low_f": 25,
+        "high_c": -1,
+        "low_c": -4,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-08T05:00:00Z",
+          "high_f": 24,
+          "low_f": 14,
+          "high_c": -5,
+          "low_c": -10,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-09T05:00:00Z",
+          "high_f": 30,
+          "low_f": 13,
+          "high_c": -1,
+          "low_c": -11,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 3,
+          "snowfall_expected": 3
+        },
+        {
+          "date": "2025-12-10T05:00:00Z",
+          "high_f": 36,
+          "low_f": 28,
+          "high_c": 2,
+          "low_c": -2,
+          "description": "Rain/Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-08T05:00:00Z",
+        "high_f": 24,
+        "low_f": 14,
+        "high_c": -5,
+        "low_c": -10,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [],
+    "trends": [
+      "Steady snowfall - 7\" in last 7 days",
+      "3\" snow expected Tuesday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Storm on the Horizon",
+    "body": "Steady snowfall with 7\" over the last week. A storm is lining up, so expect conditions to evolve through the day.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_storm_incoming",
+          "category": "weather",
+          "priority": 90,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_week_total",
+          "category": "snow",
+          "priority": 40,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_storm_incoming",
+          "category": "weather",
+          "priority": 90,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3
+    }
+  },
+  "errors": []
+}

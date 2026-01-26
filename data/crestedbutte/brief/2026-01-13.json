@@ -1,0 +1,145 @@
+{
+  "resort": "crestedbutte",
+  "resortName": "Crested Butte",
+  "date": "2026-01-13",
+  "generated": "2026-01-13T12:40:34.981Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 89,
+          "yesterday": 83,
+          "delta": 6
+        },
+        "groomedTrails": {
+          "today": 39,
+          "yesterday": 36,
+          "delta": 3
+        },
+        "totalTrails": 168
+      },
+      "newlyOpened": [
+        {
+          "name": "Buckley",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        },
+        {
+          "name": "Lower Championship",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "Ally Loop",
+          "difficulty": "Green",
+          "area": "Ten Peaks"
+        },
+        {
+          "name": "Elk Ave.",
+          "difficulty": "Green",
+          "area": "Ten Peaks"
+        },
+        {
+          "name": "Mary Jo",
+          "difficulty": "Green",
+          "area": "Ten Peaks"
+        },
+        {
+          "name": "Topsy",
+          "difficulty": "Green",
+          "area": "Ten Peaks"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Bubba's Way Jib Park",
+          "difficulty": "TerrainPark",
+          "area": "Back Side"
+        },
+        {
+          "name": "Gus' Way",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Upper Gallowich",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Painter Boy Park",
+          "difficulty": "TerrainPark",
+          "area": "Ten Peaks"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Bubba's Shortcut",
+          "difficulty": "Green",
+          "area": "Back Side"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-12",
+        "avgWaitTime": 1.5,
+        "maxWaitTime": 5,
+        "totalLiftsTracked": 15,
+        "busiest": [
+          {
+            "name": "East River Express",
+            "avgWait": 2,
+            "peakWait": 5,
+            "type": "Quad",
+            "mountain": "Back Side"
+          },
+          {
+            "name": "Red Lady Express",
+            "avgWait": 1.7,
+            "peakWait": 5,
+            "type": "Quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "Paradise Express",
+            "avgWait": 1.6,
+            "peakWait": 3,
+            "type": "Quad",
+            "mountain": "Back Side"
+          },
+          {
+            "name": "Silver Queen Express",
+            "avgWait": 1.1,
+            "peakWait": 2,
+            "type": "Quad",
+            "mountain": "Front Side"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "6 new trails opened today",
+      "4 trails freshly groomed"
+    ],
+    "trends": [
+      "6 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Bubba's Way Jib Park - all skill levels",
+      "Fresh corduroy on Gus' Way - perfect for intermediate skiers",
+      "Fresh corduroy on Upper Gallowich - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

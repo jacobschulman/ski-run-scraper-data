@@ -1,0 +1,196 @@
+{
+  "resort": "hiddenvalley",
+  "resortName": "Hidden Valley",
+  "date": "2026-01-12",
+  "generated": "2026-01-12T10:25:49.055Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 3,
+      "overnight_cm": 7,
+      "24hour_inches": 3,
+      "24hour_cm": 7,
+      "48hour_inches": 3,
+      "48hour_cm": 7,
+      "7day_inches": 3,
+      "7day_cm": 7,
+      "season_total_inches": 44,
+      "season_total_cm": 111,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 16,
+          "yesterday": 14,
+          "delta": 2
+        },
+        "groomedTrails": {
+          "today": 16,
+          "yesterday": 14,
+          "delta": 2
+        },
+        "totalTrails": 32
+      },
+      "newlyOpened": [
+        {
+          "name": "Firebird",
+          "difficulty": "Black",
+          "area": "Valley"
+        },
+        {
+          "name": "Imperial",
+          "difficulty": "Blue",
+          "area": "Valley"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Firebird",
+          "difficulty": "Black",
+          "area": "Valley"
+        },
+        {
+          "name": "Imperial",
+          "difficulty": "Blue",
+          "area": "Valley"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-11",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 8,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-12",
+        "high_f": 27,
+        "low_f": 20,
+        "high_c": -3,
+        "low_c": -7,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-13T05:00:00Z",
+          "high_f": 40,
+          "low_f": 26,
+          "high_c": 4,
+          "low_c": -4,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-14T05:00:00Z",
+          "high_f": 38,
+          "low_f": 26,
+          "high_c": 3,
+          "low_c": -4,
+          "description": "Rain/Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-15T05:00:00Z",
+          "high_f": 24,
+          "low_f": 9,
+          "high_c": -5,
+          "low_c": -13,
+          "description": "Thundersnow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-13T05:00:00Z",
+        "high_f": 40,
+        "low_f": 26,
+        "high_c": 4,
+        "low_c": -4,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "3\" fresh snow overnight",
+      "2 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "2 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Firebird - challenging for advanced skiers",
+      "Fresh corduroy on Imperial - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "3\" Freshened Things Up",
+    "body": "3\" settled in while you were sleeping. Groomers are smooth, off-piste is soft. 2 new trails opened today. Windy conditions expected. Upper lifts may have holds or delays.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_solid",
+          "category": "snow",
+          "priority": 82,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_solid",
+          "category": "snow",
+          "priority": 82,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_micro",
+          "category": "terrain",
+          "priority": 45,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_windy",
+          "category": "weather",
+          "priority": 45,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "snow_solid",
+        "variationIndex": 2,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": null
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,235 @@
+{
+  "resort": "mountsunapee",
+  "resortName": "Mount Sunapee",
+  "date": "2025-12-21",
+  "generated": "2025-12-21T10:21:33.413Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 4,
+      "season_total_cm": 10,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 24,
+          "yesterday": 10,
+          "delta": 14
+        },
+        "groomedTrails": {
+          "today": 24,
+          "yesterday": 10,
+          "delta": 14
+        },
+        "totalTrails": 66
+      },
+      "newlyOpened": [
+        {
+          "name": "Beck Brook",
+          "difficulty": "Green",
+          "area": "North Peak"
+        },
+        {
+          "name": "Toboggan Chute",
+          "difficulty": "Green",
+          "area": "North Peak"
+        },
+        {
+          "name": "Eggbeater",
+          "difficulty": "Blue",
+          "area": "Spruce"
+        },
+        {
+          "name": "Guster",
+          "difficulty": "Blue",
+          "area": "Spruce"
+        },
+        {
+          "name": "Bonanza",
+          "difficulty": "Blue",
+          "area": "Summit"
+        },
+        {
+          "name": "Lower Blastoff",
+          "difficulty": "Blue",
+          "area": "Summit"
+        },
+        {
+          "name": "Lower Ridge",
+          "difficulty": "Green",
+          "area": "Summit"
+        },
+        {
+          "name": "Skyway Ledges",
+          "difficulty": "Blue",
+          "area": "Summit"
+        },
+        {
+          "name": "Upper Blastoff",
+          "difficulty": "Black",
+          "area": "Summit"
+        },
+        {
+          "name": "Upper Ridge",
+          "difficulty": "Blue",
+          "area": "Summit"
+        },
+        {
+          "name": "Westside",
+          "difficulty": "Blue",
+          "area": "Summit"
+        },
+        {
+          "name": "Lower Wingding",
+          "difficulty": "Blue",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Middle Wingding",
+          "difficulty": "Blue",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Upper Wingding",
+          "difficulty": "Blue",
+          "area": "Sun Bowl"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-20",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 8,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-21",
+        "high_f": 32,
+        "low_f": 17,
+        "high_c": null,
+        "low_c": -8,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-22T05:00:00Z",
+          "high_f": 22,
+          "low_f": 11,
+          "high_c": -6,
+          "low_c": -12,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-23T05:00:00Z",
+          "high_f": 28,
+          "low_f": 21,
+          "high_c": -2,
+          "low_c": -7,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-24T05:00:00Z",
+          "high_f": 29,
+          "low_f": 20,
+          "high_c": -2,
+          "low_c": -7,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-22T05:00:00Z",
+        "high_f": 22,
+        "low_f": 11,
+        "high_c": -6,
+        "low_c": -12,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "14 new trails opened today"
+    ],
+    "trends": [
+      "Grooming increased 140% from yesterday",
+      "14 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Terrain is Expanding",
+    "body": "24 of 66 trails are open with 24 groomed. Windy with a high of 32°F. New terrain alert: 14 trails added to the mix. The mountain just got bigger.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 0,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Your Daily Ski Report"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

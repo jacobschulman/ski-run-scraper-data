@@ -1,0 +1,41 @@
+{
+  "resort": "aspenmountain",
+  "resortName": "Aspen Mountain",
+  "date": "2026-01-02",
+  "generated": "2026-01-03T06:25:51.446Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 50,
+          "yesterday": 50,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 15,
+          "yesterday": 15,
+          "delta": 0
+        },
+        "totalTrails": 140
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

@@ -1,0 +1,93 @@
+{
+  "resort": "roundtop",
+  "resortName": "Roundtop Mountain",
+  "date": "2026-01-10",
+  "generated": "2026-01-10T10:21:53.952Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 10,
+      "season_total_cm": 25,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 14,
+          "yesterday": 14,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 13,
+          "yesterday": 13,
+          "delta": 0
+        },
+        "totalTrails": 21
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Saturday Shred Day",
+    "body": "14/21 trails spinning, 13 freshly groomed. Variable conditions. 14/21 trails open, 13 groomed. Variable conditions.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "time_saturday",
+          "category": "time",
+          "priority": 38,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "fallback_body",
+          "category": "weather",
+          "priority": 5,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "saturday",
+        "variationIndex": 4,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Friday: Ready for the Weekend"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

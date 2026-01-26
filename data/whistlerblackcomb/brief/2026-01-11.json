@@ -1,0 +1,265 @@
+{
+  "resort": "whistlerblackcomb",
+  "resortName": "Whistler Blackcomb",
+  "date": "2026-01-11",
+  "generated": "2026-01-11T15:18:37.573Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 5,
+      "overnight_cm": 15,
+      "24hour_inches": 17,
+      "24hour_cm": 44,
+      "48hour_inches": 17,
+      "48hour_cm": 44,
+      "7day_inches": 31,
+      "7day_cm": 79,
+      "season_total_inches": 183,
+      "season_total_cm": 466,
+      "conditions": {
+        "today": "Packed Powder",
+        "yesterday": "Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 265,
+          "yesterday": 265,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 138,
+          "yesterday": 140,
+          "delta": -2
+        },
+        "totalTrails": 305
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Dave Murray Downhill - Upper",
+          "difficulty": "Black",
+          "area": "Big Red / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Rock & Roll - Lower",
+          "difficulty": "Blue",
+          "area": "Crystal Ridge"
+        },
+        {
+          "name": "Enchanted Forest - Adventure Trail",
+          "difficulty": "Blue",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Shorthorn",
+          "difficulty": "Blue",
+          "area": "Excalibur / Blackcomb Gondola - Lower"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Cloud 9 - Upper",
+          "difficulty": "Blue",
+          "area": "7th Heaven"
+        },
+        {
+          "name": "Blue Line",
+          "difficulty": "Blue",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Glacier Drive - Upper",
+          "difficulty": "Black",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Rock Alley",
+          "difficulty": "Blue",
+          "area": "Glacier / Showcase T-bar"
+        },
+        {
+          "name": "Harmony Piste",
+          "difficulty": "Blue",
+          "area": "Harmony"
+        },
+        {
+          "name": "The Saddle",
+          "difficulty": "Black",
+          "area": "Peak / T-bar"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-10",
+        "avgWaitTime": 7.3,
+        "maxWaitTime": 30,
+        "totalLiftsTracked": 36,
+        "busiest": [
+          {
+            "name": "Crystal Ridge Express",
+            "avgWait": 16,
+            "peakWait": 21,
+            "type": "Quad",
+            "mountain": "Blackcomb Lifts"
+          },
+          {
+            "name": "Whistler Village Gondola - Upper",
+            "avgWait": 14.4,
+            "peakWait": 30,
+            "type": "Gondola",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Whistler Village Gondola  - Lower",
+            "avgWait": 12,
+            "peakWait": 30,
+            "type": "Gondola",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Emerald 6 Express",
+            "avgWait": 11.5,
+            "peakWait": 17,
+            "type": "Six Pack",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Big Red Express",
+            "avgWait": 10,
+            "peakWait": 18,
+            "type": "Six Pack",
+            "mountain": "Whistler Lifts"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-11",
+        "high_f": 33,
+        "low_f": 32,
+        "high_c": 1,
+        "low_c": null,
+        "description": "Periods of snow.",
+        "snowfall_day_inches": 5,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-12T02:09:37-07:00",
+          "high_f": 39,
+          "low_f": 32,
+          "high_c": 4,
+          "low_c": null,
+          "description": "Snow and rain mixed, heavy at times.",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-13T02:09:37-07:00",
+          "high_f": 39,
+          "low_f": 35,
+          "high_c": 4,
+          "low_c": 2,
+          "description": "Showers.",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-14T02:09:37-07:00",
+          "high_f": 37,
+          "low_f": 28,
+          "high_c": 3,
+          "low_c": -2,
+          "description": "Flurries.",
+          "snowfall_day_inches": 3,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 3
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-12T02:09:37-07:00",
+        "high_f": 39,
+        "low_f": 32,
+        "high_c": 4,
+        "low_c": null,
+        "description": "Snow and rain mixed, heavy at times.",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "5\" fresh snow overnight",
+      "17\" in last 24 hours - powder day!",
+      "4 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 31\" in last 7 days",
+      "3\" snow expected Wednesday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Dave Murray Downhill - Upper - challenging for advanced skiers",
+      "Fresh corduroy on Rock & Roll - Lower - perfect for intermediate skiers",
+      "Fresh corduroy on Enchanted Forest - Adventure Trail - perfect for intermediate skiers",
+      "Crystal Ridge Express had longest waits (16 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Saturday Powder Stash",
+    "body": "The mountain got buried overnight: 17\" of fresh. Hero conditions everywhere. Heads up: Crystal Ridge Express peaked at 30 minutes yesterday. Consider alternatives. The forecast is flirting with us: light snow expected. Not a dump, but welcome.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_deep",
+          "category": "snow",
+          "priority": 95,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_deep",
+          "category": "snow",
+          "priority": 95,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_busy",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_snow_coming",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "snow_deep",
+        "variationIndex": 1,
+        "totalVariations": 8,
+        "usedWeekendVariation": true,
+        "previousHeadline": "MASSIVE Expansion: {newTrailsCount} New Runs"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

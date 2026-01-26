@@ -1,0 +1,38 @@
+{
+  "resort": "laurelmountain",
+  "resortName": "Laurel Mountain",
+  "provider": "vail",
+  "liftWaitTimesAvailable": false,
+  "liftCount": 2,
+  "lifts": [
+    {
+      "liftId": "0",
+      "name": "Laurel Lift",
+      "slug": "laurel-lift",
+      "mountain": "Laurel Mountain",
+      "type": "Quad",
+      "capacity": 4,
+      "status": "Open",
+      "waitMinutes": null,
+      "openTime": "10:00",
+      "closeTime": "19:00",
+      "avgWaitTime": null,
+      "lastUpdated": "2026-01-26T01:00:48.338Z"
+    },
+    {
+      "liftId": "1",
+      "name": "Laurel Tow",
+      "slug": "laurel-tow",
+      "mountain": "Laurel Mountain",
+      "type": "Tow",
+      "capacity": null,
+      "status": "Open",
+      "waitMinutes": null,
+      "openTime": "10:30",
+      "closeTime": "18:30",
+      "avgWaitTime": null,
+      "lastUpdated": "2026-01-26T01:00:48.338Z"
+    }
+  ],
+  "generated": "2026-01-26T19:57:33.550Z"
+}

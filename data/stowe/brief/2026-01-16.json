@@ -1,0 +1,117 @@
+{
+  "resort": "stowe",
+  "resortName": "Stowe",
+  "date": "2026-01-16",
+  "generated": "2026-01-16T10:23:49.793Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 120,
+          "yesterday": 116,
+          "delta": 4
+        },
+        "groomedTrails": {
+          "today": 59,
+          "yesterday": 56,
+          "delta": 3
+        },
+        "totalTrails": 128
+      },
+      "newlyOpened": [
+        {
+          "name": "Lord Loop",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "North Slope",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Upper Lord",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Midway Hike Terrain Park",
+          "difficulty": "TerrainPark",
+          "area": "Terrain Parks"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "North Slope",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Upper Lord",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Midway Hike Terrain Park",
+          "difficulty": "TerrainPark",
+          "area": "Terrain Parks"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-15",
+        "avgWaitTime": 3.2,
+        "maxWaitTime": 7,
+        "totalLiftsTracked": 12,
+        "busiest": [
+          {
+            "name": "Mansfield Gondola",
+            "avgWait": 5,
+            "peakWait": 7,
+            "type": "Gondola",
+            "mountain": "Mt. Mansfield - Gondola"
+          },
+          {
+            "name": "FourRunner Quad",
+            "avgWait": 3.8,
+            "peakWait": 7,
+            "type": "Quad",
+            "mountain": "Mt. Mansfield - FourRunner"
+          },
+          {
+            "name": "Sunrise Lift",
+            "avgWait": 1.2,
+            "peakWait": 2,
+            "type": "Six Pack",
+            "mountain": "Mt. Mansfield - FourRunner"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "4 new trails opened today",
+      "3 trails freshly groomed"
+    ],
+    "trends": [
+      "4 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on North Slope - perfect for intermediate skiers",
+      "Fresh corduroy on Upper Lord - perfect for intermediate skiers",
+      "Fresh corduroy on Midway Hike Terrain Park - all skill levels"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

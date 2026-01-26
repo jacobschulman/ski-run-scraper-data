@@ -1,0 +1,41 @@
+{
+  "resort": "liberty",
+  "resortName": "Liberty Mountain",
+  "date": "2026-01-17",
+  "generated": "2026-01-17T10:19:56.461Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 17,
+          "yesterday": 17,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 17,
+          "yesterday": 17,
+          "delta": 0
+        },
+        "totalTrails": 20
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

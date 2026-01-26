@@ -1,0 +1,157 @@
+{
+  "resort": "mtbrighton",
+  "resortName": "Mt Brighton",
+  "date": "2026-01-02",
+  "generated": "2026-01-02T10:22:05.230Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 4,
+      "overnight_cm": 10,
+      "24hour_inches": 4,
+      "24hour_cm": 10,
+      "48hour_inches": 4,
+      "48hour_cm": 10,
+      "7day_inches": 8,
+      "7day_cm": 20,
+      "season_total_inches": 20,
+      "season_total_cm": 50,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "totalTrails": 23
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-01",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 11,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-02",
+        "high_f": 20,
+        "low_f": 13,
+        "high_c": -7,
+        "low_c": -11,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-03T05:00:00Z",
+          "high_f": 21,
+          "low_f": 13,
+          "high_c": -6,
+          "low_c": -11,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-04T05:00:00Z",
+          "high_f": 24,
+          "low_f": 17,
+          "high_c": -5,
+          "low_c": -8,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-05T05:00:00Z",
+          "high_f": 32,
+          "low_f": 20,
+          "high_c": null,
+          "low_c": -7,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-03T05:00:00Z",
+        "high_f": 21,
+        "low_f": 13,
+        "high_c": -6,
+        "low_c": -11,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "4\" fresh snow overnight"
+    ],
+    "trends": [
+      "Steady snowfall - 8\" in last 7 days"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Not Open Yet",
+    "body": "No trails open yet. Current forecast: Cloudy with a high of 20°F.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "resort_closed",
+          "category": "terrain",
+          "priority": 95,
+          "usedFor": "headline"
+        },
+        {
+          "id": "resort_closed",
+          "category": "terrain",
+          "priority": 95,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "resort_closed",
+        "variationIndex": 1,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Almost There..."
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,272 @@
+{
+  "resort": "junemountain",
+  "resortName": "June Mountain",
+  "date": "2025-12-28",
+  "generated": "2025-12-29T07:22:55.766Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 2,
+      "overnight_cm": 5,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 1,
+      "48hour_cm": 3,
+      "7day_inches": 51,
+      "7day_cm": 130,
+      "season_total_inches": 72,
+      "season_total_cm": 183,
+      "conditions": {
+        "today": "Fresh Powder",
+        "yesterday": "Fresh Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 24,
+          "yesterday": 3,
+          "delta": 21
+        },
+        "groomedTrails": {
+          "today": 6,
+          "yesterday": 3,
+          "delta": 3
+        },
+        "totalTrails": 44
+      },
+      "newlyOpened": [
+        {
+          "name": "Bunker Hill",
+          "difficulty": "Intermediate",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Canyon Trail",
+          "difficulty": "Intermediate",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Carson",
+          "difficulty": "Expert",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Carson Cutoff",
+          "difficulty": "Very Difficult",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Chalet",
+          "difficulty": "Intermediate",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Comstock",
+          "difficulty": "Intermediate",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Cutback",
+          "difficulty": "Intermediate",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Danny's",
+          "difficulty": "Easy",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Gunsmoke",
+          "difficulty": "Intermediate",
+          "area": "June Mountain"
+        },
+        {
+          "name": "IQ",
+          "difficulty": "Expert",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Lottie Johl",
+          "difficulty": "Intermediate",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Lower Carson",
+          "difficulty": "Very Difficult",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Mo's Knob",
+          "difficulty": "Very Difficult",
+          "area": "June Mountain"
+        },
+        {
+          "name": "River Run",
+          "difficulty": "Easy",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Rosa Mae",
+          "difficulty": "Intermediate",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Slalom",
+          "difficulty": "Very Difficult",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Surprise",
+          "difficulty": "Intermediate",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Surprise Cutoff",
+          "difficulty": "Intermediate",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Surprise Fun Zone",
+          "difficulty": "Terrain Park",
+          "area": "June Mountain"
+        },
+        {
+          "name": "The Face",
+          "difficulty": "Expert",
+          "area": "June Mountain"
+        },
+        {
+          "name": "The Wall",
+          "difficulty": "Very Difficult",
+          "area": "June Mountain"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-27",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 7,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-28",
+        "high_f": null,
+        "low_f": 16,
+        "high_c": null,
+        "low_c": -9,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-29",
+          "high_f": 33,
+          "low_f": 27,
+          "high_c": 0,
+          "low_c": -3,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-30",
+          "high_f": 36,
+          "low_f": 33,
+          "high_c": 2,
+          "low_c": 1,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-31",
+          "high_f": 35,
+          "low_f": 31,
+          "high_c": 2,
+          "low_c": 0,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-29",
+        "high_f": 33,
+        "low_f": 27,
+        "high_c": 0,
+        "low_c": -3,
+        "description": "Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2\" fresh snow overnight",
+      "21 new trails opened today"
+    ],
+    "trends": [
+      "Great week for snow - 51\" in last 7 days",
+      "Grooming increased 100% from yesterday",
+      "21 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "21 New Trails Today",
+    "body": "Zero new inches, but who's complaining? 51\" this week means conditions are still prime. 21 new runs just opened up. Time to explore some fresh terrain.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_holding_strong",
+          "category": "snow",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 2,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "More Mountain to Explore"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

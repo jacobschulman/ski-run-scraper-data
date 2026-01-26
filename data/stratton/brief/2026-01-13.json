@@ -1,0 +1,216 @@
+{
+  "resort": "stratton",
+  "resortName": "Stratton",
+  "date": "2026-01-13",
+  "generated": "2026-01-14T04:44:02.000Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 1,
+      "overnight_cm": 3,
+      "24hour_inches": 2,
+      "24hour_cm": 5,
+      "48hour_inches": 2,
+      "48hour_cm": 5,
+      "7day_inches": 2,
+      "7day_cm": 5,
+      "season_total_inches": 75,
+      "season_total_cm": 191,
+      "conditions": {
+        "today": "Machine Groomed Variable Conditions",
+        "yesterday": "Machine Groomed Variable Conditions"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 69,
+          "yesterday": 69,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 63,
+          "yesterday": 69,
+          "delta": -6
+        },
+        "totalTrails": 123
+      },
+      "newlyOpened": [
+        {
+          "name": "91",
+          "difficulty": "Easy",
+          "area": "Sun Bowl"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "World Cup",
+          "difficulty": "Extreme Terrain",
+          "area": "Upper Mountain"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "91",
+          "difficulty": "Easy",
+          "area": "Sun Bowl"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Craig's Run",
+          "difficulty": "Easy",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Home Run",
+          "difficulty": "Easy",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Lower Switchback ",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Upper Down Easter",
+          "difficulty": "Extreme Terrain",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Upper Grizzly Bear",
+          "difficulty": "Extreme Terrain",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Upper Slalom Glade",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-12",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 14,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-13",
+        "high_f": null,
+        "low_f": 31,
+        "high_c": null,
+        "low_c": -1,
+        "description": "Windy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-14",
+          "high_f": 37,
+          "low_f": 29,
+          "high_c": 3,
+          "low_c": -2,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2026-01-15",
+          "high_f": 28,
+          "low_f": 1,
+          "high_c": -2,
+          "low_c": -17,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-16",
+          "high_f": 12,
+          "low_f": 13,
+          "high_c": -11,
+          "low_c": -10,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-14",
+        "high_f": 37,
+        "low_f": 29,
+        "high_c": 3,
+        "low_c": -2,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 1,
+        "snowfall_expected": 1
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1\" new snow overnight",
+      "1 new trail opened today",
+      "1 trail freshly groomed"
+    ],
+    "trends": [
+      "1\" snow expected Wednesday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on 91 - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Fresh Coat on the Mountain",
+    "body": "2\" of fresh snow settled in overnight. Not a powder day, but an upgrade. Light snow possible in the forecast.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_flurries",
+          "category": "weather",
+          "priority": 30,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "fresh_coat",
+        "variationIndex": 0,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": null
+      },
+      "dayOfWeek": "Tuesday"
+    }
+  },
+  "errors": []
+}

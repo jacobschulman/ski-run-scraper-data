@@ -1,0 +1,247 @@
+{
+  "trailName": "Jax Bowl",
+  "trailSlug": "jax-bowl",
+  "resort": "mtbrighton",
+  "resortName": "Mt Brighton",
+  "area": "Backside",
+  "difficulty": "Blue",
+  "trailType": "Skiing",
+  "currentStatus": {
+    "date": "2026-01-26",
+    "isOpen": false,
+    "isGroomed": true,
+    "groomingStatus": "Groomed",
+    "status": "Closed"
+  },
+  "stats": {
+    "seasonStartDate": "2025-11-22",
+    "daysTracked": 25,
+    "daysGroomed": 25,
+    "groomingPercentage": 100,
+    "currentStreak": 25,
+    "longestStreak": 25,
+    "lastGroomed": "2026-01-26",
+    "dayOfWeek": [
+      {
+        "day": "Sun",
+        "percentage": 100,
+        "groomed": 4,
+        "total": 4
+      },
+      {
+        "day": "Mon",
+        "percentage": 100,
+        "groomed": 4,
+        "total": 4
+      },
+      {
+        "day": "Tue",
+        "percentage": 100,
+        "groomed": 3,
+        "total": 3
+      },
+      {
+        "day": "Wed",
+        "percentage": 100,
+        "groomed": 3,
+        "total": 3
+      },
+      {
+        "day": "Thu",
+        "percentage": 100,
+        "groomed": 3,
+        "total": 3
+      },
+      {
+        "day": "Fri",
+        "percentage": 100,
+        "groomed": 4,
+        "total": 4
+      },
+      {
+        "day": "Sat",
+        "percentage": 100,
+        "groomed": 4,
+        "total": 4
+      }
+    ]
+  },
+  "history": [
+    {
+      "date": "2026-01-26",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-25",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-24",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-23",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-22",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-21",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-20",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-19",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-18",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-17",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-16",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-15",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-14",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-13",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-12",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-11",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-10",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-09",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-08",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-07",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-06",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-05",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-04",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-03",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2026-01-02",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    }
+  ],
+  "generated": "2026-01-26T19:30:29.339Z"
+}

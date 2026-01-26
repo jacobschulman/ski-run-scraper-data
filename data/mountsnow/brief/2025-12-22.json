@@ -1,0 +1,84 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2025-12-22",
+  "generated": "2025-12-22T10:25:11.014Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 35,
+          "yesterday": 36,
+          "delta": -1
+        },
+        "groomedTrails": {
+          "today": 33,
+          "yesterday": 34,
+          "delta": -1
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [],
+      "newlyClosed": [
+        {
+          "name": "Inferno",
+          "difficulty": "TerrainPark",
+          "area": "Carinthia"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-21",
+        "avgWaitTime": 5.3,
+        "maxWaitTime": 15,
+        "totalLiftsTracked": 19,
+        "busiest": [
+          {
+            "name": "Bluebird Express",
+            "avgWait": 7.2,
+            "peakWait": 11,
+            "type": "six",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 6.7,
+            "peakWait": 15,
+            "type": "quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Nitro Express",
+            "avgWait": 3.8,
+            "peakWait": 8,
+            "type": "quad",
+            "mountain": "Carinthia"
+          },
+          {
+            "name": "Grand Summit Express",
+            "avgWait": 2.2,
+            "peakWait": 3,
+            "type": "quad",
+            "mountain": "Main Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

@@ -1,0 +1,72 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2025-12-11",
+  "generated": "2025-12-11T10:23:27.245Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 21,
+          "yesterday": 19,
+          "delta": 2
+        },
+        "groomedTrails": {
+          "today": 19,
+          "yesterday": 18,
+          "delta": 1
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Choke",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Sweet Sixteen",
+          "difficulty": "Green",
+          "area": "Main Face"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-10",
+        "avgWaitTime": 2,
+        "maxWaitTime": 4,
+        "totalLiftsTracked": 19,
+        "busiest": [
+          {
+            "name": "Canyon Express",
+            "avgWait": 2,
+            "peakWait": 4,
+            "type": "quad",
+            "mountain": "Main Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2 new trails opened today"
+    ],
+    "trends": [
+      "2 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

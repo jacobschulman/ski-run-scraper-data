@@ -1,0 +1,199 @@
+{
+  "resort": "sundayriver",
+  "resortName": "Sunday River",
+  "liftId": "reportpal:null",
+  "liftName": "Little White Cap Quad #11",
+  "slug": "little-white-cap-quad-11",
+  "mountain": "WHITE CAP",
+  "type": "Chairlift",
+  "capacity": 4,
+  "currentStatus": {
+    "status": "Open",
+    "waitMinutes": null,
+    "openTime": "09:00",
+    "closeTime": "16:00",
+    "timestamp": "2026-01-26T19:57:21.463Z",
+    "localTime": "14:57"
+  },
+  "stats": {
+    "totalRecords": 12312,
+    "avgWaitTime": null,
+    "minWaitTime": null,
+    "maxWaitTime": null,
+    "daysTracked": 19
+  },
+  "history": [
+    {
+      "date": "2026-01-26",
+      "recordCount": 342,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 72
+    },
+    {
+      "date": "2026-01-25",
+      "recordCount": 798,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 78
+    },
+    {
+      "date": "2026-01-24",
+      "recordCount": 798,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 54
+    },
+    {
+      "date": "2026-01-23",
+      "recordCount": 665,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 74
+    },
+    {
+      "date": "2026-01-22",
+      "recordCount": 551,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 73
+    },
+    {
+      "date": "2026-01-21",
+      "recordCount": 380,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 73
+    },
+    {
+      "date": "2026-01-20",
+      "recordCount": 494,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 70
+    },
+    {
+      "date": "2026-01-19",
+      "recordCount": 627,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 86
+    },
+    {
+      "date": "2026-01-18",
+      "recordCount": 874,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 93
+    },
+    {
+      "date": "2026-01-17",
+      "recordCount": 912,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 87
+    },
+    {
+      "date": "2026-01-16",
+      "recordCount": 608,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 55
+    },
+    {
+      "date": "2026-01-15",
+      "recordCount": 152,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 74
+    },
+    {
+      "date": "2026-01-14",
+      "recordCount": 703,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 71
+    },
+    {
+      "date": "2026-01-13",
+      "recordCount": 684,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 73
+    },
+    {
+      "date": "2026-01-12",
+      "recordCount": 703,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 67
+    },
+    {
+      "date": "2026-01-11",
+      "recordCount": 874,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 86
+    },
+    {
+      "date": "2026-01-10",
+      "recordCount": 893,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 82
+    },
+    {
+      "date": "2026-01-09",
+      "recordCount": 741,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 78
+    },
+    {
+      "date": "2026-01-08",
+      "recordCount": 513,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 74
+    }
+  ],
+  "generated": "2026-01-26T19:57:40.086Z"
+}

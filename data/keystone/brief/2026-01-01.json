@@ -1,0 +1,266 @@
+{
+  "resort": "keystone",
+  "resortName": "Keystone",
+  "date": "2026-01-01",
+  "generated": "2026-01-01T12:38:49.428Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 3,
+      "7day_cm": 7,
+      "season_total_inches": 61,
+      "season_total_cm": 154,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 41,
+          "yesterday": 32,
+          "delta": 9
+        },
+        "groomedTrails": {
+          "today": 29,
+          "yesterday": 27,
+          "delta": 2
+        },
+        "totalTrails": 142
+      },
+      "newlyOpened": [
+        {
+          "name": "Badger",
+          "difficulty": "Black",
+          "area": "Outback"
+        },
+        {
+          "name": "Big Horn",
+          "difficulty": "Blue",
+          "area": "Outback"
+        },
+        {
+          "name": "Black Forest",
+          "difficulty": "Black",
+          "area": "Outback"
+        },
+        {
+          "name": "Bushwhacker",
+          "difficulty": "Black",
+          "area": "Outback"
+        },
+        {
+          "name": "Coyote Caper",
+          "difficulty": "Black",
+          "area": "Outback"
+        },
+        {
+          "name": "Elk Run",
+          "difficulty": "Blue",
+          "area": "Outback"
+        },
+        {
+          "name": "Porcupine",
+          "difficulty": "Blue",
+          "area": "Outback"
+        },
+        {
+          "name": "The Grizz",
+          "difficulty": "Black",
+          "area": "Outback"
+        },
+        {
+          "name": "Timberwolf",
+          "difficulty": "Black",
+          "area": "Outback"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Elk Run",
+          "difficulty": "Blue",
+          "area": "Outback"
+        },
+        {
+          "name": "Porcupine",
+          "difficulty": "Blue",
+          "area": "Outback"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-31",
+        "avgWaitTime": 3.8,
+        "maxWaitTime": 19,
+        "totalLiftsTracked": 21,
+        "busiest": [
+          {
+            "name": "Peru Express",
+            "avgWait": 4.9,
+            "peakWait": 16,
+            "type": "Six Pack",
+            "mountain": "Dercum Mountain"
+          },
+          {
+            "name": "Montezuma Express",
+            "avgWait": 4.8,
+            "peakWait": 14,
+            "type": "Six Pack",
+            "mountain": "Dercum Mountain"
+          },
+          {
+            "name": "River Run Gondola",
+            "avgWait": 4,
+            "peakWait": 19,
+            "type": "Gondola",
+            "mountain": "Dercum Mountain"
+          },
+          {
+            "name": "Summit Express",
+            "avgWait": 3.9,
+            "peakWait": 17,
+            "type": "Quad",
+            "mountain": "Dercum Mountain"
+          },
+          {
+            "name": "Ranger",
+            "avgWait": 3.6,
+            "peakWait": 6,
+            "type": "Triple",
+            "mountain": "Dercum Mountain"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-01",
+        "high_f": 36,
+        "low_f": 24,
+        "high_c": 2,
+        "low_c": -5,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-02T07:00:00Z",
+          "high_f": 32,
+          "low_f": 25,
+          "high_c": null,
+          "low_c": -4,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-03T07:00:00Z",
+          "high_f": 40,
+          "low_f": 20,
+          "high_c": 4,
+          "low_c": -7,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-04T07:00:00Z",
+          "high_f": 37,
+          "low_f": 24,
+          "high_c": 2,
+          "low_c": -4,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-02T07:00:00Z",
+        "high_f": 32,
+        "low_f": 25,
+        "high_c": null,
+        "low_c": -4,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "9 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "9 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Elk Run - perfect for intermediate skiers",
+      "Fresh corduroy on Porcupine - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "New Runs Now Open",
+    "body": "The rundown: 41 trails open, 29 groomed. Cloudy with temps around 36°. The ski patrol has been busy—9 additional trails are now yours to enjoy. Lift lines stayed mellow yesterday, so early laps should feel quick.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_mellow_lines",
+          "category": "lifts",
+          "priority": 50,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 1,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Spring Vibes"
+      },
+      "dayOfWeek": "Thursday"
+    }
+  },
+  "errors": []
+}

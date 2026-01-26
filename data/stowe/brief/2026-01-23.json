@@ -1,0 +1,265 @@
+{
+  "resort": "stowe",
+  "resortName": "Stowe",
+  "date": "2026-01-23",
+  "generated": "2026-01-23T10:24:04.994Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 3,
+      "overnight_cm": 7,
+      "24hour_inches": 6,
+      "24hour_cm": 15,
+      "48hour_inches": 7,
+      "48hour_cm": 17,
+      "7day_inches": 15,
+      "7day_cm": 38,
+      "season_total_inches": 189,
+      "season_total_cm": 480,
+      "conditions": {
+        "today": "Packed Powder",
+        "yesterday": "Packed Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 114,
+          "yesterday": 112,
+          "delta": 2
+        },
+        "groomedTrails": {
+          "today": 61,
+          "yesterday": 62,
+          "delta": -1
+        },
+        "totalTrails": 128
+      },
+      "newlyOpened": [
+        {
+          "name": "National Drop-In",
+          "difficulty": "DoubleBlack",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Upper Goat",
+          "difficulty": "DoubleBlack",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Upper Starr",
+          "difficulty": "DoubleBlack",
+          "area": "Mt. Mansfield - FourRunner"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Birch Glades",
+          "difficulty": "Green",
+          "area": "Mt. Mansfield - FourRunner"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Chapel Lane",
+          "difficulty": "Green",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Lower Toll Road",
+          "difficulty": "Green",
+          "area": "Mt. Mansfield - Toll House"
+        },
+        {
+          "name": "Stowe Derby Trail",
+          "difficulty": "Green",
+          "area": "Mt. Mansfield - Toll House"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Hayride",
+          "difficulty": "Black",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Hayride Loop",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Lower Hayride",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Upper Hayride",
+          "difficulty": "Black",
+          "area": "Mt. Mansfield - FourRunner"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-22",
+        "avgWaitTime": 5,
+        "maxWaitTime": 34,
+        "totalLiftsTracked": 12,
+        "busiest": [
+          {
+            "name": "Mansfield Gondola",
+            "avgWait": 8.6,
+            "peakWait": 34,
+            "type": "Gondola",
+            "mountain": "Mt. Mansfield - Gondola"
+          },
+          {
+            "name": "FourRunner Quad",
+            "avgWait": 5.9,
+            "peakWait": 27,
+            "type": "Quad",
+            "mountain": "Mt. Mansfield - FourRunner"
+          },
+          {
+            "name": "Sensation Quad",
+            "avgWait": 3.1,
+            "peakWait": 4,
+            "type": "Quad",
+            "mountain": "Spruce Peak"
+          },
+          {
+            "name": "Sunrise Lift",
+            "avgWait": 2,
+            "peakWait": 4,
+            "type": "Six Pack",
+            "mountain": "Mt. Mansfield - FourRunner"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-23",
+        "high_f": 6,
+        "low_f": -17,
+        "high_c": -15,
+        "low_c": -27,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-24T05:00:00Z",
+          "high_f": -12,
+          "low_f": -21,
+          "high_c": -25,
+          "low_c": -30,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-25T05:00:00Z",
+          "high_f": 3,
+          "low_f": -11,
+          "high_c": -17,
+          "low_c": -24,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-26T05:00:00Z",
+          "high_f": 5,
+          "low_f": -5,
+          "high_c": -15,
+          "low_c": -21,
+          "description": "Snow & Wind",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-24T05:00:00Z",
+        "high_f": -12,
+        "low_f": -21,
+        "high_c": -25,
+        "low_c": -30,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "3\" fresh snow overnight",
+      "6\" in last 24 hours - powder day!",
+      "3 new trails opened today",
+      "3 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 15\" in last 7 days",
+      "2 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Chapel Lane - great for beginners",
+      "Fresh corduroy on Lower Toll Road - great for beginners",
+      "Fresh corduroy on Stowe Derby Trail - great for beginners"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Powder Day Alert",
+    "body": "Wake up, it's a powder day! 6\" overnight means hero snow everywhere. 3 new trails opened today. Heads up: Mansfield Gondola peaked at 34 minutes yesterday. Consider alternatives.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_micro",
+          "category": "terrain",
+          "priority": 45,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_busy",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 7,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 0,
+        "totalVariations": 11,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Fresh Layer in Place"
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
+  "errors": []
+}

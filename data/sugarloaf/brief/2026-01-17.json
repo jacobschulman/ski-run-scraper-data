@@ -1,0 +1,435 @@
+{
+  "resort": "sugarloaf",
+  "resortName": "Sugarloaf",
+  "date": "2026-01-17",
+  "generated": "2026-01-18T04:39:02.846Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 1,
+      "overnight_cm": 3,
+      "24hour_inches": 4,
+      "24hour_cm": 10,
+      "48hour_inches": 4,
+      "48hour_cm": 10,
+      "7day_inches": 16,
+      "7day_cm": 41,
+      "season_total_inches": 66,
+      "season_total_cm": 168,
+      "conditions": {
+        "today": "Packed Powder",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 130,
+          "yesterday": 86,
+          "delta": 44
+        },
+        "groomedTrails": {
+          "today": 66,
+          "yesterday": 60,
+          "delta": 6
+        },
+        "totalTrails": 176
+      },
+      "newlyOpened": [
+        {
+          "name": "Schipper's Streak",
+          "difficulty": "Novice",
+          "area": "Double Runner"
+        },
+        {
+          "name": "Alice's Winterland Glade",
+          "difficulty": "Novice",
+          "area": "Double Runner"
+        },
+        {
+          "name": "Branding Ax Glade",
+          "difficulty": "Black",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Kickback",
+          "difficulty": "Black",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Swedish Fiddle Glade",
+          "difficulty": "Black",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Blade Glade",
+          "difficulty": "Double Black",
+          "area": "Skyline"
+        },
+        {
+          "name": "Cant Hook Glade",
+          "difficulty": "Double Black",
+          "area": "Skyline"
+        },
+        {
+          "name": "Gondi Glade",
+          "difficulty": "Double Black",
+          "area": "Skyline"
+        },
+        {
+          "name": "Kerf Glade",
+          "difficulty": "Black",
+          "area": "Skyline"
+        },
+        {
+          "name": "West Sluice Chute",
+          "difficulty": "Black",
+          "area": "Skyline"
+        },
+        {
+          "name": "Blueberry's Grove Glade",
+          "difficulty": "Blue",
+          "area": "Whiffletree"
+        },
+        {
+          "name": "Broccoli Garden Glade",
+          "difficulty": "Black",
+          "area": "Whiffletree"
+        },
+        {
+          "name": "Jackpot Glade",
+          "difficulty": "Blue",
+          "area": "Whiffletree"
+        },
+        {
+          "name": "Jill Poke",
+          "difficulty": "Blue",
+          "area": "Whiffletree"
+        },
+        {
+          "name": "Lower Rookie River Glade",
+          "difficulty": "Black",
+          "area": "Whiffletree"
+        },
+        {
+          "name": "Stub's Glade",
+          "difficulty": "Black",
+          "area": "Whiffletree"
+        },
+        {
+          "name": "Upper Buckboard",
+          "difficulty": "Blue",
+          "area": "Whiffletree"
+        },
+        {
+          "name": "Upper Rookie River Glade",
+          "difficulty": "Black",
+          "area": "Whiffletree"
+        },
+        {
+          "name": "Boomer Glade",
+          "difficulty": "Black",
+          "area": "King Pine"
+        },
+        {
+          "name": "Fred's Pitch Glade",
+          "difficulty": "Black",
+          "area": "King Pine"
+        },
+        {
+          "name": "Tin Pants",
+          "difficulty": "Blue",
+          "area": "Timberline"
+        },
+        {
+          "name": "Skid Road",
+          "difficulty": "Blue",
+          "area": "Timberline"
+        },
+        {
+          "name": "Lower Glancer",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Lower Scoot",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Androscoggin Glade",
+          "difficulty": "Double Black",
+          "area": "Brackett Basin"
+        },
+        {
+          "name": "Birler Glade One",
+          "difficulty": "Double Black",
+          "area": "Brackett Basin"
+        },
+        {
+          "name": "Birler Glade Two",
+          "difficulty": "Double Black",
+          "area": "Brackett Basin"
+        },
+        {
+          "name": "Edger Glade One",
+          "difficulty": "Double Black",
+          "area": "Brackett Basin"
+        },
+        {
+          "name": "Edger Glade Two",
+          "difficulty": "Double Black",
+          "area": "Brackett Basin"
+        },
+        {
+          "name": "Slashfire",
+          "difficulty": "Double Black",
+          "area": "Brackett Basin"
+        },
+        {
+          "name": "Sweeper Glade One",
+          "difficulty": "Double Black",
+          "area": "Brackett Basin"
+        },
+        {
+          "name": "Sweeper Glade Two",
+          "difficulty": "Double Black",
+          "area": "Brackett Basin"
+        },
+        {
+          "name": "Cant Dog One",
+          "difficulty": "Double Black",
+          "area": "Brackett Basin"
+        },
+        {
+          "name": "Cant Dog Two",
+          "difficulty": "Double Black",
+          "area": "Brackett Basin"
+        },
+        {
+          "name": "Rough Cut Glade",
+          "difficulty": "Blue",
+          "area": "Brackett Basin"
+        },
+        {
+          "name": "Red Horse Glade",
+          "difficulty": "Blue",
+          "area": "Brackett Basin"
+        },
+        {
+          "name": "Blacksmith Glade",
+          "difficulty": "Blue",
+          "area": "Brackett Basin"
+        },
+        {
+          "name": "High Ball Glade",
+          "difficulty": "Blue",
+          "area": "Brackett Basin"
+        },
+        {
+          "name": "Little Androscoggin Glade",
+          "difficulty": "Black",
+          "area": "Brackett Basin"
+        },
+        {
+          "name": "Logging Road",
+          "difficulty": "Blue",
+          "area": "Brackett Basin"
+        },
+        {
+          "name": "Lower Kennebec Glade",
+          "difficulty": "Black",
+          "area": "Brackett Basin"
+        },
+        {
+          "name": "Golden Road",
+          "difficulty": "Double Black",
+          "area": "Brackett Basin"
+        },
+        {
+          "name": "Eastern Territory",
+          "difficulty": "Double Black",
+          "area": "Brackett Basin"
+        },
+        {
+          "name": "Upper Kennebec Glade",
+          "difficulty": "Black",
+          "area": "Brackett Basin"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Picaroon",
+          "difficulty": "Novice",
+          "area": "Double Runner"
+        },
+        {
+          "name": "Lower Double Bitter",
+          "difficulty": "Black",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Lower Skidder",
+          "difficulty": "Double Black",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Upper Skidder",
+          "difficulty": "Double Black",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Lower Whiffletree",
+          "difficulty": "Novice",
+          "area": "Whiffletree"
+        },
+        {
+          "name": "Bucksaw X-Cut",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Lower Glancer",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Condo X-Cut",
+          "difficulty": "Novice",
+          "area": "Whiffletree"
+        },
+        {
+          "name": "Cross Haul",
+          "difficulty": "Novice",
+          "area": "Whiffletree"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-16",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 15,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-17",
+        "high_f": null,
+        "low_f": 19,
+        "description": "Windy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-18",
+          "high_f": 21,
+          "low_f": 13,
+          "description": "Windy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2026-01-19",
+          "high_f": 12,
+          "low_f": 1,
+          "description": "Cloudy",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2026-01-20",
+          "high_f": 0,
+          "low_f": -6,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-18",
+        "high_f": 21,
+        "low_f": 13,
+        "description": "Windy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 1
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1\" new snow overnight",
+      "44 new trails opened today",
+      "7 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 16\" in last 7 days",
+      "44 more trails open than yesterday",
+      "1\" snow expected Sunday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Picaroon - all skill levels",
+      "Fresh corduroy on Lower Double Bitter - challenging for advanced skiers",
+      "Fresh corduroy on Lower Skidder - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "The Map Exploded",
+    "body": "Solid refresh: 4\" overnight freshened up the mountain nicely. MASSIVE expansion: 44 new trails opened. The floodgates are open. The forecast is flirting with us: light snow expected. Not a dump, but welcome.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_massive",
+          "category": "terrain",
+          "priority": 95,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_solid",
+          "category": "snow",
+          "priority": 82,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_massive",
+          "category": "terrain",
+          "priority": 95,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_snow_coming",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 7,
+      "headlineSelection": {
+        "condition": "terrain_massive",
+        "variationIndex": 4,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Major Terrain Drop"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

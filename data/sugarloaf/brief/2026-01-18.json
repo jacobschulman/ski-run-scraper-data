@@ -1,0 +1,248 @@
+{
+  "resort": "sugarloaf",
+  "resortName": "Sugarloaf",
+  "date": "2026-01-18",
+  "generated": "2026-01-19T04:48:35.695Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 4,
+      "48hour_cm": 10,
+      "7day_inches": 16,
+      "7day_cm": 41,
+      "season_total_inches": 66,
+      "season_total_cm": 168,
+      "conditions": {
+        "today": "Packed Powder",
+        "yesterday": "Packed Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 136,
+          "yesterday": 130,
+          "delta": 6
+        },
+        "groomedTrails": {
+          "today": 55,
+          "yesterday": 66,
+          "delta": -11
+        },
+        "totalTrails": 176
+      },
+      "newlyOpened": [
+        {
+          "name": "Moose Alley",
+          "difficulty": "Blue",
+          "area": "Whiffletree"
+        },
+        {
+          "name": "Powder Keg",
+          "difficulty": "Double Black",
+          "area": "Snowfields™ Summit"
+        },
+        {
+          "name": "Barber Chair Glade",
+          "difficulty": "Blue",
+          "area": "Timberline"
+        },
+        {
+          "name": "Greenhorn Glade",
+          "difficulty": "Blue",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Raker Tooth Glade",
+          "difficulty": "Black",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Ram Pasture Glade",
+          "difficulty": "Black",
+          "area": "West Mountain"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": [
+        {
+          "name": "Picaroon",
+          "difficulty": "Novice",
+          "area": "Double Runner"
+        },
+        {
+          "name": "Lower Double Bitter",
+          "difficulty": "Black",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Pinch",
+          "difficulty": "Blue",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Spurline",
+          "difficulty": "Blue",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Upper Skidder",
+          "difficulty": "Double Black",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Midstation X-Cut",
+          "difficulty": "Blue",
+          "area": "Skyline"
+        },
+        {
+          "name": "Lower Whiffletree",
+          "difficulty": "Novice",
+          "area": "Whiffletree"
+        },
+        {
+          "name": "Bucksaw X-Cut",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Good Chance X-Cut",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Lower Glancer",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Upper Scoot",
+          "difficulty": "Blue",
+          "area": "West Mountain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-17",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 15,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-18",
+        "high_f": null,
+        "low_f": 12,
+        "description": "Cloudy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-19",
+          "high_f": 13,
+          "low_f": 1,
+          "description": "Cloudy",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2026-01-20",
+          "high_f": 0,
+          "low_f": -7,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-21",
+          "high_f": 4,
+          "low_f": 5,
+          "description": "Windy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-19",
+        "high_f": 13,
+        "low_f": 1,
+        "description": "Cloudy",
+        "snowfall_day_inches": 2,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 2
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "6 new trails opened today"
+    ],
+    "trends": [
+      "Great week for snow - 16\" in last 7 days",
+      "6 more trails open than yesterday",
+      "2\" snow expected Monday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Fresh Terrain Unlocked",
+    "body": "Zero new inches, but who's complaining? 16\" this week means conditions are still prime. Terrain expanding: 6 new trails opening up more options. Keep an eye on the sky - a refresh is coming. A few inches on the way.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_holding_strong",
+          "category": "snow",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_snow_coming",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 3,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "More Mountain to Explore"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

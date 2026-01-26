@@ -1,0 +1,97 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2026-01-06",
+  "generated": "2026-01-06T10:25:35.551Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 51,
+          "yesterday": 52,
+          "delta": -1
+        },
+        "groomedTrails": {
+          "today": 42,
+          "yesterday": 42,
+          "delta": 0
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "The Farm",
+          "difficulty": "TerrainPark",
+          "area": "Carinthia"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "PDF",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Moonbeam",
+          "difficulty": "Blue",
+          "area": "Sunbrook"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-05",
+        "avgWaitTime": 2.7,
+        "maxWaitTime": 8,
+        "totalLiftsTracked": 18,
+        "busiest": [
+          {
+            "name": "Bluebird Express",
+            "avgWait": 3.8,
+            "peakWait": 7,
+            "type": "Six Pack",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Nitro Express",
+            "avgWait": 2.6,
+            "peakWait": 8,
+            "type": "Quad",
+            "mountain": "Carinthia"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 2.4,
+            "peakWait": 5,
+            "type": "Quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Challenger",
+            "avgWait": 1.3,
+            "peakWait": 3,
+            "type": "Triple",
+            "mountain": "North Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today"
+    ],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

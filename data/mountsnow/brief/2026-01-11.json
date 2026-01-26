@@ -1,0 +1,169 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2026-01-11",
+  "generated": "2026-01-11T11:17:51.552Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 46,
+          "yesterday": 60,
+          "delta": -14
+        },
+        "groomedTrails": {
+          "today": 42,
+          "yesterday": 44,
+          "delta": -2
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Cooper's Junction",
+          "difficulty": "Green",
+          "area": "Main Face"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Inferno",
+          "difficulty": "TerrainPark",
+          "area": "Carinthia"
+        },
+        {
+          "name": "Junkyard",
+          "difficulty": "TerrainPark",
+          "area": "Carinthia"
+        },
+        {
+          "name": "Choke",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Committed",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Drifter",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Ledge",
+          "difficulty": "Black",
+          "area": "Main Face"
+        },
+        {
+          "name": "Pat's Pitch",
+          "difficulty": "Black",
+          "area": "Main Face"
+        },
+        {
+          "name": "Switchback",
+          "difficulty": "Green",
+          "area": "Main Face"
+        },
+        {
+          "name": "Under Pressure",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Yard Sale",
+          "difficulty": "Black",
+          "area": "Main Face"
+        },
+        {
+          "name": "Boulder Pile",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Challenger",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Little Steep",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Plummet",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Sunspot",
+          "difficulty": "Blue",
+          "area": "Sunbrook"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-10",
+        "avgWaitTime": 4.3,
+        "maxWaitTime": 15,
+        "totalLiftsTracked": 18,
+        "busiest": [
+          {
+            "name": "Nitro Express",
+            "avgWait": 7,
+            "peakWait": 14,
+            "type": "Quad",
+            "mountain": "Carinthia"
+          },
+          {
+            "name": "Bluebird Express",
+            "avgWait": 6.3,
+            "peakWait": 13,
+            "type": "Six Pack",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 3.4,
+            "peakWait": 15,
+            "type": "Quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Grand Summit Express",
+            "avgWait": 2.3,
+            "peakWait": 3,
+            "type": "Quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Challenger",
+            "avgWait": 1.5,
+            "peakWait": 3,
+            "type": "Triple",
+            "mountain": "North Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today"
+    ],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

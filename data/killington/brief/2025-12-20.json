@@ -1,0 +1,308 @@
+{
+  "resort": "killington",
+  "resortName": "Killington",
+  "date": "2025-12-20",
+  "generated": "2025-12-21T04:34:17.199Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 84,
+          "yesterday": 57,
+          "delta": 27
+        },
+        "groomedTrails": {
+          "today": 50,
+          "yesterday": 49,
+          "delta": 1
+        },
+        "totalTrails": 222
+      },
+      "newlyOpened": [
+        {
+          "name": "Powerline",
+          "difficulty": "Black",
+          "area": "North Ridge Area"
+        },
+        {
+          "name": "Ridge Run - Upper",
+          "difficulty": "Black",
+          "area": "North Ridge Area"
+        },
+        {
+          "name": "Cascade - Headwall",
+          "difficulty": "Double Black",
+          "area": "Killington Peak"
+        },
+        {
+          "name": "Catwalk - Lower",
+          "difficulty": "Blue",
+          "area": "Killington Peak"
+        },
+        {
+          "name": "Helter Skelter",
+          "difficulty": "Black",
+          "area": "Killington Peak"
+        },
+        {
+          "name": "Low Rider",
+          "difficulty": "Black",
+          "area": "Snowdon"
+        },
+        {
+          "name": "Alpine Training Venue",
+          "difficulty": "Blue",
+          "area": "Ramshead"
+        },
+        {
+          "name": "Header",
+          "difficulty": "Blue",
+          "area": "Ramshead"
+        },
+        {
+          "name": "Timberline",
+          "difficulty": "Blue",
+          "area": "Ramshead"
+        },
+        {
+          "name": "Downdraft - Headwall",
+          "difficulty": "Double Black",
+          "area": "Canyon Area"
+        },
+        {
+          "name": "Wildfire - Upper",
+          "difficulty": "Black",
+          "area": "Bear Mountain"
+        },
+        {
+          "name": "Low Road",
+          "difficulty": "Blue",
+          "area": "Skye Peak"
+        },
+        {
+          "name": "Needles Eye - Upper",
+          "difficulty": "Black",
+          "area": "Skye Peak"
+        },
+        {
+          "name": "Old Superstar",
+          "difficulty": "Black",
+          "area": "Skye Peak"
+        },
+        {
+          "name": "Ovation - Middle",
+          "difficulty": "Black",
+          "area": "Skye Peak"
+        },
+        {
+          "name": "Skye Hawk",
+          "difficulty": "Black",
+          "area": "Skye Peak"
+        },
+        {
+          "name": "Skyelark - Lower",
+          "difficulty": "Black",
+          "area": "Skye Peak"
+        },
+        {
+          "name": "Frolic",
+          "difficulty": "Blue",
+          "area": "Snowdon"
+        },
+        {
+          "name": "North Star",
+          "difficulty": "Black",
+          "area": "Snowdon"
+        },
+        {
+          "name": "Patsy's",
+          "difficulty": "Black",
+          "area": "Snowdon"
+        },
+        {
+          "name": "Scarecrow",
+          "difficulty": "Black",
+          "area": "Snowdon"
+        },
+        {
+          "name": "Tin Man",
+          "difficulty": "Black",
+          "area": "Snowdon"
+        },
+        {
+          "name": "Vagabond",
+          "difficulty": "Blue",
+          "area": "Snowdon"
+        },
+        {
+          "name": "Mouse Run - Lower",
+          "difficulty": "Blue",
+          "area": "Snowdon"
+        },
+        {
+          "name": "Top of Ramshead Quad to top of Snowdon",
+          "difficulty": "Blue",
+          "area": "Uphill Travel"
+        },
+        {
+          "name": "Killington/Pico Interconnect",
+          "difficulty": "Blue",
+          "area": "Uphill Travel"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Wildfire - Lower",
+          "difficulty": "Black",
+          "area": "Bear Mountain"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Skyelark - Lower",
+          "difficulty": "Black",
+          "area": "Skye Peak"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-20",
+        "high_f": null,
+        "low_f": 26,
+        "high_c": null,
+        "low_c": -3,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-21",
+          "high_f": 25,
+          "low_f": 4,
+          "high_c": -4,
+          "low_c": -16,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-22",
+          "high_f": 16,
+          "low_f": 17,
+          "high_c": -9,
+          "low_c": -9,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-23",
+          "high_f": 22,
+          "low_f": 21,
+          "high_c": -6,
+          "low_c": -6,
+          "description": "Snow",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 2,
+          "snowfall_expected": 4
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-21",
+        "high_f": 25,
+        "low_f": 4,
+        "high_c": -4,
+        "low_c": -16,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "26 new trails opened today",
+      "1 trails freshly groomed"
+    ],
+    "trends": [
+      "27 more trails open than yesterday",
+      "4\" snow expected Tuesday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Skyelark - Lower - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "New Runs Now Open",
+    "body": "84 of 222 trails are open with 50 groomed. Windy with a high of null°F. 26 more trails are in play today. The groomers are getting stretched thin (in a good way). Keep an eye on the sky—a refresh is coming. A few inches of snow on the way.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_snow_coming",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 1,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "{newTrailsCount} New Trails Today"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

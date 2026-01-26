@@ -1,0 +1,128 @@
+{
+  "resort": "telluride",
+  "resortName": "Telluride",
+  "date": "2026-01-17",
+  "generated": "2026-01-17T12:34:23.565Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 76,
+          "yesterday": 73,
+          "delta": 3
+        },
+        "groomedTrails": {
+          "today": 36,
+          "yesterday": 40,
+          "delta": -4
+        },
+        "totalTrails": 157
+      },
+      "newlyOpened": [
+        {
+          "name": "Gold Rush",
+          "difficulty": "Blue",
+          "area": "Polar Queen Express"
+        },
+        {
+          "name": "La Rosa",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        },
+        {
+          "name": "Genevieve",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        },
+        {
+          "name": "Crystal",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        },
+        {
+          "name": "Confidence",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Pick ‘n Gad",
+          "difficulty": "Blue",
+          "area": "Village Express"
+        },
+        {
+          "name": "Wildcat",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Meadows – North",
+          "difficulty": "Green",
+          "area": "Chondola"
+        },
+        {
+          "name": "Magnolia",
+          "difficulty": "Blue",
+          "area": "Prospect Express"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Enchanted Forest",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Bridges",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Sundance",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Teddy’s Way",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Madison",
+          "difficulty": "Green",
+          "area": "Prospect Express"
+        },
+        {
+          "name": "Sandia",
+          "difficulty": "Blue",
+          "area": "Prospect Express"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "5 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "3 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Meadows – North - great for beginners",
+      "Fresh corduroy on Magnolia - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

@@ -1,0 +1,363 @@
+{
+  "resort": "palisades",
+  "resortName": "Palisades Tahoe",
+  "date": "2026-01-05",
+  "generated": "2026-01-06T07:23:30.627Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 7,
+      "overnight_cm": 18,
+      "24hour_inches": 19,
+      "24hour_cm": 48,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 41,
+      "7day_cm": 104,
+      "season_total_inches": 143,
+      "season_total_cm": 363,
+      "conditions": {
+        "today": "Powder, Machine Groomed",
+        "yesterday": "Powder, Machine Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 112,
+          "yesterday": 131,
+          "delta": -19
+        },
+        "groomedTrails": {
+          "today": 14,
+          "yesterday": 21,
+          "delta": -7
+        },
+        "totalTrails": 301
+      },
+      "newlyOpened": [
+        {
+          "name": "Poulsen's Gully",
+          "difficulty": "Expert",
+          "area": "Snow King Peak"
+        },
+        {
+          "name": "Red Dog Glades",
+          "difficulty": "Very Difficult",
+          "area": "Snow King Peak"
+        },
+        {
+          "name": "D5",
+          "difficulty": "Very Difficult",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "D6",
+          "difficulty": "Very Difficult",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Wolverine Saddle",
+          "difficulty": "Very Difficult",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Scott Chute",
+          "difficulty": "Expert",
+          "area": "Scott/Lakeview Peak"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Burkhart's",
+          "difficulty": "Intermediate",
+          "area": "High Camp"
+        },
+        {
+          "name": "Larkspur",
+          "difficulty": "Easy",
+          "area": "High Camp"
+        },
+        {
+          "name": "Lost Lake Loop",
+          "difficulty": "Intermediate",
+          "area": "High Camp"
+        },
+        {
+          "name": "Lupine",
+          "difficulty": "Easy",
+          "area": "High Camp"
+        },
+        {
+          "name": "Monkey Flower",
+          "difficulty": "Easy",
+          "area": "High Camp"
+        },
+        {
+          "name": "Mountain Run",
+          "difficulty": "Intermediate",
+          "area": "High Camp"
+        },
+        {
+          "name": "Mules Ear",
+          "difficulty": "Easy",
+          "area": "High Camp"
+        },
+        {
+          "name": "Olympic High",
+          "difficulty": "Intermediate",
+          "area": "High Camp"
+        },
+        {
+          "name": "Poppy",
+          "difficulty": "Easy",
+          "area": "High Camp"
+        },
+        {
+          "name": "Shooting Star",
+          "difficulty": "Easy",
+          "area": "High Camp"
+        },
+        {
+          "name": "Tower 16",
+          "difficulty": "Very Difficult",
+          "area": "High Camp"
+        },
+        {
+          "name": "Atkinson's - 3rd Tree",
+          "difficulty": "Intermediate",
+          "area": "Granite Peak"
+        },
+        {
+          "name": "Freeway",
+          "difficulty": "Intermediate",
+          "area": "Granite Peak"
+        },
+        {
+          "name": "Hill's - 2nd Tree",
+          "difficulty": "Intermediate",
+          "area": "Granite Peak"
+        },
+        {
+          "name": "Joe's Garage",
+          "difficulty": "Intermediate",
+          "area": "Granite Peak"
+        },
+        {
+          "name": "Marillac's - 5th Tree",
+          "difficulty": "Intermediate",
+          "area": "Granite Peak"
+        },
+        {
+          "name": "Rainbow Bowl",
+          "difficulty": "Intermediate",
+          "area": "Granite Peak"
+        },
+        {
+          "name": "Reuter's - 6th Tree",
+          "difficulty": "Intermediate",
+          "area": "Granite Peak"
+        },
+        {
+          "name": "Shirley Bowl",
+          "difficulty": "Intermediate",
+          "area": "Granite Peak"
+        },
+        {
+          "name": "Standteiner's - 4th Tree",
+          "difficulty": "Intermediate",
+          "area": "Granite Peak"
+        },
+        {
+          "name": "Teenage Wasteland",
+          "difficulty": "Intermediate",
+          "area": "Granite Peak"
+        },
+        {
+          "name": "Tomlinson's - 1st Tree",
+          "difficulty": "Intermediate",
+          "area": "Granite Peak"
+        },
+        {
+          "name": "To Solitude",
+          "difficulty": "Intermediate",
+          "area": "Granite Peak"
+        },
+        {
+          "name": "Belmont Park",
+          "difficulty": "SmallPark",
+          "area": "Terrain Parks"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-04",
+        "avgWaitTime": 114.9,
+        "maxWaitTime": 2856,
+        "totalLiftsTracked": 39,
+        "busiest": [
+          {
+            "name": "KT-22 Express",
+            "avgWait": 306,
+            "peakWait": 2856,
+            "type": "High-Speed Quad",
+            "mountain": "KT Peak"
+          },
+          {
+            "name": "Scott",
+            "avgWait": 279,
+            "peakWait": 682,
+            "type": "Triple Chair",
+            "mountain": "Scott/Lakeview Peak"
+          },
+          {
+            "name": "Funitel",
+            "avgWait": 198.4,
+            "peakWait": 2152,
+            "type": "Funitel",
+            "mountain": "Emigrant Peak"
+          },
+          {
+            "name": "Summit Express",
+            "avgWait": 155.8,
+            "peakWait": 951,
+            "type": "High-Speed 6 Chair",
+            "mountain": "Summit Peak"
+          },
+          {
+            "name": "Shirley Lake Express",
+            "avgWait": 135.6,
+            "peakWait": 443,
+            "type": "High-Speed 6 Chair",
+            "mountain": "Granite Peak"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-05",
+        "high_f": null,
+        "low_f": 22,
+        "high_c": null,
+        "low_c": -5,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-06",
+          "high_f": 31,
+          "low_f": 24,
+          "high_c": 0,
+          "low_c": -4,
+          "description": "Mostly Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-07",
+          "high_f": 29,
+          "low_f": 15,
+          "high_c": -2,
+          "low_c": -9,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 2,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2026-01-08",
+          "high_f": 22,
+          "low_f": 18,
+          "high_c": -6,
+          "low_c": -8,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-06",
+        "high_f": 31,
+        "low_f": 24,
+        "high_c": 0,
+        "low_c": -4,
+        "description": "Mostly Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": true
+    },
+    "alerts": [
+      "7\" fresh snow overnight",
+      "19\" in last 24 hours - powder day!",
+      "6 new trails opened today"
+    ],
+    "trends": [
+      "Great week for snow - 41\" in last 7 days",
+      "High demand yesterday - average wait time 114.9 min",
+      "2\" snow expected Wednesday"
+    ],
+    "recommendations": [
+      "KT-22 Express had longest waits (306 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Career Day Potential",
+    "body": "The storm went big: 19\" of the good stuff. Stashes everywhere, groomers buried. Light snow possible in the forecast. It's a holiday - expect a full house. Plan for crowds at popular lifts.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_epic",
+          "category": "snow",
+          "priority": 98,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_epic",
+          "category": "snow",
+          "priority": 98,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_flurries",
+          "category": "weather",
+          "priority": 30,
+          "usedFor": "body"
+        },
+        {
+          "id": "time_holiday",
+          "category": "time",
+          "priority": 70,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "snow_epic",
+        "variationIndex": 1,
+        "totalVariations": 9,
+        "usedWeekendVariation": false,
+        "previousHeadline": "This Is What You Came For"
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,164 @@
+{
+  "resort": "junemountain",
+  "resortName": "June Mountain",
+  "date": "2025-12-26",
+  "generated": "2025-12-27T07:15:43.747Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 2,
+      "overnight_cm": 5,
+      "24hour_inches": 8,
+      "24hour_cm": 20,
+      "48hour_inches": 40,
+      "48hour_cm": 102,
+      "7day_inches": 51,
+      "7day_cm": 130,
+      "season_total_inches": 72,
+      "season_total_cm": 183,
+      "conditions": {
+        "today": "Fresh Powder",
+        "yesterday": "Fresh Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 3,
+          "yesterday": 3,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 3,
+          "yesterday": 3,
+          "delta": 0
+        },
+        "totalTrails": 44
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-25",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 7,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-26",
+        "high_f": null,
+        "low_f": 14,
+        "high_c": null,
+        "low_c": -10,
+        "description": "Windy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-27",
+          "high_f": 21,
+          "low_f": 16,
+          "high_c": -6,
+          "low_c": -9,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-28",
+          "high_f": 25,
+          "low_f": 19,
+          "high_c": -4,
+          "low_c": -7,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-29",
+          "high_f": 32,
+          "low_f": 28,
+          "high_c": 0,
+          "low_c": -2,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-27",
+        "high_f": 21,
+        "low_f": 16,
+        "high_c": -6,
+        "low_c": -9,
+        "description": "Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2\" fresh snow overnight",
+      "8\" in last 24 hours - powder day!"
+    ],
+    "trends": [
+      "Great week for snow - 51\" in last 7 days"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Fresh Tracks for Days",
+    "body": "Powder alert! 8\" of fresh overnight means soft conditions across the entire mountain. Snow expected today or tomorrow with conditions continuing to improve.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_snow_today_tomorrow",
+          "category": "weather",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 5,
+        "totalVariations": 12,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Waist-Deep Conditions"
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
+  "errors": []
+}

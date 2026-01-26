@@ -1,0 +1,318 @@
+{
+  "resort": "solitude",
+  "resortName": "Solitude",
+  "date": "2026-01-23",
+  "generated": "2026-01-24T06:26:47.714Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 130,
+      "season_total_cm": 330,
+      "conditions": {
+        "today": "Variable Conditions",
+        "yesterday": "Variable Conditions"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 67,
+          "yesterday": 96,
+          "delta": -29
+        },
+        "groomedTrails": {
+          "today": 25,
+          "yesterday": 32,
+          "delta": -7
+        },
+        "totalTrails": 107
+      },
+      "newlyOpened": [
+        {
+          "name": "Main Street Terrain Park",
+          "difficulty": "Intermediate",
+          "area": "Eagle Ridge"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Back Door",
+          "difficulty": "Intermediate",
+          "area": "Solitude Canyon"
+        },
+        {
+          "name": "Broadway",
+          "difficulty": "Intermediate",
+          "area": "Solitude Canyon"
+        },
+        {
+          "name": "Corner Chute",
+          "difficulty": "Difficult",
+          "area": "Solitude Canyon"
+        },
+        {
+          "name": "Dynamite",
+          "difficulty": "Intermediate",
+          "area": "Solitude Canyon"
+        },
+        {
+          "name": "Front Door",
+          "difficulty": "Intermediate",
+          "area": "Solitude Canyon"
+        },
+        {
+          "name": "Headwall Forest",
+          "difficulty": "Expert",
+          "area": "Solitude Canyon"
+        },
+        {
+          "name": "Liberty",
+          "difficulty": "Intermediate",
+          "area": "Solitude Canyon"
+        },
+        {
+          "name": "Mine",
+          "difficulty": "Intermediate",
+          "area": "Solitude Canyon"
+        },
+        {
+          "name": "North Star",
+          "difficulty": "Intermediate",
+          "area": "Solitude Canyon"
+        },
+        {
+          "name": "Polaris",
+          "difficulty": "Intermediate",
+          "area": "Solitude Canyon"
+        },
+        {
+          "name": "Roller Coaster",
+          "difficulty": "Difficult",
+          "area": "Solitude Canyon"
+        },
+        {
+          "name": "Scree Slope",
+          "difficulty": "Difficult",
+          "area": "Solitude Canyon"
+        },
+        {
+          "name": "Sensation",
+          "difficulty": "Intermediate",
+          "area": "Solitude Canyon"
+        },
+        {
+          "name": "Shaft",
+          "difficulty": "Difficult",
+          "area": "Solitude Canyon"
+        },
+        {
+          "name": "SolBright",
+          "difficulty": "Intermediate",
+          "area": "Solitude Canyon"
+        },
+        {
+          "name": "South Star",
+          "difficulty": "Intermediate",
+          "area": "Solitude Canyon"
+        },
+        {
+          "name": "Summit Access East",
+          "difficulty": "Intermediate",
+          "area": "Solitude Canyon"
+        },
+        {
+          "name": "Timberline",
+          "difficulty": "Intermediate",
+          "area": "Solitude Canyon"
+        },
+        {
+          "name": "Zip-A-Dee",
+          "difficulty": "Intermediate",
+          "area": "Solitude Canyon"
+        },
+        {
+          "name": "Black Bess",
+          "difficulty": "Difficult",
+          "area": "Honeycomb Canyon"
+        },
+        {
+          "name": "Boundary Chutes",
+          "difficulty": "Difficult",
+          "area": "Honeycomb Canyon"
+        },
+        {
+          "name": "Buckeye Junior",
+          "difficulty": "Difficult",
+          "area": "Honeycomb Canyon"
+        },
+        {
+          "name": "Crystal Point",
+          "difficulty": "Expert",
+          "area": "Honeycomb Canyon"
+        },
+        {
+          "name": "No Man's Land",
+          "difficulty": "Expert",
+          "area": "Honeycomb Canyon"
+        },
+        {
+          "name": "Prince of Wales",
+          "difficulty": "Difficult",
+          "area": "Honeycomb Canyon"
+        },
+        {
+          "name": "Voltaire",
+          "difficulty": "Difficult",
+          "area": "Honeycomb Canyon"
+        },
+        {
+          "name": "Barrett's Glade",
+          "difficulty": "Expert",
+          "area": "Evergreen Peak"
+        },
+        {
+          "name": "Dead Tree",
+          "difficulty": "Expert",
+          "area": "Evergreen Peak"
+        },
+        {
+          "name": "Evening Star",
+          "difficulty": "Difficult",
+          "area": "Evergreen Peak"
+        },
+        {
+          "name": "Evergreen Chutes",
+          "difficulty": "Expert",
+          "area": "Evergreen Peak"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-22",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 9,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-23",
+        "high_f": null,
+        "low_f": 12,
+        "high_c": null,
+        "low_c": -11,
+        "description": "Cloudy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-24",
+          "high_f": 15,
+          "low_f": 6,
+          "high_c": -9,
+          "low_c": -14,
+          "description": "Mostly Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-25",
+          "high_f": 13,
+          "low_f": 11,
+          "high_c": -11,
+          "low_c": -12,
+          "description": "Mostly Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-26",
+          "high_f": 26,
+          "low_f": 22,
+          "high_c": -3,
+          "low_c": -6,
+          "description": "Mostly Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-24",
+        "high_f": 15,
+        "low_f": 6,
+        "high_c": -9,
+        "low_c": -14,
+        "description": "Mostly Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today"
+    ],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "TGIF",
+    "body": "67 of 107 trails are open with 25 groomed. Cloudy with a temperatures TBD. 67/107 trails open, 25 groomed. Cloudy.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "time_weekend_kickoff",
+          "category": "time",
+          "priority": 52,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "fallback_body",
+          "category": "weather",
+          "priority": 5,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "weekend_kickoff",
+        "variationIndex": 0,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Is It the Weekend Yet?"
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,199 @@
+{
+  "resort": "heavenly",
+  "resortName": "Heavenly",
+  "date": "2025-12-13",
+  "generated": "2025-12-13T13:26:26.118Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 33,
+      "season_total_cm": 83,
+      "conditions": {
+        "today": "Early Season",
+        "yesterday": "Early Season"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 6,
+          "yesterday": 6,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 6,
+          "yesterday": 5,
+          "delta": 1
+        },
+        "totalTrails": 113
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Lakeview Terrain Park",
+          "difficulty": "TerrainPark",
+          "area": "California"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-12",
+        "avgWaitTime": 2.8,
+        "maxWaitTime": 14,
+        "totalLiftsTracked": 27,
+        "busiest": [
+          {
+            "name": "Patsy's",
+            "avgWait": 3.5,
+            "peakWait": 8,
+            "type": "triple",
+            "mountain": "California"
+          },
+          {
+            "name": "Groove",
+            "avgWait": 3,
+            "peakWait": 14,
+            "type": "triple",
+            "mountain": "California"
+          },
+          {
+            "name": "Canyon",
+            "avgWait": 2,
+            "peakWait": 4,
+            "type": "quad",
+            "mountain": "California"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-13",
+        "high_f": 48,
+        "low_f": 41,
+        "high_c": 8,
+        "low_c": 5,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-14T08:00:00Z",
+          "high_f": 45,
+          "low_f": 40,
+          "high_c": 7,
+          "low_c": 4,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-15T08:00:00Z",
+          "high_f": 48,
+          "low_f": 43,
+          "high_c": 8,
+          "low_c": 6,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-16T08:00:00Z",
+          "high_f": 44,
+          "low_f": 40,
+          "high_c": 6,
+          "low_c": 4,
+          "description": "Scattered T-Storms",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-14T08:00:00Z",
+        "high_f": 45,
+        "low_f": 40,
+        "high_c": 7,
+        "low_c": 4,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 20% from yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Lakeview Terrain Park - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Spring Vibes",
+    "body": "6 trails open, 6 groomed. Clear, high of 48°. Grooming crews stepped it up with noticeably broader coverage on key routes. Lift lines stayed mellow yesterday, so early laps should feel quick.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_spring_vibes",
+          "category": "weather",
+          "priority": 50,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_grooming_boost",
+          "category": "terrain",
+          "priority": 75,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_mellow_lines",
+          "category": "lifts",
+          "priority": 50,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "spring_vibes",
+        "variationIndex": 0,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Cheers to the Weekend!"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,84 @@
+{
+  "resort": "aspenmountain",
+  "resortName": "Aspen Mountain",
+  "date": "2026-01-05",
+  "generated": "2026-01-06T06:28:24.722Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 59,
+          "yesterday": 58,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 16,
+          "yesterday": 18,
+          "delta": -2
+        },
+        "totalTrails": 140
+      },
+      "newlyOpened": [
+        {
+          "name": "Keith Glen",
+          "difficulty": "Advanced",
+          "area": "Silver Queen"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Buckhorn Cutoff",
+          "difficulty": "Intermediate",
+          "area": "Ajax Express"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Buckhorn (Lower)",
+          "difficulty": "Intermediate",
+          "area": "Ajax Express"
+        },
+        {
+          "name": "Midway Road",
+          "difficulty": "Intermediate",
+          "area": "Ajax Express"
+        },
+        {
+          "name": "One And Two Leaf",
+          "difficulty": "Intermediate",
+          "area": "Silver Queen"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-04",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 8,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today",
+      "1 trail freshly groomed"
+    ],
+    "trends": [
+      "1 more trail open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Buckhorn Cutoff - all skill levels"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

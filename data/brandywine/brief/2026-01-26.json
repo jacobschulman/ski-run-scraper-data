@@ -1,0 +1,199 @@
+{
+  "resort": "brandywine",
+  "resortName": "Brandywine",
+  "date": "2026-01-26",
+  "generated": "2026-01-26T19:21:14.958Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 3,
+      "overnight_cm": 7,
+      "24hour_inches": 9,
+      "24hour_cm": 22,
+      "48hour_inches": 12,
+      "48hour_cm": 30,
+      "7day_inches": 12,
+      "7day_cm": 30,
+      "season_total_inches": 38,
+      "season_total_cm": 97,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 0,
+          "yesterday": 8,
+          "delta": -8
+        },
+        "groomedTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "totalTrails": 11
+      },
+      "newlyOpened": [],
+      "newlyClosed": [
+        {
+          "name": "Champagne",
+          "difficulty": "Black",
+          "area": "Brandywine"
+        },
+        {
+          "name": "Easy Rider",
+          "difficulty": "Green",
+          "area": "Brandywine"
+        },
+        {
+          "name": "Frosty",
+          "difficulty": "Green",
+          "area": "Brandywine"
+        },
+        {
+          "name": "J's Way",
+          "difficulty": "Green",
+          "area": "Brandywine"
+        },
+        {
+          "name": "Outer Limits",
+          "difficulty": "Blue",
+          "area": "Brandywine"
+        },
+        {
+          "name": "Regulator Johnston",
+          "difficulty": "Black",
+          "area": "Brandywine"
+        },
+        {
+          "name": "Shredder",
+          "difficulty": "Blue",
+          "area": "Brandywine"
+        },
+        {
+          "name": "The Park",
+          "difficulty": "TerrainPark",
+          "area": "Brandywine"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-25",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 15,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-26",
+        "high_f": 17,
+        "low_f": 4,
+        "high_c": -9,
+        "low_c": -16,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-27T05:00:00Z",
+          "high_f": 15,
+          "low_f": -1,
+          "high_c": -9,
+          "low_c": -19,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-28T05:00:00Z",
+          "high_f": 11,
+          "low_f": -5,
+          "high_c": -12,
+          "low_c": -21,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-29T05:00:00Z",
+          "high_f": 12,
+          "low_f": -2,
+          "high_c": -11,
+          "low_c": -19,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-27T05:00:00Z",
+        "high_f": 15,
+        "low_f": -1,
+        "high_c": -9,
+        "low_c": -19,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "3\" fresh snow overnight",
+      "9\" in last 24 hours - powder day!"
+    ],
+    "trends": [
+      "Great week for snow - 12\" in last 7 days"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "The Wait Continues",
+    "body": "Not open for the season yet. Current conditions: Cloudy.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "resort_closed",
+          "category": "terrain",
+          "priority": 95,
+          "usedFor": "headline"
+        },
+        {
+          "id": "resort_closed",
+          "category": "terrain",
+          "priority": 95,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "resort_closed",
+        "variationIndex": 3,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Almost There..."
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

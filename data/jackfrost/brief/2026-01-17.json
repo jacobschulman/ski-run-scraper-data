@@ -1,0 +1,49 @@
+{
+  "resort": "jackfrost",
+  "resortName": "Jack Frost",
+  "date": "2026-01-17",
+  "generated": "2026-01-17T10:19:56.464Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 13,
+          "yesterday": 13,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 13,
+          "yesterday": 13,
+          "delta": 0
+        },
+        "totalTrails": 20
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-16",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 11,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

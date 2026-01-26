@@ -1,0 +1,245 @@
+{
+  "resort": "jacksonhole",
+  "resortName": "Jackson Hole",
+  "date": "2025-12-19",
+  "generated": "2025-12-20T06:24:55.773Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 47,
+          "yesterday": 39,
+          "delta": 8
+        },
+        "groomedTrails": {
+          "today": 32,
+          "yesterday": 29,
+          "delta": 3
+        },
+        "totalTrails": 145
+      },
+      "newlyOpened": [
+        {
+          "name": "Gannett",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Thunder",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Symmetry",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Cirque",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Tensleep Bowl",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Tensleep",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Cheyenne Bowl",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Camp Ground",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Bivouac",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Sleeping Indian",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Kemmerer (Upper)",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Grand",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Camp Ground",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Sundance",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Laramie",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-19",
+        "high_f": null,
+        "low_f": 16,
+        "high_c": null,
+        "low_c": -9,
+        "description": "Snow Wind",
+        "snowfall_day_inches": 4,
+        "snowfall_night_inches": 2
+      },
+      "outlook": [
+        {
+          "date": "2025-12-20",
+          "high_f": 19,
+          "low_f": 17,
+          "high_c": -7,
+          "low_c": -9,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2025-12-21",
+          "high_f": 31,
+          "low_f": 31,
+          "high_c": -1,
+          "low_c": 0,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 4,
+          "snowfall_night_inches": 4,
+          "snowfall_expected": 8
+        },
+        {
+          "date": "2025-12-22",
+          "high_f": 32,
+          "low_f": 30,
+          "high_c": 0,
+          "low_c": -1,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 3
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-20",
+        "high_f": 19,
+        "low_f": 17,
+        "high_c": -7,
+        "low_c": -9,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 1,
+        "snowfall_expected": 1
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "8 new trails opened today",
+      "5 trails freshly groomed"
+    ],
+    "trends": [
+      "8 more trails open than yesterday",
+      "1\" snow expected Saturday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Bivouac - challenging for advanced skiers",
+      "Fresh corduroy on Sleeping Indian - perfect for intermediate skiers",
+      "Fresh corduroy on Kemmerer (Upper) - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Boom Boom Pow!",
+    "body": "47 of 145 trails are open with 32 groomed. Snow Wind with a high of null°F. 8 more trails are in play today. The groomers are getting stretched thin (in a good way). Winter has more to say. 12\" forecasted means conditions are about to level up.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_storm_major",
+          "category": "weather",
+          "priority": 88,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_storm_major",
+          "category": "weather",
+          "priority": 88,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "storm_major",
+        "variationIndex": 6,
+        "totalVariations": 8,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Prepare for Pow!"
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
+  "errors": []
+}

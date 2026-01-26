@@ -1,0 +1,130 @@
+{
+  "resort": "buttermilk",
+  "resortName": "Buttermilk",
+  "date": "2026-01-16",
+  "generated": "2026-01-17T06:25:40.127Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 44,
+          "yesterday": 44,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 0,
+          "yesterday": 16,
+          "delta": -16
+        },
+        "totalTrails": 52
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": [
+        {
+          "name": "Baby Doe",
+          "difficulty": "Blue",
+          "area": "Main"
+        },
+        {
+          "name": "Bear",
+          "difficulty": "Blue",
+          "area": "Main"
+        },
+        {
+          "name": "Columbine",
+          "difficulty": "Blue",
+          "area": "Main"
+        },
+        {
+          "name": "Lover's Lane",
+          "difficulty": "Blue",
+          "area": "Main"
+        },
+        {
+          "name": "Midway Avenue",
+          "difficulty": "Blue",
+          "area": "Main"
+        },
+        {
+          "name": "Ridge Trail",
+          "difficulty": "Blue",
+          "area": "Main"
+        },
+        {
+          "name": "Savio (Upper)",
+          "difficulty": "Blue",
+          "area": "Main"
+        },
+        {
+          "name": "Buckskin",
+          "difficulty": "Blue",
+          "area": "Tiehack"
+        },
+        {
+          "name": "Eagle Hill",
+          "difficulty": "Blue",
+          "area": "Tiehack"
+        },
+        {
+          "name": "Klaus' Way",
+          "difficulty": "Black",
+          "area": "Tiehack"
+        },
+        {
+          "name": "Sterner Gulch",
+          "difficulty": "Blue",
+          "area": "Tiehack"
+        },
+        {
+          "name": "Tiehack Trail",
+          "difficulty": "Black",
+          "area": "Tiehack"
+        },
+        {
+          "name": "Big Face Hollow",
+          "difficulty": "Blue",
+          "area": "West Buttermilk"
+        },
+        {
+          "name": "Larkspur",
+          "difficulty": "Green",
+          "area": "West Buttermilk"
+        },
+        {
+          "name": "Tom's Thumb",
+          "difficulty": "Green",
+          "area": "West Buttermilk"
+        },
+        {
+          "name": "Westward Ho",
+          "difficulty": "Green",
+          "area": "West Buttermilk"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-15",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 5,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

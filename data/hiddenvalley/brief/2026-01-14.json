@@ -1,0 +1,159 @@
+{
+  "resort": "hiddenvalley",
+  "resortName": "Hidden Valley",
+  "date": "2026-01-14",
+  "generated": "2026-01-14T10:25:13.635Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 3,
+      "7day_cm": 7,
+      "season_total_inches": 44,
+      "season_total_cm": 111,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 16,
+          "yesterday": 16,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 16,
+          "yesterday": 16,
+          "delta": 0
+        },
+        "totalTrails": 32
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-13",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 8,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-14",
+        "high_f": 41,
+        "low_f": 25,
+        "high_c": 5,
+        "low_c": -4,
+        "description": "Rain/Snow",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-15T05:00:00Z",
+          "high_f": 22,
+          "low_f": 7,
+          "high_c": -6,
+          "low_c": -14,
+          "description": "Snow & Wind",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-16T05:00:00Z",
+          "high_f": 27,
+          "low_f": 7,
+          "high_c": -3,
+          "low_c": -14,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-17T05:00:00Z",
+          "high_f": 30,
+          "low_f": 20,
+          "high_c": -1,
+          "low_c": -7,
+          "description": "Thundersnow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-15T05:00:00Z",
+        "high_f": 22,
+        "low_f": 7,
+        "high_c": -6,
+        "low_c": -14,
+        "description": "Snow & Wind",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Transition Day",
+    "body": "16 of 32 trails are open with 16 groomed. Rain/Snow with a high of 41°F. Mixed precipitation expected. Rain at base, snow up top. Dress in layers.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_mixed",
+          "category": "weather",
+          "priority": 195,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_mixed",
+          "category": "weather",
+          "priority": 195,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "weather_mixed",
+        "variationIndex": 4,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": null
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

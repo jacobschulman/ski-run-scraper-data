@@ -1,0 +1,145 @@
+{
+  "resort": "jacksonhole",
+  "resortName": "Jackson Hole",
+  "date": "2026-01-25",
+  "generated": "2026-01-26T06:32:36.506Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 1,
+      "overnight_cm": 3,
+      "24hour_inches": 1,
+      "24hour_cm": 3,
+      "48hour_inches": 1,
+      "48hour_cm": 3,
+      "7day_inches": 1,
+      "7day_cm": 3,
+      "season_total_inches": 218,
+      "season_total_cm": 554,
+      "conditions": {
+        "today": "1\" of new snow since our lifts closed yesterday will provide a nice, light touch-up across all elevations. Look for morning snow flurries to transition into clear and sunny skies by late morning. Cold mountain temperatures will continue with ranges from the low single digits across the high elevations to the mid-teens down on the valley floor. Light winds will be trending out of the WNW at 10-13 MPH with little to no gusting. The 1\" refresh will provide the vapor trail foundation for your early Sunday needs. The sunshine will arrive to close out the weekend. A delightful day is in store for the Rendezvous Mountain Strong! Stay safe out there. -MB  ",
+        "yesterday": "6 AM— Up and at 'em, Jackson, because the weekend won't wait. Indigo skies will deliver potent sun-sations through the midday hours, when a few scattered clouds will start to infiltrate the scene. Cold temperatures will keep the snow surfaces dry and the vapor trails swirling high as they stall out in the single digits up at Corbet's Cabin and in the teens down in the Village. A chilly northwest breeze will cool things a little further, as it blows in the 5-15 mph neighborhood. Classic corduroy is always an inviting option, but top-secret smooth spots and soft shadow moments are currently weaving through the in-betweens. Search some out and let your rational mind be blasted to smithereens. -Lege"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 111,
+          "yesterday": 111,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 47,
+          "yesterday": 44,
+          "delta": 3
+        },
+        "totalTrails": 145
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Sleeping Indian",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "St. John's",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Symmetry",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Ranger",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Buck Run",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Bivouac",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Kemmerer (Lower)",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-24",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 13,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1\" new snow overnight",
+      "5 trails freshly groomed"
+    ],
+    "trends": [],
+    "recommendations": [
+      "Fresh corduroy on Sleeping Indian - perfect for intermediate skiers",
+      "Fresh corduroy on St. John's - perfect for intermediate skiers",
+      "Fresh corduroy on Symmetry - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "The Mountain Got a Touch-Up",
+    "body": "A light refresh of 1\" overnight makes the groomers smoother. 5 runs freshly groomed, mostly in All Terrain.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "body"
+        },
+        {
+          "id": "grooming_moderate",
+          "category": "terrain",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "fresh_coat",
+        "variationIndex": 3,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "A Little Sugar on Top"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,145 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2025-12-21",
+  "generated": "2025-12-21T10:21:33.398Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 36,
+          "yesterday": 31,
+          "delta": 5
+        },
+        "groomedTrails": {
+          "today": 34,
+          "yesterday": 27,
+          "delta": 7
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Lower Fool's Gold",
+          "difficulty": "TerrainPark",
+          "area": "Carinthia"
+        },
+        {
+          "name": "Nitro",
+          "difficulty": "TerrainPark",
+          "area": "Carinthia"
+        },
+        {
+          "name": "Charlie's Chase",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Cloud Nine",
+          "difficulty": "Blue",
+          "area": "Sunbrook"
+        },
+        {
+          "name": "Milky Way",
+          "difficulty": "Blue",
+          "area": "Sunbrook"
+        },
+        {
+          "name": "Shooting Star",
+          "difficulty": "Blue",
+          "area": "Sunbrook"
+        },
+        {
+          "name": "Thanks Walt",
+          "difficulty": "Blue",
+          "area": "Sunbrook"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Choke",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Switchback",
+          "difficulty": "Green",
+          "area": "Main Face"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Charlie's Chase",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Shooting Star",
+          "difficulty": "Blue",
+          "area": "Sunbrook"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-20",
+        "avgWaitTime": 4.5,
+        "maxWaitTime": 21,
+        "totalLiftsTracked": 19,
+        "busiest": [
+          {
+            "name": "Bluebird Express",
+            "avgWait": 7.6,
+            "peakWait": 21,
+            "type": "six",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Nitro Express",
+            "avgWait": 3.9,
+            "peakWait": 8,
+            "type": "quad",
+            "mountain": "Carinthia"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 3.3,
+            "peakWait": 8,
+            "type": "quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Grand Summit Express",
+            "avgWait": 1.7,
+            "peakWait": 3,
+            "type": "quad",
+            "mountain": "Main Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "7 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 26% from yesterday",
+      "5 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Charlie's Chase - perfect for intermediate skiers",
+      "Fresh corduroy on Shooting Star - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

@@ -1,0 +1,125 @@
+{
+  "resort": "crestedbutte",
+  "resortName": "Crested Butte",
+  "date": "2026-01-03",
+  "generated": "2026-01-03T12:35:45.057Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 61,
+          "yesterday": 53,
+          "delta": 8
+        },
+        "groomedTrails": {
+          "today": 28,
+          "yesterday": 28,
+          "delta": 0
+        },
+        "totalTrails": 168
+      },
+      "newlyOpened": [
+        {
+          "name": "Bear",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Black Eagle",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Conundrum",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Short Cut",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Jokerville",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "Lower International",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "Middle International",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "T-Bar Road",
+          "difficulty": "Green",
+          "area": "Front Side"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-02",
+        "avgWaitTime": 7.1,
+        "maxWaitTime": 16,
+        "totalLiftsTracked": 15,
+        "busiest": [
+          {
+            "name": "Red Lady Express",
+            "avgWait": 11.2,
+            "peakWait": 16,
+            "type": "Quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "Silver Queen Express",
+            "avgWait": 6.5,
+            "peakWait": 11,
+            "type": "Quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "Paradise Express",
+            "avgWait": 5.2,
+            "peakWait": 11,
+            "type": "Quad",
+            "mountain": "Back Side"
+          },
+          {
+            "name": "East River Express",
+            "avgWait": 4.8,
+            "peakWait": 14,
+            "type": "Quad",
+            "mountain": "Back Side"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "8 new trails opened today"
+    ],
+    "trends": [
+      "8 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Red Lady Express had longest waits (11.2 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

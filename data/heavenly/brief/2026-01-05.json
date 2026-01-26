@@ -1,0 +1,244 @@
+{
+  "resort": "heavenly",
+  "resortName": "Heavenly",
+  "date": "2026-01-05",
+  "generated": "2026-01-05T13:39:59.912Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 10,
+      "24hour_cm": 25,
+      "48hour_inches": 11,
+      "48hour_cm": 27,
+      "7day_inches": 11,
+      "7day_cm": 27,
+      "season_total_inches": 102,
+      "season_total_cm": 259,
+      "conditions": {
+        "today": "Early Season",
+        "yesterday": "Early Season"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 99,
+          "yesterday": 94,
+          "delta": 5
+        },
+        "groomedTrails": {
+          "today": 38,
+          "yesterday": 38,
+          "delta": 0
+        },
+        "totalTrails": 113
+      },
+      "newlyOpened": [
+        {
+          "name": "East Bowl Woods",
+          "difficulty": "Black",
+          "area": "California"
+        },
+        {
+          "name": "Gunbarrel Lower",
+          "difficulty": "Black",
+          "area": "California"
+        },
+        {
+          "name": "Hogsback",
+          "difficulty": "DoubleBlack",
+          "area": "California"
+        },
+        {
+          "name": "Pistol",
+          "difficulty": "Black",
+          "area": "California"
+        },
+        {
+          "name": "The Face",
+          "difficulty": "DoubleBlack",
+          "area": "California"
+        },
+        {
+          "name": "West Bowl",
+          "difficulty": "Black",
+          "area": "California"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Galaxy Woods",
+          "difficulty": "Blue",
+          "area": "Nevada"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-04",
+        "avgWaitTime": 3.4,
+        "maxWaitTime": 34,
+        "totalLiftsTracked": 27,
+        "busiest": [
+          {
+            "name": "Boulder",
+            "avgWait": 8.5,
+            "peakWait": 34,
+            "type": "Triple",
+            "mountain": "Nevada"
+          },
+          {
+            "name": "Dipper",
+            "avgWait": 4.9,
+            "peakWait": 8,
+            "type": "Quad",
+            "mountain": "Nevada"
+          },
+          {
+            "name": "Stagecoach",
+            "avgWait": 4.6,
+            "peakWait": 15,
+            "type": "Quad",
+            "mountain": "Nevada"
+          },
+          {
+            "name": "Patsy's",
+            "avgWait": 4,
+            "peakWait": 11,
+            "type": "Triple",
+            "mountain": "California"
+          },
+          {
+            "name": "Big Easy",
+            "avgWait": 3.7,
+            "peakWait": 7,
+            "type": "Quad",
+            "mountain": "Top of Gondola"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-05",
+        "high_f": 26,
+        "low_f": 20,
+        "high_c": -4,
+        "low_c": -7,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-06T08:00:00Z",
+          "high_f": 28,
+          "low_f": 22,
+          "high_c": -3,
+          "low_c": -6,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-07T08:00:00Z",
+          "high_f": 27,
+          "low_f": 20,
+          "high_c": -3,
+          "low_c": -7,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-08T08:00:00Z",
+          "high_f": 19,
+          "low_f": 15,
+          "high_c": -7,
+          "low_c": -10,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-06T08:00:00Z",
+        "high_f": 28,
+        "low_f": 22,
+        "high_c": -3,
+        "low_c": -6,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "10\" in last 24 hours - powder day!",
+      "6 new trails opened today"
+    ],
+    "trends": [
+      "Steady snowfall - 11\" in last 7 days",
+      "5 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Powder Day Alert",
+    "body": "Wake up, it's a powder day! 10\" overnight means hero snow everywhere. Ski patrol opened 6 additional trails. A few more choices today. Heads up: Boulder peaked at 34 minutes yesterday. Consider alternatives.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_busy",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 8,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 0,
+        "totalVariations": 11,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Winter in Full Force"
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

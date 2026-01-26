@@ -1,0 +1,143 @@
+{
+  "resort": "jacksonhole",
+  "resortName": "Jackson Hole",
+  "date": "2025-12-27",
+  "generated": "2025-12-28T06:25:55.476Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 4,
+      "overnight_cm": 10,
+      "24hour_inches": 8,
+      "24hour_cm": 20,
+      "48hour_inches": 11,
+      "48hour_cm": 28,
+      "7day_inches": 37,
+      "7day_cm": 94,
+      "season_total_inches": 164,
+      "season_total_cm": 417,
+      "conditions": {
+        "today": "6 AM- Grab your snow-globing gear and get ready to disappear behind a cloud of white, as wind-whipped snow coats and softens everything in sight. 8 inches of fresh on the upper elevations over the past 24 hours will be additionally padded through the day by waves of snowfall in varying intensities. Come prepared for cooler temperatures, which dip in the afternoon, after peaking late morning in the upper teens at the summit and near 30 in the Village. Strong winds from the west-southwest will bring the welcome promise of free refills as well as the pesky potential for lift interference while they crank between 10 and 40 mph. Come get a dose of crystal medicine. It's the ultimate solution for any disillusion, and days like this make moments of bliss a foregone conclusion. Besides, it's the final weekend of 2025, and you're long overdue for a powder infusion. -Lege\n ",
+        "yesterday": "6 AM- Pop outta bed and head for the Village, because the lull in the weather just won't wait. After a 3-inch daytime touch-up in the higher elevations yesterday, we stand poised for a cooler, full mountain punch of precipitation today. Pockets of powfall could break out at any moment on the slopes and will increase in intensity as the day flows. Gusty southwest winds will pick up as well, eventually cranking in the 10-40 mph range. Expect high temperatures to stall out in the low 20s at the summit and the upper 30s in the base area. By now excited powder-senses should have you tingling more than a three-ring show from the Brothers Ringling. The atmospheric energy is building, and the eggnog's gone. So, come clown around and do a little slope-side mingling. -Lege"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 74,
+          "yesterday": 72,
+          "delta": 2
+        },
+        "groomedTrails": {
+          "today": 37,
+          "yesterday": 34,
+          "delta": 3
+        },
+        "totalTrails": 145
+      },
+      "newlyOpened": [
+        {
+          "name": "Kemmerer (Lower)",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Riverton Bowl",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Sleeping Indian",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Ashley Ridge (Upper)",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Sundog",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Grand",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Camp Ground",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "4\" fresh snow overnight",
+      "8\" in last 24 hours - powder day!",
+      "2 new trails opened today",
+      "4 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 37\" in last 7 days",
+      "2 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Sleeping Indian - perfect for intermediate skiers",
+      "Fresh corduroy on Ashley Ridge (Upper) - perfect for intermediate skiers",
+      "Fresh corduroy on Sundog - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "8\" of Fresh Overnight",
+    "body": "8\" dumped overnight. The stashes are loaded and the groomers are buried. Go find 'em. Terrain is expanding with 2 new trails now open. More room to roam, less traffic to dodge.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 2,
+        "totalVariations": 12,
+        "usedWeekendVariation": false,
+        "previousHeadline": "The Mountain Got Buried"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

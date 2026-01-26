@@ -1,0 +1,203 @@
+{
+  "resort": "telluride",
+  "resortName": "Telluride",
+  "date": "2026-01-26",
+  "generated": "2026-01-26T12:42:29.958Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 112,
+          "yesterday": 98,
+          "delta": 14
+        },
+        "groomedTrails": {
+          "today": 45,
+          "yesterday": 43,
+          "delta": 2
+        },
+        "totalTrails": 157
+      },
+      "newlyOpened": [
+        {
+          "name": "Kids Hill",
+          "difficulty": "Blue",
+          "area": "Lift 7"
+        },
+        {
+          "name": "Stumper",
+          "difficulty": "",
+          "area": "Lift 7"
+        },
+        {
+          "name": "Telluride Trail – Upper (above Easy Out)",
+          "difficulty": "Blue",
+          "area": "Lift 7"
+        },
+        {
+          "name": "O’Riley’s",
+          "difficulty": "",
+          "area": "Lift 7"
+        },
+        {
+          "name": "Mine Shaft (below Bail Out)",
+          "difficulty": "",
+          "area": "Oak Street Lift"
+        },
+        {
+          "name": "Cats Paw",
+          "difficulty": "",
+          "area": "Oak Street Lift"
+        },
+        {
+          "name": "Captain Jack’s",
+          "difficulty": "",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Jello’s Bowl",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        },
+        {
+          "name": "Lakeview",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        },
+        {
+          "name": "Mountain Quail",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        },
+        {
+          "name": "Nice Chute",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        },
+        {
+          "name": "Review",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        },
+        {
+          "name": "Dihedral Chute",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        },
+        {
+          "name": "Westlake",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Pick ‘n Gad",
+          "difficulty": "Blue",
+          "area": "Village Express"
+        },
+        {
+          "name": "Kids Hill",
+          "difficulty": "Blue",
+          "area": "Lift 7"
+        },
+        {
+          "name": "Lower Galloping Goose (Upper)",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Enchanted Forest",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Bridges",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Sundance",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Teddy’s Way",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Madison",
+          "difficulty": "Green",
+          "area": "Prospect Express"
+        },
+        {
+          "name": "Sandia",
+          "difficulty": "Blue",
+          "area": "Prospect Express"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Peek-a-boo",
+          "difficulty": "Blue",
+          "area": "Village Express"
+        },
+        {
+          "name": "Lower Ophir Loop",
+          "difficulty": "Blue",
+          "area": "Polar Queen Express"
+        },
+        {
+          "name": "Bushwacker – Upper",
+          "difficulty": "",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Bushwacker – Lower",
+          "difficulty": "",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Marmot",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Lower Galloping Goose (Middle)",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Magnolia",
+          "difficulty": "Blue",
+          "area": "Prospect Express"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "14 new trails opened today",
+      "9 trails freshly groomed"
+    ],
+    "trends": [
+      "14 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Pick ‘n Gad - perfect for intermediate skiers",
+      "Fresh corduroy on Kids Hill - perfect for intermediate skiers",
+      "Fresh corduroy on Lower Galloping Goose (Upper) - great for beginners"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

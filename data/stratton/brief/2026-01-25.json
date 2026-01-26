@@ -1,0 +1,328 @@
+{
+  "resort": "stratton",
+  "resortName": "Stratton",
+  "date": "2026-01-25",
+  "generated": "2026-01-26T04:53:14.265Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 4,
+      "overnight_cm": 10,
+      "24hour_inches": 4,
+      "24hour_cm": 10,
+      "48hour_inches": 5,
+      "48hour_cm": 13,
+      "7day_inches": 9,
+      "7day_cm": 23,
+      "season_total_inches": 97,
+      "season_total_cm": 246,
+      "conditions": {
+        "today": "Machine Groomed Variable Conditions",
+        "yesterday": "Machine Groomed Variable Conditions"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 123,
+          "yesterday": 119,
+          "delta": 4
+        },
+        "groomedTrails": {
+          "today": 56,
+          "yesterday": 80,
+          "delta": -24
+        },
+        "totalTrails": 123
+      },
+      "newlyOpened": [
+        {
+          "name": "Big Ben",
+          "difficulty": "Intermediate",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Lower & Upper Kidderbrook",
+          "difficulty": "Expert",
+          "area": "Uphill Travel"
+        },
+        {
+          "name": "Stevek",
+          "difficulty": "Extreme Terrain",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Upper Wanderer",
+          "difficulty": "Easy",
+          "area": "Upper Mountain"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Upper Standard",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Beeline",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Betwixt",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Duck Soup",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Ethan's Alley",
+          "difficulty": "Easy",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Hemlock",
+          "difficulty": "Easy",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Lower Standard",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Old Smoothie",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Spillway",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Tink's Link",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "White Birch",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Get My Drift",
+          "difficulty": "Intermediate",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Lower East Meadow",
+          "difficulty": "Easy",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Lower Grizzly Bear",
+          "difficulty": "Intermediate",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Lower Slalom Glade",
+          "difficulty": "Extreme Terrain",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Lower Spruce",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Lower Switchback ",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Polar Bear",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Upper Down Easter",
+          "difficulty": "Extreme Terrain",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Upper Drifter",
+          "difficulty": "Intermediate",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Upper East Meadow",
+          "difficulty": "Easy",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Upper Kidderbrook",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Upper Middlebrook",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Upper Slalom Glade",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Upper Spruce",
+          "difficulty": "Extreme Terrain",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Upper Switchback",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-24",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 14,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-25",
+        "high_f": null,
+        "low_f": 3,
+        "high_c": null,
+        "low_c": -16,
+        "description": "Snow Wind",
+        "snowfall_day_inches": 12,
+        "snowfall_night_inches": 8
+      },
+      "outlook": [
+        {
+          "date": "2026-01-26",
+          "high_f": 13,
+          "low_f": -2,
+          "high_c": -11,
+          "low_c": -19,
+          "description": "Snow",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2026-01-27",
+          "high_f": 4,
+          "low_f": 0,
+          "high_c": -15,
+          "low_c": -18,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-28",
+          "high_f": 6,
+          "low_f": 1,
+          "high_c": -15,
+          "low_c": -17,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-26",
+        "high_f": 13,
+        "low_f": -2,
+        "high_c": -11,
+        "low_c": -19,
+        "description": "Snow",
+        "snowfall_day_inches": 2,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 2
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "4\" fresh snow overnight",
+      "4 new trails opened today",
+      "1 trail freshly groomed"
+    ],
+    "trends": [
+      "Steady snowfall - 9\" in last 7 days",
+      "4 more trails open than yesterday",
+      "2\" snow expected Monday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Upper Standard - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Fresh Snow, Fresh Vibes",
+    "body": "4\" settled in while you were sleeping. Groomers are smooth, off-piste is soft. 4 more trails opened today, expanding your options. Winter flexing today: snow and wind in the forecast. Dress for it.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_solid",
+          "category": "snow",
+          "priority": 82,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_solid",
+          "category": "snow",
+          "priority": 82,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_storm_wind",
+          "category": "weather",
+          "priority": 82,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 8,
+      "headlineSelection": {
+        "condition": "snow_solid",
+        "variationIndex": 4,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "A Proper Refresh"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

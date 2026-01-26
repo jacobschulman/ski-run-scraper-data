@@ -1,0 +1,91 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2026-01-17",
+  "generated": "2026-01-17T10:19:56.452Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 45,
+          "yesterday": 45,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 43,
+          "yesterday": 44,
+          "delta": -1
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Inferno",
+          "difficulty": "TerrainPark",
+          "area": "Carinthia"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Charlie's Chase",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": [
+        {
+          "name": "Hop",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-16",
+        "avgWaitTime": 4.7,
+        "maxWaitTime": 15,
+        "totalLiftsTracked": 18,
+        "busiest": [
+          {
+            "name": "Bluebird Express",
+            "avgWait": 7.3,
+            "peakWait": 15,
+            "type": "Six Pack",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Nitro Express",
+            "avgWait": 2.7,
+            "peakWait": 5,
+            "type": "Quad",
+            "mountain": "Carinthia"
+          },
+          {
+            "name": "Challenger",
+            "avgWait": 1.5,
+            "peakWait": 2,
+            "type": "Triple",
+            "mountain": "North Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today"
+    ],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

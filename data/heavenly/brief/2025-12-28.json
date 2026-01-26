@@ -1,0 +1,357 @@
+{
+  "resort": "heavenly",
+  "resortName": "Heavenly",
+  "date": "2025-12-28",
+  "generated": "2025-12-28T13:30:12.441Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 5,
+      "24hour_cm": 12,
+      "48hour_inches": 18,
+      "48hour_cm": 45,
+      "7day_inches": 58,
+      "7day_cm": 147,
+      "season_total_inches": 91,
+      "season_total_cm": 231,
+      "conditions": {
+        "today": "Early Season",
+        "yesterday": "Early Season"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 60,
+          "yesterday": 30,
+          "delta": 30
+        },
+        "groomedTrails": {
+          "today": 13,
+          "yesterday": 13,
+          "delta": 0
+        },
+        "totalTrails": 113
+      },
+      "newlyOpened": [
+        {
+          "name": "Liz's Upper",
+          "difficulty": "Blue",
+          "area": "California"
+        },
+        {
+          "name": "Maggie's Canyon",
+          "difficulty": "Black",
+          "area": "California"
+        },
+        {
+          "name": "Pinnacle Glades",
+          "difficulty": "Black",
+          "area": "California"
+        },
+        {
+          "name": "Pinnacles",
+          "difficulty": "Black",
+          "area": "California"
+        },
+        {
+          "name": "Ski Way Glades",
+          "difficulty": "Black",
+          "area": "California"
+        },
+        {
+          "name": "Sky Canyon",
+          "difficulty": "Black",
+          "area": "California"
+        },
+        {
+          "name": "Skyline trail",
+          "difficulty": "Blue",
+          "area": "California"
+        },
+        {
+          "name": "The Meadow",
+          "difficulty": "Green",
+          "area": "California"
+        },
+        {
+          "name": "Aries",
+          "difficulty": "Blue",
+          "area": "Nevada"
+        },
+        {
+          "name": "Aries Woods",
+          "difficulty": "Black",
+          "area": "Nevada"
+        },
+        {
+          "name": "Big Dipper",
+          "difficulty": "Blue",
+          "area": "Nevada"
+        },
+        {
+          "name": "Comet",
+          "difficulty": "Blue",
+          "area": "Nevada"
+        },
+        {
+          "name": "Cosmic Wave",
+          "difficulty": "Blue",
+          "area": "Nevada"
+        },
+        {
+          "name": "Dipper Bowl",
+          "difficulty": "Black",
+          "area": "Nevada"
+        },
+        {
+          "name": "Dipper Line",
+          "difficulty": "Black",
+          "area": "Nevada"
+        },
+        {
+          "name": "Dipper Return Lower",
+          "difficulty": "Blue",
+          "area": "Nevada"
+        },
+        {
+          "name": "Dipper Return Upper",
+          "difficulty": "Blue",
+          "area": "Nevada"
+        },
+        {
+          "name": "Dipper Woods",
+          "difficulty": "Black",
+          "area": "Nevada"
+        },
+        {
+          "name": "Jack's",
+          "difficulty": "Blue",
+          "area": "Nevada"
+        },
+        {
+          "name": "Little Dipper",
+          "difficulty": "Black",
+          "area": "Nevada"
+        },
+        {
+          "name": "Meteor",
+          "difficulty": "Blue",
+          "area": "Nevada"
+        },
+        {
+          "name": "Milky Way",
+          "difficulty": "Black",
+          "area": "Nevada"
+        },
+        {
+          "name": "Milky Way Bowl",
+          "difficulty": "Black",
+          "area": "Nevada"
+        },
+        {
+          "name": "Nevada Trail",
+          "difficulty": "Blue",
+          "area": "Nevada"
+        },
+        {
+          "name": "Nova",
+          "difficulty": "Blue",
+          "area": "Nevada"
+        },
+        {
+          "name": "Orion",
+          "difficulty": "Blue",
+          "area": "Nevada"
+        },
+        {
+          "name": "Pepi's",
+          "difficulty": "Blue",
+          "area": "Nevada"
+        },
+        {
+          "name": "49er",
+          "difficulty": "Blue",
+          "area": "Top of Gondola"
+        },
+        {
+          "name": "Red Fir",
+          "difficulty": "Green",
+          "area": "Top of Gondola"
+        },
+        {
+          "name": "Tubing Run",
+          "difficulty": "Green",
+          "area": "Top of Gondola"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-27",
+        "avgWaitTime": 5.1,
+        "maxWaitTime": 40,
+        "totalLiftsTracked": 27,
+        "busiest": [
+          {
+            "name": "Stagecoach",
+            "avgWait": 9.7,
+            "peakWait": 40,
+            "type": "Quad",
+            "mountain": "Nevada"
+          },
+          {
+            "name": "Dipper",
+            "avgWait": 7,
+            "peakWait": 29,
+            "type": "Quad",
+            "mountain": "Nevada"
+          },
+          {
+            "name": "Tamarack",
+            "avgWait": 6.8,
+            "peakWait": 33,
+            "type": "Six Pack",
+            "mountain": "Top of Gondola"
+          },
+          {
+            "name": "Big Easy",
+            "avgWait": 5.8,
+            "peakWait": 10,
+            "type": "Quad",
+            "mountain": "Top of Gondola"
+          },
+          {
+            "name": "Sky",
+            "avgWait": 4.3,
+            "peakWait": 8,
+            "type": "Quad",
+            "mountain": "California"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-28",
+        "high_f": 26,
+        "low_f": 23,
+        "high_c": -3,
+        "low_c": -5,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-29T08:00:00Z",
+          "high_f": 37,
+          "low_f": 26,
+          "high_c": 3,
+          "low_c": -4,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-30T08:00:00Z",
+          "high_f": 41,
+          "low_f": 37,
+          "high_c": 5,
+          "low_c": 3,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-31T08:00:00Z",
+          "high_f": 38,
+          "low_f": 34,
+          "high_c": 3,
+          "low_c": 1,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-29T08:00:00Z",
+        "high_f": 37,
+        "low_f": 26,
+        "high_c": 3,
+        "low_c": -4,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "30 new trails opened today"
+    ],
+    "trends": [
+      "Great week for snow - 58\" in last 7 days",
+      "30 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "More Mountain to Explore",
+    "body": "5\" of fresh snow settled in overnight. Not a powder day, but definitely an upgrade. Rope drop! 30 trails opened overnight, expanding your playground significantly. Watch for crowds at Stagecoach, which peaked around 40 minutes yesterday.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_watch_crowds",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 3,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Dump Day at {resortName}"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

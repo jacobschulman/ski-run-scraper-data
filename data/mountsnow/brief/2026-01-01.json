@@ -1,0 +1,140 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2026-01-01",
+  "generated": "2026-01-01T10:24:53.165Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 42,
+          "yesterday": 34,
+          "delta": 8
+        },
+        "groomedTrails": {
+          "today": 40,
+          "yesterday": 31,
+          "delta": 9
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Free Fall",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "River Run",
+          "difficulty": "Blue",
+          "area": "North Face"
+        },
+        {
+          "name": "Cloud Nine",
+          "difficulty": "Blue",
+          "area": "Sunbrook"
+        },
+        {
+          "name": "Little Dipper",
+          "difficulty": "Blue",
+          "area": "Sunbrook"
+        },
+        {
+          "name": "Milky Way",
+          "difficulty": "Blue",
+          "area": "Sunbrook"
+        },
+        {
+          "name": "Shooting Star",
+          "difficulty": "Blue",
+          "area": "Sunbrook"
+        },
+        {
+          "name": "Sunspot",
+          "difficulty": "Blue",
+          "area": "Sunbrook"
+        },
+        {
+          "name": "Thanks Walt",
+          "difficulty": "Blue",
+          "area": "Sunbrook"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Hop",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Link",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-31",
+        "avgWaitTime": 7.4,
+        "maxWaitTime": 27,
+        "totalLiftsTracked": 18,
+        "busiest": [
+          {
+            "name": "Bluebird Express",
+            "avgWait": 13.5,
+            "peakWait": 27,
+            "type": "Six Pack",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 8,
+            "peakWait": 17,
+            "type": "Quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Grand Summit Express",
+            "avgWait": 4,
+            "peakWait": 7,
+            "type": "Quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Nitro Express",
+            "avgWait": 4,
+            "peakWait": 7,
+            "type": "Quad",
+            "mountain": "Carinthia"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "8 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 29% from yesterday",
+      "8 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Hop - perfect for intermediate skiers",
+      "Fresh corduroy on Link - perfect for intermediate skiers",
+      "Bluebird Express had longest waits (13.5 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

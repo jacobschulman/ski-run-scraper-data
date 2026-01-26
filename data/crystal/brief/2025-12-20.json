@@ -1,0 +1,233 @@
+{
+  "resort": "crystal",
+  "resortName": "Crystal Mountain",
+  "date": "2025-12-20",
+  "generated": "2025-12-21T07:15:58.660Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 6,
+      "overnight_cm": 15,
+      "24hour_inches": 6,
+      "24hour_cm": 15,
+      "48hour_inches": 12,
+      "48hour_cm": 30,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 79,
+      "season_total_cm": 201,
+      "conditions": {
+        "today": "Obstacles Exist",
+        "yesterday": "Obstacles Exist"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 12,
+          "yesterday": 0,
+          "delta": 12
+        },
+        "groomedTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Broadway",
+          "difficulty": "Easy",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Discover Meadow",
+          "difficulty": "Easy",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Bill's Face",
+          "difficulty": "Intermediate",
+          "area": "Frontside"
+        },
+        {
+          "name": "Blazing Elk",
+          "difficulty": "Difficult",
+          "area": "Frontside"
+        },
+        {
+          "name": "Green Valley",
+          "difficulty": "Intermediate",
+          "area": "Frontside"
+        },
+        {
+          "name": "Grubstake",
+          "difficulty": "Difficult",
+          "area": "Frontside"
+        },
+        {
+          "name": "Huckleberry",
+          "difficulty": "Intermediate",
+          "area": "Frontside"
+        },
+        {
+          "name": "Pro Course",
+          "difficulty": "Intermediate",
+          "area": "Frontside"
+        },
+        {
+          "name": "Snorting Elk",
+          "difficulty": "Difficult",
+          "area": "Frontside"
+        },
+        {
+          "name": "Snorting Elk Bowl",
+          "difficulty": "Very Difficult",
+          "area": "Frontside"
+        },
+        {
+          "name": "Upper Ferk's",
+          "difficulty": "Intermediate",
+          "area": "Frontside"
+        },
+        {
+          "name": "West Face",
+          "difficulty": "Difficult",
+          "area": "Frontside"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-19",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 11,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-20",
+        "high_f": null,
+        "low_f": 24,
+        "high_c": null,
+        "low_c": -4,
+        "description": "Cloudy",
+        "snowfall_day_inches": 2,
+        "snowfall_night_inches": 1
+      },
+      "outlook": [
+        {
+          "date": "2025-12-21",
+          "high_f": 28,
+          "low_f": 21,
+          "high_c": -2,
+          "low_c": -6,
+          "description": "Cloudy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 3,
+          "snowfall_expected": 4
+        },
+        {
+          "date": "2025-12-22",
+          "high_f": 26,
+          "low_f": 23,
+          "high_c": -4,
+          "low_c": -5,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 3,
+          "snowfall_expected": 4
+        },
+        {
+          "date": "2025-12-23",
+          "high_f": 27,
+          "low_f": 26,
+          "high_c": -3,
+          "low_c": -3,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 1
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-21",
+        "high_f": 28,
+        "low_f": 21,
+        "high_c": -2,
+        "low_c": -6,
+        "description": "Cloudy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 3,
+        "snowfall_expected": 4
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "6\" fresh snow overnight",
+      "6\" in last 24 hours - powder day!",
+      "12 new trails opened today"
+    ],
+    "trends": [
+      "12 more trails open than yesterday",
+      "4\" snow expected Sunday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Deep Day at Crystal Mountain",
+    "body": "The mountain is absolutely buried with 6\" of fresh. This is not a drill. New terrain alert: 12 trails added to the mix. The mountain just got bigger. The weather models are locked in: 9\" of snow heading our way. Clear your schedule.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_storm_major",
+          "category": "weather",
+          "priority": 88,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 1,
+        "totalVariations": 12,
+        "usedWeekendVariation": false,
+        "previousHeadline": "{snow24h}\" of Fresh Overnight"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,201 @@
+{
+  "resort": "hunter",
+  "resortName": "Hunter Mountain",
+  "date": "2026-01-10",
+  "generated": "2026-01-10T10:21:53.930Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 5,
+      "7day_cm": 12,
+      "season_total_inches": 35,
+      "season_total_cm": 88,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 56,
+          "yesterday": 55,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 46,
+          "yesterday": 40,
+          "delta": 6
+        },
+        "totalTrails": 71
+      },
+      "newlyOpened": [
+        {
+          "name": "Rip's Return",
+          "difficulty": "Blue",
+          "area": "Hunter North"
+        },
+        {
+          "name": "Twilight",
+          "difficulty": "Black",
+          "area": "Hunter North"
+        },
+        {
+          "name": "Park Avenue",
+          "difficulty": "TerrainPark",
+          "area": "Main Mountain"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Macombs",
+          "difficulty": "Blue",
+          "area": "Hunter East"
+        },
+        {
+          "name": "Lower Broadway",
+          "difficulty": "Black",
+          "area": "Main Mountain"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Lower Sleepy Hollow",
+          "difficulty": "Blue",
+          "area": "Hunter North"
+        },
+        {
+          "name": "Twilight",
+          "difficulty": "Black",
+          "area": "Hunter North"
+        },
+        {
+          "name": "Upper Sleepy Hollow",
+          "difficulty": "Blue",
+          "area": "Hunter North"
+        },
+        {
+          "name": "Eisenhower Drive",
+          "difficulty": "Black",
+          "area": "Main Mountain"
+        },
+        {
+          "name": "Park Avenue",
+          "difficulty": "TerrainPark",
+          "area": "Main Mountain"
+        },
+        {
+          "name": "Racers Edge",
+          "difficulty": "DoubleBlack",
+          "area": "Main Mountain"
+        },
+        {
+          "name": "Times Square",
+          "difficulty": "Blue",
+          "area": "Main Mountain"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-09",
+        "avgWaitTime": 1.7,
+        "maxWaitTime": 5,
+        "totalLiftsTracked": 12,
+        "busiest": [
+          {
+            "name": "Broadway Express",
+            "avgWait": 1.8,
+            "peakWait": 3,
+            "type": "Six Pack",
+            "mountain": "Main Mountain"
+          },
+          {
+            "name": "Kaatskill Flyer",
+            "avgWait": 1.7,
+            "peakWait": 2,
+            "type": "Six Pack",
+            "mountain": "Main Mountain"
+          },
+          {
+            "name": "Northern Express",
+            "avgWait": 1.4,
+            "peakWait": 5,
+            "type": "Six Pack",
+            "mountain": "Hunter North"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "3 new trails opened today",
+      "7 trails freshly groomed"
+    ],
+    "trends": [
+      "1 more trail open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Lower Sleepy Hollow - perfect for intermediate skiers",
+      "Fresh corduroy on Twilight - challenging for advanced skiers",
+      "Fresh corduroy on Upper Sleepy Hollow - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Saturday at the Mountain",
+    "body": "56 trails open, 46 groomed. Variable conditions, temperatures TBD. 7 runs freshly groomed, mostly in Hunter North and Main Mountain. Lift lines were mellow yesterday. Expect a similar vibe today.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "time_saturday",
+          "category": "time",
+          "priority": 38,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "grooming_moderate",
+          "category": "terrain",
+          "priority": 55,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_mellow",
+          "category": "lifts",
+          "priority": 50,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "saturday",
+        "variationIndex": 0,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Cheers to the Weekend"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

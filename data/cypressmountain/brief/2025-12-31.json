@@ -1,0 +1,180 @@
+{
+  "resort": "cypressmountain",
+  "resortName": "Cypress Mountain",
+  "date": "2025-12-31",
+  "generated": "2026-01-01T07:20:28.679Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 1,
+      "24hour_inches": 1,
+      "24hour_cm": 2,
+      "48hour_inches": 1,
+      "48hour_cm": 3,
+      "7day_inches": 29,
+      "7day_cm": 73,
+      "season_total_inches": 74,
+      "season_total_cm": 187,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 29,
+          "yesterday": 31,
+          "delta": -2
+        },
+        "groomedTrails": {
+          "today": 27,
+          "yesterday": 30,
+          "delta": -3
+        },
+        "totalTrails": 96
+      },
+      "newlyOpened": [
+        {
+          "name": "T-33",
+          "difficulty": "Blue",
+          "area": "Sky Quad"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Shuttle",
+          "difficulty": "Novice",
+          "area": "Midway Chair"
+        },
+        {
+          "name": "Blaster",
+          "difficulty": "Blue",
+          "area": "Midway Chair"
+        },
+        {
+          "name": "Jack Rabbit Loop",
+          "difficulty": "Novice",
+          "area": "Nordic Lower Trails"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": [
+        {
+          "name": "Hutch",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-31",
+        "high_f": null,
+        "low_f": 40,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-01",
+          "high_f": 40,
+          "low_f": 34,
+          "description": "Cloudy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2026-01-02",
+          "high_f": 36,
+          "low_f": 35,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-03",
+          "high_f": 38,
+          "low_f": 35,
+          "description": "Rain",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-01",
+        "high_f": 40,
+        "low_f": 34,
+        "description": "Cloudy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 1
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "1 new trail opened today"
+    ],
+    "trends": [
+      "Great week for snow - 29\" in last 7 days",
+      "1\" snow expected Thursday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "A Little Sugar on Top",
+    "body": "1\" of fresh snow settled in overnight. Not a powder day, but definitely an upgrade. 1 trail opened today expanding access to fresh terrain. Light snow possible in the forecast.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_new_trails_opened",
+          "category": "terrain",
+          "priority": 65,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_flurries",
+          "category": "weather",
+          "priority": 30,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "fresh_coat",
+        "variationIndex": 1,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "{snow24h}\" Freshened Things Up"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

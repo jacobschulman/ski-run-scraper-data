@@ -1,0 +1,255 @@
+{
+  "resort": "steamboat",
+  "resortName": "Steamboat",
+  "date": "2026-01-02",
+  "generated": "2026-01-03T06:25:51.386Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 3,
+      "overnight_cm": 8,
+      "24hour_inches": 4,
+      "24hour_cm": 10,
+      "48hour_inches": 4,
+      "48hour_cm": 10,
+      "7day_inches": 19,
+      "7day_cm": 48,
+      "season_total_inches": 54,
+      "season_total_cm": 137,
+      "conditions": {
+        "today": "Packed Powder",
+        "yesterday": "Packed Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 84,
+          "yesterday": 78,
+          "delta": 6
+        },
+        "groomedTrails": {
+          "today": 41,
+          "yesterday": 43,
+          "delta": -2
+        },
+        "totalTrails": 193
+      },
+      "newlyOpened": [
+        {
+          "name": "BC Ski Way",
+          "difficulty": "Easy",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Cyclone",
+          "difficulty": "Advanced",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Flatout",
+          "difficulty": "Easy",
+          "area": "Steamboat"
+        },
+        {
+          "name": "So What",
+          "difficulty": "Easy",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Surprise",
+          "difficulty": "Advanced Intermediate",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Tornado",
+          "difficulty": "Advanced",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Tornado Lane",
+          "difficulty": "Intermediate",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Twister",
+          "difficulty": "Advanced",
+          "area": "Steamboat"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Oops",
+          "difficulty": "Advanced",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Wild Blue Way",
+          "difficulty": "Easy",
+          "area": "Steamboat"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "South Peak Flats",
+          "difficulty": "Easy",
+          "area": "Steamboat"
+        },
+        {
+          "name": "West Side",
+          "difficulty": "Advanced",
+          "area": "Steamboat"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Bail Out",
+          "difficulty": "Intermediate",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Rooster",
+          "difficulty": "Intermediate",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Snooze Bar",
+          "difficulty": "Intermediate",
+          "area": "Steamboat"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-01",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 24,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-02",
+        "high_f": null,
+        "low_f": 26,
+        "high_c": null,
+        "low_c": -4,
+        "description": "Windy",
+        "snowfall_day_inches": 2,
+        "snowfall_night_inches": 1
+      },
+      "outlook": [
+        {
+          "date": "2026-01-03",
+          "high_f": 33,
+          "low_f": 28,
+          "high_c": 1,
+          "low_c": -2,
+          "description": "Mostly Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-04",
+          "high_f": 32,
+          "low_f": 27,
+          "high_c": 0,
+          "low_c": -3,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-05",
+          "high_f": 27,
+          "low_f": 21,
+          "high_c": -3,
+          "low_c": -6,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 3,
+          "snowfall_night_inches": 3,
+          "snowfall_expected": 6
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-03",
+        "high_f": 33,
+        "low_f": 28,
+        "high_c": 1,
+        "low_c": -2,
+        "description": "Mostly Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "3\" fresh snow overnight",
+      "8 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 19\" in last 7 days",
+      "6 more trails open than yesterday",
+      "6\" snow expected Monday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on South Peak Flats - all skill levels",
+      "Fresh corduroy on West Side - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "The Forecast Looks Loaded",
+    "body": "The mountain got a nice 4\" touch-up. Expect improved conditions across the board. 8 more trails are in play today. The groomers are getting stretched thin (in a good way). The jet stream is doing its thing. Expect 6\" of fresh snow rolling in soon.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_storm_major",
+          "category": "weather",
+          "priority": 88,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_storm_major",
+          "category": "weather",
+          "priority": 88,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "storm_major",
+        "variationIndex": 4,
+        "totalVariations": 8,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Storm Cycle Building"
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
+  "errors": []
+}

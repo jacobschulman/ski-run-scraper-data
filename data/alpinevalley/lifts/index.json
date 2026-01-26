@@ -1,0 +1,80 @@
+{
+  "resort": "alpinevalley",
+  "resortName": "Alpine Valley",
+  "provider": "vail",
+  "liftWaitTimesAvailable": false,
+  "liftCount": 5,
+  "lifts": [
+    {
+      "liftId": "3",
+      "name": "Carpet Lift",
+      "slug": "carpet-lift",
+      "mountain": "Alpine Valley",
+      "type": "Tow",
+      "capacity": null,
+      "status": "Open",
+      "waitMinutes": null,
+      "openTime": "09:00",
+      "closeTime": "19:00",
+      "avgWaitTime": null,
+      "lastUpdated": "2026-01-26T00:59:04.462Z"
+    },
+    {
+      "liftId": "4",
+      "name": "Handle Tow",
+      "slug": "handle-tow",
+      "mountain": "Alpine Valley",
+      "type": "Tow",
+      "capacity": null,
+      "status": "Open",
+      "waitMinutes": null,
+      "openTime": "09:00",
+      "closeTime": "19:00",
+      "avgWaitTime": null,
+      "lastUpdated": "2026-01-26T00:59:04.462Z"
+    },
+    {
+      "liftId": "0",
+      "name": "Snowbelt",
+      "slug": "snowbelt",
+      "mountain": "Alpine Valley",
+      "type": "Triple",
+      "capacity": 3,
+      "status": "Open",
+      "waitMinutes": null,
+      "openTime": "09:00",
+      "closeTime": "19:00",
+      "avgWaitTime": null,
+      "lastUpdated": "2026-01-26T00:59:04.462Z"
+    },
+    {
+      "liftId": "1",
+      "name": "Sycamore Lake",
+      "slug": "sycamore-lake",
+      "mountain": "Alpine Valley",
+      "type": "Triple",
+      "capacity": 3,
+      "status": "Open",
+      "waitMinutes": null,
+      "openTime": "09:00",
+      "closeTime": "19:00",
+      "avgWaitTime": null,
+      "lastUpdated": "2026-01-26T00:59:04.462Z"
+    },
+    {
+      "liftId": "2",
+      "name": "The Pine",
+      "slug": "the-pine",
+      "mountain": "Alpine Valley",
+      "type": "Quad",
+      "capacity": 4,
+      "status": "Open",
+      "waitMinutes": null,
+      "openTime": "09:00",
+      "closeTime": "19:00",
+      "avgWaitTime": null,
+      "lastUpdated": "2026-01-26T00:59:04.462Z"
+    }
+  ],
+  "generated": "2026-01-26T19:57:34.216Z"
+}

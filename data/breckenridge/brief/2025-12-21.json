@@ -1,0 +1,203 @@
+{
+  "resort": "breckenridge",
+  "resortName": "Breckenridge",
+  "date": "2025-12-21",
+  "generated": "2025-12-21T12:36:40.725Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 1,
+      "7day_cm": 2,
+      "season_total_inches": 41,
+      "season_total_cm": 104,
+      "conditions": {
+        "today": "Early Season",
+        "yesterday": "Early Season"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 34,
+          "yesterday": 34,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 21,
+          "yesterday": 21,
+          "delta": 0
+        },
+        "totalTrails": 193
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-20",
+        "avgWaitTime": 4.8,
+        "maxWaitTime": 40,
+        "totalLiftsTracked": 35,
+        "busiest": [
+          {
+            "name": "Quicksilver SuperChair",
+            "avgWait": 11.9,
+            "peakWait": 28,
+            "type": "six",
+            "mountain": "Peak 9"
+          },
+          {
+            "name": "Beaver Run SuperChair",
+            "avgWait": 6.1,
+            "peakWait": 13,
+            "type": "quad",
+            "mountain": "Peak 9"
+          },
+          {
+            "name": "Rip's Ride",
+            "avgWait": 5.8,
+            "peakWait": 40,
+            "type": "quad",
+            "mountain": "Peak 8"
+          },
+          {
+            "name": "Colorado SuperChair",
+            "avgWait": 4.3,
+            "peakWait": 10,
+            "type": "six",
+            "mountain": "Peak 8"
+          },
+          {
+            "name": "Rocky Mountain SuperChair",
+            "avgWait": 3.9,
+            "peakWait": 12,
+            "type": "quad",
+            "mountain": "Peak 8"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-21",
+        "high_f": 41,
+        "low_f": 25,
+        "high_c": 5,
+        "low_c": -4,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-22T07:00:00Z",
+          "high_f": 44,
+          "low_f": 29,
+          "high_c": 6,
+          "low_c": -2,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-23T07:00:00Z",
+          "high_f": 43,
+          "low_f": 24,
+          "high_c": 6,
+          "low_c": -5,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-24T07:00:00Z",
+          "high_f": 41,
+          "low_f": 26,
+          "high_c": 5,
+          "low_c": -3,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-22T07:00:00Z",
+        "high_f": 44,
+        "low_f": 29,
+        "high_c": 6,
+        "low_c": -2,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": [
+      "Quicksilver SuperChair had longest waits (11.9 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": {
+    "headline": "It's beginning to look a lot like spring!",
+    "body": "34 trails open, 21 groomed. Mostly Clear, high of 41°. Watch for crowds at Quicksilver SuperChair, which peaked around 40 minutes yesterday. Warmer temps with a high of 41°. Snow will soften up by afternoon—corn snow incoming.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_spring_vibes",
+          "category": "weather",
+          "priority": 50,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_watch_crowds",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_spring_vibes",
+          "category": "weather",
+          "priority": 50,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "spring_vibes",
+        "variationIndex": 3,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Your Daily Ski Report"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

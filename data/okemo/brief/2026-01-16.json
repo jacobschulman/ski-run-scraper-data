@@ -1,0 +1,74 @@
+{
+  "resort": "okemo",
+  "resortName": "Okemo",
+  "date": "2026-01-16",
+  "generated": "2026-01-16T10:23:49.796Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 89,
+          "yesterday": 85,
+          "delta": 4
+        },
+        "groomedTrails": {
+          "today": 74,
+          "yesterday": 73,
+          "delta": 1
+        },
+        "totalTrails": 129
+      },
+      "newlyOpened": [
+        {
+          "name": "Wardance",
+          "difficulty": "Black",
+          "area": "Main Face"
+        },
+        {
+          "name": "Double Diamond",
+          "difficulty": "DoubleBlack",
+          "area": "South Face"
+        },
+        {
+          "name": "Off The Rim",
+          "difficulty": "Blue",
+          "area": "South Face"
+        },
+        {
+          "name": "Upper Wild Thing",
+          "difficulty": "DoubleBlack",
+          "area": "South Face"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-15",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 21,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "4 new trails opened today"
+    ],
+    "trends": [
+      "4 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

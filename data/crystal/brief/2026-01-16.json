@@ -1,0 +1,100 @@
+{
+  "resort": "crystal",
+  "resortName": "Crystal Mountain",
+  "date": "2026-01-16",
+  "generated": "2026-01-17T07:16:52.398Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 48,
+          "yesterday": 41,
+          "delta": 7
+        },
+        "groomedTrails": {
+          "today": 20,
+          "yesterday": 19,
+          "delta": 1
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Snorting Elk",
+          "difficulty": "Difficult",
+          "area": "Frontside"
+        },
+        {
+          "name": "Campbell Basin",
+          "difficulty": "Very Difficult",
+          "area": "High Campbell"
+        },
+        {
+          "name": "Powder Bowl",
+          "difficulty": "Very Difficult",
+          "area": "High Campbell"
+        },
+        {
+          "name": "The Throne",
+          "difficulty": "Very Difficult",
+          "area": "High Campbell"
+        },
+        {
+          "name": "A-Basin",
+          "difficulty": "Very Difficult",
+          "area": "South"
+        },
+        {
+          "name": "Silver Basin",
+          "difficulty": "Very Difficult",
+          "area": "South"
+        },
+        {
+          "name": "Silver King",
+          "difficulty": "Very Difficult",
+          "area": "South"
+        },
+        {
+          "name": "Three Way Peak",
+          "difficulty": "Very Difficult",
+          "area": "South"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Rolling Knolls",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-15",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 11,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "8 new trails opened today"
+    ],
+    "trends": [
+      "7 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

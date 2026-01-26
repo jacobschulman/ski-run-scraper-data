@@ -1,0 +1,257 @@
+{
+  "resort": "steamboat",
+  "resortName": "Steamboat",
+  "date": "2025-12-28",
+  "generated": "2025-12-29T06:29:18.646Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 10,
+      "overnight_cm": 25,
+      "24hour_inches": 15,
+      "24hour_cm": 38,
+      "48hour_inches": 15,
+      "48hour_cm": 38,
+      "7day_inches": 15,
+      "7day_cm": 38,
+      "season_total_inches": 51,
+      "season_total_cm": 128,
+      "conditions": {
+        "today": "Powder",
+        "yesterday": "Packed Powder / Machine Made"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 51,
+          "yesterday": 36,
+          "delta": 15
+        },
+        "groomedTrails": {
+          "today": 35,
+          "yesterday": 33,
+          "delta": 2
+        },
+        "totalTrails": 193
+      },
+      "newlyOpened": [
+        {
+          "name": "BC Lift Line",
+          "difficulty": "Advanced",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Blizzard",
+          "difficulty": "Intermediate",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Broadway",
+          "difficulty": "Easy",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Dusk",
+          "difficulty": "Intermediate",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Hurricane",
+          "difficulty": "Advanced",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Norther",
+          "difficulty": "Intermediate",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Oops",
+          "difficulty": "Advanced",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Rainbow",
+          "difficulty": "Intermediate",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Rendezvous Way",
+          "difficulty": "Easy",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Rolex",
+          "difficulty": "Advanced",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Storm Peak South",
+          "difficulty": "Advanced",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Triangle 3",
+          "difficulty": "Advanced",
+          "area": "Steamboat"
+        },
+        {
+          "name": "West Side",
+          "difficulty": "Advanced",
+          "area": "Steamboat"
+        },
+        {
+          "name": "White Out",
+          "difficulty": "Advanced",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Duster",
+          "difficulty": "Snowshoe",
+          "area": "Snowshoe Trails"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Voo Doo",
+          "difficulty": "Advanced",
+          "area": "Steamboat"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Rainbow",
+          "difficulty": "Intermediate",
+          "area": "Steamboat"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-27",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 24,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-28",
+        "high_f": null,
+        "low_f": 4,
+        "high_c": null,
+        "low_c": -15,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-29",
+          "high_f": 20,
+          "low_f": 17,
+          "high_c": -7,
+          "low_c": -9,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-30",
+          "high_f": 28,
+          "low_f": 25,
+          "high_c": -2,
+          "low_c": -4,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-31",
+          "high_f": 33,
+          "low_f": 29,
+          "high_c": 1,
+          "low_c": -1,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-29",
+        "high_f": 20,
+        "low_f": 17,
+        "high_c": -7,
+        "low_c": -9,
+        "description": "Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "10\" fresh snow overnight",
+      "15\" in last 24 hours - powder day!",
+      "15 new trails opened today",
+      "1 trail freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 15\" in last 7 days",
+      "15 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Voo Doo - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Deep Day at Steamboat",
+    "body": "Wake up, it's a powder day! 15\" overnight means hero snow everywhere you look. Rope drop! 15 trails opened overnight, expanding your playground significantly.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 0,
+        "totalVariations": 12,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Powder Day Alert! ❄️"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

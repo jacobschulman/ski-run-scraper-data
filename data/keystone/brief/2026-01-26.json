@@ -1,0 +1,226 @@
+{
+  "resort": "keystone",
+  "resortName": "Keystone",
+  "date": "2026-01-26",
+  "generated": "2026-01-26T12:42:29.951Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 1,
+      "24hour_cm": 2,
+      "48hour_inches": 6,
+      "48hour_cm": 15,
+      "7day_inches": 7,
+      "7day_cm": 17,
+      "season_total_inches": 82,
+      "season_total_cm": 208,
+      "conditions": {
+        "today": "Powder",
+        "yesterday": "Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 82,
+          "yesterday": 82,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 47,
+          "yesterday": 47,
+          "delta": 0
+        },
+        "totalTrails": 142
+      },
+      "newlyOpened": [
+        {
+          "name": "Go Devil - Upper",
+          "difficulty": "Black",
+          "area": "Dercum Mountain"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "I-70",
+          "difficulty": "TerrainPark",
+          "area": "Terrain Park"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Go Devil - Upper",
+          "difficulty": "Black",
+          "area": "Dercum Mountain"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-25",
+        "avgWaitTime": 3.3,
+        "maxWaitTime": 21,
+        "totalLiftsTracked": 21,
+        "busiest": [
+          {
+            "name": "Peru Express",
+            "avgWait": 4.3,
+            "peakWait": 12,
+            "type": "Six Pack",
+            "mountain": "Dercum Mountain"
+          },
+          {
+            "name": "Montezuma Express",
+            "avgWait": 4.1,
+            "peakWait": 19,
+            "type": "Six Pack",
+            "mountain": "Dercum Mountain"
+          },
+          {
+            "name": "Summit Express",
+            "avgWait": 3.5,
+            "peakWait": 21,
+            "type": "Quad",
+            "mountain": "Dercum Mountain"
+          },
+          {
+            "name": "Santiago Express",
+            "avgWait": 3.4,
+            "peakWait": 5,
+            "type": "Quad",
+            "mountain": "North Peak"
+          },
+          {
+            "name": "River Run Gondola",
+            "avgWait": 3.2,
+            "peakWait": 12,
+            "type": "Gondola",
+            "mountain": "Dercum Mountain"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-26",
+        "high_f": 20,
+        "low_f": -9,
+        "high_c": -7,
+        "low_c": -23,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-27T07:00:00Z",
+          "high_f": 24,
+          "low_f": 4,
+          "high_c": -4,
+          "low_c": -16,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-28T07:00:00Z",
+          "high_f": 32,
+          "low_f": 3,
+          "high_c": null,
+          "low_c": -16,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-29T07:00:00Z",
+          "high_f": 22,
+          "low_f": 9,
+          "high_c": -6,
+          "low_c": -13,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-27T07:00:00Z",
+        "high_f": 24,
+        "low_f": 4,
+        "high_c": -4,
+        "low_c": -16,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today",
+      "1 trail freshly groomed"
+    ],
+    "trends": [
+      "Steady snowfall - 7\" in last 7 days"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Go Devil - Upper - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Overnight Refresh",
+    "body": "A light refresh of 1\" overnight makes the groomers smoother. Heads up: Peru Express peaked at 21 minutes yesterday. Consider alternatives. Picture-perfect day: sunny skies, 20° temps, not a cloud to block the view.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_busy",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_bluebird",
+          "category": "weather",
+          "priority": 70,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 7,
+      "headlineSelection": {
+        "condition": "fresh_coat",
+        "variationIndex": 3,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": null
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

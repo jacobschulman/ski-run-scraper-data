@@ -1,0 +1,254 @@
+{
+  "resort": "jacksonhole",
+  "resortName": "Jackson Hole",
+  "date": "2026-01-06",
+  "generated": "2026-01-07T06:28:02.002Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 3,
+      "overnight_cm": 8,
+      "24hour_inches": 7,
+      "24hour_cm": 18,
+      "48hour_inches": 14,
+      "48hour_cm": 36,
+      "7day_inches": 29,
+      "7day_cm": 74,
+      "season_total_inches": 197,
+      "season_total_cm": 500,
+      "conditions": {
+        "today": "6 AM- Ladies and gentlemen, children of all ages, prepare for an alpine experience that's guaranteed to be totally outrageous. 7 more inches of wind-blown pow slathered the mountainside over the past 24 hours, with 3 of them buffing up the slopes after the lifts closed. Occasional breaks in the clouds will pop today, shooting solar beams between periods of continued snowfall. Mild high temperatures will tickle the low 20s in the upper elevations while the Village hangs in the low 30s. Strong winds swirling from the west will help clean the big-mountain canvas while simultaneously sending you into an extended state of vapor-derived delirium. Despite the supersonic faceshots to the chin, you'll find the fresh flakes hit as soft as an angel's wing. Yet, somehow, they still pack the power to elicit a fiendishly demonic grin. -Lege",
+        "yesterday": "6AM - Accumulation continues up high with 7\" of new snow in the last 24 hours! 4 of those inches have fallen since lifts closed yesterday and the white stuff continues to fall above 7000 feet this morning. This round of snow will continue to produce during the morning hours before lightening up in the early afternoon as the band of moisture makes its exit. Expect winds to increase as precipitation decreases throughout the day - 40mph gusts out of the west are possible. Base temps will stick in the mid-30s while upper elevations just clear 20. More snow looks to be on the way after closing time today. Enjoy! -OH"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 108,
+          "yesterday": 90,
+          "delta": 18
+        },
+        "groomedTrails": {
+          "today": 46,
+          "yesterday": 37,
+          "delta": 9
+        },
+        "totalTrails": 145
+      },
+      "newlyOpened": [
+        {
+          "name": "Moran Woods",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Alta Chute 3",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Woolsey Woods",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "St. John's Extension",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "F.I.S. Cut",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Moran Face",
+          "difficulty": "Double Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "St. John's",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Union Pass Traverse",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Central Chute",
+          "difficulty": "Double Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Split Rock",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Two in the Bush",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Hanna (Upper)",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Surprise",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Cascade",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Casper Traverse",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Avalanche",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Downhill",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Buck Run",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Hanging Rock",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Tram Line",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Bivouac",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Amphitheater",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Teewinot (Upper)",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Union Pass Traverse",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Laramie",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "U.P. Connection",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Ashley Ridge (Upper)",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Ranger",
+          "difficulty": "Black",
+          "area": "All Terrain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Grand",
+          "difficulty": "Blue",
+          "area": "All Terrain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true
+    },
+    "alerts": [
+      "3\" fresh snow overnight",
+      "7\" in last 24 hours - powder day!",
+      "18 new trails opened today",
+      "10 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 29\" in last 7 days",
+      "Grooming increased 24% from yesterday",
+      "18 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Hanging Rock - perfect for intermediate skiers",
+      "Fresh corduroy on Tram Line - perfect for intermediate skiers",
+      "Fresh corduroy on Bivouac - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Powder Day Alert",
+    "body": "It's a 7\" day. You know what to do. First chair or regret it. Major terrain drop: 18 new trails opened overnight.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_major",
+          "category": "terrain",
+          "priority": 88,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 0,
+        "totalVariations": 11,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Deep Day at {resortName}"
+      },
+      "dayOfWeek": "Tuesday"
+    }
+  },
+  "errors": []
+}

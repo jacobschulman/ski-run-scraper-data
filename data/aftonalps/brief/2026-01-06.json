@@ -1,0 +1,145 @@
+{
+  "resort": "aftonalps",
+  "resortName": "Afton Alps",
+  "date": "2026-01-06",
+  "generated": "2026-01-06T11:16:39.409Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 3,
+      "7day_cm": 7,
+      "season_total_inches": 16,
+      "season_total_cm": 40,
+      "conditions": {
+        "today": "Fresh",
+        "yesterday": "Fresh"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "totalTrails": 35
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-06",
+        "high_f": 34,
+        "low_f": 26,
+        "high_c": 1,
+        "low_c": -4,
+        "description": "Rain/Snow",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-07T06:00:00Z",
+          "high_f": 38,
+          "low_f": 26,
+          "high_c": 3,
+          "low_c": -4,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-08T06:00:00Z",
+          "high_f": 35,
+          "low_f": 28,
+          "high_c": 1,
+          "low_c": -3,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-09T06:00:00Z",
+          "high_f": 32,
+          "low_f": 24,
+          "high_c": null,
+          "low_c": -5,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-07T06:00:00Z",
+        "high_f": 38,
+        "low_f": 26,
+        "high_c": 3,
+        "low_c": -4,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Transition Day",
+    "body": "Trails aren't spinning yet, but keep an eye out for opening announcements.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_mixed",
+          "category": "weather",
+          "priority": 195,
+          "usedFor": "headline"
+        },
+        {
+          "id": "resort_closed",
+          "category": "terrain",
+          "priority": 95,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "weather_mixed",
+        "variationIndex": 4,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "The Wait Continues"
+      },
+      "dayOfWeek": "Tuesday"
+    }
+  },
+  "errors": []
+}

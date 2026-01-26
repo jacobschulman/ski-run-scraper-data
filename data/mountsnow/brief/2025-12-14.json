@@ -1,0 +1,157 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2025-12-14",
+  "generated": "2025-12-14T10:23:18.198Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 31,
+          "yesterday": 25,
+          "delta": 6
+        },
+        "groomedTrails": {
+          "today": 24,
+          "yesterday": 19,
+          "delta": 5
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Cooper's Junction",
+          "difficulty": "Green",
+          "area": "Main Face"
+        },
+        {
+          "name": "Drifter",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Hop",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Link",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Low Traverse",
+          "difficulty": "Green",
+          "area": "Main Face"
+        },
+        {
+          "name": "Roller Coaster",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Somerset Road",
+          "difficulty": "Green",
+          "area": "Main Face"
+        },
+        {
+          "name": "Uncles",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Yard Sale",
+          "difficulty": "Black",
+          "area": "Main Face"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Tin Lizzy",
+          "difficulty": "Green",
+          "area": "Main Face"
+        },
+        {
+          "name": "Boulder Pile",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Challenger",
+          "difficulty": "Black",
+          "area": "North Face"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Hop",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Low Traverse",
+          "difficulty": "Green",
+          "area": "Main Face"
+        },
+        {
+          "name": "Roller Coaster",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Somerset Road",
+          "difficulty": "Green",
+          "area": "Main Face"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-13",
+        "avgWaitTime": 7,
+        "maxWaitTime": 18,
+        "totalLiftsTracked": 19,
+        "busiest": [
+          {
+            "name": "Bluebird Express",
+            "avgWait": 9.9,
+            "peakWait": 18,
+            "type": "six",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 4.1,
+            "peakWait": 11,
+            "type": "quad",
+            "mountain": "Main Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "9 new trails opened today",
+      "4 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 26% from yesterday",
+      "6 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Hop - perfect for intermediate skiers",
+      "Fresh corduroy on Low Traverse - great for beginners",
+      "Fresh corduroy on Roller Coaster - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

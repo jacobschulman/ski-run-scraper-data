@@ -1,0 +1,294 @@
+{
+  "resort": "northstar",
+  "resortName": "Northstar",
+  "date": "2025-12-29",
+  "generated": "2025-12-29T13:36:33.694Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 7,
+      "48hour_cm": 17,
+      "7day_inches": 87,
+      "7day_cm": 221,
+      "season_total_inches": 114,
+      "season_total_cm": 289,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 46,
+          "yesterday": 40,
+          "delta": 6
+        },
+        "groomedTrails": {
+          "today": 21,
+          "yesterday": 23,
+          "delta": -2
+        },
+        "totalTrails": 107
+      },
+      "newlyOpened": [
+        {
+          "name": "Lumberjack",
+          "difficulty": "Green",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "Upper Main Street",
+          "difficulty": "Green",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "Forerunner",
+          "difficulty": "TerrainPark",
+          "area": "Terrain Parks"
+        },
+        {
+          "name": "Playground",
+          "difficulty": "TerrainPark",
+          "area": "Terrain Parks"
+        },
+        {
+          "name": "Sidewinder",
+          "difficulty": "TerrainPark",
+          "area": "Terrain Parks"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Lower Pioneer",
+          "difficulty": "Blue",
+          "area": "Northwest Territory"
+        },
+        {
+          "name": "Upper Lion's Way",
+          "difficulty": "Blue",
+          "area": "Northwest Territory"
+        },
+        {
+          "name": "Upper Pioneer",
+          "difficulty": "Blue",
+          "area": "Northwest Territory"
+        },
+        {
+          "name": "Sidewinder",
+          "difficulty": "TerrainPark",
+          "area": "Terrain Parks"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Dutchman",
+          "difficulty": "Blue",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "Flying Squirrel",
+          "difficulty": "Blue",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "Lumberjack",
+          "difficulty": "Green",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "Spring Board",
+          "difficulty": "Black",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "The Flume",
+          "difficulty": "Blue",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "Carpet Bowl",
+          "difficulty": "Green",
+          "area": "Northwest Territory"
+        },
+        {
+          "name": "Easy Street",
+          "difficulty": "Green",
+          "area": "Northwest Territory"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-28",
+        "avgWaitTime": 5.2,
+        "maxWaitTime": 21,
+        "totalLiftsTracked": 19,
+        "busiest": [
+          {
+            "name": "Vista Express",
+            "avgWait": 8.8,
+            "peakWait": 21,
+            "type": "Quad",
+            "mountain": "Terrain Parks"
+          },
+          {
+            "name": "Big Springs Express Gondola",
+            "avgWait": 5.8,
+            "peakWait": 17,
+            "type": "Gondola",
+            "mountain": "Village at Northstar"
+          },
+          {
+            "name": "Arrow Express",
+            "avgWait": 4.3,
+            "peakWait": 19,
+            "type": "Quad",
+            "mountain": "Northwest Territory"
+          },
+          {
+            "name": "The Big Easy Quad",
+            "avgWait": 3.7,
+            "peakWait": 10,
+            "type": "Quad",
+            "mountain": "Northwest Territory"
+          },
+          {
+            "name": "Village Express",
+            "avgWait": 2.5,
+            "peakWait": 5,
+            "type": "Quad",
+            "mountain": "Village at Northstar"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-29",
+        "high_f": 38,
+        "low_f": 18,
+        "high_c": 3,
+        "low_c": -8,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-30T08:00:00Z",
+          "high_f": 43,
+          "low_f": 29,
+          "high_c": 6,
+          "low_c": -2,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-31T08:00:00Z",
+          "high_f": 42,
+          "low_f": 31,
+          "high_c": 5,
+          "low_c": -1,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-01T08:00:00Z",
+          "high_f": 40,
+          "low_f": 36,
+          "high_c": 4,
+          "low_c": 2,
+          "description": "Rain",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-30T08:00:00Z",
+        "high_f": 43,
+        "low_f": 29,
+        "high_c": 6,
+        "low_c": -2,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "5 new trails opened today",
+      "4 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 87\" in last 7 days",
+      "6 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Lower Pioneer - perfect for intermediate skiers",
+      "Fresh corduroy on Upper Lion's Way - perfect for intermediate skiers",
+      "Fresh corduroy on Upper Pioneer - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "The Map Just Got Bigger",
+    "body": "Holding steady—that 87\" base from recent storms is doing the heavy lifting. The ski patrol has been busy—5 additional trails are now yours to enjoy. Watch for crowds at Vista Express, which peaked around 21 minutes yesterday.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_holding_strong",
+          "category": "snow",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_watch_crowds",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 5,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "The Mountain Got Buried"
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

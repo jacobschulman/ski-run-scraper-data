@@ -1,0 +1,107 @@
+{
+  "resort": "alpinevalley",
+  "resortName": "Alpine Valley",
+  "trailCount": 9,
+  "trails": [
+    {
+      "name": "322 Park",
+      "slug": "322-park",
+      "area": "Alpine Valley",
+      "difficulty": "TerrainPark",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 100,
+      "currentStreak": 37,
+      "longestStreak": 37
+    },
+    {
+      "name": "Alpine Twist",
+      "slug": "alpine-twist",
+      "area": "Alpine Valley",
+      "difficulty": "Green",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 100,
+      "currentStreak": 37,
+      "longestStreak": 37
+    },
+    {
+      "name": "Exhibition",
+      "slug": "exhibition",
+      "area": "Alpine Valley",
+      "difficulty": "Blue",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 100,
+      "currentStreak": 37,
+      "longestStreak": 37
+    },
+    {
+      "name": "Main Street",
+      "slug": "main-street",
+      "area": "Alpine Valley",
+      "difficulty": "Blue",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 100,
+      "currentStreak": 37,
+      "longestStreak": 37
+    },
+    {
+      "name": "Mills Stream",
+      "slug": "mills-stream",
+      "area": "Alpine Valley",
+      "difficulty": "Green",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 100,
+      "currentStreak": 37,
+      "longestStreak": 37
+    },
+    {
+      "name": "Nugget",
+      "slug": "nugget",
+      "area": "Alpine Valley",
+      "difficulty": "Black",
+      "isGroomedToday": false,
+      "isOpen": true,
+      "groomingPercentage": 35,
+      "currentStreak": 0,
+      "longestStreak": 13
+    },
+    {
+      "name": "Outer Limits",
+      "slug": "outer-limits",
+      "area": "Alpine Valley",
+      "difficulty": "Blue",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 59,
+      "currentStreak": 8,
+      "longestStreak": 14
+    },
+    {
+      "name": "The Meadow",
+      "slug": "the-meadow",
+      "area": "Alpine Valley",
+      "difficulty": "Blue",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 57,
+      "currentStreak": 8,
+      "longestStreak": 13
+    },
+    {
+      "name": "Upper Exhibition",
+      "slug": "upper-exhibition",
+      "area": "Alpine Valley",
+      "difficulty": "Black",
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 100,
+      "currentStreak": 37,
+      "longestStreak": 37
+    }
+  ],
+  "lastUpdated": "2026-01-26T19:30:29.351Z"
+}

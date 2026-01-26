@@ -1,0 +1,282 @@
+{
+  "resort": "okemo",
+  "resortName": "Okemo",
+  "date": "2026-01-03",
+  "generated": "2026-01-03T10:23:49.197Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 6,
+      "48hour_cm": 15,
+      "7day_inches": 13,
+      "7day_cm": 33,
+      "season_total_inches": 42,
+      "season_total_cm": 106,
+      "conditions": {
+        "today": "Fresh",
+        "yesterday": "Fresh"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 85,
+          "yesterday": 70,
+          "delta": 15
+        },
+        "groomedTrails": {
+          "today": 63,
+          "yesterday": 63,
+          "delta": 0
+        },
+        "totalTrails": 129
+      },
+      "newlyOpened": [
+        {
+          "name": "Gordon's Garden",
+          "difficulty": "TerrainPark",
+          "area": "Clock Tower"
+        },
+        {
+          "name": "Rolling Thunder",
+          "difficulty": "DoubleBlack",
+          "area": "Jackson Gore"
+        },
+        {
+          "name": "Upper Limelight",
+          "difficulty": "Black",
+          "area": "Jackson Gore"
+        },
+        {
+          "name": "White Lightning",
+          "difficulty": "Black",
+          "area": "Jackson Gore"
+        },
+        {
+          "name": "Challenger",
+          "difficulty": "Black",
+          "area": "Main Face"
+        },
+        {
+          "name": "Fall Line",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Scooter",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Searle's Way",
+          "difficulty": "Black",
+          "area": "Main Face"
+        },
+        {
+          "name": "Upper Fall Line",
+          "difficulty": "Black",
+          "area": "Main Face"
+        },
+        {
+          "name": "Boomerang",
+          "difficulty": "Blue",
+          "area": "Solitude"
+        },
+        {
+          "name": "Exhibition",
+          "difficulty": "Black",
+          "area": "Solitude"
+        },
+        {
+          "name": "Lower Wild Thing",
+          "difficulty": "Black",
+          "area": "South Face"
+        },
+        {
+          "name": "Off The Rim",
+          "difficulty": "Blue",
+          "area": "South Face"
+        },
+        {
+          "name": "Rossi Run",
+          "difficulty": "Green",
+          "area": "South Face"
+        },
+        {
+          "name": "Upper Wild Thing",
+          "difficulty": "DoubleBlack",
+          "area": "South Face"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-02",
+        "avgWaitTime": 2.2,
+        "maxWaitTime": 10,
+        "totalLiftsTracked": 21,
+        "busiest": [
+          {
+            "name": "Sunburst Six",
+            "avgWait": 7.1,
+            "peakWait": 10,
+            "type": "Six Pack",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Coleman Brook Express Quad",
+            "avgWait": 1,
+            "peakWait": 1,
+            "type": "Quad",
+            "mountain": "Jackson Gore"
+          },
+          {
+            "name": "Quantum Six",
+            "avgWait": 1,
+            "peakWait": 1,
+            "type": "Six Pack",
+            "mountain": "Jackson Gore"
+          },
+          {
+            "name": "Solitude Express Quad",
+            "avgWait": 1,
+            "peakWait": 1,
+            "type": "Quad",
+            "mountain": "Solitude"
+          },
+          {
+            "name": "South Face Express Quad",
+            "avgWait": 1,
+            "peakWait": 1,
+            "type": "Quad",
+            "mountain": "South Face"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-03",
+        "high_f": 20,
+        "low_f": 9,
+        "high_c": -7,
+        "low_c": -13,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-04T05:00:00Z",
+          "high_f": 18,
+          "low_f": 2,
+          "high_c": -8,
+          "low_c": -17,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-05T05:00:00Z",
+          "high_f": 13,
+          "low_f": -3,
+          "high_c": -11,
+          "low_c": -20,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-06T05:00:00Z",
+          "high_f": 25,
+          "low_f": 10,
+          "high_c": -4,
+          "low_c": -12,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-04T05:00:00Z",
+        "high_f": 18,
+        "low_f": 2,
+        "high_c": -8,
+        "low_c": -17,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "15 new trails opened today"
+    ],
+    "trends": [
+      "Great week for snow - 13\" in last 7 days",
+      "15 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Fresh Terrain Unlocked",
+    "body": "The 13\" from this week is still skiing great. No new snow needed (yet). 15 new runs just opened up. Time to explore some fresh terrain. Lift lines stayed mellow yesterday, so early laps should feel quick.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_holding_strong",
+          "category": "snow",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_mellow_lines",
+          "category": "lifts",
+          "priority": 50,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 4,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Fresh Tracks for Days"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,116 @@
+{
+  "resort": "crestedbutte",
+  "resortName": "Crested Butte",
+  "date": "2025-12-11",
+  "generated": "2025-12-11T12:41:20.329Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 24,
+          "yesterday": 21,
+          "delta": 3
+        },
+        "groomedTrails": {
+          "today": 14,
+          "yesterday": 9,
+          "delta": 5
+        },
+        "totalTrails": 168
+      },
+      "newlyOpened": [
+        {
+          "name": "Lower Forest Queen",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Paradise Bowl",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Upper Canaan",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Lower Ruby Chief",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Paradise Bowl",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Ruby Access",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Upper Canaan",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Upper Conundrum",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-10",
+        "avgWaitTime": 2,
+        "maxWaitTime": 6,
+        "totalLiftsTracked": 15,
+        "busiest": [
+          {
+            "name": "Red Lady Express",
+            "avgWait": 2.2,
+            "peakWait": 6,
+            "type": "quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "Paradise Express",
+            "avgWait": 1.6,
+            "peakWait": 5,
+            "type": "quad",
+            "mountain": "Back Side"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "3 new trails opened today",
+      "5 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 56% from yesterday",
+      "3 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Lower Ruby Chief - perfect for intermediate skiers",
+      "Fresh corduroy on Paradise Bowl - perfect for intermediate skiers",
+      "Fresh corduroy on Ruby Access - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

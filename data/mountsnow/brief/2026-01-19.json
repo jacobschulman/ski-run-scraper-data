@@ -1,0 +1,139 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2026-01-19",
+  "generated": "2026-01-19T10:28:15.518Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 67,
+          "yesterday": 58,
+          "delta": 9
+        },
+        "groomedTrails": {
+          "today": 43,
+          "yesterday": 44,
+          "delta": -1
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Ledge",
+          "difficulty": "Black",
+          "area": "Main Face"
+        },
+        {
+          "name": "Overbrook",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Shootout",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Short Fuse",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Challenger",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Jaws",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Olympic",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "PDF",
+          "difficulty": "Black",
+          "area": "North Face"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": [
+        {
+          "name": "Plummet",
+          "difficulty": "Black",
+          "area": "North Face"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-18",
+        "avgWaitTime": 11.6,
+        "maxWaitTime": 32,
+        "totalLiftsTracked": 18,
+        "busiest": [
+          {
+            "name": "Bluebird Express",
+            "avgWait": 21.9,
+            "peakWait": 32,
+            "type": "Six Pack",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 10.7,
+            "peakWait": 15,
+            "type": "Quad",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Nitro Express",
+            "avgWait": 10.6,
+            "peakWait": 24,
+            "type": "Quad",
+            "mountain": "Carinthia"
+          },
+          {
+            "name": "Challenger",
+            "avgWait": 3.9,
+            "peakWait": 11,
+            "type": "Triple",
+            "mountain": "North Face"
+          },
+          {
+            "name": "Grand Summit Express",
+            "avgWait": 1.8,
+            "peakWait": 2,
+            "type": "Quad",
+            "mountain": "Main Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": true
+    },
+    "alerts": [
+      "8 new trails opened today"
+    ],
+    "trends": [
+      "9 more trails open than yesterday",
+      "High demand yesterday - average wait time 11.6 min"
+    ],
+    "recommendations": [
+      "Bluebird Express had longest waits (21.9 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

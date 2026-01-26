@@ -1,0 +1,164 @@
+{
+  "resort": "telluride",
+  "resortName": "Telluride",
+  "date": "2026-01-18",
+  "generated": "2026-01-18T12:35:31.167Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 84,
+          "yesterday": 76,
+          "delta": 8
+        },
+        "groomedTrails": {
+          "today": 40,
+          "yesterday": 36,
+          "delta": 4
+        },
+        "totalTrails": 157
+      },
+      "newlyOpened": [
+        {
+          "name": "Pick ‘n Gad",
+          "difficulty": "Blue",
+          "area": "Village Express"
+        },
+        {
+          "name": "Jello’s Bowl",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        },
+        {
+          "name": "Lakeview",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        },
+        {
+          "name": "Mountain Quail",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        },
+        {
+          "name": "Nice Chute",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        },
+        {
+          "name": "Review",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        },
+        {
+          "name": "Dihedral Chute",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        },
+        {
+          "name": "Zipper",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        },
+        {
+          "name": "Westlake",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "La Rosa",
+          "difficulty": "",
+          "area": "Prospect Express (Hike-To Terrain)"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Peek-a-boo",
+          "difficulty": "Blue",
+          "area": "Village Express"
+        },
+        {
+          "name": "Lower Ophir Loop",
+          "difficulty": "Blue",
+          "area": "Polar Queen Express"
+        },
+        {
+          "name": "Enchanted Forest",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Bridges",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Sundance",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Teddy’s Way",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Madison",
+          "difficulty": "Green",
+          "area": "Prospect Express"
+        },
+        {
+          "name": "Sandia",
+          "difficulty": "Blue",
+          "area": "Prospect Express"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Marmot",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Lower Galloping Goose (Middle)",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Double Cabin (Upper)",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Magnolia",
+          "difficulty": "Blue",
+          "area": "Prospect Express"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "9 new trails opened today",
+      "8 trails freshly groomed"
+    ],
+    "trends": [
+      "8 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Peek-a-boo - perfect for intermediate skiers",
+      "Fresh corduroy on Lower Ophir Loop - perfect for intermediate skiers",
+      "Fresh corduroy on Enchanted Forest - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

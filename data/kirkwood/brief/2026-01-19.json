@@ -1,0 +1,217 @@
+{
+  "resort": "kirkwood",
+  "resortName": "Kirkwood",
+  "date": "2026-01-19",
+  "generated": "2026-01-19T13:44:13.145Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 160,
+      "season_total_cm": 406,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 109,
+          "yesterday": 109,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 44,
+          "yesterday": 42,
+          "delta": 2
+        },
+        "totalTrails": 112
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Lower Elevator Shaft",
+          "difficulty": "Blue",
+          "area": "Backside"
+        },
+        {
+          "name": "Upper Elevator Shaft",
+          "difficulty": "Blue",
+          "area": "Backside"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-18",
+        "avgWaitTime": 4.7,
+        "maxWaitTime": 13,
+        "totalLiftsTracked": 13,
+        "busiest": [
+          {
+            "name": "#7 TC Express",
+            "avgWait": 7.7,
+            "peakWait": 10,
+            "type": "Quad",
+            "mountain": "Timber Creek"
+          },
+          {
+            "name": "#5 Solitude",
+            "avgWait": 7.6,
+            "peakWait": 11,
+            "type": "Triple",
+            "mountain": "Frontside"
+          },
+          {
+            "name": "#11 The Reut",
+            "avgWait": 5.7,
+            "peakWait": 11,
+            "type": "Triple",
+            "mountain": "Frontside"
+          },
+          {
+            "name": "#9 Bunny",
+            "avgWait": 5.7,
+            "peakWait": 13,
+            "type": "Triple",
+            "mountain": "Timber Creek"
+          },
+          {
+            "name": "#1 Snowkirk",
+            "avgWait": 4.9,
+            "peakWait": 8,
+            "type": "Triple",
+            "mountain": "Frontside"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-19",
+        "high_f": 42,
+        "low_f": 31,
+        "high_c": 6,
+        "low_c": -1,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-20T08:00:00Z",
+          "high_f": 45,
+          "low_f": 30,
+          "high_c": 7,
+          "low_c": -1,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-21T08:00:00Z",
+          "high_f": 45,
+          "low_f": 36,
+          "high_c": 7,
+          "low_c": 2,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-22T08:00:00Z",
+          "high_f": 42,
+          "low_f": 32,
+          "high_c": 5,
+          "low_c": null,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-20T08:00:00Z",
+        "high_f": 45,
+        "low_f": 30,
+        "high_c": 7,
+        "low_c": -1,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2 trails freshly groomed"
+    ],
+    "trends": [],
+    "recommendations": [
+      "Fresh corduroy on Lower Elevator Shaft - perfect for intermediate skiers",
+      "Fresh corduroy on Upper Elevator Shaft - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Peak Season Mode",
+    "body": "109/112 trails spinning, 44 freshly groomed. 42° and Clear. Nearly full mountain access with 109 of 112 trails spinning. Watch for crowds at #7 TC Express, which saw 13-minute waits yesterday.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "time_holiday",
+          "category": "time",
+          "priority": 70,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "percent_full",
+          "category": "terrain",
+          "priority": 45,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_moderate",
+          "category": "lifts",
+          "priority": 60,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "holiday",
+        "variationIndex": 1,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Unseasonably Warm: {tempHigh}°"
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

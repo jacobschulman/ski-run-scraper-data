@@ -1,0 +1,157 @@
+{
+  "resort": "paolipeaks",
+  "resortName": "Paoli Peaks",
+  "date": "2026-01-07",
+  "generated": "2026-01-07T11:23:01.822Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 6,
+          "yesterday": 6,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 6,
+          "yesterday": 6,
+          "delta": 0
+        },
+        "totalTrails": 6
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-07",
+        "high_f": 53,
+        "low_f": 40,
+        "high_c": 12,
+        "low_c": 4,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-08T05:00:00Z",
+          "high_f": 62,
+          "low_f": 47,
+          "high_c": 17,
+          "low_c": 8,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-09T05:00:00Z",
+          "high_f": 62,
+          "low_f": 49,
+          "high_c": 16,
+          "low_c": 9,
+          "description": "Scattered T-Storms",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-10T05:00:00Z",
+          "high_f": 51,
+          "low_f": 36,
+          "high_c": 10,
+          "low_c": 2,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-08T05:00:00Z",
+        "high_f": 62,
+        "low_f": 47,
+        "high_c": 17,
+        "low_c": 8,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Warm for Winter",
+    "body": "6 of 6 trails are open with 6 groomed. Mostly Clear with a high of 53°F. Nearly full mountain access with 6 of 6 trails spinning. Above average temps (53°) will soften things up. Hit it early.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "temp_unseasonably_warm",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "percent_full",
+          "category": "terrain",
+          "priority": 45,
+          "usedFor": "body"
+        },
+        {
+          "id": "temp_unseasonably_warm",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "unseasonably_warm",
+        "variationIndex": 2,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "New Runs Now Open"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

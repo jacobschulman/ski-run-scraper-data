@@ -1,0 +1,205 @@
+{
+  "resort": "cypressmountain",
+  "resortName": "Cypress Mountain",
+  "date": "2025-12-26",
+  "generated": "2025-12-27T07:15:43.784Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 1,
+      "24hour_inches": 0,
+      "24hour_cm": 1,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 47,
+      "season_total_cm": 119,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 29,
+          "yesterday": 24,
+          "delta": 5
+        },
+        "groomedTrails": {
+          "today": 29,
+          "yesterday": 24,
+          "delta": 5
+        },
+        "totalTrails": 96
+      },
+      "newlyOpened": [
+        {
+          "name": "T-33",
+          "difficulty": "Blue",
+          "area": "Sky Quad"
+        },
+        {
+          "name": "Horsefly Canyon",
+          "difficulty": "Blue",
+          "area": "Sky Quad"
+        },
+        {
+          "name": "Glades",
+          "difficulty": "Black",
+          "area": "Sky Quad"
+        },
+        {
+          "name": "Tomcat",
+          "difficulty": "Black",
+          "area": "Sky Quad"
+        },
+        {
+          "name": "Ripcord",
+          "difficulty": "Black",
+          "area": "Sky Quad"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Horsefly Canyon",
+          "difficulty": "Blue",
+          "area": "Sky Quad"
+        },
+        {
+          "name": "Glades",
+          "difficulty": "Black",
+          "area": "Sky Quad"
+        },
+        {
+          "name": "Tomcat",
+          "difficulty": "Black",
+          "area": "Sky Quad"
+        },
+        {
+          "name": "Ripcord",
+          "difficulty": "Black",
+          "area": "Sky Quad"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-26",
+        "high_f": null,
+        "low_f": 23,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-27",
+          "high_f": 23,
+          "low_f": 21,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-28",
+          "high_f": 27,
+          "low_f": 27,
+          "description": "Cloudy",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2025-12-29",
+          "high_f": 35,
+          "low_f": 35,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-27",
+        "high_f": 23,
+        "low_f": 21,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true
+    },
+    "alerts": [
+      "5 new trails opened today",
+      "4 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 21% from yesterday",
+      "5 more trails open than yesterday",
+      "2\" snow expected Sunday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Horsefly Canyon - perfect for intermediate skiers",
+      "Fresh corduroy on Glades - challenging for advanced skiers",
+      "Fresh corduroy on Tomcat - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Terrain is Expanding",
+    "body": "29 trails open, 29 groomed. Clear, high of null°. Rope drop! 5 trails opened overnight, expanding your playground significantly. A little something coming our way. Light snow expected to dust things up nicely.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_snow_coming",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 0,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "New Runs Now Open"
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
+  "errors": []
+}

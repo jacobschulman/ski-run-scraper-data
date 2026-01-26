@@ -1,0 +1,232 @@
+{
+  "resort": "loon",
+  "resortName": "Loon Mountain",
+  "date": "2025-12-14",
+  "generated": "2025-12-15T04:36:49.874Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 47,
+          "yesterday": 63,
+          "delta": -16
+        },
+        "groomedTrails": {
+          "today": 34,
+          "yesterday": 45,
+          "delta": -11
+        },
+        "totalTrails": 85
+      },
+      "newlyOpened": [],
+      "newlyClosed": [
+        {
+          "name": "Chipper",
+          "difficulty": "novice",
+          "area": "South Peak"
+        },
+        {
+          "name": "Escape Route",
+          "difficulty": "novice",
+          "area": "South Peak"
+        },
+        {
+          "name": "Fox Run",
+          "difficulty": "novice",
+          "area": "South Peak"
+        },
+        {
+          "name": "Jack Pot",
+          "difficulty": "novice",
+          "area": "South Peak"
+        },
+        {
+          "name": "Sidewinder",
+          "difficulty": "novice",
+          "area": "South Peak"
+        },
+        {
+          "name": "Stillwater",
+          "difficulty": "novice",
+          "area": "South Peak"
+        },
+        {
+          "name": "Lincoln Woods",
+          "difficulty": "novice",
+          "area": "South Peak"
+        },
+        {
+          "name": "Blazer",
+          "difficulty": "Blue",
+          "area": "South Peak"
+        },
+        {
+          "name": "Camp Out",
+          "difficulty": "Blue",
+          "area": "South Peak"
+        },
+        {
+          "name": "Cruiser",
+          "difficulty": "Blue",
+          "area": "South Peak"
+        },
+        {
+          "name": "Lower Stinger",
+          "difficulty": "Blue",
+          "area": "South Peak"
+        },
+        {
+          "name": "Upper Stinger",
+          "difficulty": "Blue",
+          "area": "South Peak"
+        },
+        {
+          "name": "Angel Street",
+          "difficulty": "Black",
+          "area": "Loon Peak"
+        },
+        {
+          "name": "Basin Street",
+          "difficulty": "Blue",
+          "area": "Loon Peak"
+        },
+        {
+          "name": "Big Dipper",
+          "difficulty": "Black",
+          "area": "Loon Peak"
+        },
+        {
+          "name": "Cant Dog",
+          "difficulty": "Black",
+          "area": "Loon Peak"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-14",
+        "high_f": null,
+        "low_f": 2,
+        "high_c": null,
+        "low_c": -17,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-15",
+          "high_f": 9,
+          "low_f": 7,
+          "high_c": -13,
+          "low_c": -14,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-16",
+          "high_f": 22,
+          "low_f": 16,
+          "high_c": -6,
+          "low_c": -9,
+          "description": "Mostly Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-17",
+          "high_f": 32,
+          "low_f": 23,
+          "high_c": 0,
+          "low_c": -5,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-15",
+        "high_f": 9,
+        "low_f": 7,
+        "high_c": -13,
+        "low_c": -14,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Your Daily Ski Report",
+    "body": "The rundown: 47 trails open, 34 groomed. Partly Cloudy with temps around null°. Snow expected today or tomorrow with conditions continuing to improve.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_snow_today_tomorrow",
+          "category": "weather",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "fallback",
+        "variationIndex": 2,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Mountain Conditions Update"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

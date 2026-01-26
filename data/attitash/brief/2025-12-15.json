@@ -1,0 +1,228 @@
+{
+  "resort": "attitash",
+  "resortName": "Attitash",
+  "date": "2025-12-15",
+  "generated": "2025-12-15T10:28:25.671Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 2,
+      "24hour_cm": 5,
+      "48hour_inches": 2,
+      "48hour_cm": 5,
+      "7day_inches": 8,
+      "7day_cm": 20,
+      "season_total_inches": 20,
+      "season_total_cm": 52,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 16,
+          "yesterday": 15,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 15,
+          "yesterday": 6,
+          "delta": 9
+        },
+        "totalTrails": 76
+      },
+      "newlyOpened": [
+        {
+          "name": "Ski Way",
+          "difficulty": "Green",
+          "area": "Bear Peak"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Bear Notch Pass",
+          "difficulty": "Blue",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Bear Right",
+          "difficulty": "Green",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Stoney Brook",
+          "difficulty": "Green",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Stoney Brook Bypass",
+          "difficulty": "Blue",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Bear Necessity",
+          "difficulty": "Green",
+          "area": "Bear Peak"
+        },
+        {
+          "name": "Bearback",
+          "difficulty": "Green",
+          "area": "Bear Peak"
+        },
+        {
+          "name": "Lower Morning Star",
+          "difficulty": "Blue",
+          "area": "Bear Peak"
+        },
+        {
+          "name": "Morning Star",
+          "difficulty": "Blue",
+          "area": "Bear Peak"
+        },
+        {
+          "name": "Ski Way",
+          "difficulty": "Green",
+          "area": "Bear Peak"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-14",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 8,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-15",
+        "high_f": 15,
+        "low_f": 5,
+        "high_c": -9,
+        "low_c": -15,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-16T05:00:00Z",
+          "high_f": 28,
+          "low_f": 12,
+          "high_c": -2,
+          "low_c": -11,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-17T05:00:00Z",
+          "high_f": 36,
+          "low_f": 15,
+          "high_c": 2,
+          "low_c": -9,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-18T05:00:00Z",
+          "high_f": 38,
+          "low_f": 17,
+          "high_c": 3,
+          "low_c": -8,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-16T05:00:00Z",
+        "high_f": 28,
+        "low_f": 12,
+        "high_c": -2,
+        "low_c": -11,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today",
+      "9 trails freshly groomed"
+    ],
+    "trends": [
+      "Steady snowfall - 8\" in last 7 days",
+      "Grooming increased 150% from yesterday",
+      "1 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Bear Notch Pass - perfect for intermediate skiers",
+      "Fresh corduroy on Bear Right - great for beginners",
+      "Fresh corduroy on Stoney Brook - great for beginners"
+    ]
+  },
+  "morningBrief": {
+    "headline": "1 New Trails Today",
+    "body": "Overnight dusting of 2\" means the hardpack got a makeover. Looking good out there. Rope drop! 1 trails opened overnight, expanding your playground significantly. Sun's out, but so is the cold—expect a high of 15°. Gorgeous day if you dress for it.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_bluebird_day",
+          "category": "weather",
+          "priority": 70,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 8,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 1,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Terrain is Expanding"
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

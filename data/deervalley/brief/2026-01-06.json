@@ -1,0 +1,259 @@
+{
+  "resort": "deervalley",
+  "resortName": "Deer Valley",
+  "date": "2026-01-06",
+  "generated": "2026-01-07T06:28:01.939Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 5,
+      "24hour_cm": 13,
+      "48hour_inches": 18,
+      "48hour_cm": 46,
+      "7day_inches": 28,
+      "7day_cm": 71,
+      "season_total_inches": 76,
+      "season_total_cm": 193,
+      "conditions": {
+        "today": "New Natural Snow",
+        "yesterday": "New Natural Snow"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 66,
+          "yesterday": 68,
+          "delta": -2
+        },
+        "groomedTrails": {
+          "today": 34,
+          "yesterday": 26,
+          "delta": 8
+        },
+        "totalTrails": 227
+      },
+      "newlyOpened": [
+        {
+          "name": "Guardsman Glade",
+          "difficulty": "Expert",
+          "area": "Flagstaff Mountain"
+        },
+        {
+          "name": "Buckeye",
+          "difficulty": "Expert",
+          "area": "Empire"
+        },
+        {
+          "name": "Orion",
+          "difficulty": "Advanced Intermediate",
+          "area": "Empire"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Wizard",
+          "difficulty": "Advanced Intermediate",
+          "area": "Bald Mountain"
+        },
+        {
+          "name": "Lily (Lower)",
+          "difficulty": "Easy",
+          "area": "Flagstaff Mountain"
+        },
+        {
+          "name": "Lily (Upper)",
+          "difficulty": "Easy",
+          "area": "Flagstaff Mountain"
+        },
+        {
+          "name": "Mountain Daisy",
+          "difficulty": "Easy",
+          "area": "Flagstaff Mountain"
+        },
+        {
+          "name": "Silver Buck (Upper)",
+          "difficulty": "Intermediate",
+          "area": "Flagstaff Mountain"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Homeward Bound (Lower)",
+          "difficulty": "Easy",
+          "area": "Bald Mountain"
+        },
+        {
+          "name": "Banner",
+          "difficulty": "Easy",
+          "area": "Flagstaff Mountain"
+        },
+        {
+          "name": "Hidden Treasure",
+          "difficulty": "Intermediate",
+          "area": "Flagstaff Mountain"
+        },
+        {
+          "name": "Lost Boulder",
+          "difficulty": "Intermediate",
+          "area": "Flagstaff Mountain"
+        },
+        {
+          "name": "Lucky Star",
+          "difficulty": "Intermediate",
+          "area": "Flagstaff Mountain"
+        },
+        {
+          "name": "Silver Buck (Lower)",
+          "difficulty": "Intermediate",
+          "area": "Flagstaff Mountain"
+        },
+        {
+          "name": "Dream",
+          "difficulty": "Easy",
+          "area": "Park Peak"
+        },
+        {
+          "name": "Golden Age",
+          "difficulty": "Easy",
+          "area": "Park Peak"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-05",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 32,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-06",
+        "high_f": 29,
+        "low_f": 23,
+        "high_c": -2,
+        "low_c": -5,
+        "description": "Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-07",
+          "high_f": 26,
+          "low_f": 19,
+          "high_c": -3,
+          "low_c": -7,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2026-01-08",
+          "high_f": 18,
+          "low_f": 6,
+          "high_c": -8,
+          "low_c": -15,
+          "description": "Snow",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2026-01-09",
+          "high_f": 13,
+          "low_f": 11,
+          "high_c": -10,
+          "low_c": -12,
+          "description": "Mostly Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-07",
+        "high_f": 26,
+        "low_f": 19,
+        "high_c": -3,
+        "low_c": -7,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 1,
+        "snowfall_expected": 1
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "3 new trails opened today",
+      "8 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 28\" in last 7 days",
+      "Grooming increased 31% from yesterday",
+      "1\" snow expected Wednesday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Homeward Bound (Lower) - all skill levels",
+      "Fresh corduroy on Banner - all skill levels",
+      "Fresh corduroy on Hidden Treasure - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "The Mountain Got a Boost",
+    "body": "5\" of new snow. Not a powder day, but definitely an upgrade. 8 runs freshly groomed, mostly in Bald Mountain, Flagstaff Mountain, and more. Keep an eye on the sky - a refresh is coming. A few inches on the way.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_solid",
+          "category": "snow",
+          "priority": 82,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_solid",
+          "category": "snow",
+          "priority": 82,
+          "usedFor": "body"
+        },
+        {
+          "id": "grooming_moderate",
+          "category": "terrain",
+          "priority": 55,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_snow_coming",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 7,
+      "headlineSelection": {
+        "condition": "snow_solid",
+        "variationIndex": 3,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Fresh Snow, Fresh Vibes"
+      },
+      "dayOfWeek": "Tuesday"
+    }
+  },
+  "errors": []
+}

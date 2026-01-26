@@ -1,0 +1,170 @@
+{
+  "resort": "crestedbutte",
+  "resortName": "Crested Butte",
+  "date": "2026-01-26",
+  "generated": "2026-01-26T12:42:29.955Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 93,
+          "yesterday": 89,
+          "delta": 4
+        },
+        "groomedTrails": {
+          "today": 42,
+          "yesterday": 44,
+          "delta": -2
+        },
+        "totalTrails": 168
+      },
+      "newlyOpened": [
+        {
+          "name": "Upper Forest Queen",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Upper Ruby Chief",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Upper Roller Coaster",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Lower Twister Terrain Park",
+          "difficulty": "TerrainPark",
+          "area": "Front Side"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Conundrum",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Lower Gallowich",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Upper Forest Queen",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Lower Keystone",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Lower Twister Terrain Park",
+          "difficulty": "TerrainPark",
+          "area": "Front Side"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Fallaway",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Gus' Way",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Upper Gallowich",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Upper Treasury",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Mineral Point",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Poverty Gulch",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Little Queen",
+          "difficulty": "Green",
+          "area": "Ten Peaks"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-25",
+        "avgWaitTime": 1.6,
+        "maxWaitTime": 6,
+        "totalLiftsTracked": 15,
+        "busiest": [
+          {
+            "name": "Red Lady Express",
+            "avgWait": 2,
+            "peakWait": 5,
+            "type": "Quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "East River Express",
+            "avgWait": 1.7,
+            "peakWait": 6,
+            "type": "Quad",
+            "mountain": "Back Side"
+          },
+          {
+            "name": "Paradise Express",
+            "avgWait": 1.4,
+            "peakWait": 3,
+            "type": "Quad",
+            "mountain": "Back Side"
+          },
+          {
+            "name": "Silver Queen Express",
+            "avgWait": 1.3,
+            "peakWait": 6,
+            "type": "Quad",
+            "mountain": "Front Side"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "4 new trails opened today",
+      "5 trails freshly groomed"
+    ],
+    "trends": [
+      "4 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Conundrum - perfect for intermediate skiers",
+      "Fresh corduroy on Lower Gallowich - perfect for intermediate skiers",
+      "Fresh corduroy on Upper Forest Queen - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

@@ -1,0 +1,183 @@
+{
+  "resort": "hiddenvalley",
+  "resortName": "Hidden Valley",
+  "date": "2025-12-31",
+  "generated": "2025-12-31T10:24:16.361Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 4,
+      "overnight_cm": 10,
+      "24hour_inches": 6,
+      "24hour_cm": 15,
+      "48hour_inches": 6,
+      "48hour_cm": 15,
+      "7day_inches": 6,
+      "7day_cm": 15,
+      "season_total_inches": 32,
+      "season_total_cm": 81,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 12,
+          "yesterday": 9,
+          "delta": 3
+        },
+        "groomedTrails": {
+          "today": 12,
+          "yesterday": 9,
+          "delta": 3
+        },
+        "totalTrails": 32
+      },
+      "newlyOpened": [
+        {
+          "name": "Lower Comet",
+          "difficulty": "Green",
+          "area": "North Summit"
+        },
+        {
+          "name": "Tracker",
+          "difficulty": "Green",
+          "area": "North Summit"
+        },
+        {
+          "name": "Upper Comet",
+          "difficulty": "Blue",
+          "area": "North Summit"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-30",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 8,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-31",
+        "high_f": 24,
+        "low_f": 11,
+        "high_c": -5,
+        "low_c": -12,
+        "description": "Snow & Wind",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-01T05:00:00Z",
+          "high_f": 24,
+          "low_f": 7,
+          "high_c": -4,
+          "low_c": -14,
+          "description": "Snow & Wind",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-02T05:00:00Z",
+          "high_f": 20,
+          "low_f": 10,
+          "high_c": -7,
+          "low_c": -12,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-03T05:00:00Z",
+          "high_f": 26,
+          "low_f": 16,
+          "high_c": -4,
+          "low_c": -9,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-01T05:00:00Z",
+        "high_f": 24,
+        "low_f": 7,
+        "high_c": -4,
+        "low_c": -14,
+        "description": "Snow & Wind",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "4\" fresh snow overnight",
+      "6\" in last 24 hours - powder day!",
+      "3 new trails opened today"
+    ],
+    "trends": [
+      "Steady snowfall - 6\" in last 7 days",
+      "Grooming increased 33% from yesterday",
+      "3 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Waist-Deep Conditions",
+    "body": "Mother Nature delivered 6\" of the good stuff. Face shots are on the menu today. 3 new runs just opened up. Time to explore some fresh terrain.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 7,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 6,
+        "totalVariations": 12,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Quiet Days on the Hill"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

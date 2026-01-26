@@ -1,0 +1,309 @@
+{
+  "resort": "crystal",
+  "resortName": "Crystal Mountain",
+  "date": "2026-01-08",
+  "generated": "2026-01-09T07:22:44.292Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 5,
+      "overnight_cm": 13,
+      "24hour_inches": 7,
+      "24hour_cm": 18,
+      "48hour_inches": 27,
+      "48hour_cm": 69,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 139,
+      "season_total_cm": 353,
+      "conditions": {
+        "today": "Powder",
+        "yesterday": "Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 70,
+          "yesterday": 53,
+          "delta": 17
+        },
+        "groomedTrails": {
+          "today": 31,
+          "yesterday": 22,
+          "delta": 9
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Brand X",
+          "difficulty": "Very Difficult",
+          "area": "North"
+        },
+        {
+          "name": "Bruce's Bowl",
+          "difficulty": "Very Difficult",
+          "area": "North"
+        },
+        {
+          "name": "Glory Days",
+          "difficulty": "Difficult",
+          "area": "North"
+        },
+        {
+          "name": "I-5",
+          "difficulty": "Difficult",
+          "area": "North"
+        },
+        {
+          "name": "Lower Otto Bahn",
+          "difficulty": "Difficult",
+          "area": "North"
+        },
+        {
+          "name": "Morning Glory Bowl",
+          "difficulty": "Very Difficult",
+          "area": "North"
+        },
+        {
+          "name": "Northway",
+          "difficulty": "Difficult",
+          "area": "North"
+        },
+        {
+          "name": "Paradise",
+          "difficulty": "Difficult",
+          "area": "North"
+        },
+        {
+          "name": "Paradise Bowl",
+          "difficulty": "Very Difficult",
+          "area": "North"
+        },
+        {
+          "name": "Paradise Trees",
+          "difficulty": "Very Difficult",
+          "area": "North"
+        },
+        {
+          "name": "Penny Dawg's",
+          "difficulty": "Very Difficult",
+          "area": "North"
+        },
+        {
+          "name": "Pucker's Gulch",
+          "difficulty": "Very Difficult",
+          "area": "North"
+        },
+        {
+          "name": "Spook Hill",
+          "difficulty": "Difficult",
+          "area": "North"
+        },
+        {
+          "name": "The Nose",
+          "difficulty": "Very Difficult",
+          "area": "North"
+        },
+        {
+          "name": "Upper Northway",
+          "difficulty": "Difficult",
+          "area": "North"
+        },
+        {
+          "name": "Upper Otto Bahn",
+          "difficulty": "Difficult",
+          "area": "North"
+        },
+        {
+          "name": "Whit's End",
+          "difficulty": "Difficult",
+          "area": "North"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Little Magoo",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Lower Chappelle's",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Lower Magoo",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Snow Garden",
+          "difficulty": "Easy",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Stump Farm",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Upper Chappelle's",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Howeirds",
+          "difficulty": "Intermediate",
+          "area": "Frontside"
+        },
+        {
+          "name": "Mel's Left",
+          "difficulty": "Intermediate",
+          "area": "Frontside"
+        },
+        {
+          "name": "Sheppard",
+          "difficulty": "Intermediate",
+          "area": "Frontside"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-07",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 11,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-08",
+        "high_f": null,
+        "low_f": 24,
+        "high_c": null,
+        "low_c": -5,
+        "description": "Windy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-09",
+          "high_f": 33,
+          "low_f": 33,
+          "high_c": 1,
+          "low_c": 0,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-10",
+          "high_f": 37,
+          "low_f": 32,
+          "high_c": 3,
+          "low_c": 0,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-11",
+          "high_f": 35,
+          "low_f": 35,
+          "high_c": 2,
+          "low_c": 2,
+          "description": "Rain Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-09",
+        "high_f": 33,
+        "low_f": 33,
+        "high_c": 1,
+        "low_c": 0,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "5\" fresh snow overnight",
+      "7\" in last 24 hours - powder day!",
+      "17 new trails opened today",
+      "9 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 41% from yesterday",
+      "17 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Little Magoo - all skill levels",
+      "Fresh corduroy on Lower Chappelle's - all skill levels",
+      "Fresh corduroy on Lower Magoo - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Deep Day at Crystal Mountain",
+    "body": "Powder alert: 7\" of fresh overnight means soft conditions across the mountain. Big expansion: 17 new trails opened up. More room to roam. Windy conditions expected. Upper lifts may have holds or delays.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_major",
+          "category": "terrain",
+          "priority": 88,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_windy",
+          "category": "weather",
+          "priority": 45,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 0,
+        "totalVariations": 11,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Powder Day Alert"
+      },
+      "dayOfWeek": "Thursday"
+    }
+  },
+  "errors": []
+}

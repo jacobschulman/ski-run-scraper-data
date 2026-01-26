@@ -1,0 +1,71 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2025-12-19",
+  "generated": "2025-12-19T10:25:38.156Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 31,
+          "yesterday": 31,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 27,
+          "yesterday": 27,
+          "delta": 0
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-18",
+        "avgWaitTime": 2.7,
+        "maxWaitTime": 25,
+        "totalLiftsTracked": 19,
+        "busiest": [
+          {
+            "name": "Nitro Express",
+            "avgWait": 3.3,
+            "peakWait": 25,
+            "type": "quad",
+            "mountain": "Carinthia"
+          },
+          {
+            "name": "Bluebird Express",
+            "avgWait": 2.7,
+            "peakWait": 4,
+            "type": "six",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 2.1,
+            "peakWait": 4,
+            "type": "quad",
+            "mountain": "Main Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

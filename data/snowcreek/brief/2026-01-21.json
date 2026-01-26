@@ -1,0 +1,149 @@
+{
+  "resort": "snowcreek",
+  "resortName": "Snow Creek",
+  "date": "2026-01-21",
+  "generated": "2026-01-21T11:22:35.820Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 3,
+      "overnight_cm": 7,
+      "24hour_inches": 3,
+      "24hour_cm": 7,
+      "48hour_inches": 3,
+      "48hour_cm": 7,
+      "7day_inches": 12,
+      "7day_cm": 30,
+      "season_total_inches": 15,
+      "season_total_cm": 38,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "totalTrails": 14
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-21",
+        "high_f": 45,
+        "low_f": 26,
+        "high_c": 7,
+        "low_c": -4,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-22T06:00:00Z",
+          "high_f": 37,
+          "low_f": 19,
+          "high_c": 3,
+          "low_c": -7,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-23T06:00:00Z",
+          "high_f": 20,
+          "low_f": null,
+          "high_c": -7,
+          "low_c": -18,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-24T06:00:00Z",
+          "high_f": 5,
+          "low_f": -2,
+          "high_c": -15,
+          "low_c": -19,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-22T06:00:00Z",
+        "high_f": 37,
+        "low_f": 19,
+        "high_c": 3,
+        "low_c": -7,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "3\" fresh snow overnight"
+    ],
+    "trends": [
+      "Great week for snow - 12\" in last 7 days"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Not Open Yet",
+    "body": "Trails aren't spinning yet, but keep an eye out for opening announcements.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "resort_closed",
+          "category": "terrain",
+          "priority": 95,
+          "usedFor": "headline"
+        },
+        {
+          "id": "resort_closed",
+          "category": "terrain",
+          "priority": 95,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "resort_closed",
+        "variationIndex": 1,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Almost There..."
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

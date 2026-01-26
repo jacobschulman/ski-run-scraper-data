@@ -1,0 +1,311 @@
+{
+  "resort": "whistlerblackcomb",
+  "resortName": "Whistler Blackcomb",
+  "date": "2026-01-26",
+  "generated": "2026-01-26T13:43:19.470Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 189,
+      "season_total_cm": 482,
+      "conditions": {
+        "today": "Hard Packed",
+        "yesterday": "Hard Packed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 240,
+          "yesterday": 239,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 144,
+          "yesterday": 135,
+          "delta": 9
+        },
+        "totalTrails": 305
+      },
+      "newlyOpened": [
+        {
+          "name": "Ptarmigan",
+          "difficulty": "Blue",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Base 2 Carpet",
+          "difficulty": "Green",
+          "area": "Learning Areas"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Outer Limits",
+          "difficulty": "DoubleBlack",
+          "area": "Crystal Ridge"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Dave Murray Downhill - Upper",
+          "difficulty": "Black",
+          "area": "Big Red / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Franz's - Mid",
+          "difficulty": "Blue",
+          "area": "Creekside"
+        },
+        {
+          "name": "Enchanted Forest - Upper Entrance",
+          "difficulty": "Blue",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Ptarmigan",
+          "difficulty": "Blue",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Ratfink - Lower",
+          "difficulty": "Green",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "School Yard",
+          "difficulty": "Blue",
+          "area": "Emerald / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Crabapple - Mid",
+          "difficulty": "Blue",
+          "area": "Fitzsimmons / Whistler Village Gondola - Lower"
+        },
+        {
+          "name": "Crabapple - Upper",
+          "difficulty": "Blue",
+          "area": "Fitzsimmons / Whistler Village Gondola - Lower"
+        },
+        {
+          "name": "Harmony Piste",
+          "difficulty": "Blue",
+          "area": "Harmony"
+        },
+        {
+          "name": "Peak to Creek - Upper",
+          "difficulty": "Blue",
+          "area": "Peak / T-bar"
+        },
+        {
+          "name": "Adagio - Upper",
+          "difficulty": "Blue",
+          "area": "Symphony"
+        },
+        {
+          "name": "Rhapsody Bowl",
+          "difficulty": "Blue",
+          "area": "Symphony"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Little Red Run - Lower",
+          "difficulty": "Blue",
+          "area": "Big Red / Garbanzo / Village Gondola - Upper"
+        },
+        {
+          "name": "Rock & Roll - Lower",
+          "difficulty": "Blue",
+          "area": "Crystal Ridge"
+        },
+        {
+          "name": "Cruiser - Upper",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        },
+        {
+          "name": "Slingshot",
+          "difficulty": "Blue",
+          "area": "Excelerator / Catskinner / Blackcomb Gondola - Upper"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-25",
+        "avgWaitTime": 4.1,
+        "maxWaitTime": 30,
+        "totalLiftsTracked": 36,
+        "busiest": [
+          {
+            "name": "Symphony Express",
+            "avgWait": 14.8,
+            "peakWait": 20,
+            "type": "Quad",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Harmony 6 Express",
+            "avgWait": 8.4,
+            "peakWait": 30,
+            "type": "Six Pack",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "Whistler Village Gondola - Upper",
+            "avgWait": 7.8,
+            "peakWait": 21,
+            "type": "Gondola",
+            "mountain": "Whistler Lifts"
+          },
+          {
+            "name": "7th Heaven Express",
+            "avgWait": 7.4,
+            "peakWait": 14,
+            "type": "Quad",
+            "mountain": "Blackcomb Lifts"
+          },
+          {
+            "name": "Whistler Village Gondola  - Lower",
+            "avgWait": 6.5,
+            "peakWait": 21,
+            "type": "Gondola",
+            "mountain": "Whistler Lifts"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-26",
+        "high_f": 32,
+        "low_f": 32,
+        "high_c": null,
+        "low_c": null,
+        "description": "Cloudy with sunny periods.",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-27T02:11:38-07:00",
+          "high_f": 33,
+          "low_f": 23,
+          "high_c": 1,
+          "low_c": -5,
+          "description": "Flurries.",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2026-01-28T02:11:38-07:00",
+          "high_f": 30,
+          "low_f": 26,
+          "high_c": -1,
+          "low_c": -3,
+          "description": "Snow, heavy at times.",
+          "snowfall_day_inches": 13,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 13
+        },
+        {
+          "date": "2026-01-29T02:11:38-07:00",
+          "high_f": 30,
+          "low_f": 28,
+          "high_c": -1,
+          "low_c": -2,
+          "description": "Snow.",
+          "snowfall_day_inches": 9,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 9
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-27T02:11:38-07:00",
+        "high_f": 33,
+        "low_f": 23,
+        "high_c": 1,
+        "low_c": -5,
+        "description": "Flurries.",
+        "snowfall_day_inches": 2,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 2
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2 new trails opened today",
+      "12 trails freshly groomed"
+    ],
+    "trends": [
+      "1 more trail open than yesterday",
+      "2\" snow expected Tuesday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Dave Murray Downhill - Upper - challenging for advanced skiers",
+      "Fresh corduroy on Franz's - Mid - perfect for intermediate skiers",
+      "Fresh corduroy on Enchanted Forest - Upper Entrance - perfect for intermediate skiers",
+      "Symphony Express had longest waits (14.8 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Storm Cycle Building",
+    "body": "240/305 trails spinning, 144 freshly groomed. 32° and Cloudy with sunny periods.. 12 runs were freshly groomed overnight. Corduroy is crisp. Heads up: Symphony Express peaked at 30 minutes yesterday. Consider alternatives.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "forecast_major_storm",
+          "category": "weather",
+          "priority": 92,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "grooming_good",
+          "category": "terrain",
+          "priority": 68,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_busy",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "storm_major",
+        "variationIndex": 2,
+        "totalVariations": 7,
+        "usedWeekendVariation": false,
+        "previousHeadline": null
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

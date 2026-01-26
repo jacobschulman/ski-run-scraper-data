@@ -1,0 +1,162 @@
+{
+  "resort": "stowe",
+  "resortName": "Stowe",
+  "date": "2025-11-27",
+  "timestamp": "2025-11-27T10:18:53.413Z",
+  "lastUpdated": "Updated November 26, 2025 at 3:37 PM EST",
+  "conditions": "Variable",
+  "snowfall": {
+    "overnight_inches": 0,
+    "overnight_cm": 0,
+    "24hour_inches": 0,
+    "24hour_cm": 0,
+    "48hour_inches": 0,
+    "48hour_cm": 0,
+    "7day_inches": 4,
+    "7day_cm": 10,
+    "season_total_inches": 54,
+    "season_total_cm": 137
+  },
+  "baseDepth": {
+    "inches": 24,
+    "cm": 61
+  },
+  "forecast": {
+    "locations": [
+      {
+        "name": "Unknown",
+        "elevation": null,
+        "today": {
+          "high_f": 27,
+          "high_c": -3,
+          "low_f": 20,
+          "low_c": -7,
+          "description": "Windy",
+          "wind": "SW",
+          "wind_speed": 28.7,
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0
+        },
+        "forecast_days": [
+          {
+            "date": "2025-11-27T05:00:00Z",
+            "high_f": 27,
+            "high_c": -3,
+            "low_f": 20,
+            "low_c": -7,
+            "description": "Windy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2025-11-28T05:00:00Z",
+            "high_f": 19,
+            "high_c": -7,
+            "low_f": 12,
+            "low_c": -11,
+            "description": "Windy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2025-11-29T05:00:00Z",
+            "high_f": 16,
+            "high_c": -9,
+            "low_f": 12,
+            "low_c": -11,
+            "description": "Windy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2025-11-30T05:00:00Z",
+            "high_f": 25,
+            "high_c": -4,
+            "low_f": 16,
+            "low_c": -9,
+            "description": "Windy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2025-12-01T05:00:00Z",
+            "high_f": 23,
+            "high_c": -5,
+            "low_f": 10,
+            "low_c": -13,
+            "description": "Windy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          }
+        ]
+      },
+      {
+        "name": "Unknown",
+        "elevation": null,
+        "today": {
+          "high_f": 34,
+          "high_c": 1,
+          "low_f": 28,
+          "low_c": -3,
+          "description": "Cloudy",
+          "wind": "SW",
+          "wind_speed": 10.53,
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0
+        },
+        "forecast_days": [
+          {
+            "date": "2025-11-27T05:00:00Z",
+            "high_f": 34,
+            "high_c": 1,
+            "low_f": 28,
+            "low_c": -3,
+            "description": "Cloudy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2025-11-28T05:00:00Z",
+            "high_f": 27,
+            "high_c": -3,
+            "low_f": 22,
+            "low_c": -6,
+            "description": "Windy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2025-11-29T05:00:00Z",
+            "high_f": 24,
+            "high_c": -5,
+            "low_f": 18,
+            "low_c": -8,
+            "description": "Cloudy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2025-11-30T05:00:00Z",
+            "high_f": 32,
+            "high_c": null,
+            "low_f": 18,
+            "low_c": -8,
+            "description": "Cloudy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2025-12-01T05:00:00Z",
+            "high_f": 31,
+            "high_c": -1,
+            "low_f": 13,
+            "low_c": -11,
+            "description": "Partly Cloudy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          }
+        ]
+      }
+    ]
+  }
+}

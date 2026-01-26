@@ -1,0 +1,290 @@
+{
+  "resort": "cypressmountain",
+  "resortName": "Cypress Mountain",
+  "date": "2026-01-15",
+  "generated": "2026-01-16T07:22:23.438Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 2,
+      "overnight_cm": 5,
+      "24hour_inches": 7,
+      "24hour_cm": 17,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 12,
+      "7day_cm": 30,
+      "season_total_inches": 74,
+      "season_total_cm": 187,
+      "conditions": {
+        "today": "Powder",
+        "yesterday": "Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 20,
+          "yesterday": 47,
+          "delta": -27
+        },
+        "groomedTrails": {
+          "today": 19,
+          "yesterday": 33,
+          "delta": -14
+        },
+        "totalTrails": 96
+      },
+      "newlyOpened": [],
+      "newlyClosed": [
+        {
+          "name": "Panorama",
+          "difficulty": "Novice",
+          "area": "Eagle Express"
+        },
+        {
+          "name": "Windjammer",
+          "difficulty": "Novice",
+          "area": "Eagle Express"
+        },
+        {
+          "name": "Fork",
+          "difficulty": "Blue",
+          "area": "Eagle Express"
+        },
+        {
+          "name": "Lower Fork",
+          "difficulty": "Blue",
+          "area": "Eagle Express"
+        },
+        {
+          "name": "PGS",
+          "difficulty": "Blue",
+          "area": "Eagle Express"
+        },
+        {
+          "name": "Cascade",
+          "difficulty": "Blue",
+          "area": "Eagle Express"
+        },
+        {
+          "name": "Collins",
+          "difficulty": "Novice",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Horizon",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Humpty Dumpty",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Cat Track (upper)",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Primary Power",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Horizon By-Pass",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Lower Bowen",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Hutch",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Gibsons",
+          "difficulty": "Black",
+          "area": "Lions Express"
+        },
+        {
+          "name": "Cat Track (lower)",
+          "difficulty": "Blue",
+          "area": "Lions Express"
+        },
+        {
+          "name": "3 Bears",
+          "difficulty": "Blue",
+          "area": "Raven Ridge"
+        },
+        {
+          "name": "Runway",
+          "difficulty": "Novice",
+          "area": "Easy Rider"
+        },
+        {
+          "name": "T-33",
+          "difficulty": "Blue",
+          "area": "Sky Quad"
+        },
+        {
+          "name": "Horsefly Canyon",
+          "difficulty": "Blue",
+          "area": "Sky Quad"
+        },
+        {
+          "name": "Glades",
+          "difficulty": "Black",
+          "area": "Sky Quad"
+        },
+        {
+          "name": "Tomcat",
+          "difficulty": "Black",
+          "area": "Sky Quad"
+        },
+        {
+          "name": "Ripcord",
+          "difficulty": "Black",
+          "area": "Sky Quad"
+        },
+        {
+          "name": "Shuttle",
+          "difficulty": "Novice",
+          "area": "Midway Chair"
+        },
+        {
+          "name": "Blaster",
+          "difficulty": "Blue",
+          "area": "Midway Chair"
+        },
+        {
+          "name": "Hut Run",
+          "difficulty": "Blue",
+          "area": "Midway Chair"
+        },
+        {
+          "name": "Webb-Site",
+          "difficulty": "Blue",
+          "area": "Midway Chair"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-14",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 6,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-15",
+        "high_f": 46,
+        "low_f": 46,
+        "description": "Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-16",
+          "high_f": 50,
+          "low_f": 46,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-17",
+          "high_f": 47,
+          "low_f": 45,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-18",
+          "high_f": 45,
+          "low_f": 43,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-16",
+        "high_f": 50,
+        "low_f": 46,
+        "description": "Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2\" fresh snow overnight",
+      "7\" in last 24 hours - powder day!"
+    ],
+    "trends": [
+      "Great week for snow - 12\" in last 7 days"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "7\" of Fresh Overnight",
+    "body": "Powder alert: 7\" of fresh overnight means soft conditions across the mountain. Above average temps (46°) will soften things up. Hit it early.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "body"
+        },
+        {
+          "id": "temp_unseasonably_warm",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 2,
+        "totalVariations": 11,
+        "usedWeekendVariation": false,
+        "previousHeadline": "The Mountain Got Buried"
+      },
+      "dayOfWeek": "Thursday"
+    }
+  },
+  "errors": []
+}

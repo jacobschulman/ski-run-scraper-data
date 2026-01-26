@@ -1,0 +1,64 @@
+{
+  "resort": "crotched",
+  "resortName": "Crotched Mountain",
+  "date": "2026-01-16",
+  "generated": "2026-01-16T10:23:49.803Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 15,
+          "yesterday": 13,
+          "delta": 2
+        },
+        "groomedTrails": {
+          "today": 13,
+          "yesterday": 13,
+          "delta": 0
+        },
+        "totalTrails": 25
+      },
+      "newlyOpened": [
+        {
+          "name": "Meteor",
+          "difficulty": "Blue",
+          "area": "Crotched"
+        },
+        {
+          "name": "UFO",
+          "difficulty": "Black",
+          "area": "Crotched"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-15",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 5,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2 new trails opened today"
+    ],
+    "trends": [
+      "2 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

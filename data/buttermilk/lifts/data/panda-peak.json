@@ -1,0 +1,235 @@
+{
+  "resort": "buttermilk",
+  "resortName": "Buttermilk",
+  "liftId": "aspen:panda-peak",
+  "liftName": "Panda Peak",
+  "slug": "panda-peak",
+  "mountain": "Main",
+  "type": "Chair",
+  "capacity": null,
+  "currentStatus": {
+    "status": "Open",
+    "waitMinutes": null,
+    "openTime": "9:00 AM",
+    "closeTime": "3:30 PM",
+    "timestamp": "2026-01-26T19:57:21.463Z",
+    "localTime": "12:57"
+  },
+  "stats": {
+    "totalRecords": 794,
+    "avgWaitTime": null,
+    "minWaitTime": null,
+    "maxWaitTime": null,
+    "daysTracked": 23
+  },
+  "history": [
+    {
+      "date": "2026-01-26",
+      "recordCount": 17,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-25",
+      "recordCount": 41,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-24",
+      "recordCount": 42,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-23",
+      "recordCount": 34,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-22",
+      "recordCount": 29,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-21",
+      "recordCount": 21,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-20",
+      "recordCount": 27,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-19",
+      "recordCount": 33,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-18",
+      "recordCount": 44,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-17",
+      "recordCount": 46,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-16",
+      "recordCount": 32,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-15",
+      "recordCount": 7,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-14",
+      "recordCount": 37,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-13",
+      "recordCount": 35,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-12",
+      "recordCount": 36,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-11",
+      "recordCount": 45,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-10",
+      "recordCount": 45,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-09",
+      "recordCount": 38,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-08",
+      "recordCount": 28,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-06",
+      "recordCount": 34,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-05",
+      "recordCount": 35,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-04",
+      "recordCount": 43,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-03",
+      "recordCount": 45,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    }
+  ],
+  "generated": "2026-01-26T19:57:38.078Z"
+}

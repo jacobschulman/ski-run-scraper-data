@@ -1,0 +1,74 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2025-12-31",
+  "generated": "2025-12-31T10:24:16.330Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 34,
+          "yesterday": 35,
+          "delta": -1
+        },
+        "groomedTrails": {
+          "today": 31,
+          "yesterday": 33,
+          "delta": -2
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Roller Coaster",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Free Fall",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "River Run",
+          "difficulty": "Blue",
+          "area": "North Face"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": [
+        {
+          "name": "Hop",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-30",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 19,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today"
+    ],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

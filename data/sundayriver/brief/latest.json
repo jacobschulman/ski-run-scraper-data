@@ -1,0 +1,184 @@
+{
+  "resort": "sundayriver",
+  "resortName": "Sunday River",
+  "date": "2026-01-26",
+  "generated": "2026-01-26T19:21:22.285Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 20,
+      "overnight_cm": 51,
+      "24hour_inches": 20,
+      "24hour_cm": 51,
+      "48hour_inches": 20,
+      "48hour_cm": 51,
+      "7day_inches": 29,
+      "7day_cm": 74,
+      "season_total_inches": 79,
+      "season_total_cm": 201,
+      "conditions": {
+        "today": "Machine Groomed",
+        "yesterday": "Machine Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 138,
+          "yesterday": 138,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 79,
+          "yesterday": 81,
+          "delta": -2
+        },
+        "totalTrails": 144
+      },
+      "newlyOpened": [
+        {
+          "name": "Upper Caramba",
+          "difficulty": "Double Black",
+          "area": "JORDAN BOWL"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Backside",
+          "difficulty": "novice",
+          "area": "NORTH PEAK"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": [
+        {
+          "name": "Lower Risky Business",
+          "difficulty": "Blue",
+          "area": "SPRUCE PEAK"
+        },
+        {
+          "name": "Upper Risky Business",
+          "difficulty": "Blue",
+          "area": "SPRUCE PEAK"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-25",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 19,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-26",
+        "high_f": 7,
+        "low_f": 0,
+        "description": "Snow Showers",
+        "snowfall_day_inches": 5,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-27",
+          "high_f": 5,
+          "low_f": 0,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-28",
+          "high_f": 5,
+          "low_f": 0,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-29",
+          "high_f": 3,
+          "low_f": -5,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-27",
+        "high_f": 5,
+        "low_f": 0,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "20\" fresh snow overnight",
+      "20\" in last 24 hours - powder day!",
+      "1 new trail opened today"
+    ],
+    "trends": [
+      "Great week for snow - 29\" in last 7 days"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "EPIC: 20\" of Fresh",
+    "body": "Epic conditions: 20\" fresh. The kind of day you drop everything for. Peak terrain status: almost everything is available today. Frigid temps today with a high of only 7°. Layer up and take warming breaks.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_epic",
+          "category": "snow",
+          "priority": 98,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_epic",
+          "category": "snow",
+          "priority": 98,
+          "usedFor": "body"
+        },
+        {
+          "id": "percent_full",
+          "category": "terrain",
+          "priority": 45,
+          "usedFor": "body"
+        },
+        {
+          "id": "temp_frigid",
+          "category": "weather",
+          "priority": 73,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "snow_epic",
+        "variationIndex": 0,
+        "totalVariations": 9,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Career Day Potential"
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

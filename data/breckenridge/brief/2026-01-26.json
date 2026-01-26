@@ -1,0 +1,292 @@
+{
+  "resort": "breckenridge",
+  "resortName": "Breckenridge",
+  "date": "2026-01-26",
+  "generated": "2026-01-26T12:42:29.937Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 3,
+      "24hour_cm": 7,
+      "48hour_inches": 12,
+      "48hour_cm": 30,
+      "7day_inches": 14,
+      "7day_cm": 35,
+      "season_total_inches": 77,
+      "season_total_cm": 195,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 88,
+          "yesterday": 74,
+          "delta": 14
+        },
+        "groomedTrails": {
+          "today": 38,
+          "yesterday": 36,
+          "delta": 2
+        },
+        "totalTrails": 193
+      },
+      "newlyOpened": [
+        {
+          "name": "Upper 4 O'Clock",
+          "difficulty": "Blue",
+          "area": "Back Bowls"
+        },
+        {
+          "name": "Adios",
+          "difficulty": "Black",
+          "area": "Back Bowls"
+        },
+        {
+          "name": "Amen",
+          "difficulty": "Black",
+          "area": "Back Bowls"
+        },
+        {
+          "name": "Boneyard",
+          "difficulty": "Black",
+          "area": "Back Bowls"
+        },
+        {
+          "name": "Hombre",
+          "difficulty": "Black",
+          "area": "Back Bowls"
+        },
+        {
+          "name": "Lobo",
+          "difficulty": "Black",
+          "area": "Back Bowls"
+        },
+        {
+          "name": "No Name",
+          "difficulty": "Black",
+          "area": "Back Bowls"
+        },
+        {
+          "name": "Psychopath",
+          "difficulty": "Black",
+          "area": "Back Bowls"
+        },
+        {
+          "name": "Quandary",
+          "difficulty": "Black",
+          "area": "Back Bowls"
+        },
+        {
+          "name": "Snowbirds",
+          "difficulty": "Black",
+          "area": "Back Bowls"
+        },
+        {
+          "name": "Solitude",
+          "difficulty": "Black",
+          "area": "Back Bowls"
+        },
+        {
+          "name": "Too Much",
+          "difficulty": "Black",
+          "area": "Back Bowls"
+        },
+        {
+          "name": "Southern Cross",
+          "difficulty": "DoubleBlack",
+          "area": "Peak 8"
+        },
+        {
+          "name": "Tiger",
+          "difficulty": "DoubleBlack",
+          "area": "Peak 8"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Briar Rose",
+          "difficulty": "Blue",
+          "area": "Peak 9"
+        },
+        {
+          "name": "Gold King",
+          "difficulty": "Blue",
+          "area": "Peak 9"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-25",
+        "avgWaitTime": 3.4,
+        "maxWaitTime": 41,
+        "totalLiftsTracked": 35,
+        "busiest": [
+          {
+            "name": "Beaver Run SuperChair",
+            "avgWait": 9,
+            "peakWait": 19,
+            "type": "Quad",
+            "mountain": "Peak 9"
+          },
+          {
+            "name": "6-Chair",
+            "avgWait": 3.7,
+            "peakWait": 10,
+            "type": "Double",
+            "mountain": "Back Bowls"
+          },
+          {
+            "name": "Peak 8 SuperConnect",
+            "avgWait": 3.3,
+            "peakWait": 41,
+            "type": "Quad",
+            "mountain": "Peak 8"
+          },
+          {
+            "name": "Independence SuperChair",
+            "avgWait": 3.1,
+            "peakWait": 24,
+            "type": "Six Pack",
+            "mountain": "Peak 7"
+          },
+          {
+            "name": "Rip's Ride",
+            "avgWait": 3.1,
+            "peakWait": 5,
+            "type": "Quad",
+            "mountain": "Peak 8"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-26",
+        "high_f": 18,
+        "low_f": -10,
+        "high_c": -8,
+        "low_c": -24,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-27T07:00:00Z",
+          "high_f": 23,
+          "low_f": 3,
+          "high_c": -5,
+          "low_c": -16,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-28T07:00:00Z",
+          "high_f": 30,
+          "low_f": 2,
+          "high_c": -1,
+          "low_c": -17,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-29T07:00:00Z",
+          "high_f": 20,
+          "low_f": 7,
+          "high_c": -7,
+          "low_c": -14,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-27T07:00:00Z",
+        "high_f": 23,
+        "low_f": 3,
+        "high_c": -5,
+        "low_c": -16,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "14 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 14\" in last 7 days",
+      "14 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Briar Rose - perfect for intermediate skiers",
+      "Fresh corduroy on Gold King - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "A Proper Refresh",
+    "body": "A proper refresh: 3\" of new snow making everything ski better. Ski patrol has been busy - 14 additional trails are now open. Heads up: Beaver Run SuperChair peaked at 41 minutes yesterday. Consider alternatives.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_solid",
+          "category": "snow",
+          "priority": 82,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_solid",
+          "category": "snow",
+          "priority": 82,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_busy",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 7,
+      "headlineSelection": {
+        "condition": "snow_solid",
+        "variationIndex": 5,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": null
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

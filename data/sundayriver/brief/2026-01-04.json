@@ -1,0 +1,182 @@
+{
+  "resort": "sundayriver",
+  "resortName": "Sunday River",
+  "date": "2026-01-04",
+  "generated": "2026-01-05T04:54:15.391Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 37,
+      "season_total_cm": 94,
+      "conditions": {
+        "today": "Machine Groomed",
+        "yesterday": "Machine Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 85,
+          "yesterday": 85,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 77,
+          "yesterday": 76,
+          "delta": 1
+        },
+        "totalTrails": 144
+      },
+      "newlyOpened": [
+        {
+          "name": "Shock Wave",
+          "difficulty": "Double Black",
+          "area": "WHITE CAP"
+        },
+        {
+          "name": "Downdraft",
+          "difficulty": "Black",
+          "area": "SPRUCE PEAK"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Bim's Whim",
+          "difficulty": "Black",
+          "area": "LOCKE MOUNTAIN"
+        },
+        {
+          "name": "Mixing Bowl",
+          "difficulty": "novice",
+          "area": "SOUTH RIDGE"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Downdraft",
+          "difficulty": "Black",
+          "area": "SPRUCE PEAK"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-04",
+        "high_f": null,
+        "low_f": -1,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-05",
+          "high_f": 9,
+          "low_f": 10,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2026-01-06",
+          "high_f": 23,
+          "low_f": 21,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 3,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 3
+        },
+        {
+          "date": "2026-01-07",
+          "high_f": 30,
+          "low_f": 24,
+          "description": "Windy",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-05",
+        "high_f": 9,
+        "low_f": 10,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 1
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "2 new trails opened today",
+      "1 trail freshly groomed"
+    ],
+    "trends": [
+      "1\" snow expected Monday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Downdraft - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Big Snow Incoming",
+    "body": "85/144 trails spinning, 77 freshly groomed. Windy. Storm cycle alert! 6\" on the way. Conditions are about to level up. Holiday mode: the mountain will be popular. Early birds get the goods.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "forecast_storm",
+          "category": "weather",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_storm",
+          "category": "weather",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "time_holiday",
+          "category": "time",
+          "priority": 70,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "storm_major",
+        "variationIndex": 0,
+        "totalVariations": 7,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Storm on the Horizon"
+      },
+      "dayOfWeek": "Sunday"
+    }
+  },
+  "errors": []
+}

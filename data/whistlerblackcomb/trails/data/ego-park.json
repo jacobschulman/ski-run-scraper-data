@@ -1,0 +1,149 @@
+{
+  "trailName": "Ego Park",
+  "trailSlug": "ego-park",
+  "resort": "whistlerblackcomb",
+  "resortName": "Whistler Blackcomb",
+  "area": "Emerald / Garbanzo / Village Gondola - Upper",
+  "difficulty": "TerrainPark",
+  "trailType": "Skiing",
+  "currentStatus": {
+    "date": "2025-12-21",
+    "isOpen": false,
+    "isGroomed": false,
+    "groomingStatus": null,
+    "status": "Closed"
+  },
+  "stats": {
+    "seasonStartDate": "2025-11-08",
+    "daysTracked": 11,
+    "daysGroomed": 5,
+    "groomingPercentage": 45,
+    "currentStreak": 0,
+    "longestStreak": 5,
+    "lastGroomed": "2025-12-15",
+    "dayOfWeek": [
+      {
+        "day": "Sun",
+        "percentage": 50,
+        "groomed": 1,
+        "total": 2
+      },
+      {
+        "day": "Mon",
+        "percentage": 100,
+        "groomed": 1,
+        "total": 1
+      },
+      {
+        "day": "Tue",
+        "percentage": 0,
+        "groomed": 0,
+        "total": 1
+      },
+      {
+        "day": "Wed",
+        "percentage": 0,
+        "groomed": 0,
+        "total": 1
+      },
+      {
+        "day": "Thu",
+        "percentage": 50,
+        "groomed": 1,
+        "total": 2
+      },
+      {
+        "day": "Fri",
+        "percentage": 50,
+        "groomed": 1,
+        "total": 2
+      },
+      {
+        "day": "Sat",
+        "percentage": 50,
+        "groomed": 1,
+        "total": 2
+      }
+    ]
+  },
+  "history": [
+    {
+      "date": "2025-12-21",
+      "isOpen": false,
+      "isGroomed": false,
+      "groomingStatus": null,
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2025-12-20",
+      "isOpen": false,
+      "isGroomed": false,
+      "groomingStatus": null,
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2025-12-19",
+      "isOpen": false,
+      "isGroomed": false,
+      "groomingStatus": null,
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2025-12-18",
+      "isOpen": false,
+      "isGroomed": false,
+      "groomingStatus": null,
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2025-12-17",
+      "isOpen": false,
+      "isGroomed": false,
+      "groomingStatus": null,
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2025-12-16",
+      "isOpen": false,
+      "isGroomed": false,
+      "groomingStatus": null,
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2025-12-15",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2025-12-14",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2025-12-13",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2025-12-12",
+      "isOpen": false,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    },
+    {
+      "date": "2025-12-11",
+      "isOpen": true,
+      "isGroomed": true,
+      "groomingStatus": "Groomed",
+      "groomingType": "Skiing"
+    }
+  ],
+  "generated": "2026-01-26T19:30:31.496Z"
+}

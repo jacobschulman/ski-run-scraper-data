@@ -1,0 +1,184 @@
+{
+  "resort": "hunter",
+  "resortName": "Hunter Mountain",
+  "date": "2025-12-04",
+  "generated": "2025-12-04T21:23:51.032Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 8,
+      "overnight_cm": 20,
+      "24hour_inches": 8,
+      "24hour_cm": 20,
+      "48hour_inches": 16,
+      "48hour_cm": 40,
+      "7day_inches": 17,
+      "7day_cm": 43,
+      "season_total_inches": 17,
+      "season_total_cm": 43,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Fresh"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 9,
+          "yesterday": 6,
+          "delta": 3
+        },
+        "groomedTrails": {
+          "today": 9,
+          "yesterday": 6,
+          "delta": 3
+        },
+        "totalTrails": 71
+      },
+      "newlyOpened": [
+        {
+          "name": "Bucky's Run",
+          "difficulty": "Green",
+          "area": "Hunter East"
+        },
+        {
+          "name": "Belt Parkway",
+          "difficulty": "Blue",
+          "area": "Main Mountain"
+        },
+        {
+          "name": "The Battery",
+          "difficulty": "Green",
+          "area": "Main Mountain"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Bucky's Run",
+          "difficulty": "Green",
+          "area": "Hunter East"
+        },
+        {
+          "name": "Belt Parkway",
+          "difficulty": "Blue",
+          "area": "Main Mountain"
+        },
+        {
+          "name": "The Battery",
+          "difficulty": "Green",
+          "area": "Main Mountain"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-03",
+        "avgWaitTime": 2,
+        "maxWaitTime": 10,
+        "totalLiftsTracked": 12,
+        "busiest": [
+          {
+            "name": "Broadway Express",
+            "avgWait": 2.2,
+            "peakWait": 7,
+            "type": "six",
+            "mountain": "Main Mountain"
+          },
+          {
+            "name": "Kaatskill Flyer",
+            "avgWait": 1.9,
+            "peakWait": 10,
+            "type": "six",
+            "mountain": "Main Mountain"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-04",
+        "high_f": 23,
+        "low_f": 3,
+        "high_c": -5,
+        "low_c": -16,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-05T05:00:00Z",
+          "high_f": 19,
+          "low_f": 3,
+          "high_c": -7,
+          "low_c": -17,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-06T05:00:00Z",
+          "high_f": 28,
+          "low_f": 20,
+          "high_c": -2,
+          "low_c": -7,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-07T05:00:00Z",
+          "high_f": 24,
+          "low_f": 20,
+          "high_c": -5,
+          "low_c": -7,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-05T05:00:00Z",
+        "high_f": 19,
+        "low_f": 3,
+        "high_c": -7,
+        "low_c": -17,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "8\" fresh snow overnight",
+      "8\" in last 24 hours - powder day!",
+      "3 new trails opened today",
+      "3 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 17\" in last 7 days",
+      "Grooming increased 50% from yesterday",
+      "3 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Bucky's Run - great for beginners",
+      "Fresh corduroy on Belt Parkway - perfect for intermediate skiers",
+      "Fresh corduroy on The Battery - great for beginners"
+    ]
+  },
+  "errors": []
+}

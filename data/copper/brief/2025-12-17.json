@@ -1,0 +1,169 @@
+{
+  "resort": "copper",
+  "resortName": "Copper Mountain",
+  "date": "2025-12-17",
+  "generated": "2025-12-18T06:27:08.760Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 22,
+          "yesterday": 25,
+          "delta": -3
+        },
+        "groomedTrails": {
+          "today": 21,
+          "yesterday": 22,
+          "delta": -1
+        },
+        "totalTrails": 203
+      },
+      "newlyOpened": [],
+      "newlyClosed": [
+        {
+          "name": "Woodwinds Traverse",
+          "difficulty": "easiest",
+          "area": "West"
+        },
+        {
+          "name": "High Point Bypass",
+          "difficulty": "easiest",
+          "area": "Center"
+        },
+        {
+          "name": "Rocky Mountain Coaster",
+          "difficulty": "N/A",
+          "area": "Center"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-17",
+        "high_f": null,
+        "low_f": 7,
+        "high_c": null,
+        "low_c": -14,
+        "description": "Windy",
+        "snowfall_day_inches": 2,
+        "snowfall_night_inches": 1
+      },
+      "outlook": [
+        {
+          "date": "2025-12-18",
+          "high_f": 20,
+          "low_f": 18,
+          "high_c": -7,
+          "low_c": -8,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-19",
+          "high_f": 35,
+          "low_f": 26,
+          "high_c": 2,
+          "low_c": -3,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-20",
+          "high_f": 26,
+          "low_f": 18,
+          "high_c": -3,
+          "low_c": -8,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-18",
+        "high_f": 20,
+        "low_f": 18,
+        "high_c": -7,
+        "low_c": -8,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [],
+    "trends": [
+      "1\" snow expected Saturday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Fewer Crowds, More Turns",
+    "body": "The rundown: 22 trails open, 21 groomed. Windy with temps around null°. Light snow possible in the forecast.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "time_midweek_mellow",
+          "category": "time",
+          "priority": 45,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_flurries",
+          "category": "weather",
+          "priority": 30,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "midweek_mellow",
+        "variationIndex": 2,
+        "totalVariations": 4,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Midweek Bliss"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

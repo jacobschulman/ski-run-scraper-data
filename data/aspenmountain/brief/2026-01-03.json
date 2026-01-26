@@ -1,0 +1,122 @@
+{
+  "resort": "aspenmountain",
+  "resortName": "Aspen Mountain",
+  "date": "2026-01-03",
+  "generated": "2026-01-04T06:26:11.550Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 57,
+          "yesterday": 50,
+          "delta": 7
+        },
+        "groomedTrails": {
+          "today": 19,
+          "yesterday": 15,
+          "delta": 4
+        },
+        "totalTrails": 140
+      },
+      "newlyOpened": [
+        {
+          "name": "Blazing Star",
+          "difficulty": "Advanced",
+          "area": "Ajax Express"
+        },
+        {
+          "name": "Summit",
+          "difficulty": "Advanced",
+          "area": "Ajax Express"
+        },
+        {
+          "name": "Buddy System (Lower)",
+          "difficulty": "Intermediate",
+          "area": "Hero's"
+        },
+        {
+          "name": "E=MSKI2 Glade",
+          "difficulty": "Expert",
+          "area": "Hero's"
+        },
+        {
+          "name": "Rideout",
+          "difficulty": "Intermediate",
+          "area": "Hero's"
+        },
+        {
+          "name": "Roch Run",
+          "difficulty": "Intermediate",
+          "area": "Ruthie's"
+        },
+        {
+          "name": "5th Avenue (West)",
+          "difficulty": "Intermediate",
+          "area": "Shadow Mountain"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Walsh's",
+          "difficulty": "Expert",
+          "area": "Hero's"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Buckhorn (Lower)",
+          "difficulty": "Intermediate",
+          "area": "Ajax Express"
+        },
+        {
+          "name": "Buckhorn Cutoff",
+          "difficulty": "Intermediate",
+          "area": "Ajax Express"
+        },
+        {
+          "name": "Midway Road",
+          "difficulty": "Intermediate",
+          "area": "Ajax Express"
+        },
+        {
+          "name": "One And Two Leaf",
+          "difficulty": "Intermediate",
+          "area": "Silver Queen"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-02",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 8,
+        "busiest": []
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "7 new trails opened today",
+      "4 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 27% from yesterday",
+      "7 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Buckhorn (Lower) - all skill levels",
+      "Fresh corduroy on Buckhorn Cutoff - all skill levels",
+      "Fresh corduroy on Midway Road - all skill levels"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

@@ -1,0 +1,268 @@
+{
+  "resort": "junemountain",
+  "resortName": "June Mountain",
+  "date": "2025-12-30",
+  "generated": "2025-12-31T07:20:58.126Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 51,
+      "7day_cm": 130,
+      "season_total_inches": 72,
+      "season_total_cm": 183,
+      "conditions": {
+        "today": "Packed Powder",
+        "yesterday": "Packed Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 43,
+          "yesterday": 24,
+          "delta": 19
+        },
+        "groomedTrails": {
+          "today": 10,
+          "yesterday": 6,
+          "delta": 4
+        },
+        "totalTrails": 44
+      },
+      "newlyOpened": [
+        {
+          "name": "Bodie",
+          "difficulty": "Intermediate",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Chairline",
+          "difficulty": "Intermediate",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Chaparral",
+          "difficulty": "Intermediate",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Davos Drop",
+          "difficulty": "Expert",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Deer Bowl",
+          "difficulty": "Very Difficult",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Desperado",
+          "difficulty": "Easy",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Gull Canyon",
+          "difficulty": "Expert",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Gull Ridge",
+          "difficulty": "Very Difficult",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Lower Davos",
+          "difficulty": "Very Difficult",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Matterhorn",
+          "difficulty": "Very Difficult",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Matterhorn Cutoff",
+          "difficulty": "Very Difficult",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Powder Chute",
+          "difficulty": "Expert",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Rainbow Ridge",
+          "difficulty": "Intermediate",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Schatzi (Lower)",
+          "difficulty": "Intermediate",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Schatzi (Upper)",
+          "difficulty": "Very Difficult",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Silverado",
+          "difficulty": "Intermediate",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Spike Camp Trail",
+          "difficulty": "Intermediate",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Sunrise",
+          "difficulty": "Intermediate",
+          "area": "June Mountain"
+        },
+        {
+          "name": "Sunset",
+          "difficulty": "Very Difficult",
+          "area": "June Mountain"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-29",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 7,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-30",
+        "high_f": null,
+        "low_f": 33,
+        "high_c": null,
+        "low_c": 1,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-31",
+          "high_f": 35,
+          "low_f": 30,
+          "high_c": 2,
+          "low_c": -1,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2026-01-01",
+          "high_f": 31,
+          "low_f": 26,
+          "high_c": 0,
+          "low_c": -3,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2026-01-02",
+          "high_f": 36,
+          "low_f": 27,
+          "high_c": 2,
+          "low_c": -3,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-31",
+        "high_f": 35,
+        "low_f": 30,
+        "high_c": 2,
+        "low_c": -1,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 1,
+        "snowfall_expected": 1
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "19 new trails opened today"
+    ],
+    "trends": [
+      "Great week for snow - 51\" in last 7 days",
+      "Grooming increased 67% from yesterday",
+      "19 more trails open than yesterday",
+      "1\" snow expected Wednesday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "New Runs Now Open",
+    "body": "No fresh overnight, but 51\" in the past week is keeping things soft and fun. Rope drop! 19 trails opened overnight, expanding your playground significantly. The forecast is flirting with us: light snow expected. Not a dump, but we'll take it.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_holding_strong",
+          "category": "snow",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_snow_coming",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 7,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 0,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Terrain is Expanding"
+      },
+      "dayOfWeek": "Tuesday"
+    }
+  },
+  "errors": []
+}

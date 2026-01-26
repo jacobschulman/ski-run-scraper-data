@@ -1,0 +1,263 @@
+{
+  "resort": "stowe",
+  "resortName": "Stowe",
+  "date": "2025-12-05",
+  "generated": "2025-12-05T10:24:37.146Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 6,
+      "48hour_cm": 15,
+      "7day_inches": 17,
+      "7day_cm": 43,
+      "season_total_inches": 71,
+      "season_total_cm": 180,
+      "conditions": {
+        "today": "Packed Powder",
+        "yesterday": "Packed Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 54,
+          "yesterday": 47,
+          "delta": 7
+        },
+        "groomedTrails": {
+          "today": 23,
+          "yesterday": 16,
+          "delta": 7
+        },
+        "totalTrails": 128
+      },
+      "newlyOpened": [
+        {
+          "name": "Chapel Lane",
+          "difficulty": "Green",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Jake's Ride",
+          "difficulty": "Green",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Lookout",
+          "difficulty": "DoubleBlack",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Lookout Glades",
+          "difficulty": "DoubleBlack",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Lower Goat",
+          "difficulty": "DoubleBlack",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Lower Nosedive",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Tres Amigos Glades",
+          "difficulty": "DoubleBlack",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Upper Starr",
+          "difficulty": "DoubleBlack",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Upper Toll Road",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Toll Road",
+          "difficulty": "Green",
+          "area": "Mt. Mansfield - Toll House"
+        },
+        {
+          "name": "Meadows",
+          "difficulty": "Green",
+          "area": "Spruce Peak"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Maiden Lane",
+          "difficulty": "Black",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Midway",
+          "difficulty": "Black",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Shftr's Shot",
+          "difficulty": "Black",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Upper Goat",
+          "difficulty": "DoubleBlack",
+          "area": "Mt. Mansfield - FourRunner"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Centerline",
+          "difficulty": "Black",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Chapel Lane",
+          "difficulty": "Green",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Jake's Ride",
+          "difficulty": "Green",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Upper Hayride",
+          "difficulty": "Black",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Upper Toll Road",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Toll Road",
+          "difficulty": "Green",
+          "area": "Mt. Mansfield - Toll House"
+        },
+        {
+          "name": "Meadows",
+          "difficulty": "Green",
+          "area": "Spruce Peak"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-04",
+        "avgWaitTime": 2.8,
+        "maxWaitTime": 10,
+        "totalLiftsTracked": 12,
+        "busiest": [
+          {
+            "name": "FourRunner Quad",
+            "avgWait": 3.5,
+            "peakWait": 10,
+            "type": "quad",
+            "mountain": "Mt. Mansfield - FourRunner"
+          },
+          {
+            "name": "Sunrise Lift",
+            "avgWait": 2.2,
+            "peakWait": 8,
+            "type": "six",
+            "mountain": "Mt. Mansfield - FourRunner"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-05",
+        "high_f": 13,
+        "low_f": -8,
+        "high_c": -11,
+        "low_c": -22,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-06T05:00:00Z",
+          "high_f": 21,
+          "low_f": 14,
+          "high_c": -6,
+          "low_c": -10,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-07T05:00:00Z",
+          "high_f": 18,
+          "low_f": 7,
+          "high_c": -8,
+          "low_c": -14,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-08T05:00:00Z",
+          "high_f": 8,
+          "low_f": -3,
+          "high_c": -14,
+          "low_c": -20,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-06T05:00:00Z",
+        "high_f": 21,
+        "low_f": 14,
+        "high_c": -6,
+        "low_c": -10,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "11 new trails opened today",
+      "7 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 17\" in last 7 days",
+      "Grooming increased 44% from yesterday",
+      "7 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Centerline - challenging for advanced skiers",
+      "Fresh corduroy on Chapel Lane - great for beginners",
+      "Fresh corduroy on Jake's Ride - great for beginners"
+    ]
+  },
+  "errors": []
+}

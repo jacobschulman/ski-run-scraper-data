@@ -1,0 +1,205 @@
+{
+  "resort": "parkcity",
+  "resortName": "Park City",
+  "date": "2025-12-07",
+  "generated": "2025-12-07T16:21:24.357Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 4,
+      "overnight_cm": 10,
+      "24hour_inches": 4,
+      "24hour_cm": 10,
+      "48hour_inches": 13,
+      "48hour_cm": 33,
+      "7day_inches": 22,
+      "7day_cm": 55,
+      "season_total_inches": 27,
+      "season_total_cm": 68,
+      "conditions": {
+        "today": "Early Season",
+        "yesterday": "Early Season"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 7,
+          "yesterday": 6,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 7,
+          "yesterday": 6,
+          "delta": 1
+        },
+        "totalTrails": 349
+      },
+      "newlyOpened": [
+        {
+          "name": "3 Kings",
+          "difficulty": "TerrainPark",
+          "area": "Payday/Town/Crescent"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-06",
+        "avgWaitTime": 4.6,
+        "maxWaitTime": 40,
+        "totalLiftsTracked": 44,
+        "busiest": [
+          {
+            "name": "First Time Lift",
+            "avgWait": 5.5,
+            "peakWait": 40,
+            "type": "quad",
+            "mountain": "Payday/Town/Crescent"
+          },
+          {
+            "name": "Red Pine Gondola",
+            "avgWait": 5.3,
+            "peakWait": 21,
+            "type": "gondola",
+            "mountain": "OBX/Saddleback/Sun Peak"
+          },
+          {
+            "name": "Saddleback Express",
+            "avgWait": 4.3,
+            "peakWait": 17,
+            "type": "quad",
+            "mountain": "OBX/Saddleback/Sun Peak"
+          },
+          {
+            "name": "PayDay Lift",
+            "avgWait": 4.1,
+            "peakWait": 9,
+            "type": "six",
+            "mountain": "Payday/Town/Crescent"
+          },
+          {
+            "name": "3 Kings Lift",
+            "avgWait": 3.8,
+            "peakWait": 25,
+            "type": "triple",
+            "mountain": "Payday/Town/Crescent"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-07",
+        "high_f": 35,
+        "low_f": 22,
+        "high_c": 1,
+        "low_c": -6,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-08T07:00:00Z",
+          "high_f": 38,
+          "low_f": 29,
+          "high_c": 3,
+          "low_c": -2,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-09T07:00:00Z",
+          "high_f": 41,
+          "low_f": 29,
+          "high_c": 5,
+          "low_c": -2,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-10T07:00:00Z",
+          "high_f": 44,
+          "low_f": 37,
+          "high_c": 6,
+          "low_c": 3,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-08T07:00:00Z",
+        "high_f": 38,
+        "low_f": 29,
+        "high_c": 3,
+        "low_c": -2,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "4\" fresh snow overnight",
+      "1 new trail opened today"
+    ],
+    "trends": [
+      "Great week for snow - 22\" in last 7 days",
+      "1 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Terrain is Expanding",
+    "body": "A light refresh of 4\" makes groomers smoother and off-piste a bit softer. Terrain is expanding with 1 new trails opening up more room to roam. 1 trails opened today expanding access to fresh terrain.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_new_trails_opened",
+          "category": "terrain",
+          "priority": 65,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,185 @@
+{
+  "resort": "jackfrost",
+  "resortName": "Jack Frost",
+  "date": "2026-01-24",
+  "generated": "2026-01-24T10:22:00.484Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 11,
+      "season_total_cm": 27,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 18,
+          "yesterday": 15,
+          "delta": 3
+        },
+        "groomedTrails": {
+          "today": 14,
+          "yesterday": 14,
+          "delta": 0
+        },
+        "totalTrails": 20
+      },
+      "newlyOpened": [
+        {
+          "name": "Solitude",
+          "difficulty": "Black",
+          "area": "Jack Frost"
+        },
+        {
+          "name": "T-Bolt",
+          "difficulty": "Black",
+          "area": "Jack Frost"
+        },
+        {
+          "name": "Telstar",
+          "difficulty": "Black",
+          "area": "Jack Frost"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-23",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 11,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-24",
+        "high_f": 7,
+        "low_f": -2,
+        "high_c": -14,
+        "low_c": -19,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-25T05:00:00Z",
+          "high_f": 16,
+          "low_f": 5,
+          "high_c": -9,
+          "low_c": -15,
+          "description": "Snow & Wind",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-26T05:00:00Z",
+          "high_f": 17,
+          "low_f": 5,
+          "high_c": -9,
+          "low_c": -15,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-27T05:00:00Z",
+          "high_f": 8,
+          "low_f": null,
+          "high_c": -14,
+          "low_c": -18,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-25T05:00:00Z",
+        "high_f": 16,
+        "low_f": 5,
+        "high_c": -9,
+        "low_c": -15,
+        "description": "Snow & Wind",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "3 new trails opened today"
+    ],
+    "trends": [
+      "3 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "BRRRRRRRRR",
+    "body": "18 trails open, 14 groomed. Windy, high of 7°. The terrain list grew by 3 today. More variety to choose from. Brace yourself: 7° today. Dress like you mean it.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "temp_frigid",
+          "category": "weather",
+          "priority": 73,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "temp_frigid",
+          "category": "weather",
+          "priority": 73,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "cold_snap",
+        "variationIndex": 5,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": null
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

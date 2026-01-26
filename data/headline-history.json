@@ -1,0 +1,1528 @@
+{
+  "stratton": {
+    "lastHeadline": "Winter Delivered Big",
+    "lastCondition": "powder_alert",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Winter Delivered Big"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Fresh Tracks for Days"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Winter Delivered Big"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Fresh Tracks for Days"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Winter Delivered Big"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Fresh Tracks for Days"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Powder Day Alert"
+      }
+    ]
+  },
+  "palisades": {
+    "lastHeadline": "Today at {resortName}",
+    "lastCondition": "fallback",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Today at {resortName}"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "The Rundown"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Today at {resortName}"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "The Rundown"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Today at {resortName}"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "The Rundown"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Today at {resortName}"
+      }
+    ]
+  },
+  "deervalley": {
+    "lastHeadline": "Not a Cloud in Sight",
+    "lastCondition": "bluebird_day",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "bluebird_day",
+        "headline": "Not a Cloud in Sight"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "bluebird_day",
+        "headline": "Picture-Perfect Conditions"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "bluebird_day",
+        "headline": "Not a Cloud in Sight"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "bluebird_day",
+        "headline": "Picture-Perfect Conditions"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "bluebird_day",
+        "headline": "Not a Cloud in Sight"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "bluebird_day",
+        "headline": "Picture-Perfect Conditions"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "bluebird_day",
+        "headline": "Unlimited Visibility"
+      }
+    ]
+  },
+  "solitude": {
+    "lastHeadline": "Not a Cloud in Sight",
+    "lastCondition": "bluebird_day",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "bluebird_day",
+        "headline": "Not a Cloud in Sight"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "bluebird_day",
+        "headline": "Unlimited Visibility"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "bluebird_day",
+        "headline": "Not a Cloud in Sight"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "bluebird_day",
+        "headline": "Unlimited Visibility"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "bluebird_day",
+        "headline": "Not a Cloud in Sight"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "bluebird_day",
+        "headline": "Unlimited Visibility"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "bluebird_day",
+        "headline": "Bluebird Day"
+      }
+    ]
+  },
+  "steamboat": {
+    "lastHeadline": "{snow24h}\" Freshened Things Up",
+    "lastCondition": "snow_solid",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "{snow24h}\" Freshened Things Up"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "Nice Little Top-Up"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "{snow24h}\" Freshened Things Up"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "Nice Little Top-Up"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "{snow24h}\" Freshened Things Up"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "Nice Little Top-Up"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "{snow24h}\" Freshened Things Up"
+      }
+    ]
+  },
+  "mammoth": {
+    "lastHeadline": "Fresh Terrain Unlocked",
+    "lastCondition": "terrain_expansion",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "terrain_expansion",
+        "headline": "Fresh Terrain Unlocked"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "terrain_expansion",
+        "headline": "New Runs Now Open"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Mountain Conditions Update"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Your Daily Ski Report"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Mountain Conditions Update"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Your Daily Ski Report"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Mountain Conditions Update"
+      }
+    ]
+  },
+  "junemountain": {
+    "lastHeadline": "Nearly Everything Open",
+    "lastCondition": "percent_full",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "percent_full",
+        "headline": "Nearly Everything Open"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "percent_full",
+        "headline": "The Whole Mountain Awaits"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "percent_full",
+        "headline": "Nearly Everything Open"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "percent_full",
+        "headline": "The Whole Mountain Awaits"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "percent_full",
+        "headline": "Nearly Everything Open"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "percent_full",
+        "headline": "The Whole Mountain Awaits"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "percent_full",
+        "headline": "Nearly Everything Open"
+      }
+    ]
+  },
+  "crystal": {
+    "lastHeadline": "Snow Showers Ahead",
+    "lastCondition": "snow_coming",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "snow_coming",
+        "headline": "Snow Showers Ahead"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_coming",
+        "headline": "The Forecast Looks Promising"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_coming",
+        "headline": "More Snow Coming"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Today at {resortName}"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "The Rundown"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Today at {resortName}"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "The Rundown"
+      }
+    ]
+  },
+  "sugarbush": {
+    "lastHeadline": "Time to Call in Sick",
+    "lastCondition": "powder_alert",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Time to Call in Sick"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Dump Day at {resortName}"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Time to Call in Sick"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Dump Day at {resortName}"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Time to Call in Sick"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Dump Day at {resortName}"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Deep Day at {resortName}"
+      }
+    ]
+  },
+  "tremblant": {
+    "lastHeadline": "Layer Up, Ski Hard",
+    "lastCondition": "cold_snap",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "cold_snap",
+        "headline": "Layer Up, Ski Hard"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "cold_snap",
+        "headline": "It's Gonna Be a Cold One"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "cold_snap",
+        "headline": "Layer Up, Ski Hard"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "cold_snap",
+        "headline": "It's Gonna Be a Cold One"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "cold_snap",
+        "headline": "Layer Up, Ski Hard"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "cold_snap",
+        "headline": "It's Gonna Be a Cold One"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "cold_snap",
+        "headline": "BRRRRRRRRR"
+      }
+    ]
+  },
+  "blue": {
+    "lastHeadline": "Nice Little Top-Up",
+    "lastCondition": "snow_solid",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "Nice Little Top-Up"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "Solid Refresh: {snow24h}\""
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "Nice Little Top-Up"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "Solid Refresh: {snow24h}\""
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "Nice Little Top-Up"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "Solid Refresh: {snow24h}\""
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "{snow24h}\" Freshened Things Up"
+      }
+    ]
+  },
+  "bigsky": {
+    "lastHeadline": "Grooming Crew MVP",
+    "lastCondition": "grooming_massive",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "grooming_massive",
+        "headline": "Grooming Crew MVP"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "grooming_massive",
+        "headline": "The Groomers Delivered"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "grooming_massive",
+        "headline": "Grooming Crew MVP"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "grooming_massive",
+        "headline": "The Groomers Delivered"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "grooming_massive",
+        "headline": "Grooming Crew MVP"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "grooming_massive",
+        "headline": "The Groomers Delivered"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "grooming_massive",
+        "headline": "Grooming Crew MVP"
+      }
+    ]
+  },
+  "sugarloaf": {
+    "lastHeadline": "Buried in the Best Way",
+    "lastCondition": "snow_deep",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "snow_deep",
+        "headline": "Buried in the Best Way"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_deep",
+        "headline": "{snow24h}\" and Counting"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_deep",
+        "headline": "Buried in the Best Way"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_deep",
+        "headline": "{snow24h}\" and Counting"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_deep",
+        "headline": "Buried in the Best Way"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_deep",
+        "headline": "Time to Call in Sick"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Fresh Tracks for Days"
+      }
+    ]
+  },
+  "sundayriver": {
+    "lastHeadline": "EPIC: {snow24h}\" of Fresh",
+    "lastCondition": "snow_epic",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "snow_epic",
+        "headline": "EPIC: {snow24h}\" of Fresh"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_epic",
+        "headline": "Career Day Potential"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_epic",
+        "headline": "EPIC: {snow24h}\" of Fresh"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_epic",
+        "headline": "Career Day Potential"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_epic",
+        "headline": "EPIC: {snow24h}\" of Fresh"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_epic",
+        "headline": "The Storm Delivered Big"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_deep",
+        "headline": "Deep Day: {snow24h}\" Fresh"
+      }
+    ]
+  },
+  "loon": {
+    "lastHeadline": "Deep Day: {snow24h}\" Fresh",
+    "lastCondition": "snow_deep",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "snow_deep",
+        "headline": "Deep Day: {snow24h}\" Fresh"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_deep",
+        "headline": "Time to Call in Sick"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_deep",
+        "headline": "Deep Day: {snow24h}\" Fresh"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_deep",
+        "headline": "Time to Call in Sick"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_deep",
+        "headline": "Deep Day: {snow24h}\" Fresh"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_deep",
+        "headline": "Time to Call in Sick"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_deep",
+        "headline": "Deep Day: {snow24h}\" Fresh"
+      }
+    ]
+  },
+  "cypressmountain": {
+    "lastHeadline": "Time to Call in Sick",
+    "lastCondition": "powder_alert",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Time to Call in Sick"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Fresh Tracks for Days"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Time to Call in Sick"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Fresh Tracks for Days"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Time to Call in Sick"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Fresh Tracks for Days"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Time to Call in Sick"
+      }
+    ]
+  },
+  "snowbird": {
+    "lastHeadline": "Bluebird Day",
+    "lastCondition": "bluebird_day",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "bluebird_day",
+        "headline": "Bluebird Day"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "bluebird_day",
+        "headline": "Clear Skies, Cold Temps"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "bluebird_day",
+        "headline": "Bluebird Day"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "bluebird_day",
+        "headline": "Clear Skies, Cold Temps"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "bluebird_day",
+        "headline": "Bluebird Day"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "bluebird_day",
+        "headline": "Clear Skies, Cold Temps"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "bluebird_day",
+        "headline": "Bluebird Day"
+      }
+    ]
+  },
+  "copper": {
+    "lastHeadline": "Fresh Layer in Place",
+    "lastCondition": "fresh_coat",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "fresh_coat",
+        "headline": "Fresh Layer in Place"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fresh_coat",
+        "headline": "The Mountain Got a Touch-Up"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fresh_coat",
+        "headline": "Fresh Layer in Place"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fresh_coat",
+        "headline": "The Mountain Got a Touch-Up"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fresh_coat",
+        "headline": "Fresh Layer in Place"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fresh_coat",
+        "headline": "The Mountain Got a Touch-Up"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fresh_coat",
+        "headline": "Fresh Layer in Place"
+      }
+    ]
+  },
+  "killington": {
+    "lastHeadline": "{snow24h}\" of Fresh Overnight",
+    "lastCondition": "powder_alert",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "{snow24h}\" of Fresh Overnight"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Deep Day at {resortName}"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "{snow24h}\" of Fresh Overnight"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Deep Day at {resortName}"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "{snow24h}\" of Fresh Overnight"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Deep Day at {resortName}"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "{snow24h}\" of Fresh Overnight"
+      }
+    ]
+  },
+  "jacksonhole": {
+    "lastHeadline": "Overnight Refresh",
+    "lastCondition": "fresh_coat",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "fresh_coat",
+        "headline": "Overnight Refresh"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fresh_coat",
+        "headline": "{snow24h}\" Freshened Things Up"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fresh_coat",
+        "headline": "Overnight Refresh"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fresh_coat",
+        "headline": "{snow24h}\" Freshened Things Up"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fresh_coat",
+        "headline": "Overnight Refresh"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fresh_coat",
+        "headline": "{snow24h}\" Freshened Things Up"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fresh_coat",
+        "headline": "Overnight Refresh"
+      }
+    ]
+  },
+  "aspenhighlands": {
+    "lastHeadline": "The Floodgates Opened",
+    "lastCondition": "terrain_massive",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "terrain_massive",
+        "headline": "The Floodgates Opened"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "terrain_massive",
+        "headline": "MASSIVE Expansion: {newTrailsCount} New Runs"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "terrain_massive",
+        "headline": "The Floodgates Opened"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "terrain_massive",
+        "headline": "MASSIVE Expansion: {newTrailsCount} New Runs"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "terrain_major",
+        "headline": "Patrol Won't Quit"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "terrain_major",
+        "headline": "Major Terrain Drop: {newTrailsCount} Runs"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fresh_coat",
+        "headline": "A Little Sugar on Top"
+      }
+    ]
+  },
+  "aspenmountain": {
+    "lastHeadline": "{snow24h}\" Freshened Things Up",
+    "lastCondition": "snow_solid",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "{snow24h}\" Freshened Things Up"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "The Mountain Got a Boost"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "{snow24h}\" Freshened Things Up"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "The Mountain Got a Boost"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "{snow24h}\" Freshened Things Up"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "The Mountain Got a Boost"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "{snow24h}\" Freshened Things Up"
+      }
+    ]
+  },
+  "buttermilk": {
+    "lastHeadline": "A Little Sugar on Top",
+    "lastCondition": "fresh_coat",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "fresh_coat",
+        "headline": "A Little Sugar on Top"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fresh_coat",
+        "headline": "Fresh Coat on the Mountain"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fresh_coat",
+        "headline": "A Little Sugar on Top"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fresh_coat",
+        "headline": "Fresh Coat on the Mountain"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fresh_coat",
+        "headline": "A Little Sugar on Top"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fresh_coat",
+        "headline": "Fresh Coat on the Mountain"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fresh_coat",
+        "headline": "A Little Sugar on Top"
+      }
+    ]
+  },
+  "banff": {
+    "lastHeadline": "{newTrailsCount} New Runs Open",
+    "lastCondition": "terrain_few",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "terrain_few",
+        "headline": "{newTrailsCount} New Runs Open"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "terrain_few",
+        "headline": "A Few More Options Today"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "terrain_few",
+        "headline": "{newTrailsCount} New Runs Open"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "percent_full",
+        "headline": "All Systems Go"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "percent_full",
+        "headline": "Peak Terrain"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "percent_full",
+        "headline": "All Systems Go"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "percent_full",
+        "headline": "Peak Terrain"
+      }
+    ]
+  },
+  "lakelouise": {
+    "lastHeadline": "Mother Nature Can't Decide",
+    "lastCondition": "weather_mixed",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "weather_mixed",
+        "headline": "Mother Nature Can't Decide"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "weather_mixed",
+        "headline": "Transition Day"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "weather_mixed",
+        "headline": "Mother Nature Can't Decide"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "weather_mixed",
+        "headline": "Transition Day"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "weather_mixed",
+        "headline": "Mother Nature Can't Decide"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "weather_mixed",
+        "headline": "Transition Day"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "weather_mixed",
+        "headline": "Mother Nature Can't Decide"
+      }
+    ]
+  },
+  "norquay": {
+    "lastHeadline": "Your Daily Ski Report",
+    "lastCondition": "fallback",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Your Daily Ski Report"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Mountain Conditions Update"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Your Daily Ski Report"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Mountain Conditions Update"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Your Daily Ski Report"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Mountain Conditions Update"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Your Daily Ski Report"
+      }
+    ]
+  },
+  "stowe": {
+    "lastHeadline": "Blustery and Snowy",
+    "lastCondition": "storm_wind",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "storm_wind",
+        "headline": "Blustery and Snowy"
+      }
+    ]
+  },
+  "okemo": {
+    "lastHeadline": "Today at {resortName}",
+    "lastCondition": "fallback",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Today at {resortName}"
+      }
+    ]
+  },
+  "hunter": {
+    "lastHeadline": "Today at {resortName}",
+    "lastCondition": "fallback",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Today at {resortName}"
+      }
+    ]
+  },
+  "attitash": {
+    "lastHeadline": "Mountain Conditions Update",
+    "lastCondition": "fallback",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Mountain Conditions Update"
+      }
+    ]
+  },
+  "wildcat": {
+    "lastHeadline": "The Rundown",
+    "lastCondition": "fallback",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "The Rundown"
+      }
+    ]
+  },
+  "mountsunapee": {
+    "lastHeadline": "Mountain Conditions Update",
+    "lastCondition": "fallback",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Mountain Conditions Update"
+      }
+    ]
+  },
+  "crotched": {
+    "lastHeadline": "Today at {resortName}",
+    "lastCondition": "fallback",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Today at {resortName}"
+      }
+    ]
+  },
+  "liberty": {
+    "lastHeadline": "The Whole Mountain Awaits",
+    "lastCondition": "percent_full",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "percent_full",
+        "headline": "The Whole Mountain Awaits"
+      }
+    ]
+  },
+  "roundtop": {
+    "lastHeadline": "Powder Day Alert",
+    "lastCondition": "powder_alert",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Powder Day Alert"
+      }
+    ]
+  },
+  "whitetail": {
+    "lastHeadline": "Time to Call in Sick",
+    "lastCondition": "powder_alert",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Time to Call in Sick"
+      }
+    ]
+  },
+  "jackfrost": {
+    "lastHeadline": "Your Morning Mountain Brief",
+    "lastCondition": "fallback",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Your Morning Mountain Brief"
+      }
+    ]
+  },
+  "bigboulder": {
+    "lastHeadline": "Mountain Conditions Update",
+    "lastCondition": "fallback",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "fallback",
+        "headline": "Mountain Conditions Update"
+      }
+    ]
+  },
+  "hiddenvalley": {
+    "lastHeadline": "{snow24h}\" of Fresh Overnight",
+    "lastCondition": "powder_alert",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "{snow24h}\" of Fresh Overnight"
+      }
+    ]
+  },
+  "laurelmountain": {
+    "lastHeadline": "The Wait Continues",
+    "lastCondition": "resort_closed",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "resort_closed",
+        "headline": "The Wait Continues"
+      }
+    ]
+  },
+  "sevensprings": {
+    "lastHeadline": "Time to Call in Sick",
+    "lastCondition": "powder_alert",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "Time to Call in Sick"
+      }
+    ]
+  },
+  "mtbrighton": {
+    "lastHeadline": "Checking the Forecast",
+    "lastCondition": "resort_closed",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "resort_closed",
+        "headline": "Checking the Forecast"
+      }
+    ]
+  },
+  "alpinevalley": {
+    "lastHeadline": "All Systems Go",
+    "lastCondition": "percent_full",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "percent_full",
+        "headline": "All Systems Go"
+      }
+    ]
+  },
+  "bostonmills": {
+    "lastHeadline": "The Mountain Got Buried",
+    "lastCondition": "powder_alert",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "powder_alert",
+        "headline": "The Mountain Got Buried"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "resort_closed",
+        "headline": "Almost There..."
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "resort_closed",
+        "headline": "The Wait Continues"
+      }
+    ]
+  },
+  "brandywine": {
+    "lastHeadline": "The Wait Continues",
+    "lastCondition": "resort_closed",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "resort_closed",
+        "headline": "The Wait Continues"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "resort_closed",
+        "headline": "Almost There..."
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "resort_closed",
+        "headline": "The Wait Continues"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "resort_closed",
+        "headline": "Almost There..."
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "resort_closed",
+        "headline": "The Wait Continues"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "resort_closed",
+        "headline": "Almost There..."
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "resort_closed",
+        "headline": "Stay Tuned for Opening"
+      }
+    ]
+  },
+  "madrivermountain": {
+    "lastHeadline": "A Proper Refresh",
+    "lastCondition": "snow_solid",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "A Proper Refresh"
+      }
+    ]
+  },
+  "paolipeaks": {
+    "lastHeadline": "Waiting for Opening Day",
+    "lastCondition": "resort_closed",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "resort_closed",
+        "headline": "Waiting for Opening Day"
+      }
+    ]
+  },
+  "wilmot": {
+    "lastHeadline": "Arctic Air in Place",
+    "lastCondition": "cold_snap",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "cold_snap",
+        "headline": "Arctic Air in Place"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "resort_closed",
+        "headline": "Stay Tuned for Opening"
+      },
+      {
+        "date": "2026-01-26",
+        "condition": "resort_closed",
+        "headline": "Checking the Forecast"
+      }
+    ]
+  },
+  "aftonalps": {
+    "lastHeadline": "Checking the Forecast",
+    "lastCondition": "resort_closed",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "resort_closed",
+        "headline": "Checking the Forecast"
+      }
+    ]
+  },
+  "vail": {
+    "lastHeadline": "{snow24h}\" Freshened Things Up",
+    "lastCondition": "snow_solid",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "{snow24h}\" Freshened Things Up"
+      }
+    ]
+  },
+  "beavercreek": {
+    "lastHeadline": "A Proper Refresh",
+    "lastCondition": "snow_solid",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "A Proper Refresh"
+      }
+    ]
+  },
+  "breckenridge": {
+    "lastHeadline": "A Proper Refresh",
+    "lastCondition": "snow_solid",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "snow_solid",
+        "headline": "A Proper Refresh"
+      }
+    ]
+  },
+  "parkcity": {
+    "lastHeadline": "Bluebird Day",
+    "lastCondition": "bluebird_day",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "bluebird_day",
+        "headline": "Bluebird Day"
+      }
+    ]
+  },
+  "keystone": {
+    "lastHeadline": "Overnight Refresh",
+    "lastCondition": "fresh_coat",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "fresh_coat",
+        "headline": "Overnight Refresh"
+      }
+    ]
+  },
+  "heavenly": {
+    "lastHeadline": "Nearly Everything Open",
+    "lastCondition": "percent_full",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "percent_full",
+        "headline": "Nearly Everything Open"
+      }
+    ]
+  },
+  "northstar": {
+    "lastHeadline": "All Systems Go",
+    "lastCondition": "percent_full",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "percent_full",
+        "headline": "All Systems Go"
+      }
+    ]
+  },
+  "kirkwood": {
+    "lastHeadline": "All Systems Go",
+    "lastCondition": "percent_full",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "percent_full",
+        "headline": "All Systems Go"
+      }
+    ]
+  },
+  "whistlerblackcomb": {
+    "lastHeadline": "Storm Cycle Building",
+    "lastCondition": "storm_major",
+    "lastDate": "2026-01-26",
+    "history": [
+      {
+        "date": "2026-01-26",
+        "condition": "storm_major",
+        "headline": "Storm Cycle Building"
+      }
+    ]
+  }
+}

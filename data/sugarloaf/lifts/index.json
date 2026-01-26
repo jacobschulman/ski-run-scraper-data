@@ -1,0 +1,24 @@
+{
+  "resort": "sugarloaf",
+  "resortName": "Sugarloaf",
+  "provider": "ikon",
+  "liftWaitTimesAvailable": false,
+  "liftCount": 1,
+  "lifts": [
+    {
+      "liftId": "reportpal:null",
+      "name": "Moose-calator",
+      "slug": "moose-calator",
+      "mountain": "Base Area",
+      "type": "Magic Carpet",
+      "capacity": null,
+      "status": "Closed",
+      "waitMinutes": null,
+      "openTime": null,
+      "closeTime": null,
+      "avgWaitTime": null,
+      "lastUpdated": "2026-01-26T19:57:21.463Z"
+    }
+  ],
+  "generated": "2026-01-26T19:57:39.907Z"
+}

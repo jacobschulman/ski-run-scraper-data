@@ -1,0 +1,247 @@
+{
+  "resort": "heavenly",
+  "resortName": "Heavenly",
+  "date": "2025-12-26",
+  "generated": "2025-12-26T13:30:51.194Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 18,
+      "24hour_cm": 45,
+      "48hour_inches": 28,
+      "48hour_cm": 71,
+      "7day_inches": 40,
+      "7day_cm": 101,
+      "season_total_inches": 73,
+      "season_total_cm": 185,
+      "conditions": {
+        "today": "Early Season",
+        "yesterday": "Early Season"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 23,
+          "yesterday": 19,
+          "delta": 4
+        },
+        "groomedTrails": {
+          "today": 12,
+          "yesterday": 14,
+          "delta": -2
+        },
+        "totalTrails": 113
+      },
+      "newlyOpened": [
+        {
+          "name": "Fall Line",
+          "difficulty": "Black",
+          "area": "California"
+        },
+        {
+          "name": "Powder Line",
+          "difficulty": "Black",
+          "area": "California"
+        },
+        {
+          "name": "Powderbowl Run",
+          "difficulty": "Blue",
+          "area": "California"
+        },
+        {
+          "name": "Powderbowl Woods",
+          "difficulty": "Black",
+          "area": "California"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Sky Chute 2",
+          "difficulty": "Green",
+          "area": "California"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Ridge Way",
+          "difficulty": "Blue",
+          "area": "California"
+        },
+        {
+          "name": "Stein's Way",
+          "difficulty": "Blue",
+          "area": "California"
+        },
+        {
+          "name": "Swing Trail",
+          "difficulty": "Blue",
+          "area": "California"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-25",
+        "avgWaitTime": 7.8,
+        "maxWaitTime": 31,
+        "totalLiftsTracked": 27,
+        "busiest": [
+          {
+            "name": "Patsy's",
+            "avgWait": 11.7,
+            "peakWait": 31,
+            "type": "Triple",
+            "mountain": "California"
+          },
+          {
+            "name": "Powderbowl",
+            "avgWait": 8.1,
+            "peakWait": 14,
+            "type": "Six Pack",
+            "mountain": "California"
+          },
+          {
+            "name": "Canyon",
+            "avgWait": 5.8,
+            "peakWait": 14,
+            "type": "Quad",
+            "mountain": "California"
+          },
+          {
+            "name": "Groove",
+            "avgWait": 4,
+            "peakWait": 11,
+            "type": "Triple",
+            "mountain": "California"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-26",
+        "high_f": 25,
+        "low_f": 20,
+        "high_c": -4,
+        "low_c": -7,
+        "description": "Snow & Wind",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-27T08:00:00Z",
+          "high_f": 24,
+          "low_f": 19,
+          "high_c": -5,
+          "low_c": -7,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-28T08:00:00Z",
+          "high_f": 28,
+          "low_f": 24,
+          "high_c": -2,
+          "low_c": -5,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-29T08:00:00Z",
+          "high_f": 36,
+          "low_f": 28,
+          "high_c": 2,
+          "low_c": -3,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-27T08:00:00Z",
+        "high_f": 24,
+        "low_f": 19,
+        "high_c": -5,
+        "low_c": -7,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "18\" in last 24 hours - powder day!",
+      "4 new trails opened today",
+      "1 trail freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 40\" in last 7 days",
+      "4 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Sky Chute 2 - great for beginners",
+      "Patsy's had longest waits (11.7 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": {
+    "headline": "18\" of Fresh Overnight",
+    "body": "It's a 18\" day. You know what to do. First chair or regret it. The ski patrol has been busy—4 additional trails are now yours to enjoy. Watch for crowds at Patsy's, which peaked around 31 minutes yesterday.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_watch_crowds",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 2,
+        "totalVariations": 12,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Winter Delivered Big"
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
+  "errors": []
+}

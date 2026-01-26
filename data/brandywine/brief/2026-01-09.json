@@ -1,0 +1,220 @@
+{
+  "resort": "brandywine",
+  "resortName": "Brandywine",
+  "date": "2026-01-09",
+  "generated": "2026-01-09T21:18:41.186Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 16,
+      "season_total_cm": 40,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 11,
+          "yesterday": 1,
+          "delta": 10
+        },
+        "groomedTrails": {
+          "today": 0,
+          "yesterday": 0,
+          "delta": 0
+        },
+        "totalTrails": 11
+      },
+      "newlyOpened": [
+        {
+          "name": "Champagne",
+          "difficulty": "Black",
+          "area": "Brandywine"
+        },
+        {
+          "name": "Down Draft",
+          "difficulty": "Blue",
+          "area": "Brandywine"
+        },
+        {
+          "name": "Easy Rider",
+          "difficulty": "Green",
+          "area": "Brandywine"
+        },
+        {
+          "name": "Frosty",
+          "difficulty": "Green",
+          "area": "Brandywine"
+        },
+        {
+          "name": "Grizzly",
+          "difficulty": "Black",
+          "area": "Brandywine"
+        },
+        {
+          "name": "Outer Limits",
+          "difficulty": "Blue",
+          "area": "Brandywine"
+        },
+        {
+          "name": "Progression Park",
+          "difficulty": "TerrainPark",
+          "area": "Brandywine"
+        },
+        {
+          "name": "Regulator Johnston",
+          "difficulty": "Black",
+          "area": "Brandywine"
+        },
+        {
+          "name": "Shredder",
+          "difficulty": "Blue",
+          "area": "Brandywine"
+        },
+        {
+          "name": "The Park",
+          "difficulty": "TerrainPark",
+          "area": "Brandywine"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-08",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 14,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-09",
+        "high_f": 62,
+        "low_f": 39,
+        "high_c": 17,
+        "low_c": 4,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-10T05:00:00Z",
+          "high_f": 43,
+          "low_f": 34,
+          "high_c": 6,
+          "low_c": 1,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-11T05:00:00Z",
+          "high_f": 33,
+          "low_f": 26,
+          "high_c": null,
+          "low_c": -3,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-12T05:00:00Z",
+          "high_f": 36,
+          "low_f": 24,
+          "high_c": 2,
+          "low_c": -4,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-10T05:00:00Z",
+        "high_f": 43,
+        "low_f": 34,
+        "high_c": 6,
+        "low_c": 1,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "10 new trails opened today"
+    ],
+    "trends": [
+      "10 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "10 New Trails Today",
+    "body": "11 of 11 trails are open with 0 groomed. Windy with a high of 62°F. 10 new runs just opened up. Time to explore fresh terrain. Above average temps (62°) will soften things up. Hit it early.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
+          "usedFor": "body"
+        },
+        {
+          "id": "temp_unseasonably_warm",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 2,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Not Open Yet"
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,47 @@
+{
+  "resort": "beavercreek",
+  "resortName": "Beaver Creek",
+  "date": "2026-01-16",
+  "generated": "2026-01-16T12:39:03.275Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 52,
+          "yesterday": 52,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 21,
+          "yesterday": 22,
+          "delta": -1
+        },
+        "totalTrails": 183
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": [
+        {
+          "name": "Red Buffalo",
+          "difficulty": "Green",
+          "area": "Beaver Creek Upper"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

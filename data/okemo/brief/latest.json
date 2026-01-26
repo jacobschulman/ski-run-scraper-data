@@ -1,0 +1,203 @@
+{
+  "resort": "okemo",
+  "resortName": "Okemo",
+  "date": "2026-01-26",
+  "generated": "2026-01-26T10:26:39.157Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 5,
+      "7day_cm": 12,
+      "season_total_inches": 65,
+      "season_total_cm": 165,
+      "conditions": {
+        "today": "Fresh",
+        "yesterday": "Fresh"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 117,
+          "yesterday": 123,
+          "delta": -6
+        },
+        "groomedTrails": {
+          "today": 79,
+          "yesterday": 83,
+          "delta": -4
+        },
+        "totalTrails": 129
+      },
+      "newlyOpened": [
+        {
+          "name": "Supernova",
+          "difficulty": "DoubleBlack",
+          "area": "Jackson Gore"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Chute",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Fast Lane",
+          "difficulty": "Black",
+          "area": "Main Face"
+        },
+        {
+          "name": "Lower Chief",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Side Kick",
+          "difficulty": "Black",
+          "area": "Main Face"
+        },
+        {
+          "name": "Upper Chief",
+          "difficulty": "Black",
+          "area": "Main Face"
+        },
+        {
+          "name": "Wardance",
+          "difficulty": "Black",
+          "area": "Main Face"
+        },
+        {
+          "name": "Willie's Way",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-25",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 21,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-26",
+        "high_f": 17,
+        "low_f": 5,
+        "high_c": -9,
+        "low_c": -15,
+        "description": "Snow",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-27T05:00:00Z",
+          "high_f": 12,
+          "low_f": null,
+          "high_c": -11,
+          "low_c": -18,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-28T05:00:00Z",
+          "high_f": 12,
+          "low_f": -2,
+          "high_c": -11,
+          "low_c": -19,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-29T05:00:00Z",
+          "high_f": 11,
+          "low_f": -2,
+          "high_c": -12,
+          "low_c": -19,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-27T05:00:00Z",
+        "high_f": 12,
+        "low_f": null,
+        "high_c": -11,
+        "low_c": -18,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today"
+    ],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Today at Okemo",
+    "body": "117 trails open, 79 groomed. Snow, high of 17°. Cold day ahead: 17° high. Dress warmly.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "temp_cold",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "fallback",
+        "variationIndex": 5,
+        "totalVariations": 7,
+        "usedWeekendVariation": false,
+        "previousHeadline": null
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

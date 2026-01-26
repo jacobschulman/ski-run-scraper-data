@@ -1,0 +1,105 @@
+{
+  "resort": "crestedbutte",
+  "resortName": "Crested Butte",
+  "date": "2025-12-15",
+  "generated": "2025-12-15T12:41:17.866Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 27,
+          "yesterday": 25,
+          "delta": 2
+        },
+        "groomedTrails": {
+          "today": 16,
+          "yesterday": 14,
+          "delta": 2
+        },
+        "totalTrails": 168
+      },
+      "newlyOpened": [
+        {
+          "name": "Big Al's",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Lower Twister",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Splain's Gulch",
+          "difficulty": "Green",
+          "area": "Ten Peaks"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Beginner Area - Pine Conveyor",
+          "difficulty": "Green",
+          "area": "Learning Area"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Lower Forest Queen",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Splain's Gulch",
+          "difficulty": "Green",
+          "area": "Ten Peaks"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-14",
+        "avgWaitTime": 2.5,
+        "maxWaitTime": 16,
+        "totalLiftsTracked": 15,
+        "busiest": [
+          {
+            "name": "Red Lady Express",
+            "avgWait": 3.6,
+            "peakWait": 16,
+            "type": "quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "Paradise Express",
+            "avgWait": 1.3,
+            "peakWait": 3,
+            "type": "quad",
+            "mountain": "Back Side"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "3 new trails opened today",
+      "2 trails freshly groomed"
+    ],
+    "trends": [
+      "2 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Lower Forest Queen - perfect for intermediate skiers",
+      "Fresh corduroy on Splain's Gulch - great for beginners"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

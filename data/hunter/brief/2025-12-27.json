@@ -1,0 +1,258 @@
+{
+  "resort": "hunter",
+  "resortName": "Hunter Mountain",
+  "date": "2025-12-27",
+  "generated": "2025-12-27T10:20:54.491Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 14,
+      "season_total_cm": 35,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 51,
+          "yesterday": 45,
+          "delta": 6
+        },
+        "groomedTrails": {
+          "today": 49,
+          "yesterday": 43,
+          "delta": 6
+        },
+        "totalTrails": 71
+      },
+      "newlyOpened": [
+        {
+          "name": "Briar Patch",
+          "difficulty": "Green",
+          "area": "Hunter East"
+        },
+        {
+          "name": "Rusk Road",
+          "difficulty": "Green",
+          "area": "Hunter North"
+        },
+        {
+          "name": "Way In",
+          "difficulty": "Black",
+          "area": "Hunter North"
+        },
+        {
+          "name": "Way Out",
+          "difficulty": "Blue",
+          "area": "Hunter North"
+        },
+        {
+          "name": "Clair's Way",
+          "difficulty": "DoubleBlack",
+          "area": "Hunter West"
+        },
+        {
+          "name": "Upper K27",
+          "difficulty": "Black",
+          "area": "Main Mountain"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Briar Patch",
+          "difficulty": "Green",
+          "area": "Hunter East"
+        },
+        {
+          "name": "Rusk Road",
+          "difficulty": "Green",
+          "area": "Hunter North"
+        },
+        {
+          "name": "Way In",
+          "difficulty": "Black",
+          "area": "Hunter North"
+        },
+        {
+          "name": "Way Out",
+          "difficulty": "Blue",
+          "area": "Hunter North"
+        },
+        {
+          "name": "Clair's Way",
+          "difficulty": "DoubleBlack",
+          "area": "Hunter West"
+        },
+        {
+          "name": "Upper K27",
+          "difficulty": "Black",
+          "area": "Main Mountain"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-26",
+        "avgWaitTime": 2.2,
+        "maxWaitTime": 12,
+        "totalLiftsTracked": 12,
+        "busiest": [
+          {
+            "name": "Broadway Express",
+            "avgWait": 2.7,
+            "peakWait": 10,
+            "type": "Six Pack",
+            "mountain": "Main Mountain"
+          },
+          {
+            "name": "Kaatskill Flyer",
+            "avgWait": 2.1,
+            "peakWait": 12,
+            "type": "Six Pack",
+            "mountain": "Main Mountain"
+          },
+          {
+            "name": "Northern Express",
+            "avgWait": 1.7,
+            "peakWait": 7,
+            "type": "Six Pack",
+            "mountain": "Hunter North"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-27",
+        "high_f": 20,
+        "low_f": 13,
+        "high_c": -7,
+        "low_c": -11,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-28T05:00:00Z",
+          "high_f": 38,
+          "low_f": 21,
+          "high_c": 3,
+          "low_c": -6,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-29T05:00:00Z",
+          "high_f": 44,
+          "low_f": 17,
+          "high_c": 6,
+          "low_c": -9,
+          "description": "Rain/Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-30T05:00:00Z",
+          "high_f": 16,
+          "low_f": 11,
+          "high_c": -9,
+          "low_c": -12,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-28T05:00:00Z",
+        "high_f": 38,
+        "low_f": 21,
+        "high_c": 3,
+        "low_c": -6,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "6 new trails opened today",
+      "6 trails freshly groomed"
+    ],
+    "trends": [
+      "6 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Briar Patch - great for beginners",
+      "Fresh corduroy on Rusk Road - great for beginners",
+      "Fresh corduroy on Way In - challenging for advanced skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "New Runs Now Open",
+    "body": "51 trails open, 49 groomed. Cloudy, high of 20°. Rope drop! 6 trails opened overnight, expanding your playground significantly. Lift lines stayed mellow yesterday, so early laps should feel quick.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_mellow_lines",
+          "category": "lifts",
+          "priority": 50,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 1,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Friday: Ready for the Weekend"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

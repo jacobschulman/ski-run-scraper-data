@@ -1,0 +1,151 @@
+{
+  "resort": "liberty",
+  "resortName": "Liberty Mountain",
+  "date": "2026-01-07",
+  "generated": "2026-01-07T11:23:01.769Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Early Season",
+        "yesterday": "Early Season"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 17,
+          "yesterday": 17,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 17,
+          "yesterday": 17,
+          "delta": 0
+        },
+        "totalTrails": 20
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-07",
+        "high_f": 52,
+        "low_f": 37,
+        "high_c": 11,
+        "low_c": 2,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-08T05:00:00Z",
+          "high_f": 51,
+          "low_f": 34,
+          "high_c": 10,
+          "low_c": 1,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-09T05:00:00Z",
+          "high_f": 53,
+          "low_f": 38,
+          "high_c": 12,
+          "low_c": 3,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-10T05:00:00Z",
+          "high_f": 57,
+          "low_f": 49,
+          "high_c": 14,
+          "low_c": 9,
+          "description": "Scattered T-Storms",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-08T05:00:00Z",
+        "high_f": 51,
+        "low_f": 34,
+        "high_c": 10,
+        "low_c": 1,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Soft Snow Alert",
+    "body": "17/20 trails spinning, 17 freshly groomed. 52° and Partly Cloudy. Unseasonably warm: 52° today. Snow may soften by afternoon.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "temp_unseasonably_warm",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "temp_unseasonably_warm",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "unseasonably_warm",
+        "variationIndex": 3,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Unseasonably Warm: {tempHigh}°"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

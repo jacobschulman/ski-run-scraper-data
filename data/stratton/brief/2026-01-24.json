@@ -1,0 +1,224 @@
+{
+  "resort": "stratton",
+  "resortName": "Stratton",
+  "date": "2026-01-24",
+  "generated": "2026-01-25T04:49:29.517Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 1,
+      "overnight_cm": 3,
+      "24hour_inches": 1,
+      "24hour_cm": 3,
+      "48hour_inches": 1,
+      "48hour_cm": 3,
+      "7day_inches": 7,
+      "7day_cm": 18,
+      "season_total_inches": 93,
+      "season_total_cm": 236,
+      "conditions": {
+        "today": "Machine Groomed Variable Conditions",
+        "yesterday": "Machine Groomed Variable Conditions"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 119,
+          "yesterday": 111,
+          "delta": 8
+        },
+        "groomedTrails": {
+          "today": 80,
+          "yesterday": 80,
+          "delta": 0
+        },
+        "totalTrails": 123
+      },
+      "newlyOpened": [
+        {
+          "name": "Cabin Fever",
+          "difficulty": "Expert",
+          "area": "Glades"
+        },
+        {
+          "name": "Dancing Bear",
+          "difficulty": "Expert",
+          "area": "Glades"
+        },
+        {
+          "name": "Moonbeam",
+          "difficulty": "Intermediate",
+          "area": "Glades"
+        },
+        {
+          "name": "West Pilot",
+          "difficulty": "Intermediate",
+          "area": "Glades"
+        },
+        {
+          "name": "Buster's Trail",
+          "difficulty": "Intermediate",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Rick's Catch 22",
+          "difficulty": "Expert",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Rising Star",
+          "difficulty": "Expert",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "Rowley's Run",
+          "difficulty": "Intermediate",
+          "area": "Sun Bowl"
+        },
+        {
+          "name": "World Cup",
+          "difficulty": "Extreme Terrain",
+          "area": "Upper Mountain"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Big Ben",
+          "difficulty": "Intermediate",
+          "area": "Sun Bowl"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-23",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 14,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-24",
+        "high_f": null,
+        "low_f": -6,
+        "high_c": null,
+        "low_c": -21,
+        "description": "Cold",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-25",
+          "high_f": 3,
+          "low_f": 4,
+          "high_c": -16,
+          "low_c": -16,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 3,
+          "snowfall_night_inches": 9,
+          "snowfall_expected": 12
+        },
+        {
+          "date": "2026-01-26",
+          "high_f": 12,
+          "low_f": -1,
+          "high_c": -11,
+          "low_c": -18,
+          "description": "Snow",
+          "snowfall_day_inches": 3,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 3
+        },
+        {
+          "date": "2026-01-27",
+          "high_f": 4,
+          "low_f": -1,
+          "high_c": -16,
+          "low_c": -18,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-25",
+        "high_f": 3,
+        "low_f": 4,
+        "high_c": -16,
+        "low_c": -16,
+        "description": "Snow Wind",
+        "snowfall_day_inches": 3,
+        "snowfall_night_inches": 9,
+        "snowfall_expected": 12
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1\" new snow overnight",
+      "9 new trails opened today"
+    ],
+    "trends": [
+      "Steady snowfall - 7\" in last 7 days",
+      "8 more trails open than yesterday",
+      "12\" snow expected Sunday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Winter's Coming Back",
+    "body": "Overnight dusting of 1\" means the hardpack got a makeover. Ski patrol has been busy - 9 additional trails are now open. The weather models are locked in: 15\" of snow heading our way.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "forecast_major_storm",
+          "category": "weather",
+          "priority": 92,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_major_storm",
+          "category": "weather",
+          "priority": 92,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 7,
+      "headlineSelection": {
+        "condition": "storm_major",
+        "variationIndex": 3,
+        "totalVariations": 7,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Major System Approaching"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

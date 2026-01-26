@@ -1,0 +1,56 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2025-12-05",
+  "generated": "2025-12-05T10:24:37.152Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 8,
+          "yesterday": 8,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 7,
+          "yesterday": 7,
+          "delta": 0
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-04",
+        "avgWaitTime": 2.8,
+        "maxWaitTime": 9,
+        "totalLiftsTracked": 19,
+        "busiest": [
+          {
+            "name": "Canyon Express",
+            "avgWait": 2.8,
+            "peakWait": 9,
+            "type": "quad",
+            "mountain": "Main Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "errors": []
+}

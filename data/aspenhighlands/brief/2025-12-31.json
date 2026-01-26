@@ -1,0 +1,234 @@
+{
+  "resort": "aspenhighlands",
+  "resortName": "Aspen Highlands",
+  "date": "2025-12-31",
+  "generated": "2026-01-01T06:27:48.803Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 70,
+          "yesterday": 48,
+          "delta": 22
+        },
+        "groomedTrails": {
+          "today": 15,
+          "yesterday": 19,
+          "delta": -4
+        },
+        "totalTrails": 126
+      },
+      "newlyOpened": [
+        {
+          "name": "Bear Hollow Road",
+          "difficulty": "Advanced",
+          "area": "Highland Bowl"
+        },
+        {
+          "name": "G-1",
+          "difficulty": "Expert",
+          "area": "Highland Bowl"
+        },
+        {
+          "name": "G-2",
+          "difficulty": "Expert",
+          "area": "Highland Bowl"
+        },
+        {
+          "name": "G-3",
+          "difficulty": "Expert",
+          "area": "Highland Bowl"
+        },
+        {
+          "name": "G-4",
+          "difficulty": "Expert",
+          "area": "Highland Bowl"
+        },
+        {
+          "name": "G-6",
+          "difficulty": "Expert",
+          "area": "Highland Bowl"
+        },
+        {
+          "name": "G-8",
+          "difficulty": "Expert",
+          "area": "Highland Bowl"
+        },
+        {
+          "name": "Hines Sight",
+          "difficulty": "Expert",
+          "area": "Highland Bowl"
+        },
+        {
+          "name": "Middle Fork",
+          "difficulty": "Expert",
+          "area": "Highland Bowl"
+        },
+        {
+          "name": "North Fork",
+          "difficulty": "Expert",
+          "area": "Highland Bowl"
+        },
+        {
+          "name": "Northwoods",
+          "difficulty": "Expert",
+          "area": "Highland Bowl"
+        },
+        {
+          "name": "South Fork",
+          "difficulty": "Expert",
+          "area": "Highland Bowl"
+        },
+        {
+          "name": "Jerome Bowl",
+          "difficulty": "Advanced",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Willy's",
+          "difficulty": "Expert",
+          "area": "Mid Mountain"
+        },
+        {
+          "name": "Grand Reverse",
+          "difficulty": "Advanced",
+          "area": "Steeplechase"
+        },
+        {
+          "name": "Canopy Cruiser",
+          "difficulty": "Expert",
+          "area": "Temerity"
+        },
+        {
+          "name": "Hyde Park",
+          "difficulty": "Expert",
+          "area": "Temerity"
+        },
+        {
+          "name": "Lady Luck",
+          "difficulty": "Expert",
+          "area": "Temerity"
+        },
+        {
+          "name": "Lucky Find",
+          "difficulty": "Expert",
+          "area": "Temerity"
+        },
+        {
+          "name": "Mushroom",
+          "difficulty": "Expert",
+          "area": "Temerity"
+        },
+        {
+          "name": "Mystery Gully",
+          "difficulty": "Advanced",
+          "area": "Temerity"
+        },
+        {
+          "name": "South Castle",
+          "difficulty": "Expert",
+          "area": "Temerity"
+        },
+        {
+          "name": "Thermal",
+          "difficulty": "Expert",
+          "area": "Temerity"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "T-Lazy-7 Catwalk",
+          "difficulty": "Intermediate",
+          "area": "Thunderbowl"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Exhibition",
+          "difficulty": "Intermediate",
+          "area": "Mid Mountain"
+        },
+        {
+          "name": "Riverside Drive",
+          "difficulty": "Intermediate",
+          "area": "Mid Mountain"
+        },
+        {
+          "name": "Kandahar",
+          "difficulty": "Intermediate",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Wine Ridge",
+          "difficulty": "Intermediate",
+          "area": "Upper Mountain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Red Onion",
+          "difficulty": "Intermediate",
+          "area": "Mid Mountain"
+        },
+        {
+          "name": "Golden Horn",
+          "difficulty": "Intermediate",
+          "area": "Thunderbowl"
+        },
+        {
+          "name": "Smuggler",
+          "difficulty": "Intermediate",
+          "area": "Thunderbowl"
+        },
+        {
+          "name": "Thunderbowl",
+          "difficulty": "Intermediate",
+          "area": "Thunderbowl"
+        },
+        {
+          "name": "Gunbarrel",
+          "difficulty": "Intermediate",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Hayden",
+          "difficulty": "Intermediate",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Meadows",
+          "difficulty": "Intermediate",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Pyramid Park",
+          "difficulty": "Intermediate",
+          "area": "Upper Mountain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "23 new trails opened today",
+      "4 trails freshly groomed"
+    ],
+    "trends": [
+      "22 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Exhibition - all skill levels",
+      "Fresh corduroy on Riverside Drive - all skill levels",
+      "Fresh corduroy on Kandahar - all skill levels"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

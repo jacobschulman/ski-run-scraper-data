@@ -1,0 +1,242 @@
+{
+  "resort": "copper",
+  "resortName": "Copper Mountain",
+  "date": "2026-01-19",
+  "generated": "2026-01-20T06:30:46.219Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 2,
+      "overnight_cm": 5,
+      "24hour_inches": 2,
+      "24hour_cm": 5,
+      "48hour_inches": 2,
+      "48hour_cm": 5,
+      "7day_inches": 2,
+      "7day_cm": 5,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Powder",
+        "yesterday": "Packed Powder"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 111,
+          "yesterday": 102,
+          "delta": 9
+        },
+        "groomedTrails": {
+          "today": 37,
+          "yesterday": 43,
+          "delta": -6
+        },
+        "totalTrails": 202
+      },
+      "newlyOpened": [
+        {
+          "name": "Superpipe on Main Vein",
+          "difficulty": "easiest",
+          "area": "Woodward Mountain Park"
+        },
+        {
+          "name": "Guthrie’s Chute",
+          "difficulty": "Black",
+          "area": "Union Peak"
+        },
+        {
+          "name": "Jackstraw Trees",
+          "difficulty": "Blue",
+          "area": "West"
+        },
+        {
+          "name": "Bouncer (U)",
+          "difficulty": "Blue",
+          "area": "Center"
+        },
+        {
+          "name": "Brennan's Grin",
+          "difficulty": "Black",
+          "area": "Center"
+        },
+        {
+          "name": "CDL's Trail #20",
+          "difficulty": "Black",
+          "area": "Center"
+        },
+        {
+          "name": "Spillway",
+          "difficulty": "Black",
+          "area": "Center"
+        },
+        {
+          "name": "Lower Enchanted Forest",
+          "difficulty": "Double Black",
+          "area": "Center"
+        },
+        {
+          "name": "Mine Dump",
+          "difficulty": "Black",
+          "area": "Center"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": [
+        {
+          "name": "Hallelujah Ridge",
+          "difficulty": "Black",
+          "area": "Spaulding & Resolution"
+        },
+        {
+          "name": "Spaulding Ridge",
+          "difficulty": "Black",
+          "area": "Spaulding & Resolution"
+        },
+        {
+          "name": "Roundabout (U)",
+          "difficulty": "easiest",
+          "area": "West"
+        },
+        {
+          "name": "Collage (L)",
+          "difficulty": "Blue",
+          "area": "Center"
+        },
+        {
+          "name": "Collage (U)",
+          "difficulty": "Blue",
+          "area": "Center"
+        },
+        {
+          "name": "Easy Road",
+          "difficulty": "easiest",
+          "area": "Center"
+        },
+        {
+          "name": "High Point Bypass",
+          "difficulty": "easiest",
+          "area": "Center"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-18",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 23,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-19",
+        "high_f": null,
+        "low_f": 6,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-20",
+          "high_f": 24,
+          "low_f": 5,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-21",
+          "high_f": 23,
+          "low_f": 7,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-22",
+          "high_f": 24,
+          "low_f": 10,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-20",
+        "high_f": 24,
+        "low_f": 5,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "2\" fresh snow overnight",
+      "9 new trails opened today"
+    ],
+    "trends": [
+      "9 more trails open than yesterday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "The Map Got Bigger",
+    "body": "A light refresh of 2\" overnight makes the groomers smoother. Ski patrol has been busy - 9 additional trails are now open. It's a holiday - expect a full house. Plan for crowds at popular lifts.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
+          "usedFor": "body"
+        },
+        {
+          "id": "time_holiday",
+          "category": "time",
+          "priority": 70,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 4,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Fresh Terrain Unlocked"
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
+  "errors": []
+}

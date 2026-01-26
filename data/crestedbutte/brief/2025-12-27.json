@@ -1,0 +1,110 @@
+{
+  "resort": "crestedbutte",
+  "resortName": "Crested Butte",
+  "date": "2025-12-27",
+  "generated": "2025-12-27T12:35:50.550Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 40,
+          "yesterday": 40,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 24,
+          "yesterday": 18,
+          "delta": 6
+        },
+        "totalTrails": 168
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Ruby Road",
+          "difficulty": "Black",
+          "area": "Back Side"
+        },
+        {
+          "name": "Big Al's",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Lower Twister",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Upper International",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "Augusta",
+          "difficulty": "Green",
+          "area": "Learning Area"
+        },
+        {
+          "name": "High Tide",
+          "difficulty": "Green",
+          "area": "Learning Area"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-26",
+        "avgWaitTime": 2.3,
+        "maxWaitTime": 11,
+        "totalLiftsTracked": 15,
+        "busiest": [
+          {
+            "name": "Red Lady Express",
+            "avgWait": 4.1,
+            "peakWait": 11,
+            "type": "Quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "Paradise Express",
+            "avgWait": 1.6,
+            "peakWait": 3,
+            "type": "Quad",
+            "mountain": "Back Side"
+          },
+          {
+            "name": "Silver Queen Express",
+            "avgWait": 1.2,
+            "peakWait": 2,
+            "type": "Quad",
+            "mountain": "Front Side"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "6 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 33% from yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Ruby Road - challenging for advanced skiers",
+      "Fresh corduroy on Big Al's - great for beginners",
+      "Fresh corduroy on Lower Twister - great for beginners"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

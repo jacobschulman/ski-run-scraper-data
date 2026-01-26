@@ -1,0 +1,178 @@
+{
+  "resort": "lakelouise",
+  "resortName": "Lake Louise",
+  "date": "2026-01-07",
+  "generated": "2026-01-08T06:28:53.221Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 1.6,
+      "overnight_cm": 4,
+      "24hour_inches": 2.4,
+      "24hour_cm": 6,
+      "48hour_inches": 5.5,
+      "48hour_cm": 14,
+      "7day_inches": 13.8,
+      "7day_cm": 35,
+      "season_total_inches": 211.8,
+      "season_total_cm": 538,
+      "conditions": {
+        "today": "Changeable",
+        "yesterday": "Snowing"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 165,
+          "yesterday": 161,
+          "delta": 4
+        },
+        "groomedTrails": {
+          "today": 35,
+          "yesterday": 31,
+          "delta": 4
+        },
+        "totalTrails": 169
+      },
+      "newlyOpened": [
+        {
+          "name": "D Gully",
+          "difficulty": "expert",
+          "area": "Back Bowls"
+        },
+        {
+          "name": "E Gully",
+          "difficulty": "expert",
+          "area": "Back Bowls"
+        },
+        {
+          "name": "F Gully",
+          "difficulty": "expert",
+          "area": "Back Bowls"
+        },
+        {
+          "name": "G Gully",
+          "difficulty": "expert",
+          "area": "Back Bowls"
+        },
+        {
+          "name": "H Gully",
+          "difficulty": "expert",
+          "area": "Back Bowls"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Bearberry",
+          "difficulty": "intermediate",
+          "area": "Front Side"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Men's Downhill",
+          "difficulty": "advanced",
+          "area": "Front Side"
+        },
+        {
+          "name": "Buffaloberry",
+          "difficulty": "intermediate",
+          "area": "Front Side"
+        },
+        {
+          "name": "Charlie's Choice",
+          "difficulty": "intermediate",
+          "area": "Front Side"
+        },
+        {
+          "name": "Wrong Turn",
+          "difficulty": "intermediate",
+          "area": "Front Side"
+        },
+        {
+          "name": "Grizzly Gully",
+          "difficulty": "intermediate",
+          "area": "Front Side"
+        },
+        {
+          "name": "Ski Out",
+          "difficulty": "beginner",
+          "area": "Larch"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Wolverine",
+          "difficulty": "intermediate",
+          "area": "Larch"
+        },
+        {
+          "name": "Larch Poma",
+          "difficulty": "intermediate",
+          "area": "Larch"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "1.6\" new snow overnight",
+      "5 new trails opened today",
+      "6 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 13.8\" in last 7 days",
+      "4 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Men's Downhill - all skill levels",
+      "Fresh corduroy on Buffaloberry - all skill levels",
+      "Fresh corduroy on Charlie's Choice - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Patrol Opened 5 More",
+    "body": "The rundown: 165 trails open, 35 groomed. Variable conditions with temps around temps TBD. Ski patrol opened 5 additional trails. A few more choices today.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "terrain_few",
+        "variationIndex": 2,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Terrain Update"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

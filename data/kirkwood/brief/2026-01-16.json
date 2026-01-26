@@ -1,0 +1,41 @@
+{
+  "resort": "kirkwood",
+  "resortName": "Kirkwood",
+  "date": "2026-01-16",
+  "generated": "2026-01-16T13:37:15.054Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 101,
+          "yesterday": 101,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 39,
+          "yesterday": 39,
+          "delta": 0
+        },
+        "totalTrails": 111
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

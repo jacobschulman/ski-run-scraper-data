@@ -1,0 +1,76 @@
+{
+  "resort": "buttermilk",
+  "resortName": "Buttermilk",
+  "date": "2026-01-02",
+  "generated": "2026-01-03T06:25:51.447Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 38,
+          "yesterday": 38,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 5,
+          "yesterday": 9,
+          "delta": -4
+        },
+        "totalTrails": 52
+      },
+      "newlyOpened": [
+        {
+          "name": "West Buttermilk Route",
+          "difficulty": "Beginner",
+          "area": "Uphill Routes"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Timberdoodle Glad",
+          "difficulty": "Advanced",
+          "area": "Tiehack"
+        }
+      ],
+      "newlyGroomed": [],
+      "ungroomed": [
+        {
+          "name": "Klaus' Way",
+          "difficulty": "Advanced",
+          "area": "Tiehack"
+        },
+        {
+          "name": "Rabbit Run",
+          "difficulty": "Intermediate",
+          "area": "Tiehack"
+        },
+        {
+          "name": "Racer's Edge",
+          "difficulty": "Advanced",
+          "area": "Tiehack"
+        },
+        {
+          "name": "Tiehack Trail",
+          "difficulty": "Advanced",
+          "area": "Tiehack"
+        }
+      ]
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "1 new trail opened today"
+    ],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": null,
+  "errors": []
+}

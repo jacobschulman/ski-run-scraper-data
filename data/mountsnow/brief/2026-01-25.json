@@ -1,0 +1,178 @@
+{
+  "resort": "mountsnow",
+  "resortName": "Mount Snow",
+  "date": "2026-01-25",
+  "generated": "2026-01-25T10:36:53.182Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 76,
+          "yesterday": 64,
+          "delta": 12
+        },
+        "groomedTrails": {
+          "today": 45,
+          "yesterday": 43,
+          "delta": 2
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Inferno",
+          "difficulty": "TerrainPark",
+          "area": "Carinthia"
+        },
+        {
+          "name": "Tramline",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        },
+        {
+          "name": "Boulder Pile",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Challenger",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Chute",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Fallen Timbers",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Free Fall",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Jaws",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Little Steep",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Olympic",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "PDF",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Plummet",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "River Run",
+          "difficulty": "Blue",
+          "area": "North Face"
+        },
+        {
+          "name": "Skyline",
+          "difficulty": "Blue",
+          "area": "North Face"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "The Gulch",
+          "difficulty": "TerrainPark",
+          "area": "Carinthia"
+        },
+        {
+          "name": "South Bowl",
+          "difficulty": "Blue",
+          "area": "Main Face"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Chute",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "Free Fall",
+          "difficulty": "Black",
+          "area": "North Face"
+        },
+        {
+          "name": "River Run",
+          "difficulty": "Blue",
+          "area": "North Face"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-24",
+        "avgWaitTime": 5.5,
+        "maxWaitTime": 19,
+        "totalLiftsTracked": 18,
+        "busiest": [
+          {
+            "name": "Bluebird Express",
+            "avgWait": 9,
+            "peakWait": 19,
+            "type": "Six Pack",
+            "mountain": "Main Face"
+          },
+          {
+            "name": "Nitro Express",
+            "avgWait": 3.5,
+            "peakWait": 10,
+            "type": "Quad",
+            "mountain": "Carinthia"
+          },
+          {
+            "name": "Canyon Express",
+            "avgWait": 3.1,
+            "peakWait": 6,
+            "type": "Quad",
+            "mountain": "Main Face"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "14 new trails opened today",
+      "3 trails freshly groomed"
+    ],
+    "trends": [
+      "12 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Chute - challenging for advanced skiers",
+      "Fresh corduroy on Free Fall - challenging for advanced skiers",
+      "Fresh corduroy on River Run - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

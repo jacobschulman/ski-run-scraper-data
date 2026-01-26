@@ -1,0 +1,339 @@
+{
+  "resort": "palisades",
+  "resortName": "Palisades Tahoe",
+  "date": "2025-12-27",
+  "generated": "2025-12-28T07:17:28.748Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 8,
+      "overnight_cm": 20,
+      "24hour_inches": 15,
+      "24hour_cm": 38,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 77,
+      "7day_cm": 196,
+      "season_total_inches": 102,
+      "season_total_cm": 259,
+      "conditions": {
+        "today": "Powder, Machine Groomed",
+        "yesterday": "Powder, Machine Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 68,
+          "yesterday": 35,
+          "delta": 33
+        },
+        "groomedTrails": {
+          "today": 12,
+          "yesterday": 11,
+          "delta": 1
+        },
+        "totalTrails": 301
+      },
+      "newlyOpened": [
+        {
+          "name": "Rock Garden",
+          "difficulty": "Intermediate",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Bill's Boardwalk",
+          "difficulty": "Intermediate",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Chicken Bowl",
+          "difficulty": "Very Difficult",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Groove Tube",
+          "difficulty": "Intermediate",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Jagged Edge",
+          "difficulty": "Very Difficult",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Siberia Bowl",
+          "difficulty": "Very Difficult",
+          "area": "Palisades Peak"
+        },
+        {
+          "name": "Yellow Trail",
+          "difficulty": "Intermediate",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Olympic High",
+          "difficulty": "Intermediate",
+          "area": "High Camp"
+        },
+        {
+          "name": "Spring Bowl",
+          "difficulty": "Intermediate",
+          "area": "High Camp"
+        },
+        {
+          "name": "Summer Road Pockets",
+          "difficulty": "Very Difficult",
+          "area": "High Camp"
+        },
+        {
+          "name": "Sunnyside",
+          "difficulty": "Intermediate",
+          "area": "High Camp"
+        },
+        {
+          "name": "Banana Chute",
+          "difficulty": "Intermediate",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Boomerang",
+          "difficulty": "Intermediate",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Charity",
+          "difficulty": "Intermediate",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Dance Floor",
+          "difficulty": "Intermediate",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "East Runout",
+          "difficulty": "Intermediate",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Fall Line",
+          "difficulty": "Intermediate",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Kangaroo Ridge",
+          "difficulty": "Intermediate",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Ladies' Slalom",
+          "difficulty": "Intermediate",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Loop Road",
+          "difficulty": "Intermediate",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Sandy's Corner",
+          "difficulty": "Intermediate",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Sympathy Face",
+          "difficulty": "Very Difficult",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "The Face",
+          "difficulty": "Very Difficult",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "The Face Cliffs",
+          "difficulty": "Very Difficult",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Upper Weasel One",
+          "difficulty": "Intermediate",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Werner's Schuss",
+          "difficulty": "Intermediate",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "West Runout",
+          "difficulty": "Intermediate",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Meadow Beginner Area",
+          "difficulty": "Easy",
+          "area": "Scott/Lakeview Peak"
+        },
+        {
+          "name": "Subway Beginner Area",
+          "difficulty": "Easy",
+          "area": "Scott/Lakeview Peak"
+        },
+        {
+          "name": "Tiegel",
+          "difficulty": "Intermediate",
+          "area": "Scott/Lakeview Peak"
+        },
+        {
+          "name": "Weasel Run",
+          "difficulty": "Intermediate",
+          "area": "Scott/Lakeview Peak"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-26",
+        "avgWaitTime": 741.8,
+        "maxWaitTime": 984,
+        "totalLiftsTracked": 39,
+        "busiest": [
+          {
+            "name": "Exhibition",
+            "avgWait": 741.8,
+            "peakWait": 984,
+            "type": "Quad Chair",
+            "mountain": "KT Peak"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-27",
+        "high_f": null,
+        "low_f": 20,
+        "high_c": null,
+        "low_c": -7,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-28",
+          "high_f": 30,
+          "low_f": 22,
+          "high_c": -1,
+          "low_c": -6,
+          "description": "Mostly Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-29",
+          "high_f": 39,
+          "low_f": 33,
+          "high_c": 4,
+          "low_c": 1,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-30",
+          "high_f": 44,
+          "low_f": 35,
+          "high_c": 7,
+          "low_c": 2,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-28",
+        "high_f": 30,
+        "low_f": 22,
+        "high_c": -1,
+        "low_c": -6,
+        "description": "Mostly Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": true
+    },
+    "alerts": [
+      "8\" fresh snow overnight",
+      "15\" in last 24 hours - powder day!",
+      "31 new trails opened today"
+    ],
+    "trends": [
+      "Great week for snow - 77\" in last 7 days",
+      "33 more trails open than yesterday",
+      "High demand yesterday - average wait time 741.8 min"
+    ],
+    "recommendations": [
+      "Exhibition had longest waits (741.8 min avg) - consider alternatives"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Powder Day Alert! ❄️",
+    "body": "15\" dumped overnight. The stashes are loaded and the groomers are buried. Go find 'em. Terrain is expanding with 31 new trails now open. More room to roam, less traffic to dodge. Watch for crowds at Exhibition, which peaked around 984 minutes yesterday.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder_alert",
+          "category": "snow",
+          "priority": 100,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_watch_crowds",
+          "category": "lifts",
+          "priority": 80,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 0,
+        "totalVariations": 12,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Deep Day at {resortName}"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

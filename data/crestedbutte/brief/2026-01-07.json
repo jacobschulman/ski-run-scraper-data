@@ -1,0 +1,196 @@
+{
+  "resort": "crestedbutte",
+  "resortName": "Crested Butte",
+  "date": "2026-01-07",
+  "generated": "2026-01-07T12:42:13.316Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 73,
+          "yesterday": 64,
+          "delta": 9
+        },
+        "groomedTrails": {
+          "today": 41,
+          "yesterday": 31,
+          "delta": 10
+        },
+        "totalTrails": 168
+      },
+      "newlyOpened": [
+        {
+          "name": "Double Top Glades",
+          "difficulty": "Black",
+          "area": "Back Side"
+        },
+        {
+          "name": "Git Some Glades",
+          "difficulty": "Black",
+          "area": "Back Side"
+        },
+        {
+          "name": "Gully Glades",
+          "difficulty": "Black",
+          "area": "Back Side"
+        },
+        {
+          "name": "Resurrection",
+          "difficulty": "Black",
+          "area": "Back Side"
+        },
+        {
+          "name": "Middle Twister",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "Cascade",
+          "difficulty": "Blue",
+          "area": "Ten Peaks"
+        },
+        {
+          "name": "Homeowners",
+          "difficulty": "Blue",
+          "area": "Ten Peaks"
+        },
+        {
+          "name": "North Pass",
+          "difficulty": "Blue",
+          "area": "Ten Peaks"
+        },
+        {
+          "name": "Panion's Run",
+          "difficulty": "Blue",
+          "area": "Ten Peaks"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Breakfast Trail",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Bushwacker",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Fallaway",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Gus' Way",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Upper Treasury",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Kubler",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Mineral Point",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Poverty Gulch",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Cascade",
+          "difficulty": "Blue",
+          "area": "Ten Peaks"
+        },
+        {
+          "name": "North Pass",
+          "difficulty": "Blue",
+          "area": "Ten Peaks"
+        },
+        {
+          "name": "Panion's Run",
+          "difficulty": "Blue",
+          "area": "Ten Peaks"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Bubba's Shortcut",
+          "difficulty": "Green",
+          "area": "Back Side"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-06",
+        "avgWaitTime": 2.1,
+        "maxWaitTime": 7,
+        "totalLiftsTracked": 15,
+        "busiest": [
+          {
+            "name": "Red Lady Express",
+            "avgWait": 3.2,
+            "peakWait": 7,
+            "type": "Quad",
+            "mountain": "Front Side"
+          },
+          {
+            "name": "East River Express",
+            "avgWait": 2.2,
+            "peakWait": 4,
+            "type": "Quad",
+            "mountain": "Back Side"
+          },
+          {
+            "name": "Paradise Express",
+            "avgWait": 1.5,
+            "peakWait": 3,
+            "type": "Quad",
+            "mountain": "Back Side"
+          },
+          {
+            "name": "Silver Queen Express",
+            "avgWait": 1.3,
+            "peakWait": 3,
+            "type": "Quad",
+            "mountain": "Front Side"
+          }
+        ]
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "9 new trails opened today",
+      "11 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 32% from yesterday",
+      "9 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Breakfast Trail - perfect for intermediate skiers",
+      "Fresh corduroy on Bushwacker - perfect for intermediate skiers",
+      "Fresh corduroy on Fallaway - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

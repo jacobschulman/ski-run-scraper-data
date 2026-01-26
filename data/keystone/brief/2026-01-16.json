@@ -1,0 +1,92 @@
+{
+  "resort": "keystone",
+  "resortName": "Keystone",
+  "date": "2026-01-16",
+  "generated": "2026-01-16T12:39:03.283Z",
+  "rawData": {
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 76,
+          "yesterday": 72,
+          "delta": 4
+        },
+        "groomedTrails": {
+          "today": 44,
+          "yesterday": 40,
+          "delta": 4
+        },
+        "totalTrails": 142
+      },
+      "newlyOpened": [
+        {
+          "name": "Jacques St. James",
+          "difficulty": "Blue",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Missouri",
+          "difficulty": "Blue",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Lodgepole",
+          "difficulty": "Blue",
+          "area": "Outback"
+        },
+        {
+          "name": "The Willows",
+          "difficulty": "Blue",
+          "area": "Outback"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Jacques St. James",
+          "difficulty": "Blue",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Missouri",
+          "difficulty": "Blue",
+          "area": "Dercum Mountain"
+        },
+        {
+          "name": "Lodgepole",
+          "difficulty": "Blue",
+          "area": "Outback"
+        },
+        {
+          "name": "The Willows",
+          "difficulty": "Blue",
+          "area": "Outback"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [
+      "4 new trails opened today",
+      "4 trails freshly groomed"
+    ],
+    "trends": [
+      "4 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Jacques St. James - perfect for intermediate skiers",
+      "Fresh corduroy on Missouri - perfect for intermediate skiers",
+      "Fresh corduroy on Lodgepole - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": null,
+  "errors": []
+}

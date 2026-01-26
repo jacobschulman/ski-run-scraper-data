@@ -1,0 +1,197 @@
+{
+  "resort": "crystal",
+  "resortName": "Crystal Mountain",
+  "date": "2025-12-24",
+  "generated": "2025-12-25T07:19:15.123Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 3,
+      "overnight_cm": 8,
+      "24hour_inches": 3,
+      "24hour_cm": 8,
+      "48hour_inches": 9,
+      "48hour_cm": 23,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 92,
+      "season_total_cm": 234,
+      "conditions": {
+        "today": "Obstacles Exist",
+        "yesterday": "Obstacles Exist"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 35,
+          "yesterday": 30,
+          "delta": 5
+        },
+        "groomedTrails": {
+          "today": 2,
+          "yesterday": 2,
+          "delta": 0
+        },
+        "totalTrails": 86
+      },
+      "newlyOpened": [
+        {
+          "name": "Quicksilver",
+          "difficulty": "Easy",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Tinkerbell",
+          "difficulty": "Easy",
+          "area": "Lower Mountain"
+        },
+        {
+          "name": "Campbell Basin",
+          "difficulty": "Very Difficult",
+          "area": "High Campbell"
+        },
+        {
+          "name": "Powder Bowl",
+          "difficulty": "Very Difficult",
+          "area": "High Campbell"
+        },
+        {
+          "name": "The Throne",
+          "difficulty": "Very Difficult",
+          "area": "High Campbell"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-23",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 11,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-24",
+        "high_f": null,
+        "low_f": 25,
+        "high_c": null,
+        "low_c": -4,
+        "description": "Cloudy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-25",
+          "high_f": 31,
+          "low_f": 24,
+          "high_c": -1,
+          "low_c": -4,
+          "description": "Snow",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2025-12-26",
+          "high_f": 25,
+          "low_f": 17,
+          "high_c": -4,
+          "low_c": -8,
+          "description": "Snow Wind",
+          "snowfall_day_inches": 3,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 4
+        },
+        {
+          "date": "2025-12-27",
+          "high_f": 20,
+          "low_f": 19,
+          "high_c": -6,
+          "low_c": -7,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-25",
+        "high_f": 31,
+        "low_f": 24,
+        "high_c": -1,
+        "low_c": -4,
+        "description": "Snow",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 1,
+        "snowfall_expected": 2
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "3\" fresh snow overnight",
+      "5 new trails opened today"
+    ],
+    "trends": [
+      "5 more trails open than yesterday",
+      "2\" snow expected Thursday"
+    ],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Storm Cycle Building",
+    "body": "The mountain got a nice 3\" touch-up. Expect improved conditions across the board. 5 new runs just opened up. Time to explore some fresh terrain. Winter has more to say. 6\" forecasted means conditions are about to level up.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_storm_major",
+          "category": "weather",
+          "priority": 88,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_fresh_coat",
+          "category": "snow",
+          "priority": 80,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_storm_major",
+          "category": "weather",
+          "priority": 88,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "storm_major",
+        "variationIndex": 2,
+        "totalVariations": 8,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Fresh Terrain Unlocked"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

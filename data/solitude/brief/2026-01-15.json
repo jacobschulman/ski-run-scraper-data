@@ -1,0 +1,253 @@
+{
+  "resort": "solitude",
+  "resortName": "Solitude",
+  "date": "2026-01-15",
+  "generated": "2026-01-16T06:29:03.455Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 6,
+      "7day_cm": 15,
+      "season_total_inches": 130,
+      "season_total_cm": 330,
+      "conditions": {
+        "today": "Variable Conditions",
+        "yesterday": "Variable Conditions"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 89,
+          "yesterday": 84,
+          "delta": 5
+        },
+        "groomedTrails": {
+          "today": 37,
+          "yesterday": 30,
+          "delta": 7
+        },
+        "totalTrails": 107
+      },
+      "newlyOpened": [
+        {
+          "name": "Cathedral Cirque",
+          "difficulty": "Expert",
+          "area": "Solitude Canyon"
+        },
+        {
+          "name": "Middle Slope",
+          "difficulty": "Expert",
+          "area": "Solitude Canyon"
+        },
+        {
+          "name": "Black Forest",
+          "difficulty": "Difficult",
+          "area": "Honeycomb Canyon"
+        },
+        {
+          "name": "Buckeye Junior",
+          "difficulty": "Difficult",
+          "area": "Honeycomb Canyon"
+        },
+        {
+          "name": "Honeycomb Return",
+          "difficulty": "Intermediate",
+          "area": "Honeycomb Canyon"
+        },
+        {
+          "name": "Memorial Chutes",
+          "difficulty": "Difficult",
+          "area": "Honeycomb Canyon"
+        },
+        {
+          "name": "Woodlawn",
+          "difficulty": "Difficult",
+          "area": "Honeycomb Canyon"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Milk Run",
+          "difficulty": "Expert",
+          "area": "Solitude Canyon"
+        },
+        {
+          "name": "Parachute",
+          "difficulty": "Expert",
+          "area": "Solitude Canyon"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Diamond Lane",
+          "difficulty": "Difficult",
+          "area": "Eagle Ridge"
+        },
+        {
+          "name": "Gary's Glade",
+          "difficulty": "Intermediate",
+          "area": "Eagle Ridge"
+        },
+        {
+          "name": "Post Card",
+          "difficulty": "Intermediate",
+          "area": "Eagle Ridge"
+        },
+        {
+          "name": "Rumble Lower",
+          "difficulty": "Intermediate",
+          "area": "Eagle Ridge"
+        },
+        {
+          "name": "Shady Lane",
+          "difficulty": "Intermediate",
+          "area": "Eagle Ridge"
+        },
+        {
+          "name": "Wall Street",
+          "difficulty": "Intermediate",
+          "area": "Eagle Ridge"
+        },
+        {
+          "name": "Summit Access West",
+          "difficulty": "Intermediate",
+          "area": "Solitude Canyon"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2026-01-14",
+        "avgWaitTime": 0,
+        "maxWaitTime": 0,
+        "totalLiftsTracked": 9,
+        "busiest": []
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-15",
+        "high_f": 37,
+        "low_f": 23,
+        "high_c": 3,
+        "low_c": -5,
+        "description": "Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-16",
+          "high_f": 28,
+          "low_f": 20,
+          "high_c": -2,
+          "low_c": -7,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-17",
+          "high_f": 32,
+          "low_f": 28,
+          "high_c": 0,
+          "low_c": -2,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-18",
+          "high_f": 34,
+          "low_f": 24,
+          "high_c": 1,
+          "low_c": -4,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-16",
+        "high_f": 28,
+        "low_f": 20,
+        "high_c": -2,
+        "low_c": -7,
+        "description": "Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "7 new trails opened today",
+      "7 trails freshly groomed"
+    ],
+    "trends": [
+      "Steady snowfall - 6\" in last 7 days",
+      "Grooming increased 23% from yesterday",
+      "5 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Diamond Lane - all skill levels",
+      "Fresh corduroy on Gary's Glade - all skill levels",
+      "Fresh corduroy on Post Card - all skill levels"
+    ]
+  },
+  "morningBrief": {
+    "headline": "A Few More Options Today",
+    "body": "Steady snowfall with 6\" over the last week. The terrain list grew by 7 today. More variety to choose from.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_week_total",
+          "category": "snow",
+          "priority": 40,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "terrain_few",
+        "variationIndex": 0,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "{newTrailsCount} New Runs Open"
+      },
+      "dayOfWeek": "Thursday"
+    }
+  },
+  "errors": []
+}

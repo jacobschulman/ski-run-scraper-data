@@ -1,0 +1,222 @@
+{
+  "resort": "hunter",
+  "resortName": "Hunter Mountain",
+  "date": "2025-12-24",
+  "generated": "2025-12-24T10:25:16.747Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 14,
+      "season_total_cm": 35,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 46,
+          "yesterday": 45,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 42,
+          "yesterday": 44,
+          "delta": -2
+        },
+        "totalTrails": 71
+      },
+      "newlyOpened": [
+        {
+          "name": "Lower 42nd Street",
+          "difficulty": "Blue",
+          "area": "Main Mountain"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Lower 42nd Street",
+          "difficulty": "Blue",
+          "area": "Main Mountain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Bleeker Street",
+          "difficulty": "Black",
+          "area": "Main Mountain"
+        },
+        {
+          "name": "The Cliff",
+          "difficulty": "Black",
+          "area": "Main Mountain"
+        },
+        {
+          "name": "Upper K27",
+          "difficulty": "Black",
+          "area": "Main Mountain"
+        }
+      ]
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-23",
+        "avgWaitTime": 2.2,
+        "maxWaitTime": 17,
+        "totalLiftsTracked": 12,
+        "busiest": [
+          {
+            "name": "Kaatskill Flyer",
+            "avgWait": 2.9,
+            "peakWait": 17,
+            "type": "Six Pack",
+            "mountain": "Main Mountain"
+          },
+          {
+            "name": "Broadway Express",
+            "avgWait": 2.2,
+            "peakWait": 5,
+            "type": "Six Pack",
+            "mountain": "Main Mountain"
+          },
+          {
+            "name": "Northern Express",
+            "avgWait": 1.4,
+            "peakWait": 3,
+            "type": "Six Pack",
+            "mountain": "Hunter North"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-24",
+        "high_f": 31,
+        "low_f": 21,
+        "high_c": -1,
+        "low_c": -6,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-25T05:00:00Z",
+          "high_f": 32,
+          "low_f": 11,
+          "high_c": null,
+          "low_c": -12,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-26T05:00:00Z",
+          "high_f": 14,
+          "low_f": 8,
+          "high_c": -10,
+          "low_c": -14,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-27T05:00:00Z",
+          "high_f": 22,
+          "low_f": 12,
+          "high_c": -6,
+          "low_c": -11,
+          "description": "Snow",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-25T05:00:00Z",
+        "high_f": 32,
+        "low_f": 11,
+        "high_c": null,
+        "low_c": -12,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today",
+      "1 trail freshly groomed"
+    ],
+    "trends": [
+      "1 more trail open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Lower 42nd Street - perfect for intermediate skiers"
+    ]
+  },
+  "morningBrief": {
+    "headline": "1 New Trail Today",
+    "body": "46/71 trails spinning, 42 freshly groomed. 31° and Windy. 1 new run just opened up. Time to explore some fresh terrain. Lift lines stayed mellow yesterday, so early laps should feel quick.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_mellow_lines",
+          "category": "lifts",
+          "priority": 50,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 2,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "More Mountain to Explore"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,154 @@
+{
+  "resort": "liberty",
+  "resortName": "Liberty Mountain",
+  "liftId": "5",
+  "liftName": "First Class Carpet",
+  "slug": "first-class-carpet",
+  "mountain": "Front Side",
+  "type": "Conveyor",
+  "capacity": 1,
+  "currentStatus": {
+    "status": "Open",
+    "waitMinutes": null,
+    "openTime": null,
+    "closeTime": null,
+    "timestamp": "2026-01-04T14:54:32.283Z",
+    "localTime": "09:54:32"
+  },
+  "stats": {
+    "totalRecords": 504,
+    "avgWaitTime": null,
+    "minWaitTime": null,
+    "maxWaitTime": null,
+    "daysTracked": 14
+  },
+  "history": [
+    {
+      "date": "2026-01-04",
+      "recordCount": 8,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-03",
+      "recordCount": 35,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-02",
+      "recordCount": 39,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2026-01-01",
+      "recordCount": 39,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-31",
+      "recordCount": 40,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-30",
+      "recordCount": 39,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-29",
+      "recordCount": 39,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-28",
+      "recordCount": 41,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-27",
+      "recordCount": 37,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-26",
+      "recordCount": 42,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-25",
+      "recordCount": 40,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-24",
+      "recordCount": 39,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-23",
+      "recordCount": 39,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    },
+    {
+      "date": "2025-12-22",
+      "recordCount": 27,
+      "avgWaitTime": null,
+      "minWaitTime": null,
+      "maxWaitTime": null,
+      "wasOpen": true,
+      "openPercentage": 100
+    }
+  ],
+  "generated": "2026-01-26T19:57:32.919Z"
+}

@@ -1,0 +1,232 @@
+{
+  "resort": "breckenridge",
+  "resortName": "Breckenridge",
+  "date": "2025-12-17",
+  "generated": "2025-12-17T12:40:15.452Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 1,
+      "7day_cm": 2,
+      "season_total_inches": 40,
+      "season_total_cm": 101,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 33,
+          "yesterday": 32,
+          "delta": 1
+        },
+        "groomedTrails": {
+          "today": 21,
+          "yesterday": 18,
+          "delta": 3
+        },
+        "totalTrails": 193
+      },
+      "newlyOpened": [
+        {
+          "name": "Briar Rose",
+          "difficulty": "Blue",
+          "area": "Peak 9"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Little Burn",
+          "difficulty": "Blue",
+          "area": "Peak 9"
+        },
+        {
+          "name": "Lower American",
+          "difficulty": "Green",
+          "area": "Peak 9"
+        },
+        {
+          "name": "Lower Sawmill",
+          "difficulty": "Green",
+          "area": "Peak 9"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-16",
+        "avgWaitTime": 3.5,
+        "maxWaitTime": 60,
+        "totalLiftsTracked": 35,
+        "busiest": [
+          {
+            "name": "Beaver Run SuperChair",
+            "avgWait": 6.5,
+            "peakWait": 60,
+            "type": "quad",
+            "mountain": "Peak 9"
+          },
+          {
+            "name": "Quicksilver SuperChair",
+            "avgWait": 5.2,
+            "peakWait": 10,
+            "type": "six",
+            "mountain": "Peak 9"
+          },
+          {
+            "name": "Rip's Ride",
+            "avgWait": 4.2,
+            "peakWait": 19,
+            "type": "quad",
+            "mountain": "Peak 8"
+          },
+          {
+            "name": "Snowflake",
+            "avgWait": 3,
+            "peakWait": 12,
+            "type": "double",
+            "mountain": "Peak 8"
+          },
+          {
+            "name": "Colorado SuperChair",
+            "avgWait": 2.9,
+            "peakWait": 5,
+            "type": "six",
+            "mountain": "Peak 8"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-17",
+        "high_f": 37,
+        "low_f": 21,
+        "high_c": 2,
+        "low_c": -7,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-18T07:00:00Z",
+          "high_f": 25,
+          "low_f": 12,
+          "high_c": -4,
+          "low_c": -11,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-19T07:00:00Z",
+          "high_f": 39,
+          "low_f": 24,
+          "high_c": 4,
+          "low_c": -5,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-20T07:00:00Z",
+          "high_f": 33,
+          "low_f": 23,
+          "high_c": null,
+          "low_c": -5,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-18T07:00:00Z",
+        "high_f": 25,
+        "low_f": 12,
+        "high_c": -4,
+        "low_c": -11,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "1 new trail opened today",
+      "3 trails freshly groomed"
+    ],
+    "trends": [
+      "1 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Little Burn - perfect for intermediate skiers",
+      "Fresh corduroy on Lower American - great for beginners",
+      "Fresh corduroy on Lower Sawmill - great for beginners"
+    ]
+  },
+  "morningBrief": {
+    "headline": "1 New Trails Today",
+    "body": "33/193 trails spinning, 21 freshly groomed. 37° and Windy. 1 new runs just opened up. Time to explore some fresh terrain. Lift lines stayed mellow yesterday, so early laps should feel quick.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_mellow_lines",
+          "category": "lifts",
+          "priority": 50,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 2,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Fewer Crowds, More Turns"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
+  "errors": []
+}

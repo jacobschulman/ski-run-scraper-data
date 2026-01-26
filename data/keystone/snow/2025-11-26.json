@@ -1,0 +1,95 @@
+{
+  "resort": "keystone",
+  "resortName": "Keystone",
+  "date": "2025-11-26",
+  "timestamp": "2025-11-26T14:20:17.982Z",
+  "lastUpdated": "Updated November 26, 2025 at 5:42 AM MST",
+  "conditions": "Snow Groomed",
+  "snowfall": {
+    "overnight_inches": 6,
+    "overnight_cm": 15,
+    "24hour_inches": 6,
+    "24hour_cm": 15,
+    "48hour_inches": 7,
+    "48hour_cm": 17,
+    "7day_inches": 9,
+    "7day_cm": 22,
+    "season_total_inches": 26,
+    "season_total_cm": 66
+  },
+  "baseDepth": {
+    "inches": 18,
+    "cm": 45
+  },
+  "forecast": {
+    "locations": [
+      {
+        "name": "Unknown",
+        "elevation": null,
+        "today": {
+          "high_f": 31,
+          "high_c": -1,
+          "low_f": 15,
+          "low_c": -10,
+          "description": "Mostly Cloudy",
+          "wind": "W",
+          "wind_speed": 8.1,
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0
+        },
+        "forecast_days": [
+          {
+            "date": "2025-11-26T07:00:00Z",
+            "high_f": 31,
+            "high_c": -1,
+            "low_f": 15,
+            "low_c": -10,
+            "description": "Mostly Cloudy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2025-11-27T07:00:00Z",
+            "high_f": 39,
+            "high_c": 4,
+            "low_f": 19,
+            "low_c": -8,
+            "description": "Clear",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2025-11-28T07:00:00Z",
+            "high_f": 39,
+            "high_c": 4,
+            "low_f": 22,
+            "low_c": -6,
+            "description": "Mostly Clear",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 1
+          },
+          {
+            "date": "2025-11-29T07:00:00Z",
+            "high_f": 22,
+            "high_c": -6,
+            "low_f": 12,
+            "low_c": -11,
+            "description": "Mostly Cloudy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2025-11-30T07:00:00Z",
+            "high_f": 22,
+            "high_c": -6,
+            "low_f": 12,
+            "low_c": -11,
+            "description": "Cloudy",
+            "snowfall_day_inches": 1,
+            "snowfall_night_inches": 1
+          }
+        ]
+      }
+    ]
+  }
+}

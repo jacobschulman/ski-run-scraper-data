@@ -1,0 +1,151 @@
+{
+  "resort": "snowbird",
+  "resortName": "Snowbird",
+  "date": "2025-12-12",
+  "generated": "2025-12-13T06:24:02.925Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 41,
+          "yesterday": 41,
+          "delta": 0
+        },
+        "groomedTrails": {
+          "today": 8,
+          "yesterday": 8,
+          "delta": 0
+        },
+        "totalTrails": 200
+      },
+      "newlyOpened": [],
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-12",
+        "high_f": null,
+        "low_f": 31,
+        "high_c": null,
+        "low_c": -1,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-13",
+          "high_f": 38,
+          "low_f": 37,
+          "high_c": 3,
+          "low_c": 3,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-14",
+          "high_f": 38,
+          "low_f": 35,
+          "high_c": 4,
+          "low_c": 2,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-15",
+          "high_f": 37,
+          "low_f": 34,
+          "high_c": 3,
+          "low_c": 1,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-13",
+        "high_f": 38,
+        "low_f": 37,
+        "high_c": 3,
+        "low_c": 3,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false
+    },
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
+  },
+  "morningBrief": {
+    "headline": "Friday: Ready for the Weekend",
+    "body": "41/200 trails spinning, 8 freshly groomed. null° and Clear. 41 of 200 trails are open with 8 groomed. Clear with a high of null°F.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "time_weekend_kickoff",
+          "category": "time",
+          "priority": 65,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "fallback_body",
+          "category": "weather",
+          "priority": 5,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "weekend_kickoff",
+        "variationIndex": 2,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "The Weekend Starts Now"
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
+  "errors": []
+}

@@ -1,0 +1,258 @@
+{
+  "resort": "beavercreek",
+  "resortName": "Beaver Creek",
+  "date": "2025-12-27",
+  "generated": "2025-12-27T12:35:50.525Z",
+  "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 32,
+      "season_total_cm": 81,
+      "conditions": {
+        "today": "Snow Groomed",
+        "yesterday": "Snow Groomed"
+      }
+    },
+    "terrain": {
+      "stats": {
+        "openTrails": {
+          "today": 19,
+          "yesterday": 16,
+          "delta": 3
+        },
+        "groomedTrails": {
+          "today": 19,
+          "yesterday": 16,
+          "delta": 3
+        },
+        "totalTrails": 183
+      },
+      "newlyOpened": [
+        {
+          "name": "Golden Eagle Connector",
+          "difficulty": "Black",
+          "area": "Beaver Creek Lower"
+        },
+        {
+          "name": "Middle Golden Eagle",
+          "difficulty": "DoubleBlack",
+          "area": "Birds of Prey"
+        },
+        {
+          "name": "BC Expressway - Upper",
+          "difficulty": "Green",
+          "area": "Larkspur"
+        },
+        {
+          "name": "Larkspur - Lower",
+          "difficulty": "Blue",
+          "area": "Larkspur"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Gosawk Connector",
+          "difficulty": "Black",
+          "area": "Beaver Creek Upper"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Golden Eagle Connector",
+          "difficulty": "Black",
+          "area": "Beaver Creek Lower"
+        },
+        {
+          "name": "Middle Golden Eagle",
+          "difficulty": "DoubleBlack",
+          "area": "Birds of Prey"
+        },
+        {
+          "name": "BC Expressway - Upper",
+          "difficulty": "Green",
+          "area": "Larkspur"
+        },
+        {
+          "name": "Larkspur - Lower",
+          "difficulty": "Blue",
+          "area": "Larkspur"
+        }
+      ],
+      "ungroomed": []
+    },
+    "lifts": {
+      "available": true,
+      "yesterday": {
+        "date": "2025-12-26",
+        "avgWaitTime": 2.8,
+        "maxWaitTime": 13,
+        "totalLiftsTracked": 25,
+        "busiest": [
+          {
+            "name": "Haymeadow Express",
+            "avgWait": 4.2,
+            "peakWait": 7,
+            "type": "Gondola",
+            "mountain": "Beaver Creek Lower"
+          },
+          {
+            "name": "Upper BC Mtn Express",
+            "avgWait": 4.2,
+            "peakWait": 13,
+            "type": "Quad",
+            "mountain": "Bachelor Gulch"
+          },
+          {
+            "name": "Centennial Express",
+            "avgWait": 3.3,
+            "peakWait": 7,
+            "type": "Gondola",
+            "mountain": "Beaver Creek Lower"
+          },
+          {
+            "name": "Bachelor Gulch Express",
+            "avgWait": 2.8,
+            "peakWait": 5,
+            "type": "Quad",
+            "mountain": "Bachelor Gulch"
+          },
+          {
+            "name": "Lower BC Mtn Express",
+            "avgWait": 2.7,
+            "peakWait": 9,
+            "type": "Quad",
+            "mountain": "Bachelor Gulch"
+          }
+        ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2025-12-27",
+        "high_f": 37,
+        "low_f": 24,
+        "high_c": 3,
+        "low_c": -5,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2025-12-28T07:00:00Z",
+          "high_f": 23,
+          "low_f": 6,
+          "high_c": -5,
+          "low_c": -15,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-29T07:00:00Z",
+          "high_f": 28,
+          "low_f": 3,
+          "high_c": -3,
+          "low_c": -16,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2025-12-30T07:00:00Z",
+          "high_f": 37,
+          "low_f": 12,
+          "high_c": 2,
+          "low_c": -11,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2025-12-28T07:00:00Z",
+        "high_f": 23,
+        "low_f": 6,
+        "high_c": -5,
+        "low_c": -15,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
+    }
+  },
+  "computedInsights": {
+    "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false,
+      "highLiftDemand": false
+    },
+    "alerts": [
+      "4 new trails opened today",
+      "4 trails freshly groomed"
+    ],
+    "trends": [
+      "3 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Golden Eagle Connector - challenging for advanced skiers",
+      "Fresh corduroy on Middle Golden Eagle - expert terrain only",
+      "Fresh corduroy on BC Expressway - Upper - great for beginners"
+    ]
+  },
+  "morningBrief": {
+    "headline": "Terrain is Expanding",
+    "body": "The rundown: 19 trails open, 19 groomed. Cloudy with temps around 37°. The ski patrol has been busy—4 additional trails are now yours to enjoy. Lift lines stayed mellow yesterday, so early laps should feel quick.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_expansion",
+          "category": "terrain",
+          "priority": 85,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_mellow_lines",
+          "category": "lifts",
+          "priority": 50,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "terrain_expansion",
+        "variationIndex": 0,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "{newTrailsCount} New {NewTrailWord} Today"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
+  "errors": []
+}

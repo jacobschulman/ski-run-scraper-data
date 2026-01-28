@@ -2,7 +2,7 @@
   "resort": "brandywine",
   "resortName": "Brandywine",
   "date": "2026-01-28",
-  "generated": "2026-01-28T19:37:14.757Z",
+  "generated": "2026-01-28T18:47:29.058Z",
   "rawData": {
     "snow": {
       "overnight_inches": 1,
@@ -173,7 +173,7 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Waiting for Opening Day",
+    "headline": "Not Open Yet",
     "body": "Not open for the season yet. Current conditions: Partly Cloudy.",
     "debug": {
       "firedRules": [
@@ -196,7 +196,7 @@
         "variationIndex": 0,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Not Open Yet"
+        "previousHeadline": "Waiting for Opening Day"
       },
       "dayOfWeek": "Wednesday"
     }

@@ -2,7 +2,7 @@
   "resort": "brandywine",
   "resortName": "Brandywine",
   "date": "2026-01-28",
-  "generated": "2026-01-28T20:40:31.076Z",
+  "generated": "2026-01-28T19:37:14.757Z",
   "rawData": {
     "snow": {
       "overnight_inches": 1,
@@ -23,9 +23,9 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 11,
+          "today": 0,
           "yesterday": 11,
-          "delta": 0
+          "delta": -11
         },
         "groomedTrails": {
           "today": 0,
@@ -35,7 +35,63 @@
         "totalTrails": 11
       },
       "newlyOpened": [],
-      "newlyClosed": [],
+      "newlyClosed": [
+        {
+          "name": "Champagne",
+          "difficulty": "Black",
+          "area": "Brandywine"
+        },
+        {
+          "name": "Down Draft",
+          "difficulty": "Blue",
+          "area": "Brandywine"
+        },
+        {
+          "name": "Easy Rider",
+          "difficulty": "Green",
+          "area": "Brandywine"
+        },
+        {
+          "name": "Frosty",
+          "difficulty": "Green",
+          "area": "Brandywine"
+        },
+        {
+          "name": "Grizzly",
+          "difficulty": "Black",
+          "area": "Brandywine"
+        },
+        {
+          "name": "J's Way",
+          "difficulty": "Green",
+          "area": "Brandywine"
+        },
+        {
+          "name": "Outer Limits",
+          "difficulty": "Blue",
+          "area": "Brandywine"
+        },
+        {
+          "name": "Progression Park",
+          "difficulty": "TerrainPark",
+          "area": "Brandywine"
+        },
+        {
+          "name": "Regulator Johnston",
+          "difficulty": "Black",
+          "area": "Brandywine"
+        },
+        {
+          "name": "Shredder",
+          "difficulty": "Blue",
+          "area": "Brandywine"
+        },
+        {
+          "name": "The Park",
+          "difficulty": "TerrainPark",
+          "area": "Brandywine"
+        }
+      ],
       "newlyGroomed": [],
       "ungroomed": []
     },
@@ -117,42 +173,30 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "A Proper Refresh",
-    "body": "3\" of new snow. Not a powder day, but definitely an upgrade. Peak terrain status: almost everything is available today. Cold day ahead: 13° high. Dress warmly.",
+    "headline": "Waiting for Opening Day",
+    "body": "Not open for the season yet. Current conditions: Partly Cloudy.",
     "debug": {
       "firedRules": [
         {
-          "id": "snow_solid",
-          "category": "snow",
-          "priority": 82,
+          "id": "resort_closed",
+          "category": "terrain",
+          "priority": 95,
           "usedFor": "headline"
         },
         {
-          "id": "snow_solid",
-          "category": "snow",
-          "priority": 82,
-          "usedFor": "body"
-        },
-        {
-          "id": "percent_full",
+          "id": "resort_closed",
           "category": "terrain",
-          "priority": 45,
-          "usedFor": "body"
-        },
-        {
-          "id": "temp_cold",
-          "category": "weather",
-          "priority": 55,
+          "priority": 95,
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 5,
+      "totalRulesFired": 4,
       "headlineSelection": {
-        "condition": "snow_solid",
-        "variationIndex": 5,
+        "condition": "resort_closed",
+        "variationIndex": 0,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Waiting for Opening Day"
+        "previousHeadline": "Not Open Yet"
       },
       "dayOfWeek": "Wednesday"
     }

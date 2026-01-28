@@ -2,7 +2,7 @@
   "resort": "palisades",
   "resortName": "Palisades Tahoe",
   "date": "2026-01-28",
-  "generated": "2026-01-28T20:40:37.904Z",
+  "generated": "2026-01-28T19:37:21.888Z",
   "rawData": {
     "snow": {
       "overnight_inches": 2,
@@ -23,9 +23,9 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 203,
+          "today": 200,
           "yesterday": 184,
-          "delta": 19
+          "delta": 16
         },
         "groomedTrails": {
           "today": 78,
@@ -131,7 +131,23 @@
           "area": "Summit Peak"
         }
       ],
-      "newlyClosed": [],
+      "newlyClosed": [
+        {
+          "name": "Gentian Gully",
+          "difficulty": "Very Difficult",
+          "area": "Scott/Lakeview Peak"
+        },
+        {
+          "name": "Promised Land",
+          "difficulty": "Very Difficult",
+          "area": "Scott/Lakeview Peak"
+        },
+        {
+          "name": "Subway Cirque",
+          "difficulty": "Very Difficult",
+          "area": "Scott/Lakeview Peak"
+        }
+      ],
       "newlyGroomed": [],
       "ungroomed": [
         {
@@ -223,12 +239,12 @@
       "19 new trails opened today"
     ],
     "trends": [
-      "19 more trails open than yesterday"
+      "16 more trails open than yesterday"
     ],
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Big Expansion Today",
+    "headline": "Major Terrain Drop: 19 Runs",
     "body": "Overnight dusting of 2\" means the hardpack got a makeover. Big expansion: 19 new trails opened up. More room to roam.",
     "debug": {
       "firedRules": [
@@ -257,7 +273,7 @@
         "variationIndex": 0,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Major Terrain Drop: {newTrailsCount} Runs"
+        "previousHeadline": "Significant Terrain Release"
       },
       "dayOfWeek": "Wednesday"
     }

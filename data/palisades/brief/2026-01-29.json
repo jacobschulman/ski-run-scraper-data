@@ -2,7 +2,7 @@
   "resort": "palisades",
   "resortName": "Palisades Tahoe",
   "date": "2026-01-29",
-  "generated": "2026-01-29T19:36:03.414Z",
+  "generated": "2026-01-29T18:59:43.670Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -226,7 +226,7 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Big Expansion Today",
+    "headline": "20 New Options",
     "body": "The rundown: 205 trails open, 77 groomed. Mostly Cloudy with temps around 43°. 20 additional trails are now available. Lots of new ground to cover.",
     "debug": {
       "firedRules": [
@@ -252,10 +252,10 @@
       "totalRulesFired": 3,
       "headlineSelection": {
         "condition": "terrain_major",
-        "variationIndex": 1,
+        "variationIndex": 3,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "{newTrailsCount} New Options"
+        "previousHeadline": "Fewer Crowds, More Turns"
       },
       "dayOfWeek": "Thursday"
     }

@@ -2,7 +2,7 @@
   "resort": "blue",
   "resortName": "Blue Mountain",
   "date": "2026-01-29",
-  "generated": "2026-01-29T05:52:00.386Z",
+  "generated": "2026-01-29T07:44:43.209Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -153,7 +153,7 @@
         "variationIndex": 0,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "The Mountain Got a Touch-Up"
+        "previousHeadline": "A Little Sugar on Top"
       },
       "dayOfWeek": "Thursday"
     }

@@ -10,19 +10,19 @@
         "headline": "Overnight Refresh"
       },
       {
-        "date": "2026-01-28",
+        "date": "2026-01-29",
         "condition": "fresh_coat",
         "headline": "The Mountain Got a Touch-Up"
       },
       {
-        "date": "2026-01-28",
-        "condition": "cold_snap",
-        "headline": "Layer Up, Ski Hard"
+        "date": "2026-01-29",
+        "condition": "fresh_coat",
+        "headline": "Overnight Refresh"
       },
       {
         "date": "2026-01-28",
-        "condition": "cold_snap",
-        "headline": "Crisp Conditions"
+        "condition": "fresh_coat",
+        "headline": "The Mountain Got a Touch-Up"
       },
       {
         "date": "2026-01-28",
@@ -68,13 +68,13 @@
       },
       {
         "date": "2026-01-28",
-        "condition": "terrain_major",
-        "headline": "Big Expansion Today"
+        "condition": "fresh_coat",
+        "headline": "Fresh Coat on the Mountain"
       },
       {
         "date": "2026-01-28",
-        "condition": "terrain_major",
-        "headline": "Major Terrain Drop: {newTrailsCount} Runs"
+        "condition": "fresh_coat",
+        "headline": "A Little Sugar on Top"
       },
       {
         "date": "2026-01-28",
@@ -84,18 +84,13 @@
     ]
   },
   "deervalley": {
-    "lastHeadline": "Smooth Sailing Today",
+    "lastHeadline": "{groomedCount} {GroomedRunWord} Groomed Overnight",
     "lastCondition": "grooming_highlight",
     "lastDate": "2026-01-28",
     "history": [
       {
         "date": "2026-01-28",
         "condition": "grooming_highlight",
-        "headline": "Smooth Sailing Today"
-      },
-      {
-        "date": "2026-01-28",
-        "condition": "grooming_highlight",
         "headline": "{groomedCount} {GroomedRunWord} Groomed Overnight"
       },
       {
@@ -122,22 +117,22 @@
         "date": "2026-01-28",
         "condition": "grooming_highlight",
         "headline": "Smooth Sailing Today"
+      },
+      {
+        "date": "2026-01-28",
+        "condition": "grooming_highlight",
+        "headline": "{groomedCount} {GroomedRunWord} Groomed Overnight"
       }
     ]
   },
   "solitude": {
-    "lastHeadline": "Midweek Bliss",
+    "lastHeadline": "Quiet Days on the Hill",
     "lastCondition": "midweek_mellow",
     "lastDate": "2026-01-28",
     "history": [
       {
         "date": "2026-01-28",
         "condition": "midweek_mellow",
-        "headline": "Midweek Bliss"
-      },
-      {
-        "date": "2026-01-28",
-        "condition": "midweek_mellow",
         "headline": "Quiet Days on the Hill"
       },
       {
@@ -164,14 +159,24 @@
         "date": "2026-01-28",
         "condition": "midweek_mellow",
         "headline": "Midweek Bliss"
+      },
+      {
+        "date": "2026-01-28",
+        "condition": "midweek_mellow",
+        "headline": "Quiet Days on the Hill"
       }
     ]
   },
   "steamboat": {
-    "lastHeadline": "Blustery and Snowy",
+    "lastHeadline": "Stormy Conditions",
     "lastCondition": "storm_wind",
     "lastDate": "2026-01-28",
     "history": [
+      {
+        "date": "2026-01-28",
+        "condition": "storm_wind",
+        "headline": "Stormy Conditions"
+      },
       {
         "date": "2026-01-28",
         "condition": "storm_wind",
@@ -201,11 +206,6 @@
         "date": "2026-01-28",
         "condition": "holding_strong",
         "headline": "Good Snow Persisting"
-      },
-      {
-        "date": "2026-01-28",
-        "condition": "holding_strong",
-        "headline": "The Base Is Holding Up"
       }
     ]
   },
@@ -231,13 +231,13 @@
       },
       {
         "date": "2026-01-28",
-        "condition": "terrain_expansion",
-        "headline": "New Runs Now Open"
+        "condition": "midweek_mellow",
+        "headline": "Beat the Weekend Rush"
       },
       {
         "date": "2026-01-28",
-        "condition": "terrain_expansion",
-        "headline": "{newTrailsCount} New {NewTrailWord} Today"
+        "condition": "midweek_mellow",
+        "headline": "Fewer Crowds, More Turns"
       },
       {
         "date": "2026-01-28",
@@ -346,19 +346,19 @@
         "headline": "Overnight Refresh"
       },
       {
+        "date": "2026-01-29",
+        "condition": "fresh_coat",
+        "headline": "The Mountain Got a Touch-Up"
+      },
+      {
+        "date": "2026-01-29",
+        "condition": "fresh_coat",
+        "headline": "Overnight Refresh"
+      },
+      {
         "date": "2026-01-28",
         "condition": "fresh_coat",
         "headline": "Fresh Layer in Place"
-      },
-      {
-        "date": "2026-01-28",
-        "condition": "cold_snap",
-        "headline": "It's Gonna Be a Cold One"
-      },
-      {
-        "date": "2026-01-28",
-        "condition": "cold_snap",
-        "headline": "Layer Up, Ski Hard"
       },
       {
         "date": "2026-01-28",
@@ -388,19 +388,19 @@
         "headline": "A Little Sugar on Top"
       },
       {
+        "date": "2026-01-29",
+        "condition": "fresh_coat",
+        "headline": "{snow24h}\" Freshened Things Up"
+      },
+      {
+        "date": "2026-01-29",
+        "condition": "fresh_coat",
+        "headline": "A Little Sugar on Top"
+      },
+      {
         "date": "2026-01-28",
         "condition": "fresh_coat",
         "headline": "The Mountain Got a Touch-Up"
-      },
-      {
-        "date": "2026-01-28",
-        "condition": "cold_snap",
-        "headline": "Arctic Air in Place"
-      },
-      {
-        "date": "2026-01-28",
-        "condition": "cold_snap",
-        "headline": "BRRRRRRRRR"
       },
       {
         "date": "2026-01-28",
@@ -430,14 +430,14 @@
         "headline": "Fresh Coat on the Mountain"
       },
       {
-        "date": "2026-01-28",
+        "date": "2026-01-29",
         "condition": "fresh_coat",
-        "headline": "The Mountain Got a Touch-Up"
+        "headline": "A Little Sugar on Top"
       },
       {
-        "date": "2026-01-28",
+        "date": "2026-01-29",
         "condition": "fresh_coat",
-        "headline": "Fresh Layer in Place"
+        "headline": "Fresh Coat on the Mountain"
       },
       {
         "date": "2026-01-28",
@@ -484,17 +484,17 @@
       {
         "date": "2026-01-28",
         "condition": "powder_alert",
+        "headline": "Deep Day at {resortName}"
+      },
+      {
+        "date": "2026-01-28",
+        "condition": "powder_alert",
+        "headline": "{snow24h}\" of Fresh Overnight"
+      },
+      {
+        "date": "2026-01-28",
+        "condition": "powder_alert",
         "headline": "Powder Day Alert"
-      },
-      {
-        "date": "2026-01-28",
-        "condition": "fresh_coat",
-        "headline": "A Little Sugar on Top"
-      },
-      {
-        "date": "2026-01-28",
-        "condition": "fresh_coat",
-        "headline": "Fresh Coat on the Mountain"
       },
       {
         "date": "2026-01-28",
@@ -516,32 +516,32 @@
       {
         "date": "2026-01-29",
         "condition": "holding_strong",
+        "headline": "Recent Snow Still Skiing Well"
+      },
+      {
+        "date": "2026-01-29",
+        "condition": "holding_strong",
+        "headline": "Base Conditions Solid"
+      },
+      {
+        "date": "2026-01-29",
+        "condition": "holding_strong",
+        "headline": "Recent Snow Still Skiing Well"
+      },
+      {
+        "date": "2026-01-29",
+        "condition": "holding_strong",
+        "headline": "Base Conditions Solid"
+      },
+      {
+        "date": "2026-01-29",
+        "condition": "holding_strong",
         "headline": "Still Soft Out There"
       },
       {
         "date": "2026-01-28",
         "condition": "grooming_highlight",
         "headline": "Groomers Were Busy"
-      },
-      {
-        "date": "2026-01-28",
-        "condition": "grooming_highlight",
-        "headline": "{groomedCount} {GroomedRunWord} Groomed Overnight"
-      },
-      {
-        "date": "2026-01-28",
-        "condition": "cold_arctic",
-        "headline": "Extreme Cold Warning"
-      },
-      {
-        "date": "2026-01-28",
-        "condition": "cold_arctic",
-        "headline": "Sub-Zero Day"
-      },
-      {
-        "date": "2026-01-28",
-        "condition": "cold_arctic",
-        "headline": "Extreme Cold Warning"
       }
     ]
   },
@@ -561,24 +561,24 @@
         "headline": "Still Soft Out There"
       },
       {
-        "date": "2026-01-28",
-        "condition": "terrain_expansion",
-        "headline": "Fresh Terrain Unlocked"
+        "date": "2026-01-29",
+        "condition": "holding_strong",
+        "headline": "The Base Is Holding Up"
       },
       {
-        "date": "2026-01-28",
-        "condition": "terrain_expansion",
-        "headline": "More Mountain to Explore"
+        "date": "2026-01-29",
+        "condition": "holding_strong",
+        "headline": "Still Soft Out There"
       },
       {
-        "date": "2026-01-28",
-        "condition": "terrain_expansion",
-        "headline": "Fresh Terrain Unlocked"
+        "date": "2026-01-29",
+        "condition": "holding_strong",
+        "headline": "The Base Is Holding Up"
       },
       {
-        "date": "2026-01-28",
-        "condition": "terrain_expansion",
-        "headline": "More Mountain to Explore"
+        "date": "2026-01-29",
+        "condition": "holding_strong",
+        "headline": "Still Soft Out There"
       },
       {
         "date": "2026-01-28",
@@ -603,29 +603,29 @@
         "headline": "Good Snow Persisting"
       },
       {
+        "date": "2026-01-29",
+        "condition": "holding_strong",
+        "headline": "Recent Snow Still Skiing Well"
+      },
+      {
+        "date": "2026-01-29",
+        "condition": "holding_strong",
+        "headline": "Good Snow Persisting"
+      },
+      {
+        "date": "2026-01-29",
+        "condition": "holding_strong",
+        "headline": "Recent Snow Still Skiing Well"
+      },
+      {
+        "date": "2026-01-29",
+        "condition": "holding_strong",
+        "headline": "Good Snow Persisting"
+      },
+      {
         "date": "2026-01-28",
         "condition": "holding_strong",
         "headline": "Base Conditions Solid"
-      },
-      {
-        "date": "2026-01-28",
-        "condition": "holding_strong",
-        "headline": "Soft Snow Holding Strong"
-      },
-      {
-        "date": "2026-01-28",
-        "condition": "cold_snap",
-        "headline": "Arctic Air in Place"
-      },
-      {
-        "date": "2026-01-28",
-        "condition": "cold_snap",
-        "headline": "Crisp Conditions"
-      },
-      {
-        "date": "2026-01-28",
-        "condition": "cold_snap",
-        "headline": "Arctic Air in Place"
       }
     ]
   },
@@ -771,29 +771,29 @@
         "headline": "Fresh Coat on the Mountain"
       },
       {
-        "date": "2026-01-28",
+        "date": "2026-01-29",
         "condition": "fresh_coat",
         "headline": "A Little Sugar on Top"
       },
       {
+        "date": "2026-01-29",
+        "condition": "fresh_coat",
+        "headline": "Fresh Coat on the Mountain"
+      },
+      {
+        "date": "2026-01-29",
+        "condition": "fresh_coat",
+        "headline": "A Little Sugar on Top"
+      },
+      {
+        "date": "2026-01-29",
+        "condition": "fresh_coat",
+        "headline": "Fresh Coat on the Mountain"
+      },
+      {
         "date": "2026-01-28",
         "condition": "fresh_coat",
-        "headline": "The Mountain Got a Touch-Up"
-      },
-      {
-        "date": "2026-01-28",
-        "condition": "cold_snap",
-        "headline": "It's Gonna Be a Cold One"
-      },
-      {
-        "date": "2026-01-28",
-        "condition": "cold_snap",
-        "headline": "Layer Up, Ski Hard"
-      },
-      {
-        "date": "2026-01-28",
-        "condition": "cold_snap",
-        "headline": "It's Gonna Be a Cold One"
+        "headline": "A Little Sugar on Top"
       }
     ]
   },
@@ -966,19 +966,14 @@
     ]
   },
   "banff": {
-    "lastHeadline": "Beat the Weekend Rush",
+    "lastHeadline": "Midweek Bliss",
     "lastCondition": "midweek_mellow",
-    "lastDate": "2026-01-28",
+    "lastDate": "2026-01-29",
     "history": [
       {
-        "date": "2026-01-28",
+        "date": "2026-01-29",
         "condition": "midweek_mellow",
-        "headline": "Beat the Weekend Rush"
-      },
-      {
-        "date": "2026-01-28",
-        "condition": "midweek_mellow",
-        "headline": "Fewer Crowds, More Turns"
+        "headline": "Midweek Bliss"
       },
       {
         "date": "2026-01-28",
@@ -1004,23 +999,23 @@
         "date": "2026-01-28",
         "condition": "midweek_mellow",
         "headline": "Beat the Weekend Rush"
+      },
+      {
+        "date": "2026-01-28",
+        "condition": "midweek_mellow",
+        "headline": "Fewer Crowds, More Turns"
       }
     ]
   },
   "lakelouise": {
-    "lastHeadline": "Transition Day",
+    "lastHeadline": "Mixed Precip Today",
     "lastCondition": "weather_mixed",
-    "lastDate": "2026-01-28",
+    "lastDate": "2026-01-29",
     "history": [
       {
-        "date": "2026-01-28",
+        "date": "2026-01-29",
         "condition": "weather_mixed",
-        "headline": "Transition Day"
-      },
-      {
-        "date": "2026-01-28",
-        "condition": "weather_mixed",
-        "headline": "Mother Nature Can't Decide"
+        "headline": "Mixed Precip Today"
       },
       {
         "date": "2026-01-28",
@@ -1046,23 +1041,23 @@
         "date": "2026-01-28",
         "condition": "weather_mixed",
         "headline": "Transition Day"
+      },
+      {
+        "date": "2026-01-28",
+        "condition": "weather_mixed",
+        "headline": "Mother Nature Can't Decide"
       }
     ]
   },
   "norquay": {
-    "lastHeadline": "Terrain Expanding",
-    "lastCondition": "terrain_expansion",
-    "lastDate": "2026-01-28",
+    "lastHeadline": "Midweek Mountain Report",
+    "lastCondition": "midweek_mellow",
+    "lastDate": "2026-01-29",
     "history": [
       {
-        "date": "2026-01-28",
-        "condition": "terrain_expansion",
-        "headline": "Terrain Expanding"
-      },
-      {
-        "date": "2026-01-28",
-        "condition": "terrain_expansion",
-        "headline": "New Runs Now Open"
+        "date": "2026-01-29",
+        "condition": "midweek_mellow",
+        "headline": "Midweek Mountain Report"
       },
       {
         "date": "2026-01-28",
@@ -1088,6 +1083,11 @@
         "date": "2026-01-28",
         "condition": "terrain_expansion",
         "headline": "Terrain Expanding"
+      },
+      {
+        "date": "2026-01-28",
+        "condition": "terrain_expansion",
+        "headline": "New Runs Now Open"
       }
     ]
   },

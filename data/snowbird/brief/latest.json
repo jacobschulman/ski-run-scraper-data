@@ -2,7 +2,7 @@
   "resort": "snowbird",
   "resortName": "Snowbird",
   "date": "2026-01-29",
-  "generated": "2026-01-29T17:44:06.333Z",
+  "generated": "2026-01-29T15:43:59.116Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,9 +23,9 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 186,
+          "today": 182,
           "yesterday": 182,
-          "delta": 4
+          "delta": 0
         },
         "groomedTrails": {
           "today": 49,
@@ -34,28 +34,7 @@
         },
         "totalTrails": 200
       },
-      "newlyOpened": [
-        {
-          "name": "Temptation Chutes",
-          "difficulty": "Double Black",
-          "area": "Gad Valley"
-        },
-        {
-          "name": "Boundary Bowl",
-          "difficulty": "Double Black",
-          "area": "Gad Valley"
-        },
-        {
-          "name": "Chamonix Chutes",
-          "difficulty": "Double Black",
-          "area": "Mineral Basin"
-        },
-        {
-          "name": "Gun Towers",
-          "difficulty": "Double Black",
-          "area": "Peruvian Gulch"
-        }
-      ],
+      "newlyOpened": [],
       "newlyClosed": [],
       "newlyGroomed": [],
       "ungroomed": []
@@ -93,14 +72,14 @@
           "date": "2026-01-31",
           "high_f": 31,
           "low_f": 31,
-          "description": "Partly Cloudy",
+          "description": "Mostly Sunny",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
           "snowfall_expected": 0
         },
         {
           "date": "2026-02-01",
-          "high_f": 37,
+          "high_f": 36,
           "low_f": 30,
           "description": "Mostly Cloudy",
           "snowfall_day_inches": 0,
@@ -123,21 +102,17 @@
     "flags": {
       "hasFreshSnow": false,
       "isPowderDay": false,
-      "hasNewTrails": true,
+      "hasNewTrails": false,
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [
-      "4 new trails opened today"
-    ],
-    "trends": [
-      "4 more trails open than yesterday"
-    ],
+    "alerts": [],
+    "trends": [],
     "recommendations": []
   },
   "morningBrief": {
     "headline": "Picture-Perfect Conditions",
-    "body": "The rundown: 186 trails open, 49 groomed. Mostly Sunny with temps around 19°. Ski patrol opened 4 additional trails. A few more choices today. Picture-perfect day: sunny skies, 19° temps, not a cloud to block the view.",
+    "body": "The rundown: 182 trails open, 49 groomed. Mostly Sunny with temps around 19°. Picture-perfect day: sunny skies, 19° temps, not a cloud to block the view.",
     "debug": {
       "firedRules": [
         {
@@ -150,12 +125,6 @@
           "id": "fallback_headline",
           "category": "snow",
           "priority": 10,
-          "usedFor": "body"
-        },
-        {
-          "id": "terrain_few",
-          "category": "terrain",
-          "priority": 60,
           "usedFor": "body"
         },
         {

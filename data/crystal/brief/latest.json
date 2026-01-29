@@ -2,7 +2,7 @@
   "resort": "crystal",
   "resortName": "Crystal Mountain",
   "date": "2026-01-29",
-  "generated": "2026-01-29T17:44:06.240Z",
+  "generated": "2026-01-29T15:43:59.034Z",
   "rawData": {
     "snow": {
       "overnight_inches": 2,
@@ -51,21 +51,32 @@
     },
     "forecast": {
       "today": {
-        "date": "2026-01-29",
-        "high_f": 34,
-        "low_f": 33,
-        "high_c": 1,
-        "low_c": 1,
-        "description": "Rain Snow",
-        "snowfall_day_inches": 1,
-        "snowfall_night_inches": 0
+        "date": "2026-01-28",
+        "high_f": null,
+        "low_f": 30,
+        "high_c": null,
+        "low_c": -1,
+        "description": "Snow",
+        "snowfall_day_inches": 4,
+        "snowfall_night_inches": 2
       },
       "outlook": [
         {
+          "date": "2026-01-29",
+          "high_f": 35,
+          "low_f": 33,
+          "high_c": 1,
+          "low_c": 1,
+          "description": "Rain Snow",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        },
+        {
           "date": "2026-01-30",
-          "high_f": 36,
+          "high_f": 37,
           "low_f": 35,
-          "high_c": 2,
+          "high_c": 3,
           "low_c": 2,
           "description": "Rain Snow",
           "snowfall_day_inches": 0,
@@ -75,20 +86,9 @@
         {
           "date": "2026-01-31",
           "high_f": 42,
-          "low_f": 38,
+          "low_f": 37,
           "high_c": 6,
           "low_c": 3,
-          "description": "Cloudy",
-          "snowfall_day_inches": 0,
-          "snowfall_night_inches": 0,
-          "snowfall_expected": 0
-        },
-        {
-          "date": "2026-02-01",
-          "high_f": 37,
-          "low_f": 28,
-          "high_c": 3,
-          "low_c": -2,
           "description": "Cloudy",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
@@ -96,15 +96,15 @@
         }
       ],
       "tomorrow": {
-        "date": "2026-01-30",
-        "high_f": 36,
-        "low_f": 35,
-        "high_c": 2,
-        "low_c": 2,
+        "date": "2026-01-29",
+        "high_f": 35,
+        "low_f": 33,
+        "high_c": 1,
+        "low_c": 1,
         "description": "Rain Snow",
-        "snowfall_day_inches": 0,
+        "snowfall_day_inches": 1,
         "snowfall_night_inches": 0,
-        "snowfall_expected": 0
+        "snowfall_expected": 1
       }
     }
   },
@@ -119,18 +119,20 @@
     "alerts": [
       "2\" fresh snow overnight"
     ],
-    "trends": [],
+    "trends": [
+      "1\" snow expected Thursday"
+    ],
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Mother Nature Can't Decide",
-    "body": "The mountain got a nice 2\" touch-up. Expect improved conditions. It's going to be a mixed bag today. Expect rain below and snow above.",
+    "headline": "Overnight Refresh",
+    "body": "The mountain got a nice 2\" touch-up. Expect improved conditions. Light snow possible in the forecast.",
     "debug": {
       "firedRules": [
         {
-          "id": "weather_mixed",
-          "category": "weather",
-          "priority": 195,
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
           "usedFor": "headline"
         },
         {
@@ -140,19 +142,19 @@
           "usedFor": "body"
         },
         {
-          "id": "weather_mixed",
+          "id": "forecast_flurries",
           "category": "weather",
-          "priority": 195,
+          "priority": 30,
           "usedFor": "body"
         }
       ],
       "totalRulesFired": 4,
       "headlineSelection": {
-        "condition": "weather_mixed",
+        "condition": "fresh_coat",
         "variationIndex": 3,
-        "totalVariations": 5,
+        "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Overnight Refresh"
+        "previousHeadline": "The Mountain Got a Touch-Up"
       },
       "dayOfWeek": "Thursday"
     }

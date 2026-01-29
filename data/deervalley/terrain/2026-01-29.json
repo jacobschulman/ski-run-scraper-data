@@ -1,5 +1,5 @@
 {
-  "Date": "2026-01-29T04:33:55-0700",
+  "Date": "2026-01-29T03:43:57-0700",
   "GroomingAreas": [
     {
       "Name": "Bald Mountain",
@@ -1248,8 +1248,8 @@
           "Status": "Closed",
           "IsOpen": false,
           "Difficulty": "Easy",
-          "IsGroomed": false,
-          "GroomingStatus": null,
+          "IsGroomed": true,
+          "GroomingStatus": "Yes",
           "TrailType": "Skiing",
           "Moguls": "No",
           "Glades": "No",
@@ -1258,7 +1258,7 @@
           "SnowMaking": "No",
           "NightSkiing": "No",
           "Nordic": "No",
-          "_inspectorGrooming": "No"
+          "_inspectorGrooming": "Yes"
         },
         {
           "Name": "Short Line",
@@ -1513,8 +1513,8 @@
           "Status": "Open",
           "IsOpen": true,
           "Difficulty": "Intermediate",
-          "IsGroomed": false,
-          "GroomingStatus": null,
+          "IsGroomed": true,
+          "GroomingStatus": "Yes",
           "TrailType": "Skiing",
           "Moguls": "No",
           "Glades": "No",
@@ -1523,7 +1523,7 @@
           "SnowMaking": "No",
           "NightSkiing": "No",
           "Nordic": "No",
-          "_inspectorGrooming": "No"
+          "_inspectorGrooming": "Yes"
         },
         {
           "Name": "Hillside",
@@ -6499,7 +6499,7 @@
     "TotalOpenTrails": 108,
     "TotalTrails": 202,
     "TotalTrailsMakingSnow": 35,
-    "GroomedTrails": 64,
+    "GroomedTrails": 65,
     "TotalOpenLifts": 26,
     "TotalLifts": 31,
     "TotalOpenActivities": 35,

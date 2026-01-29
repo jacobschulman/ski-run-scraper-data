@@ -2,7 +2,7 @@
   "resort": "deervalley",
   "resortName": "Deer Valley",
   "date": "2026-01-29",
-  "generated": "2026-01-29T11:39:42.318Z",
+  "generated": "2026-01-29T10:51:34.169Z",
   "rawData": {
     "terrain": {
       "stats": {
@@ -12,9 +12,9 @@
           "delta": -2
         },
         "groomedTrails": {
-          "today": 61,
+          "today": 62,
           "yesterday": 71,
-          "delta": -10
+          "delta": -9
         },
         "totalTrails": 227
       },
@@ -33,11 +33,6 @@
       ],
       "newlyGroomed": [],
       "ungroomed": [
-        {
-          "name": "Dakota",
-          "difficulty": "Intermediate",
-          "area": "Lady Morgan"
-        },
         {
           "name": "Custer",
           "difficulty": "Easy",

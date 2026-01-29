@@ -1,8 +1,8 @@
 {
   "resort": "lakelouise",
   "resortName": "Lake Louise",
-  "date": "2026-01-29",
-  "generated": "2026-01-29T07:45:03.425Z",
+  "date": "2026-01-28",
+  "generated": "2026-01-29T06:59:16.316Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -17,7 +17,7 @@
       "season_total_cm": 593,
       "conditions": {
         "today": "Overcast",
-        "yesterday": "Overcast"
+        "yesterday": "Sunny Spells"
       }
     },
     "terrain": {
@@ -29,22 +29,69 @@
         },
         "groomedTrails": {
           "today": 36,
-          "yesterday": 36,
-          "delta": 0
+          "yesterday": 35,
+          "delta": 1
         },
         "totalTrails": 170
       },
       "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [],
-      "ungroomed": []
+      "newlyGroomed": [
+        {
+          "name": "Men's Downhill",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "Meadowlark",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "Bunchberry",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        },
+        {
+          "name": "30 Goats",
+          "difficulty": "Blue",
+          "area": "Larch"
+        },
+        {
+          "name": "Ski Out",
+          "difficulty": "Green",
+          "area": "Larch"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Wapta",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "Bearberry",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        },
+        {
+          "name": "Buffaloberry",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        },
+        {
+          "name": "Wolverine",
+          "difficulty": "Blue",
+          "area": "Larch"
+        }
+      ]
     },
     "lifts": {
       "available": false
     },
     "forecast": {
       "today": {
-        "date": "2026-01-29",
+        "date": "2026-01-28",
         "high_f": 32,
         "low_f": 32,
         "high_c": 0,
@@ -55,7 +102,7 @@
       },
       "outlook": [
         {
-          "date": "2026-01-30T07:45:03.425Z",
+          "date": "2026-01-30T06:59:16.315Z",
           "high_f": 32,
           "low_f": 32,
           "high_c": 0,
@@ -66,7 +113,7 @@
           "snowfall_expected": 0
         },
         {
-          "date": "2026-01-31T07:45:03.425Z",
+          "date": "2026-01-31T06:59:16.315Z",
           "high_f": 32,
           "low_f": 32,
           "high_c": 0,
@@ -77,7 +124,7 @@
           "snowfall_expected": 0
         },
         {
-          "date": "2026-02-01T07:45:03.425Z",
+          "date": "2026-02-01T06:59:16.315Z",
           "high_f": 32,
           "low_f": 32,
           "high_c": 0,
@@ -89,7 +136,7 @@
         }
       ],
       "tomorrow": {
-        "date": "2026-01-30T07:45:03.425Z",
+        "date": "2026-01-30T06:59:16.315Z",
         "high_f": 32,
         "low_f": 32,
         "high_c": 0,
@@ -108,13 +155,19 @@
       "hasNewTrails": false,
       "significantGroomingIncrease": false
     },
-    "alerts": [],
+    "alerts": [
+      "5 trails freshly groomed"
+    ],
     "trends": [],
-    "recommendations": []
+    "recommendations": [
+      "Fresh corduroy on Men's Downhill - challenging for advanced skiers",
+      "Fresh corduroy on Meadowlark - challenging for advanced skiers",
+      "Fresh corduroy on Bunchberry - perfect for intermediate skiers"
+    ]
   },
   "morningBrief": {
-    "headline": "Mixed Precip Today",
-    "body": "170 trails open, 36 groomed. Cloud/Sun/Mixed, high of 32°. The whole mountain is basically open. Go explore. The elevation will make all the difference today. Rain down low, snow up high.",
+    "headline": "Transition Day",
+    "body": "170 of 170 trails are open with 36 groomed. Cloud/Sun/Mixed with a high of 32°F. 5 runs freshly groomed, mostly in Front Side and Larch. Mixed precipitation expected. Rain at base, snow up top. Dress in layers.",
     "debug": {
       "firedRules": [
         {
@@ -130,9 +183,9 @@
           "usedFor": "body"
         },
         {
-          "id": "percent_full",
+          "id": "grooming_moderate",
           "category": "terrain",
-          "priority": 45,
+          "priority": 55,
           "usedFor": "body"
         },
         {
@@ -142,15 +195,15 @@
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 5,
+      "totalRulesFired": 6,
       "headlineSelection": {
         "condition": "weather_mixed",
-        "variationIndex": 0,
+        "variationIndex": 3,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Transition Day"
+        "previousHeadline": "Mother Nature Can't Decide"
       },
-      "dayOfWeek": "Thursday"
+      "dayOfWeek": "Wednesday"
     }
   },
   "errors": []

@@ -1,9 +1,25 @@
 {
   "resort": "steamboat",
   "resortName": "Steamboat",
-  "date": "2026-01-29",
-  "generated": "2026-01-29T07:44:43.182Z",
+  "date": "2026-01-28",
+  "generated": "2026-01-29T06:59:05.221Z",
   "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 12,
+      "7day_cm": 30,
+      "season_total_inches": 95,
+      "season_total_cm": 240,
+      "conditions": {
+        "today": "Packed Powder",
+        "yesterday": "Packed Powder"
+      }
+    },
     "terrain": {
       "stats": {
         "openTrails": {
@@ -13,37 +29,208 @@
         },
         "groomedTrails": {
           "today": 71,
-          "yesterday": 71,
-          "delta": 0
+          "yesterday": 67,
+          "delta": 4
         },
         "totalTrails": 193
       },
       "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [],
-      "ungroomed": []
+      "newlyGroomed": [
+        {
+          "name": "Blizzard",
+          "difficulty": "Intermediate",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Daybreak",
+          "difficulty": "Intermediate",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Kit",
+          "difficulty": "Intermediate",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Quickdraw",
+          "difficulty": "Intermediate",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Rooster",
+          "difficulty": "Intermediate",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Snooze Bar",
+          "difficulty": "Intermediate",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Sunshine Lift Line",
+          "difficulty": "Intermediate",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Velvet",
+          "difficulty": "Intermediate",
+          "area": "Steamboat"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Baby Powder",
+          "difficulty": "Intermediate",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Flintlock",
+          "difficulty": "Intermediate",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Sunset",
+          "difficulty": "Advanced Intermediate",
+          "area": "Steamboat"
+        },
+        {
+          "name": "Voo Doo",
+          "difficulty": "Advanced",
+          "area": "Steamboat"
+        }
+      ]
     },
     "lifts": {
       "available": true,
       "yesterday": {
-        "date": "2026-01-28",
+        "date": "2026-01-27",
         "avgWaitTime": 0,
         "maxWaitTime": 0,
         "totalLiftsTracked": 24,
         "busiest": []
       }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-28",
+        "high_f": null,
+        "low_f": 13,
+        "high_c": null,
+        "low_c": -11,
+        "description": "Snow Wind",
+        "snowfall_day_inches": 5,
+        "snowfall_night_inches": 3
+      },
+      "outlook": [
+        {
+          "date": "2026-01-29",
+          "high_f": 17,
+          "low_f": 13,
+          "high_c": -8,
+          "low_c": -10,
+          "description": "Snow",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2026-01-30",
+          "high_f": 19,
+          "low_f": 18,
+          "high_c": -7,
+          "low_c": -8,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-31",
+          "high_f": 26,
+          "low_f": 22,
+          "high_c": -3,
+          "low_c": -6,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-29",
+        "high_f": 17,
+        "low_f": 13,
+        "high_c": -8,
+        "low_c": -10,
+        "description": "Snow",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 1
+      }
     }
   },
   "computedInsights": {
     "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
       "hasNewTrails": false,
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [],
-    "trends": [],
-    "recommendations": []
+    "alerts": [
+      "8 trails freshly groomed"
+    ],
+    "trends": [
+      "Great week for snow - 12\" in last 7 days",
+      "1\" snow expected Thursday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Blizzard - all skill levels",
+      "Fresh corduroy on Daybreak - all skill levels",
+      "Fresh corduroy on Kit - all skill levels"
+    ]
   },
-  "morningBrief": null,
+  "morningBrief": {
+    "headline": "Stormy Conditions",
+    "body": "The snow from earlier this week is aging gracefully. Still soft, still fun. 8 runs freshly groomed, mostly in Steamboat. Active weather: snow and wind today. Visibility may be limited at times.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "weather_storm_wind",
+          "category": "weather",
+          "priority": 82,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_holding_strong",
+          "category": "snow",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "grooming_moderate",
+          "category": "terrain",
+          "priority": 55,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_storm_wind",
+          "category": "weather",
+          "priority": 82,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "storm_wind",
+        "variationIndex": 3,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Blustery and Snowy"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
   "errors": []
 }

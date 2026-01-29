@@ -1,15 +1,31 @@
 {
   "resort": "bigsky",
   "resortName": "Big Sky",
-  "date": "2026-01-29",
-  "generated": "2026-01-29T07:44:43.254Z",
+  "date": "2026-01-28",
+  "generated": "2026-01-29T06:59:05.310Z",
   "rawData": {
+    "snow": {
+      "overnight_inches": 1,
+      "overnight_cm": 3,
+      "24hour_inches": 6,
+      "24hour_cm": 15,
+      "48hour_inches": 6,
+      "48hour_cm": 15,
+      "7day_inches": 7,
+      "7day_cm": 18,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Unknown",
+        "yesterday": null
+      }
+    },
     "terrain": {
       "stats": {
         "openTrails": {
           "today": 226,
-          "yesterday": 226,
-          "delta": 0
+          "yesterday": 230,
+          "delta": -4
         },
         "groomedTrails": {
           "today": 3,
@@ -19,31 +35,142 @@
         "totalTrails": 319
       },
       "newlyOpened": [],
-      "newlyClosed": [],
+      "newlyClosed": [
+        {
+          "name": "Dictator Chutes",
+          "difficulty": "Double Black",
+          "area": "Lone Peak Area"
+        },
+        {
+          "name": "Lenin",
+          "difficulty": "Double Black",
+          "area": "Lone Peak Area"
+        },
+        {
+          "name": "Marx",
+          "difficulty": "Double Black",
+          "area": "Lone Peak Area"
+        },
+        {
+          "name": "Yeti Traverse",
+          "difficulty": "Double Black",
+          "area": "Lone Peak Area"
+        }
+      ],
       "newlyGroomed": [],
       "ungroomed": []
     },
     "lifts": {
       "available": true,
       "yesterday": {
-        "date": "2026-01-28",
+        "date": "2026-01-27",
         "avgWaitTime": 0,
         "maxWaitTime": 0,
         "totalLiftsTracked": 40,
         "busiest": []
       }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-28",
+        "high_f": null,
+        "low_f": 14,
+        "description": "Cloudy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-29",
+          "high_f": 22,
+          "low_f": 18,
+          "description": "Cloudy",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2026-01-30",
+          "high_f": 28,
+          "low_f": 24,
+          "description": "Cloudy",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2026-01-31",
+          "high_f": 31,
+          "low_f": 26,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-29",
+        "high_f": 22,
+        "low_f": 18,
+        "description": "Cloudy",
+        "snowfall_day_inches": 2,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 2
+      }
     }
   },
   "computedInsights": {
     "flags": {
+      "hasFreshSnow": true,
+      "isPowderDay": true,
       "hasNewTrails": false,
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [],
-    "trends": [],
+    "alerts": [
+      "1\" new snow overnight",
+      "6\" in last 24 hours - powder day!"
+    ],
+    "trends": [
+      "Steady snowfall - 7\" in last 7 days",
+      "2\" snow expected Thursday"
+    ],
     "recommendations": []
   },
-  "morningBrief": null,
+  "morningBrief": {
+    "headline": "6\" of Fresh Overnight",
+    "body": "6\" dumped overnight. The stashes are loaded and the groomers are buried. The forecast is flirting with us: light snow expected. Not a dump, but welcome.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_powder",
+          "category": "snow",
+          "priority": 90,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_snow_coming",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "powder_alert",
+        "variationIndex": 1,
+        "totalVariations": 11,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Deep Day at {resortName}"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
   "errors": []
 }

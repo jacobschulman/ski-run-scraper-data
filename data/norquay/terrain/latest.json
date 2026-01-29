@@ -1,10 +1,10 @@
 {
   "ResortId": "norquay",
-  "Date": "2026-01-29T07:45:10.717Z",
+  "Date": "2026-01-29T06:59:22.948Z",
   "provider": "canadian-big3",
   "apiProvider": "hybrid-wordpress",
-  "scrapedAt": "2026-01-29T07:45:10.717Z",
-  "date": "2026-01-29",
+  "scrapedAt": "2026-01-29T06:59:22.948Z",
+  "date": "2026-01-28",
   "Lifts": [
     {
       "Name": "North American Chair",
@@ -1249,7 +1249,7 @@
     "trailsGroomed": 28
   },
   "_conditions": {
-    "temperature_c": -1,
-    "temperature_f": 30.2
+    "temperature_c": 0,
+    "temperature_f": 32
   }
 }

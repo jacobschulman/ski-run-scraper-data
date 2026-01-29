@@ -11,7 +11,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 19,
+      "currentStreak": 18,
       "longestStreak": 19
     },
     {
@@ -22,7 +22,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 19,
+      "currentStreak": 18,
       "longestStreak": 19
     },
     {
@@ -54,9 +54,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 63,
-      "currentStreak": 19,
-      "longestStreak": 19
+      "groomingPercentage": 62,
+      "currentStreak": 18,
+      "longestStreak": 18
     },
     {
       "name": "Bouncer (L)",
@@ -65,9 +65,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 50,
-      "currentStreak": 19,
-      "longestStreak": 19
+      "groomingPercentage": 49,
+      "currentStreak": 18,
+      "longestStreak": 18
     },
     {
       "name": "Bouncer (U)",
@@ -120,9 +120,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 50,
-      "currentStreak": 19,
-      "longestStreak": 19
+      "groomingPercentage": 49,
+      "currentStreak": 18,
+      "longestStreak": 18
     },
     {
       "name": "Carefree (U)",
@@ -132,8 +132,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 84,
-      "currentStreak": 19,
-      "longestStreak": 19
+      "currentStreak": 18,
+      "longestStreak": 18
     },
     {
       "name": "CDL's Trail #20",
@@ -164,9 +164,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 42,
-      "currentStreak": 10,
-      "longestStreak": 10
+      "groomingPercentage": 41,
+      "currentStreak": 9,
+      "longestStreak": 9
     },
     {
       "name": "Copperopolis",
@@ -176,7 +176,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 19,
+      "currentStreak": 18,
       "longestStreak": 19
     },
     {
@@ -220,7 +220,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 19,
+      "currentStreak": 18,
       "longestStreak": 19
     },
     {
@@ -230,9 +230,9 @@
       "difficulty": "easiest",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 50,
-      "currentStreak": 19,
-      "longestStreak": 19
+      "groomingPercentage": 49,
+      "currentStreak": 18,
+      "longestStreak": 18
     },
     {
       "name": "Foul Play",
@@ -275,7 +275,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 19,
+      "currentStreak": 18,
       "longestStreak": 19
     },
     {
@@ -308,8 +308,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 84,
-      "currentStreak": 19,
-      "longestStreak": 19
+      "currentStreak": 18,
+      "longestStreak": 18
     },
     {
       "name": "Leap Frog (U)",
@@ -352,7 +352,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 19,
+      "currentStreak": 18,
       "longestStreak": 19
     },
     {
@@ -374,7 +374,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 19,
+      "currentStreak": 18,
       "longestStreak": 19
     },
     {
@@ -395,9 +395,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": false,
-      "groomingPercentage": 11,
-      "currentStreak": 4,
-      "longestStreak": 4
+      "groomingPercentage": 8,
+      "currentStreak": 3,
+      "longestStreak": 3
     },
     {
       "name": "Ptarmigan",
@@ -407,7 +407,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 19,
+      "currentStreak": 18,
       "longestStreak": 19
     },
     {
@@ -418,7 +418,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 19,
+      "currentStreak": 18,
       "longestStreak": 19
     },
     {
@@ -462,7 +462,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 19,
+      "currentStreak": 18,
       "longestStreak": 19
     },
     {
@@ -483,9 +483,9 @@
       "difficulty": "easiest",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 13,
-      "currentStreak": 5,
-      "longestStreak": 5
+      "groomingPercentage": 11,
+      "currentStreak": 4,
+      "longestStreak": 4
     },
     {
       "name": "Spillway",
@@ -736,9 +736,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 45,
-      "currentStreak": 17,
-      "longestStreak": 17
+      "groomingPercentage": 43,
+      "currentStreak": 16,
+      "longestStreak": 16
     },
     {
       "name": "Andy's Encore (U)",
@@ -748,8 +748,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 84,
-      "currentStreak": 19,
-      "longestStreak": 19
+      "currentStreak": 18,
+      "longestStreak": 18
     },
     {
       "name": "Bee Traverse",
@@ -824,9 +824,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 5,
-      "currentStreak": 2,
-      "longestStreak": 2
+      "groomingPercentage": 3,
+      "currentStreak": 1,
+      "longestStreak": 1
     },
     {
       "name": "Oh No (U)",
@@ -835,9 +835,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 5,
-      "currentStreak": 2,
-      "longestStreak": 2
+      "groomingPercentage": 3,
+      "currentStreak": 1,
+      "longestStreak": 1
     },
     {
       "name": "Ore Deal",
@@ -846,7 +846,7 @@
       "difficulty": "Black",
       "isGroomedToday": false,
       "isOpen": false,
-      "groomingPercentage": 18,
+      "groomingPercentage": 19,
       "currentStreak": 0,
       "longestStreak": 6
     },
@@ -869,8 +869,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 84,
-      "currentStreak": 19,
-      "longestStreak": 19
+      "currentStreak": 18,
+      "longestStreak": 18
     },
     {
       "name": "Slot Car Track",
@@ -924,8 +924,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 84,
-      "currentStreak": 19,
-      "longestStreak": 19
+      "currentStreak": 18,
+      "longestStreak": 18
     },
     {
       "name": "Chickaree Way",
@@ -1198,7 +1198,7 @@
       "difficulty": "Black",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 21,
+      "groomingPercentage": 22,
       "currentStreak": 0,
       "longestStreak": 7
     },
@@ -1814,9 +1814,9 @@
       "difficulty": "easiest",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 16,
-      "currentStreak": 5,
-      "longestStreak": 5
+      "groomingPercentage": 14,
+      "currentStreak": 4,
+      "longestStreak": 4
     },
     {
       "name": "Jackstraw Trees",
@@ -1848,8 +1848,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 84,
-      "currentStreak": 19,
-      "longestStreak": 19
+      "currentStreak": 18,
+      "longestStreak": 18
     },
     {
       "name": "Kokomo Glade",
@@ -1891,9 +1891,9 @@
       "difficulty": "easiest",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 50,
-      "currentStreak": 19,
-      "longestStreak": 19
+      "groomingPercentage": 49,
+      "currentStreak": 18,
+      "longestStreak": 18
     },
     {
       "name": "Lyman Lane",
@@ -1914,7 +1914,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 19,
+      "currentStreak": 18,
       "longestStreak": 19
     },
     {
@@ -1947,8 +1947,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 84,
-      "currentStreak": 19,
-      "longestStreak": 19
+      "currentStreak": 18,
+      "longestStreak": 18
     },
     {
       "name": "Roundabout (U)",
@@ -1979,9 +1979,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 50,
-      "currentStreak": 19,
-      "longestStreak": 19
+      "groomingPercentage": 49,
+      "currentStreak": 18,
+      "longestStreak": 18
     },
     {
       "name": "Soliloquy",
@@ -2035,7 +2035,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 19,
+      "currentStreak": 18,
       "longestStreak": 19
     },
     {
@@ -2046,7 +2046,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 19,
+      "currentStreak": 18,
       "longestStreak": 19
     },
     {
@@ -2068,7 +2068,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 19,
+      "currentStreak": 18,
       "longestStreak": 19
     },
     {
@@ -2089,8 +2089,8 @@
       "difficulty": "easiest",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 79,
-      "currentStreak": 12,
+      "groomingPercentage": 78,
+      "currentStreak": 11,
       "longestStreak": 17
     },
     {
@@ -2100,9 +2100,9 @@
       "difficulty": "easiest",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 63,
-      "currentStreak": 19,
-      "longestStreak": 19
+      "groomingPercentage": 62,
+      "currentStreak": 18,
+      "longestStreak": 18
     },
     {
       "name": "Family Cross on High Point",
@@ -2111,9 +2111,9 @@
       "difficulty": "easiest",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 63,
-      "currentStreak": 19,
-      "longestStreak": 19
+      "groomingPercentage": 62,
+      "currentStreak": 18,
+      "longestStreak": 18
     },
     {
       "name": "Green Acres Progression Park",
@@ -2122,9 +2122,9 @@
       "difficulty": "easiest",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 63,
-      "currentStreak": 19,
-      "longestStreak": 19
+      "groomingPercentage": 62,
+      "currentStreak": 18,
+      "longestStreak": 18
     },
     {
       "name": "Koko's Progression Park on Roundabout",
@@ -2133,9 +2133,9 @@
       "difficulty": "easiest",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 50,
-      "currentStreak": 19,
-      "longestStreak": 19
+      "groomingPercentage": 49,
+      "currentStreak": 18,
+      "longestStreak": 18
     },
     {
       "name": "Miner’s Progression Park on Roundabout",
@@ -2144,9 +2144,9 @@
       "difficulty": "easiest",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 55,
-      "currentStreak": 19,
-      "longestStreak": 19
+      "groomingPercentage": 54,
+      "currentStreak": 18,
+      "longestStreak": 18
     },
     {
       "name": "Peace Park on Vein Glory",
@@ -2177,9 +2177,9 @@
       "difficulty": "easiest",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 50,
-      "currentStreak": 19,
-      "longestStreak": 19
+      "groomingPercentage": 49,
+      "currentStreak": 18,
+      "longestStreak": 18
     },
     {
       "name": "Start Park at Easy Rider",
@@ -2210,10 +2210,10 @@
       "difficulty": "easiest",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 58,
-      "currentStreak": 19,
-      "longestStreak": 19
+      "groomingPercentage": 57,
+      "currentStreak": 18,
+      "longestStreak": 18
     }
   ],
-  "lastUpdated": "2026-01-29T07:55:56.440Z"
+  "lastUpdated": "2026-01-29T07:09:10.612Z"
 }

@@ -1,8 +1,8 @@
 {
   "resort": "norquay",
   "resortName": "Mt Norquay",
-  "date": "2026-01-29",
-  "generated": "2026-01-29T07:45:10.718Z",
+  "date": "2026-01-28",
+  "generated": "2026-01-29T06:59:22.949Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -24,8 +24,8 @@
       "stats": {
         "openTrails": {
           "today": 66,
-          "yesterday": 66,
-          "delta": 0
+          "yesterday": 56,
+          "delta": 10
         },
         "groomedTrails": {
           "today": 27,
@@ -44,11 +44,11 @@
     },
     "forecast": {
       "today": {
-        "date": "2026-01-29",
-        "high_f": 30.2,
-        "low_f": 30.2,
-        "high_c": -1,
-        "low_c": -1,
+        "date": "2026-01-28",
+        "high_f": 32,
+        "low_f": 32,
+        "high_c": 0,
+        "low_c": 0,
         "description": "Unknown",
         "snowfall_day_inches": 0,
         "snowfall_night_inches": 0
@@ -64,18 +64,20 @@
       "significantGroomingIncrease": false
     },
     "alerts": [],
-    "trends": [],
+    "trends": [
+      "10 more trails open than yesterday"
+    ],
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Midweek Mountain Report",
-    "body": "66 of 81 trails are open with 27 groomed. Unknown with a high of 30.2°F. 66/81 trails open, 27 groomed. 30.2° and Unknown.",
+    "headline": "Terrain Expanding",
+    "body": "66 trails open, 27 groomed. Unknown, high of 32°. Terrain expanding: 0 new trails opening up more options.",
     "debug": {
       "firedRules": [
         {
-          "id": "time_midweek_mellow",
-          "category": "time",
-          "priority": 45,
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
           "usedFor": "headline"
         },
         {
@@ -85,21 +87,21 @@
           "usedFor": "body"
         },
         {
-          "id": "fallback_body",
-          "category": "weather",
-          "priority": 5,
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
           "usedFor": "body"
         }
       ],
       "totalRulesFired": 3,
       "headlineSelection": {
-        "condition": "midweek_mellow",
+        "condition": "terrain_expansion",
         "variationIndex": 0,
-        "totalVariations": 5,
+        "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Terrain Expanding"
+        "previousHeadline": "New Runs Now Open"
       },
-      "dayOfWeek": "Thursday"
+      "dayOfWeek": "Wednesday"
     }
   },
   "errors": []

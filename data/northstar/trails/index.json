@@ -32,9 +32,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 50,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 49,
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "Lookout Glade",
@@ -52,10 +52,10 @@
       "slug": "martis",
       "area": "Lookout Mountain",
       "difficulty": "Black",
-      "isGroomedToday": true,
+      "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 34,
-      "currentStreak": 1,
+      "groomingPercentage": 33,
+      "currentStreak": 0,
       "longestStreak": 15
     },
     {
@@ -76,9 +76,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 52,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 51,
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "Stampede",
@@ -120,9 +120,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 48,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 47,
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "Webber",
@@ -142,9 +142,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 59,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 58,
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "Bear Crawl",
@@ -165,8 +165,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 71,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "Cat's Face",
@@ -175,9 +175,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 50,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 49,
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "Coyote Crossing",
@@ -195,10 +195,10 @@
       "slug": "crosscut",
       "area": "Mt. Pluto",
       "difficulty": "Black",
-      "isGroomedToday": true,
+      "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 39,
-      "currentStreak": 1,
+      "groomingPercentage": 38,
+      "currentStreak": 0,
       "longestStreak": 10
     },
     {
@@ -206,10 +206,10 @@
       "slug": "delight",
       "area": "Mt. Pluto",
       "difficulty": "Blue",
-      "isGroomedToday": true,
+      "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 38,
-      "currentStreak": 1,
+      "groomingPercentage": 36,
+      "currentStreak": 0,
       "longestStreak": 9
     },
     {
@@ -228,10 +228,10 @@
       "slug": "dutchman",
       "area": "Mt. Pluto",
       "difficulty": "Blue",
-      "isGroomedToday": true,
+      "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 46,
-      "currentStreak": 1,
+      "groomingPercentage": 45,
+      "currentStreak": 0,
       "longestStreak": 10
     },
     {
@@ -252,9 +252,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 63,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 62,
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "Flying Squirrel",
@@ -296,8 +296,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 48,
-      "currentStreak": 6,
+      "groomingPercentage": 47,
+      "currentStreak": 5,
       "longestStreak": 13
     },
     {
@@ -307,9 +307,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 48,
-      "currentStreak": 10,
-      "longestStreak": 10
+      "groomingPercentage": 47,
+      "currentStreak": 9,
+      "longestStreak": 9
     },
     {
       "name": "Lower Grouse Alley",
@@ -318,7 +318,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 46,
+      "groomingPercentage": 47,
       "currentStreak": 0,
       "longestStreak": 15
     },
@@ -330,7 +330,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 95,
-      "currentStreak": 20,
+      "currentStreak": 19,
       "longestStreak": 33
     },
     {
@@ -340,9 +340,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 61,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 60,
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "Lumberjack",
@@ -352,7 +352,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 93,
-      "currentStreak": 20,
+      "currentStreak": 19,
       "longestStreak": 22
     },
     {
@@ -360,10 +360,10 @@
       "slug": "powder-bowl",
       "area": "Mt. Pluto",
       "difficulty": "Blue",
-      "isGroomedToday": true,
+      "isGroomedToday": false,
       "isOpen": true,
       "groomingPercentage": 55,
-      "currentStreak": 1,
+      "currentStreak": 0,
       "longestStreak": 17
     },
     {
@@ -385,7 +385,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 95,
-      "currentStreak": 20,
+      "currentStreak": 19,
       "longestStreak": 33
     },
     {
@@ -395,7 +395,7 @@
       "difficulty": "Black",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 14,
+      "groomingPercentage": 15,
       "currentStreak": 0,
       "longestStreak": 5
     },
@@ -406,8 +406,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 38,
-      "currentStreak": 3,
+      "groomingPercentage": 36,
+      "currentStreak": 2,
       "longestStreak": 4
     },
     {
@@ -417,7 +417,7 @@
       "difficulty": "Black",
       "isGroomedToday": false,
       "isOpen": false,
-      "groomingPercentage": 32,
+      "groomingPercentage": 33,
       "currentStreak": 0,
       "longestStreak": 8
     },
@@ -426,10 +426,10 @@
       "slug": "the-chute",
       "area": "Mt. Pluto",
       "difficulty": "Blue",
-      "isGroomedToday": true,
+      "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 38,
-      "currentStreak": 1,
+      "groomingPercentage": 36,
+      "currentStreak": 0,
       "longestStreak": 7
     },
     {
@@ -437,10 +437,10 @@
       "slug": "the-flume",
       "area": "Mt. Pluto",
       "difficulty": "Blue",
-      "isGroomedToday": true,
+      "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 50,
-      "currentStreak": 1,
+      "groomingPercentage": 49,
+      "currentStreak": 0,
       "longestStreak": 17
     },
     {
@@ -459,10 +459,10 @@
       "slug": "toninis",
       "area": "Mt. Pluto",
       "difficulty": "Black",
-      "isGroomedToday": true,
+      "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 43,
-      "currentStreak": 1,
+      "groomingPercentage": 42,
+      "currentStreak": 0,
       "longestStreak": 17
     },
     {
@@ -494,9 +494,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 54,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 53,
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "West Ridge",
@@ -505,9 +505,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 59,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 58,
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "Bobcat Bowl",
@@ -538,19 +538,19 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 46,
-      "currentStreak": 19,
-      "longestStreak": 19
+      "groomingPercentage": 45,
+      "currentStreak": 18,
+      "longestStreak": 18
     },
     {
       "name": "Christmas Tree",
       "slug": "christmas-tree",
       "area": "Northwest Territory",
       "difficulty": "Blue",
-      "isGroomedToday": true,
+      "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 32,
-      "currentStreak": 1,
+      "groomingPercentage": 31,
+      "currentStreak": 0,
       "longestStreak": 10
     },
     {
@@ -558,10 +558,10 @@
       "slug": "cowboy-pass",
       "area": "Northwest Territory",
       "difficulty": "Blue",
-      "isGroomedToday": true,
+      "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 32,
-      "currentStreak": 1,
+      "groomingPercentage": 31,
+      "currentStreak": 0,
       "longestStreak": 10
     },
     {
@@ -582,9 +582,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 50,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 49,
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "Gateway",
@@ -604,9 +604,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 50,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 49,
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "Home Run",
@@ -637,9 +637,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 57,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 56,
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "Lower Pioneer",
@@ -649,8 +649,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 55,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "Northern Lights",
@@ -659,7 +659,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 14,
+      "groomingPercentage": 15,
       "currentStreak": 0,
       "longestStreak": 3
     },
@@ -703,9 +703,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 50,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 49,
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "The Glades",
@@ -725,9 +725,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 57,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 56,
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "The Gully",
@@ -736,7 +736,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 14,
+      "groomingPercentage": 15,
       "currentStreak": 0,
       "longestStreak": 3
     },
@@ -759,8 +759,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 55,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "Upper Pioneer",
@@ -770,8 +770,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 55,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "Wagon Wheel KAZ",
@@ -791,9 +791,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 48,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 47,
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "Forerunner",
@@ -802,7 +802,7 @@
       "difficulty": "TerrainPark",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 14,
+      "groomingPercentage": 15,
       "currentStreak": 0,
       "longestStreak": 8
     },
@@ -835,9 +835,9 @@
       "difficulty": "TerrainPark",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 36,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 35,
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "Pinball",
@@ -847,7 +847,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 89,
-      "currentStreak": 20,
+      "currentStreak": 19,
       "longestStreak": 30
     },
     {
@@ -880,18 +880,18 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 55,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "The Straits",
       "slug": "the-straits",
       "area": "Terrain Parks",
       "difficulty": "TerrainPark",
-      "isGroomedToday": false,
+      "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 20,
-      "currentStreak": 0,
+      "currentStreak": 7,
       "longestStreak": 7
     },
     {
@@ -912,9 +912,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 52,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 51,
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "Burnout",
@@ -923,9 +923,9 @@
       "difficulty": "Black",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 52,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 51,
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "Castle Peak",
@@ -943,10 +943,10 @@
       "slug": "challenger",
       "area": "The Backside",
       "difficulty": "Black",
-      "isGroomedToday": true,
+      "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 27,
-      "currentStreak": 1,
+      "groomingPercentage": 25,
+      "currentStreak": 0,
       "longestStreak": 6
     },
     {
@@ -956,7 +956,7 @@
       "difficulty": "Black",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 23,
+      "groomingPercentage": 24,
       "currentStreak": 0,
       "longestStreak": 10
     },
@@ -967,9 +967,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 52,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 51,
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "Drifter Connector",
@@ -1011,9 +1011,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 52,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 51,
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "Monument Glade",
@@ -1055,8 +1055,8 @@
       "difficulty": "Black",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 38,
-      "currentStreak": 4,
+      "groomingPercentage": 36,
+      "currentStreak": 3,
       "longestStreak": 10
     },
     {
@@ -1066,9 +1066,9 @@
       "difficulty": "Black",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 45,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 44,
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "The Islands",
@@ -1110,9 +1110,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 41,
-      "currentStreak": 13,
-      "longestStreak": 13
+      "groomingPercentage": 40,
+      "currentStreak": 12,
+      "longestStreak": 12
     },
     {
       "name": "Condo Run",
@@ -1154,9 +1154,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 45,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 44,
+      "currentStreak": 19,
+      "longestStreak": 19
     },
     {
       "name": "Village Run",
@@ -1165,10 +1165,10 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 57,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 56,
+      "currentStreak": 19,
+      "longestStreak": 19
     }
   ],
-  "lastUpdated": "2026-01-29T13:29:46.793Z"
+  "lastUpdated": "2026-01-29T11:48:17.594Z"
 }

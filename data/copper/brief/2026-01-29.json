@@ -2,7 +2,7 @@
   "resort": "copper",
   "resortName": "Copper Mountain",
   "date": "2026-01-29",
-  "generated": "2026-01-29T13:21:21.700Z",
+  "generated": "2026-01-29T11:39:42.406Z",
   "rawData": {
     "terrain": {
       "stats": {
@@ -12,43 +12,16 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 39,
+          "today": 42,
           "yesterday": 42,
-          "delta": -3
+          "delta": 0
         },
         "totalTrails": 202
       },
       "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [
-        {
-          "name": "Easy Feelin'",
-          "difficulty": "easiest",
-          "area": "West"
-        }
-      ],
-      "ungroomed": [
-        {
-          "name": "Oh No (U)",
-          "difficulty": "Blue",
-          "area": "East"
-        },
-        {
-          "name": "Oh No (L)",
-          "difficulty": "Blue",
-          "area": "East"
-        },
-        {
-          "name": "I-Way",
-          "difficulty": "easiest",
-          "area": "West"
-        },
-        {
-          "name": "Sluice",
-          "difficulty": "easiest",
-          "area": "Center"
-        }
-      ]
+      "newlyGroomed": [],
+      "ungroomed": []
     },
     "lifts": {
       "available": true,
@@ -67,13 +40,9 @@
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [
-      "1 trail freshly groomed"
-    ],
+    "alerts": [],
     "trends": [],
-    "recommendations": [
-      "Fresh corduroy on Easy Feelin' - all skill levels"
-    ]
+    "recommendations": []
   },
   "morningBrief": null,
   "errors": []

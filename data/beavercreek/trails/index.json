@@ -76,9 +76,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 26,
-      "currentStreak": 15,
-      "longestStreak": 15
+      "groomingPercentage": 25,
+      "currentStreak": 14,
+      "longestStreak": 14
     },
     {
       "name": "Little Brave Upper",
@@ -87,9 +87,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 29,
-      "currentStreak": 17,
-      "longestStreak": 17
+      "groomingPercentage": 28,
+      "currentStreak": 16,
+      "longestStreak": 16
     },
     {
       "name": "Piece O' Cake",
@@ -153,9 +153,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 21,
-      "currentStreak": 12,
-      "longestStreak": 12
+      "groomingPercentage": 19,
+      "currentStreak": 11,
+      "longestStreak": 11
     },
     {
       "name": "Cabin Fever Upper",
@@ -164,9 +164,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 21,
-      "currentStreak": 12,
-      "longestStreak": 12
+      "groomingPercentage": 19,
+      "currentStreak": 11,
+      "longestStreak": 11
     },
     {
       "name": "Coyote Glade",
@@ -174,7 +174,7 @@
       "area": "Bachelor Gulch",
       "difficulty": "Blue",
       "isGroomedToday": false,
-      "isOpen": true,
+      "isOpen": false,
       "groomingPercentage": 0,
       "currentStreak": 0,
       "longestStreak": 0
@@ -197,9 +197,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 21,
-      "currentStreak": 12,
-      "longestStreak": 12
+      "groomingPercentage": 19,
+      "currentStreak": 11,
+      "longestStreak": 11
     },
     {
       "name": "Gunder's Upper",
@@ -207,7 +207,7 @@
       "area": "Bachelor Gulch",
       "difficulty": "Blue",
       "isGroomedToday": false,
-      "isOpen": true,
+      "isOpen": false,
       "groomingPercentage": 0,
       "currentStreak": 0,
       "longestStreak": 0
@@ -219,8 +219,8 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 83,
-      "currentStreak": 18,
+      "groomingPercentage": 82,
+      "currentStreak": 17,
       "longestStreak": 29
     },
     {
@@ -253,7 +253,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 88,
-      "currentStreak": 18,
+      "currentStreak": 17,
       "longestStreak": 31
     },
     {
@@ -273,7 +273,7 @@
       "area": "Bachelor Gulch",
       "difficulty": "Blue",
       "isGroomedToday": false,
-      "isOpen": true,
+      "isOpen": false,
       "groomingPercentage": 0,
       "currentStreak": 0,
       "longestStreak": 0
@@ -285,8 +285,8 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 69,
-      "currentStreak": 18,
+      "groomingPercentage": 68,
+      "currentStreak": 17,
       "longestStreak": 21
     },
     {
@@ -296,9 +296,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 3,
-      "currentStreak": 2,
-      "longestStreak": 2
+      "groomingPercentage": 2,
+      "currentStreak": 1,
+      "longestStreak": 1
     },
     {
       "name": "4 Get About It",
@@ -340,7 +340,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 3,
+      "groomingPercentage": 4,
       "currentStreak": 0,
       "longestStreak": 2
     },
@@ -362,9 +362,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 47,
-      "currentStreak": 18,
-      "longestStreak": 18
+      "groomingPercentage": 46,
+      "currentStreak": 17,
+      "longestStreak": 17
     },
     {
       "name": "Big Bark/Little Bark",
@@ -406,9 +406,9 @@
       "difficulty": "Black",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 14,
-      "currentStreak": 8,
-      "longestStreak": 8
+      "groomingPercentage": 12,
+      "currentStreak": 7,
+      "longestStreak": 7
     },
     {
       "name": "Centennial - Flats",
@@ -417,9 +417,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 14,
-      "currentStreak": 8,
-      "longestStreak": 8
+      "groomingPercentage": 12,
+      "currentStreak": 7,
+      "longestStreak": 7
     },
     {
       "name": "Centennial - Willy's Face",
@@ -438,7 +438,7 @@
       "area": "Beaver Creek Lower",
       "difficulty": "Green",
       "isGroomedToday": false,
-      "isOpen": true,
+      "isOpen": false,
       "groomingPercentage": 0,
       "currentStreak": 0,
       "longestStreak": 0
@@ -461,8 +461,8 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 66,
-      "currentStreak": 18,
+      "groomingPercentage": 65,
+      "currentStreak": 17,
       "longestStreak": 19
     },
     {
@@ -506,7 +506,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 18,
+      "currentStreak": 17,
       "longestStreak": 39
     },
     {
@@ -527,7 +527,7 @@
       "difficulty": "Black",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 29,
+      "groomingPercentage": 30,
       "currentStreak": 0,
       "longestStreak": 13
     },
@@ -561,7 +561,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 18,
+      "currentStreak": 17,
       "longestStreak": 39
     },
     {
@@ -605,7 +605,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 18,
+      "currentStreak": 17,
       "longestStreak": 38
     },
     {
@@ -615,9 +615,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 44,
-      "currentStreak": 18,
-      "longestStreak": 18
+      "groomingPercentage": 43,
+      "currentStreak": 17,
+      "longestStreak": 17
     },
     {
       "name": "Lumber Yard",
@@ -670,9 +670,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 44,
-      "currentStreak": 18,
-      "longestStreak": 18
+      "groomingPercentage": 43,
+      "currentStreak": 17,
+      "longestStreak": 17
     },
     {
       "name": "Booth Gardens",
@@ -725,7 +725,7 @@
       "difficulty": "Black",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 3,
+      "groomingPercentage": 4,
       "currentStreak": 0,
       "longestStreak": 1
     },
@@ -791,7 +791,7 @@
       "difficulty": "Green",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 3,
+      "groomingPercentage": 4,
       "currentStreak": 0,
       "longestStreak": 1
     },
@@ -800,10 +800,10 @@
       "slug": "red-buffalo",
       "area": "Beaver Creek Upper",
       "difficulty": "Green",
-      "isGroomedToday": false,
+      "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 12,
-      "currentStreak": 0,
+      "currentStreak": 4,
       "longestStreak": 4
     },
     {
@@ -846,8 +846,8 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 71,
-      "currentStreak": 18,
+      "groomingPercentage": 70,
+      "currentStreak": 17,
       "longestStreak": 22
     },
     {
@@ -856,7 +856,7 @@
       "area": "Beaver Creek Upper",
       "difficulty": "TerrainPark",
       "isGroomedToday": false,
-      "isOpen": true,
+      "isOpen": false,
       "groomingPercentage": 0,
       "currentStreak": 0,
       "longestStreak": 0
@@ -900,8 +900,8 @@
       "area": "Birds of Prey",
       "difficulty": "Green",
       "isGroomedToday": false,
-      "isOpen": true,
-      "groomingPercentage": 43,
+      "isOpen": false,
+      "groomingPercentage": 44,
       "currentStreak": 0,
       "longestStreak": 23
     },
@@ -911,7 +911,7 @@
       "area": "Birds of Prey",
       "difficulty": "Black",
       "isGroomedToday": false,
-      "isOpen": true,
+      "isOpen": false,
       "groomingPercentage": 0,
       "currentStreak": 0,
       "longestStreak": 0
@@ -933,7 +933,7 @@
       "area": "Birds of Prey",
       "difficulty": "Black",
       "isGroomedToday": false,
-      "isOpen": true,
+      "isOpen": false,
       "groomingPercentage": 0,
       "currentStreak": 0,
       "longestStreak": 0
@@ -944,7 +944,7 @@
       "area": "Birds of Prey",
       "difficulty": "Black",
       "isGroomedToday": false,
-      "isOpen": true,
+      "isOpen": false,
       "groomingPercentage": 0,
       "currentStreak": 0,
       "longestStreak": 0
@@ -955,7 +955,7 @@
       "area": "Birds of Prey",
       "difficulty": "Black",
       "isGroomedToday": false,
-      "isOpen": true,
+      "isOpen": false,
       "groomingPercentage": 0,
       "currentStreak": 0,
       "longestStreak": 0
@@ -967,7 +967,7 @@
       "difficulty": "DoubleBlack",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 31,
+      "groomingPercentage": 32,
       "currentStreak": 0,
       "longestStreak": 13
     },
@@ -977,7 +977,7 @@
       "area": "Birds of Prey",
       "difficulty": "DoubleBlack",
       "isGroomedToday": false,
-      "isOpen": true,
+      "isOpen": false,
       "groomingPercentage": 0,
       "currentStreak": 0,
       "longestStreak": 0
@@ -1011,8 +1011,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 78,
-      "currentStreak": 18,
+      "groomingPercentage": 77,
+      "currentStreak": 17,
       "longestStreak": 26
     },
     {
@@ -1131,7 +1131,7 @@
       "area": "Grouse Mountain",
       "difficulty": "Black",
       "isGroomedToday": false,
-      "isOpen": true,
+      "isOpen": false,
       "groomingPercentage": 0,
       "currentStreak": 0,
       "longestStreak": 0
@@ -1198,9 +1198,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 55,
-      "currentStreak": 18,
-      "longestStreak": 18
+      "groomingPercentage": 54,
+      "currentStreak": 17,
+      "longestStreak": 17
     },
     {
       "name": "Blue Bell",
@@ -1220,9 +1220,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 55,
-      "currentStreak": 18,
-      "longestStreak": 18
+      "groomingPercentage": 54,
+      "currentStreak": 17,
+      "longestStreak": 17
     },
     {
       "name": "Larkspur - Upper",
@@ -1275,9 +1275,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 9,
-      "currentStreak": 5,
-      "longestStreak": 5
+      "groomingPercentage": 7,
+      "currentStreak": 4,
+      "longestStreak": 4
     },
     {
       "name": "Shooting Star",
@@ -1516,7 +1516,7 @@
       "area": "Resort Skiways",
       "difficulty": "Green",
       "isGroomedToday": false,
-      "isOpen": true,
+      "isOpen": false,
       "groomingPercentage": 0,
       "currentStreak": 0,
       "longestStreak": 0
@@ -1560,7 +1560,7 @@
       "area": "Resort Skiways",
       "difficulty": "Green",
       "isGroomedToday": false,
-      "isOpen": true,
+      "isOpen": false,
       "groomingPercentage": 0,
       "currentStreak": 0,
       "longestStreak": 0
@@ -1570,11 +1570,11 @@
       "slug": "creekside",
       "area": "Resort Skiways",
       "difficulty": "Green",
-      "isGroomedToday": true,
+      "isGroomedToday": false,
       "isOpen": false,
-      "groomingPercentage": 2,
-      "currentStreak": 1,
-      "longestStreak": 1
+      "groomingPercentage": 0,
+      "currentStreak": 0,
+      "longestStreak": 0
     },
     {
       "name": "Easy Come Easy Go",
@@ -1758,7 +1758,7 @@
       "area": "Resort Skiways",
       "difficulty": "Green",
       "isGroomedToday": false,
-      "isOpen": true,
+      "isOpen": false,
       "groomingPercentage": 0,
       "currentStreak": 0,
       "longestStreak": 0
@@ -1835,7 +1835,7 @@
       "area": "Rose Bowl",
       "difficulty": "Green",
       "isGroomedToday": false,
-      "isOpen": true,
+      "isOpen": false,
       "groomingPercentage": 0,
       "currentStreak": 0,
       "longestStreak": 0
@@ -1913,8 +1913,8 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 83,
-      "currentStreak": 18,
+      "groomingPercentage": 82,
+      "currentStreak": 17,
       "longestStreak": 29
     },
     {
@@ -1935,8 +1935,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 83,
-      "currentStreak": 18,
+      "groomingPercentage": 82,
+      "currentStreak": 17,
       "longestStreak": 29
     },
     {
@@ -1957,8 +1957,8 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 83,
-      "currentStreak": 18,
+      "groomingPercentage": 82,
+      "currentStreak": 17,
       "longestStreak": 29
     },
     {
@@ -1979,8 +1979,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 83,
-      "currentStreak": 18,
+      "groomingPercentage": 82,
+      "currentStreak": 17,
       "longestStreak": 29
     },
     {
@@ -2006,5 +2006,5 @@
       "longestStreak": 0
     }
   ],
-  "lastUpdated": "2026-01-29T13:29:40.350Z"
+  "lastUpdated": "2026-01-29T11:48:11.029Z"
 }

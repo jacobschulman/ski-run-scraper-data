@@ -1,111 +1,175 @@
 {
   "resort": "northstar",
   "resortName": "Northstar",
-  "date": "2026-01-29",
-  "generated": "2026-01-29T13:21:14.550Z",
+  "date": "2026-01-28",
+  "generated": "2026-01-28T13:46:40.529Z",
   "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 154,
+      "season_total_cm": 391,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
     "terrain": {
       "stats": {
         "openTrails": {
           "today": 96,
-          "yesterday": 96,
-          "delta": 0
+          "yesterday": 98,
+          "delta": -2
         },
         "groomedTrails": {
-          "today": 50,
+          "today": 40,
           "yesterday": 40,
-          "delta": 10
+          "delta": 0
         },
         "totalTrails": 103
       },
-      "newlyOpened": [],
-      "newlyClosed": [],
-      "newlyGroomed": [
+      "newlyOpened": [
         {
-          "name": "Martis",
-          "difficulty": "Black",
-          "area": "Lookout Mountain"
-        },
-        {
-          "name": "Delight",
+          "name": "Drop Off",
           "difficulty": "Blue",
           "area": "Mt. Pluto"
-        },
-        {
-          "name": "Dutchman",
-          "difficulty": "Blue",
-          "area": "Mt. Pluto"
-        },
-        {
-          "name": "Powder Bowl",
-          "difficulty": "Blue",
-          "area": "Mt. Pluto"
-        },
-        {
-          "name": "The Chute",
-          "difficulty": "Blue",
-          "area": "Mt. Pluto"
-        },
-        {
-          "name": "The Flume",
-          "difficulty": "Blue",
-          "area": "Mt. Pluto"
-        },
-        {
-          "name": "Crosscut",
-          "difficulty": "Black",
-          "area": "Mt. Pluto"
-        },
-        {
-          "name": "Tonini's",
-          "difficulty": "Black",
-          "area": "Mt. Pluto"
-        },
-        {
-          "name": "Christmas Tree",
-          "difficulty": "Blue",
-          "area": "Northwest Territory"
-        },
-        {
-          "name": "Cowboy Pass",
-          "difficulty": "Blue",
-          "area": "Northwest Territory"
-        },
-        {
-          "name": "Challenger",
-          "difficulty": "Black",
-          "area": "The Backside"
         }
       ],
-      "ungroomed": [
+      "newlyClosed": [
         {
-          "name": "The Straits",
-          "difficulty": "TerrainPark",
-          "area": "Terrain Parks"
+          "name": "Castle Peak",
+          "difficulty": "Blue",
+          "area": "The Backside"
+        },
+        {
+          "name": "Polaris",
+          "difficulty": "Black",
+          "area": "The Backside"
+        },
+        {
+          "name": "Lynx Luge",
+          "difficulty": "Blue",
+          "area": "Village at Northstar"
         }
-      ]
+      ],
+      "newlyGroomed": [],
+      "ungroomed": []
     },
     "lifts": {
       "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-28",
+        "high_f": 41,
+        "low_f": 28,
+        "high_c": 5,
+        "low_c": -2,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-29T08:00:00Z",
+          "high_f": 47,
+          "low_f": 30,
+          "high_c": 8,
+          "low_c": -1,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-30T08:00:00Z",
+          "high_f": 50,
+          "low_f": 32,
+          "high_c": 10,
+          "low_c": null,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-01-31T08:00:00Z",
+          "high_f": 50,
+          "low_f": 34,
+          "high_c": 10,
+          "low_c": 1,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-29T08:00:00Z",
+        "high_f": 47,
+        "low_f": 30,
+        "high_c": 8,
+        "low_c": -1,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
     }
   },
   "computedInsights": {
     "flags": {
-      "hasNewTrails": false,
-      "significantGroomingIncrease": true
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
     },
     "alerts": [
-      "11 trails freshly groomed"
+      "1 new trail opened today"
     ],
-    "trends": [
-      "Grooming increased 25% from yesterday"
-    ],
-    "recommendations": [
-      "Fresh corduroy on Martis - challenging for advanced skiers",
-      "Fresh corduroy on Delight - perfect for intermediate skiers",
-      "Fresh corduroy on Dutchman - perfect for intermediate skiers"
-    ]
+    "trends": [],
+    "recommendations": []
   },
-  "morningBrief": null,
+  "morningBrief": {
+    "headline": "Fewer Crowds, More Turns",
+    "body": "96 trails open, 40 groomed. Mostly Clear, high of 41°. 96/103 trails open, 40 groomed. 41° and Mostly Clear.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "time_midweek_mellow",
+          "category": "time",
+          "priority": 45,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "fallback_body",
+          "category": "weather",
+          "priority": 5,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "midweek_mellow",
+        "variationIndex": 3,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Beat the Weekend Rush"
+      },
+      "dayOfWeek": "Wednesday"
+    }
+  },
   "errors": []
 }

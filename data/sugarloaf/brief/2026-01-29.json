@@ -2,7 +2,7 @@
   "resort": "sugarloaf",
   "resortName": "Sugarloaf",
   "date": "2026-01-29",
-  "generated": "2026-01-29T18:59:43.802Z",
+  "generated": "2026-01-29T17:44:06.358Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,9 +23,9 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 145,
+          "today": 146,
           "yesterday": 145,
-          "delta": 0
+          "delta": 1
         },
         "groomedTrails": {
           "today": 59,
@@ -51,11 +51,6 @@
           "name": "Upper Narrow Gauge",
           "difficulty": "Black",
           "area": "Skyline"
-        },
-        {
-          "name": "Binder Ext",
-          "difficulty": "Black",
-          "area": "Timberline"
         }
       ],
       "newlyGroomed": [
@@ -230,7 +225,8 @@
       "12 trails freshly groomed"
     ],
     "trends": [
-      "Great week for snow - 16\" in last 7 days"
+      "Great week for snow - 16\" in last 7 days",
+      "1 more trail open than yesterday"
     ],
     "recommendations": [
       "Fresh corduroy on Lower Skidder - all skill levels",
@@ -268,7 +264,7 @@
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 6,
+      "totalRulesFired": 7,
       "headlineSelection": {
         "condition": "cold_arctic",
         "variationIndex": 4,

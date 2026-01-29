@@ -1,9 +1,9 @@
 {
   "ResortId": "banff",
-  "Date": "2026-01-29T20:40:35.537Z",
+  "Date": "2026-01-29T19:36:11.849Z",
   "provider": "canadian-big3",
   "apiProvider": "hybrid-skibanff-intermaps",
-  "scrapedAt": "2026-01-29T20:40:35.537Z",
+  "scrapedAt": "2026-01-29T19:36:11.849Z",
   "date": "2026-01-29",
   "Lifts": [
     {
@@ -201,8 +201,8 @@
     },
     {
       "Name": "GE. Eagle Glades",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Scheduled",
+      "IsOpen": false,
       "IsGroomed": false,
       "Difficulty": "DoubleBlack"
     },
@@ -1046,8 +1046,8 @@
         },
         {
           "Name": "GE. Eagle Glades",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Scheduled",
+          "IsOpen": false,
           "IsGroomed": false,
           "Difficulty": "DoubleBlack"
         },
@@ -1862,7 +1862,7 @@
   "_stats": {
     "liftsOpen": 12,
     "liftsTotal": 12,
-    "trailsOpen": 117,
+    "trailsOpen": 116,
     "trailsTotal": 120,
     "trailsGroomed": 47
   },

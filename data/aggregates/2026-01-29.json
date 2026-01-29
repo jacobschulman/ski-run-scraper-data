@@ -1,6 +1,10 @@
 {
   "date": "2026-01-29",
+<<<<<<< Updated upstream
+  "generated": "2026-01-29T13:30:08.047Z",
+=======
   "generated": "2026-01-29T13:47:54.535Z",
+>>>>>>> Stashed changes
   "superlatives": {
     "snow_overnight_max": {
       "resort": "cypressmountain",
@@ -90,7 +94,7 @@
       "resort": "whistlerblackcomb",
       "name": "Whistler Blackcomb",
       "region": "Western Canada",
-      "value": 142
+      "value": 144
     },
     "trails_groomed_pct_max": {
       "resort": "madrivermountain",
@@ -620,10 +624,52 @@
         "value": 1
       },
       {
+<<<<<<< Updated upstream
+        "resort": "blue",
+        "name": "Blue Mountain",
+        "region": "Eastern Canada",
+        "value": 1
+      },
+      {
+=======
+>>>>>>> Stashed changes
         "resort": "lakelouise",
         "name": "Lake Louise",
         "region": "Western Canada",
         "value": 0.4
+<<<<<<< Updated upstream
+      },
+      {
+        "resort": "vail",
+        "name": "Vail",
+        "region": "Colorado",
+        "value": 0
+      },
+      {
+        "resort": "beavercreek",
+        "name": "Beaver Creek",
+        "region": "Colorado",
+        "value": 0
+      },
+      {
+        "resort": "breckenridge",
+        "name": "Breckenridge",
+        "region": "Colorado",
+        "value": 0
+      },
+      {
+        "resort": "parkcity",
+        "name": "Park City",
+        "region": "Utah",
+        "value": 0
+      },
+      {
+        "resort": "keystone",
+        "name": "Keystone",
+        "region": "Colorado",
+        "value": 0
+=======
+>>>>>>> Stashed changes
       },
       {
         "resort": "heavenly",
@@ -1024,10 +1070,23 @@
         "value": 1
       },
       {
+<<<<<<< Updated upstream
+        "resort": "lakelouise",
+        "name": "Lake Louise",
+        "region": "Western Canada",
+        "value": 0.4
+      },
+      {
+        "resort": "vail",
+        "name": "Vail",
+        "region": "Colorado",
+        "value": 0
+=======
         "resort": "stratton",
         "name": "Stratton",
         "region": "Vermont",
         "value": 1
+>>>>>>> Stashed changes
       },
       {
         "resort": "solitude",
@@ -1494,12 +1553,15 @@
         "value": 2.4
       },
       {
+<<<<<<< Updated upstream
+=======
         "resort": "parkcity",
         "name": "Park City",
         "region": "Utah",
         "value": 2
       },
       {
+>>>>>>> Stashed changes
         "resort": "northstar",
         "name": "Northstar",
         "region": "California",
@@ -1518,12 +1580,15 @@
         "value": 2
       },
       {
+<<<<<<< Updated upstream
+=======
         "resort": "killington",
         "name": "Killington",
         "region": "Vermont",
         "value": 2
       },
       {
+>>>>>>> Stashed changes
         "resort": "norquay",
         "name": "Mt Norquay",
         "region": null,
@@ -2409,7 +2474,7 @@
         "resort": "parkcity",
         "name": "Park City",
         "region": "Utah",
-        "value": 222
+        "value": 224
       },
       {
         "resort": "palisades",
@@ -2436,16 +2501,16 @@
         "value": 172
       },
       {
+        "resort": "vail",
+        "name": "Vail",
+        "region": "Colorado",
+        "value": 171
+      },
+      {
         "resort": "lakelouise",
         "name": "Lake Louise",
         "region": "Western Canada",
         "value": 170
-      },
-      {
-        "resort": "vail",
-        "name": "Vail",
-        "region": "Colorado",
-        "value": 168
       },
       {
         "resort": "steamboat",
@@ -2490,6 +2555,12 @@
         "value": 123
       },
       {
+        "resort": "telluride",
+        "name": "Telluride",
+        "region": "Colorado",
+        "value": 119
+      },
+      {
         "resort": "deervalley",
         "name": "Deer Valley",
         "region": "Utah",
@@ -2500,12 +2571,6 @@
         "name": "Okemo",
         "region": "Vermont",
         "value": 117
-      },
-      {
-        "resort": "telluride",
-        "name": "Telluride",
-        "region": "Colorado",
-        "value": 115
       },
       {
         "resort": "aspenmountain",
@@ -2544,6 +2609,12 @@
         "value": 110
       },
       {
+        "resort": "breckenridge",
+        "name": "Breckenridge",
+        "region": "Colorado",
+        "value": 103
+      },
+      {
         "resort": "keystone",
         "name": "Keystone",
         "region": "Colorado",
@@ -2568,10 +2639,10 @@
         "value": 93
       },
       {
-        "resort": "breckenridge",
-        "name": "Breckenridge",
+        "resort": "beavercreek",
+        "name": "Beaver Creek",
         "region": "Colorado",
-        "value": 89
+        "value": 87
       },
       {
         "resort": "mountsnow",
@@ -2586,16 +2657,10 @@
         "value": 75
       },
       {
-        "resort": "beavercreek",
-        "name": "Beaver Creek",
-        "region": "Colorado",
-        "value": 71
-      },
-      {
         "resort": "aspenhighlands",
         "name": "Aspen Highlands",
         "region": "Colorado",
-        "value": 66
+        "value": 68
       },
       {
         "resort": "norquay",
@@ -3014,16 +3079,16 @@
         "value": 0.772
       },
       {
+        "resort": "telluride",
+        "name": "Telluride",
+        "region": "Colorado",
+        "value": 0.758
+      },
+      {
         "resort": "laurelmountain",
         "name": "Laurel Mountain",
         "region": "Pennsylvania",
         "value": 0.737
-      },
-      {
-        "resort": "telluride",
-        "name": "Telluride",
-        "region": "Colorado",
-        "value": 0.732
       },
       {
         "resort": "bigsky",
@@ -3041,7 +3106,7 @@
         "resort": "parkcity",
         "name": "Park City",
         "region": "Utah",
-        "value": 0.636
+        "value": 0.642
       },
       {
         "resort": "copper",
@@ -3050,16 +3115,16 @@
         "value": 0.624
       },
       {
+        "resort": "vail",
+        "name": "Vail",
+        "region": "Colorado",
+        "value": 0.617
+      },
+      {
         "resort": "palisades",
         "name": "Palisades Tahoe",
         "region": "California",
         "value": 0.615
-      },
-      {
-        "resort": "vail",
-        "name": "Vail",
-        "region": "Colorado",
-        "value": 0.606
       },
       {
         "resort": "paolipeaks",
@@ -3077,7 +3142,13 @@
         "resort": "aspenhighlands",
         "name": "Aspen Highlands",
         "region": "Colorado",
-        "value": 0.524
+        "value": 0.54
+      },
+      {
+        "resort": "breckenridge",
+        "name": "Breckenridge",
+        "region": "Colorado",
+        "value": 0.534
       },
       {
         "resort": "deervalley",
@@ -3086,22 +3157,16 @@
         "value": 0.52
       },
       {
-        "resort": "breckenridge",
-        "name": "Breckenridge",
+        "resort": "beavercreek",
+        "name": "Beaver Creek",
         "region": "Colorado",
-        "value": 0.461
+        "value": 0.475
       },
       {
         "resort": "cypressmountain",
         "name": "Cypress Mountain",
         "region": "Western Canada",
         "value": 0.458
-      },
-      {
-        "resort": "beavercreek",
-        "name": "Beaver Creek",
-        "region": "Colorado",
-        "value": 0.388
       },
       {
         "resort": "crystal",
@@ -3157,7 +3222,7 @@
         "resort": "whistlerblackcomb",
         "name": "Whistler Blackcomb",
         "region": "Western Canada",
-        "value": 142
+        "value": 144
       },
       {
         "resort": "mammoth",
@@ -3169,7 +3234,7 @@
         "resort": "vail",
         "name": "Vail",
         "region": "Colorado",
-        "value": 95
+        "value": 90
       },
       {
         "resort": "killington",
@@ -3196,16 +3261,16 @@
         "value": 77
       },
       {
+        "resort": "parkcity",
+        "name": "Park City",
+        "region": "Utah",
+        "value": 76
+      },
+      {
         "resort": "tremblant",
         "name": "Tremblant",
         "region": "Eastern Canada",
         "value": 75
-      },
-      {
-        "resort": "parkcity",
-        "name": "Park City",
-        "region": "Utah",
-        "value": 71
       },
       {
         "resort": "steamboat",
@@ -3235,7 +3300,7 @@
         "resort": "sugarloaf",
         "name": "Sugarloaf",
         "region": "New Hampshire/Maine",
-        "value": 59
+        "value": 58
       },
       {
         "resort": "loon",
@@ -3248,6 +3313,12 @@
         "name": "Heavenly",
         "region": "California",
         "value": 57
+      },
+      {
+        "resort": "northstar",
+        "name": "Northstar",
+        "region": "California",
+        "value": 50
       },
       {
         "resort": "keystone",
@@ -3274,12 +3345,6 @@
         "value": 47
       },
       {
-        "resort": "telluride",
-        "name": "Telluride",
-        "region": "Colorado",
-        "value": 46
-      },
-      {
         "resort": "kirkwood",
         "name": "Kirkwood",
         "region": "California",
@@ -3298,6 +3363,12 @@
         "value": 45
       },
       {
+        "resort": "telluride",
+        "name": "Telluride",
+        "region": "Colorado",
+        "value": 44
+      },
+      {
         "resort": "hunter",
         "name": "Hunter Mountain",
         "region": "New York",
@@ -3310,8 +3381,8 @@
         "value": 43
       },
       {
-        "resort": "copper",
-        "name": "Copper Mountain",
+        "resort": "breckenridge",
+        "name": "Breckenridge",
         "region": "Colorado",
         "value": 42
       },
@@ -3322,28 +3393,22 @@
         "value": 42
       },
       {
-        "resort": "breckenridge",
-        "name": "Breckenridge",
+        "resort": "cypressmountain",
+        "name": "Cypress Mountain",
+        "region": "Western Canada",
+        "value": 40
+      },
+      {
+        "resort": "copper",
+        "name": "Copper Mountain",
         "region": "Colorado",
-        "value": 41
+        "value": 39
       },
       {
         "resort": "crestedbutte",
         "name": "Crested Butte",
         "region": "Colorado",
-        "value": 41
-      },
-      {
-        "resort": "northstar",
-        "name": "Northstar",
-        "region": "California",
-        "value": 40
-      },
-      {
-        "resort": "cypressmountain",
-        "name": "Cypress Mountain",
-        "region": "Western Canada",
-        "value": 40
+        "value": 38
       },
       {
         "resort": "mountsunapee",
@@ -3373,19 +3438,13 @@
         "resort": "beavercreek",
         "name": "Beaver Creek",
         "region": "Colorado",
-        "value": 29
+        "value": 28
       },
       {
         "resort": "norquay",
         "name": "Mt Norquay",
         "region": null,
         "value": 27
-      },
-      {
-        "resort": "aspenmountain",
-        "name": "Aspen Mountain",
-        "region": "Colorado",
-        "value": 25
       },
       {
         "resort": "crystal",
@@ -3530,6 +3589,12 @@
         "name": "Snow Creek",
         "region": "Midwest",
         "value": 0
+      },
+      {
+        "resort": "aspenmountain",
+        "name": "Aspen Mountain",
+        "region": "Colorado",
+        "value": 0
       }
     ],
     "trails_groomed_pct": [
@@ -3660,28 +3725,22 @@
         "value": 0.6
       },
       {
+        "resort": "whistlerblackcomb",
+        "name": "Whistler Blackcomb",
+        "region": "Western Canada",
+        "value": 0.6
+      },
+      {
         "resort": "mammoth",
         "name": "Mammoth Mountain",
         "region": "California",
         "value": 0.594
       },
       {
-        "resort": "whistlerblackcomb",
-        "name": "Whistler Blackcomb",
-        "region": "Western Canada",
-        "value": 0.592
-      },
-      {
         "resort": "tremblant",
         "name": "Tremblant",
         "region": "Eastern Canada",
         "value": 0.586
-      },
-      {
-        "resort": "vail",
-        "name": "Vail",
-        "region": "Colorado",
-        "value": 0.565
       },
       {
         "resort": "sundayriver",
@@ -3694,6 +3753,18 @@
         "name": "Stowe",
         "region": "Vermont",
         "value": 0.544
+      },
+      {
+        "resort": "vail",
+        "name": "Vail",
+        "region": "Colorado",
+        "value": 0.526
+      },
+      {
+        "resort": "northstar",
+        "name": "Northstar",
+        "region": "California",
+        "value": 0.521
       },
       {
         "resort": "stratton",
@@ -3732,18 +3803,6 @@
         "value": 0.467
       },
       {
-        "resort": "breckenridge",
-        "name": "Breckenridge",
-        "region": "Colorado",
-        "value": 0.461
-      },
-      {
-        "resort": "crestedbutte",
-        "name": "Crested Butte",
-        "region": "Colorado",
-        "value": 0.441
-      },
-      {
         "resort": "steamboat",
         "name": "Steamboat",
         "region": "Colorado",
@@ -3756,22 +3815,16 @@
         "value": 0.42
       },
       {
-        "resort": "northstar",
-        "name": "Northstar",
-        "region": "California",
-        "value": 0.417
-      },
-      {
         "resort": "palisades",
         "name": "Palisades Tahoe",
         "region": "California",
         "value": 0.416
       },
       {
-        "resort": "sugarloaf",
-        "name": "Sugarloaf",
-        "region": "New Hampshire/Maine",
-        "value": 0.41
+        "resort": "crestedbutte",
+        "name": "Crested Butte",
+        "region": "Colorado",
+        "value": 0.409
       },
       {
         "resort": "kirkwood",
@@ -3786,8 +3839,8 @@
         "value": 0.409
       },
       {
-        "resort": "beavercreek",
-        "name": "Beaver Creek",
+        "resort": "breckenridge",
+        "name": "Breckenridge",
         "region": "Colorado",
         "value": 0.408
       },
@@ -3798,10 +3851,16 @@
         "value": 0.405
       },
       {
+        "resort": "sugarloaf",
+        "name": "Sugarloaf",
+        "region": "New Hampshire/Maine",
+        "value": 0.403
+      },
+      {
         "resort": "telluride",
         "name": "Telluride",
         "region": "Colorado",
-        "value": 0.4
+        "value": 0.37
       },
       {
         "resort": "banff",
@@ -3816,22 +3875,16 @@
         "value": 0.361
       },
       {
-        "resort": "copper",
-        "name": "Copper Mountain",
-        "region": "Colorado",
-        "value": 0.333
-      },
-      {
         "resort": "parkcity",
         "name": "Park City",
         "region": "Utah",
-        "value": 0.32
+        "value": 0.339
       },
       {
-        "resort": "aspenhighlands",
-        "name": "Aspen Highlands",
+        "resort": "beavercreek",
+        "name": "Beaver Creek",
         "region": "Colorado",
-        "value": 0.318
+        "value": 0.322
       },
       {
         "resort": "junemountain",
@@ -3840,16 +3893,22 @@
         "value": 0.318
       },
       {
+        "resort": "copper",
+        "name": "Copper Mountain",
+        "region": "Colorado",
+        "value": 0.31
+      },
+      {
+        "resort": "aspenhighlands",
+        "name": "Aspen Highlands",
+        "region": "Colorado",
+        "value": 0.309
+      },
+      {
         "resort": "snowbird",
         "name": "Snowbird",
         "region": "Utah",
         "value": 0.269
-      },
-      {
-        "resort": "aspenmountain",
-        "name": "Aspen Mountain",
-        "region": "Colorado",
-        "value": 0.217
       },
       {
         "resort": "lakelouise",
@@ -3910,6 +3969,12 @@
         "name": "Snow Creek",
         "region": "Midwest",
         "value": 0
+      },
+      {
+        "resort": "aspenmountain",
+        "name": "Aspen Mountain",
+        "region": "Colorado",
+        "value": 0
       }
     ],
     "lifts_open_count": [
@@ -3948,6 +4013,18 @@
         "name": "Mt Norquay",
         "region": null,
         "value": 6
+      },
+      {
+        "resort": "tremblant",
+        "name": "Tremblant",
+        "region": "Eastern Canada",
+        "value": 3
+      },
+      {
+        "resort": "sugarbush",
+        "name": "Sugarbush",
+        "region": "Vermont",
+        "value": 1
       },
       {
         "resort": "vail",
@@ -4256,12 +4333,6 @@
         "value": 0
       },
       {
-        "resort": "sugarbush",
-        "name": "Sugarbush",
-        "region": "Vermont",
-        "value": 0
-      },
-      {
         "resort": "sugarloaf",
         "name": "Sugarloaf",
         "region": "New Hampshire/Maine",
@@ -4271,12 +4342,6 @@
         "resort": "sundayriver",
         "name": "Sunday River",
         "region": "New Hampshire/Maine",
-        "value": 0
-      },
-      {
-        "resort": "tremblant",
-        "name": "Tremblant",
-        "region": "Eastern Canada",
         "value": 0
       },
       {
@@ -4330,6 +4395,18 @@
         "value": 0.545
       },
       {
+        "resort": "tremblant",
+        "name": "Tremblant",
+        "region": "Eastern Canada",
+        "value": 0.214
+      },
+      {
+        "resort": "sugarbush",
+        "name": "Sugarbush",
+        "region": "Vermont",
+        "value": 0.063
+      },
+      {
         "resort": "vail",
         "name": "Vail",
         "region": "Colorado",
@@ -4636,12 +4713,6 @@
         "value": 0
       },
       {
-        "resort": "sugarbush",
-        "name": "Sugarbush",
-        "region": "Vermont",
-        "value": 0
-      },
-      {
         "resort": "sugarloaf",
         "name": "Sugarloaf",
         "region": "New Hampshire/Maine",
@@ -4651,12 +4722,6 @@
         "resort": "sundayriver",
         "name": "Sunday River",
         "region": "New Hampshire/Maine",
-        "value": 0
-      },
-      {
-        "resort": "tremblant",
-        "name": "Tremblant",
-        "region": "Eastern Canada",
         "value": 0
       },
       {
@@ -4692,17 +4757,23 @@
       "resort_count": 12,
       "resorts_reporting": 12,
       "totals": {
-        "trails_open": 1148,
-        "trails_groomed": 481,
+        "trails_open": 1187,
+        "trails_groomed": 443,
         "trails_total": 1833,
         "lifts_open": 18,
         "snow_24h": 10
       },
       "averages": {
         "base_depth": 28.11,
+<<<<<<< Updated upstream
+        "trails_open_pct": 0.67,
+        "trails_groomed_pct": 0.37,
+        "snow_overnight": 0
+=======
         "trails_open_pct": 0.65,
         "trails_groomed_pct": 0.41,
         "snow_overnight": 1
+>>>>>>> Stashed changes
       }
     },
     "New Mexico": {
@@ -4736,8 +4807,8 @@
       "resort_count": 5,
       "resorts_reporting": 5,
       "totals": {
-        "trails_open": 619,
-        "trails_groomed": 216,
+        "trails_open": 621,
+        "trails_groomed": 221,
         "trails_total": 883,
         "lifts_open": 0,
         "snow_24h": 2
@@ -4762,7 +4833,7 @@
       "resorts_reporting": 6,
       "totals": {
         "trails_open": 726,
-        "trails_groomed": 340,
+        "trails_groomed": 350,
         "trails_total": 865,
         "lifts_open": 0,
         "snow_24h": 5
@@ -4770,7 +4841,7 @@
       "averages": {
         "base_depth": 45.5,
         "trails_open_pct": 0.91,
-        "trails_groomed_pct": 0.44,
+        "trails_groomed_pct": 0.46,
         "snow_overnight": 0.33
       }
     },
@@ -4831,8 +4902,13 @@
         "trails_open": 723,
         "trails_groomed": 385,
         "trails_total": 830,
+<<<<<<< Updated upstream
+        "lifts_open": 1,
+        "snow_24h": 9
+=======
         "lifts_open": 0,
         "snow_24h": 2
+>>>>>>> Stashed changes
       },
       "averages": {
         "base_depth": 28,
@@ -4855,7 +4931,7 @@
       "resorts_reporting": 7,
       "totals": {
         "trails_open": 557,
-        "trails_groomed": 296,
+        "trails_groomed": 295,
         "trails_total": 621,
         "lifts_open": 9,
         "snow_24h": 0
@@ -4954,7 +5030,11 @@
       "resorts_reporting": 5,
       "totals": {
         "trails_open": 569,
+<<<<<<< Updated upstream
+        "trails_groomed": 258,
+=======
         "trails_groomed": 256,
+>>>>>>> Stashed changes
         "trails_total": 691,
         "lifts_open": 25,
         "snow_24h": 6.4
@@ -4977,8 +5057,13 @@
         "trails_open": 188,
         "trails_groomed": 122,
         "trails_total": 193,
+<<<<<<< Updated upstream
+        "lifts_open": 3,
+        "snow_24h": 2
+=======
         "lifts_open": 0,
         "snow_24h": 1
+>>>>>>> Stashed changes
       },
       "averages": {
         "base_depth": 35,
@@ -5024,13 +5109,13 @@
         "base_depth": 36
       },
       "terrain": {
-        "trails_open": 168,
+        "trails_open": 171,
         "trails_total": 277,
-        "trails_open_pct": 0.606,
-        "trails_groomed": 95,
-        "trails_groomed_pct": 0.565,
+        "trails_open_pct": 0.617,
+        "trails_groomed": 90,
+        "trails_groomed_pct": 0.526,
         "lifts_open": 0,
-        "lifts_total": 32,
+        "lifts_total": 33,
         "lifts_open_pct": 0
       },
       "forecast": {
@@ -5079,8 +5164,13 @@
         ],
         "total_snow_expected": 0
       },
+<<<<<<< Updated upstream
+      "lastSnowDate": "2026-01-28",
+      "lastTerrainDate": "2026-01-29"
+=======
       "lastSnowDate": "2026-01-29",
       "lastTerrainDate": "2026-01-28"
+>>>>>>> Stashed changes
     },
     "beavercreek": {
       "name": "Beaver Creek",
@@ -5095,11 +5185,11 @@
         "base_depth": 28
       },
       "terrain": {
-        "trails_open": 71,
+        "trails_open": 87,
         "trails_total": 183,
-        "trails_open_pct": 0.388,
-        "trails_groomed": 29,
-        "trails_groomed_pct": 0.408,
+        "trails_open_pct": 0.475,
+        "trails_groomed": 28,
+        "trails_groomed_pct": 0.322,
         "lifts_open": 0,
         "lifts_total": 25,
         "lifts_open_pct": 0
@@ -5150,8 +5240,13 @@
         ],
         "total_snow_expected": 0
       },
+<<<<<<< Updated upstream
+      "lastSnowDate": "2026-01-28",
+      "lastTerrainDate": "2026-01-29"
+=======
       "lastSnowDate": "2026-01-29",
       "lastTerrainDate": "2026-01-28"
+>>>>>>> Stashed changes
     },
     "breckenridge": {
       "name": "Breckenridge",
@@ -5166,11 +5261,11 @@
         "base_depth": 26
       },
       "terrain": {
-        "trails_open": 89,
+        "trails_open": 103,
         "trails_total": 193,
-        "trails_open_pct": 0.461,
-        "trails_groomed": 41,
-        "trails_groomed_pct": 0.461,
+        "trails_open_pct": 0.534,
+        "trails_groomed": 42,
+        "trails_groomed_pct": 0.408,
         "lifts_open": 0,
         "lifts_total": 35,
         "lifts_open_pct": 0
@@ -5221,8 +5316,13 @@
         ],
         "total_snow_expected": 0
       },
+<<<<<<< Updated upstream
+      "lastSnowDate": "2026-01-28",
+      "lastTerrainDate": "2026-01-29"
+=======
       "lastSnowDate": "2026-01-29",
       "lastTerrainDate": "2026-01-28"
+>>>>>>> Stashed changes
     },
     "parkcity": {
       "name": "Park City",
@@ -5237,11 +5337,11 @@
         "base_depth": 41
       },
       "terrain": {
-        "trails_open": 222,
+        "trails_open": 224,
         "trails_total": 349,
-        "trails_open_pct": 0.636,
-        "trails_groomed": 71,
-        "trails_groomed_pct": 0.32,
+        "trails_open_pct": 0.642,
+        "trails_groomed": 76,
+        "trails_groomed_pct": 0.339,
         "lifts_open": 0,
         "lifts_total": 43,
         "lifts_open_pct": 0
@@ -5292,8 +5392,13 @@
         ],
         "total_snow_expected": 0
       },
+<<<<<<< Updated upstream
+      "lastSnowDate": "2026-01-28",
+      "lastTerrainDate": "2026-01-29"
+=======
       "lastSnowDate": "2026-01-29",
       "lastTerrainDate": "2026-01-28"
+>>>>>>> Stashed changes
     },
     "keystone": {
       "name": "Keystone",
@@ -5363,8 +5468,13 @@
         ],
         "total_snow_expected": 0
       },
+<<<<<<< Updated upstream
+      "lastSnowDate": "2026-01-28",
+      "lastTerrainDate": "2026-01-29"
+=======
       "lastSnowDate": "2026-01-29",
       "lastTerrainDate": "2026-01-28"
+>>>>>>> Stashed changes
     },
     "crestedbutte": {
       "name": "Crested Butte",
@@ -5375,15 +5485,15 @@
         "trails_open": 93,
         "trails_total": 168,
         "trails_open_pct": 0.554,
-        "trails_groomed": 41,
-        "trails_groomed_pct": 0.441,
+        "trails_groomed": 38,
+        "trails_groomed_pct": 0.409,
         "lifts_open": 0,
         "lifts_total": 15,
         "lifts_open_pct": 0
       },
       "forecast": null,
       "lastSnowDate": null,
-      "lastTerrainDate": "2026-01-28"
+      "lastTerrainDate": "2026-01-29"
     },
     "heavenly": {
       "name": "Heavenly",
@@ -5453,8 +5563,13 @@
         ],
         "total_snow_expected": 0
       },
+<<<<<<< Updated upstream
+      "lastSnowDate": "2026-01-28",
+      "lastTerrainDate": "2026-01-29"
+=======
       "lastSnowDate": "2026-01-29",
       "lastTerrainDate": "2026-01-28"
+>>>>>>> Stashed changes
     },
     "northstar": {
       "name": "Northstar",
@@ -5472,8 +5587,8 @@
         "trails_open": 96,
         "trails_total": 103,
         "trails_open_pct": 0.932,
-        "trails_groomed": 40,
-        "trails_groomed_pct": 0.417,
+        "trails_groomed": 50,
+        "trails_groomed_pct": 0.521,
         "lifts_open": 0,
         "lifts_total": 19,
         "lifts_open_pct": 0
@@ -5524,8 +5639,13 @@
         ],
         "total_snow_expected": 0
       },
+<<<<<<< Updated upstream
+      "lastSnowDate": "2026-01-28",
+      "lastTerrainDate": "2026-01-29"
+=======
       "lastSnowDate": "2026-01-29",
       "lastTerrainDate": "2026-01-28"
+>>>>>>> Stashed changes
     },
     "kirkwood": {
       "name": "Kirkwood",
@@ -5595,8 +5715,13 @@
         ],
         "total_snow_expected": 0
       },
+<<<<<<< Updated upstream
+      "lastSnowDate": "2026-01-28",
+      "lastTerrainDate": "2026-01-29"
+=======
       "lastSnowDate": "2026-01-29",
       "lastTerrainDate": "2026-01-28"
+>>>>>>> Stashed changes
     },
     "stevenspass": {
       "name": "Stevens Pass",
@@ -5615,7 +5740,7 @@
       },
       "forecast": null,
       "lastSnowDate": null,
-      "lastTerrainDate": "2026-01-28"
+      "lastTerrainDate": "2026-01-29"
     },
     "stowe": {
       "name": "Stowe",
@@ -7356,8 +7481,8 @@
         "trails_open": 240,
         "trails_total": 305,
         "trails_open_pct": 0.787,
-        "trails_groomed": 142,
-        "trails_groomed_pct": 0.592,
+        "trails_groomed": 144,
+        "trails_groomed_pct": 0.6,
         "lifts_open": 0,
         "lifts_total": 36,
         "lifts_open_pct": 0
@@ -7408,8 +7533,13 @@
         ],
         "total_snow_expected": 17
       },
+<<<<<<< Updated upstream
+      "lastSnowDate": "2026-01-28",
+      "lastTerrainDate": "2026-01-29"
+=======
       "lastSnowDate": "2026-01-29",
       "lastTerrainDate": "2026-01-28"
+>>>>>>> Stashed changes
     },
     "perisher": {
       "name": "Perisher",
@@ -7447,18 +7577,18 @@
       "has_data": true,
       "snow": null,
       "terrain": {
-        "trails_open": 115,
+        "trails_open": 119,
         "trails_total": 157,
-        "trails_open_pct": 0.732,
-        "trails_groomed": 46,
-        "trails_groomed_pct": 0.4,
+        "trails_open_pct": 0.758,
+        "trails_groomed": 44,
+        "trails_groomed_pct": 0.37,
         "lifts_open": 0,
         "lifts_total": 0,
         "lifts_open_pct": 0
       },
       "forecast": null,
       "lastSnowDate": null,
-      "lastTerrainDate": "2026-01-28"
+      "lastTerrainDate": "2026-01-29"
     },
     "stratton": {
       "name": "Stratton",
@@ -7987,11 +8117,11 @@
         "base_depth": 37
       },
       "terrain": {
-        "trails_open": 66,
+        "trails_open": 68,
         "trails_total": 126,
-        "trails_open_pct": 0.524,
+        "trails_open_pct": 0.54,
         "trails_groomed": 21,
-        "trails_groomed_pct": 0.318,
+        "trails_groomed_pct": 0.309,
         "lifts_open": 0,
         "lifts_total": 0,
         "lifts_open_pct": 0
@@ -8113,7 +8243,82 @@
         ],
         "total_snow_expected": 1
       },
+<<<<<<< Updated upstream
+      "lastSnowDate": "2026-01-28",
+      "lastTerrainDate": "2026-01-29"
+    },
+    "aspenmountain": {
+      "name": "Aspen Mountain",
+      "region": "Colorado",
+      "has_data": true,
+      "snow": {
+        "overnight": 0,
+        "24h": 0,
+        "48h": 0,
+        "7day": 13,
+        "season": 0,
+        "base_depth": 23
+      },
+      "terrain": {
+        "trails_open": 115,
+        "trails_total": 140,
+        "trails_open_pct": 0.821,
+        "trails_groomed": 0,
+        "trails_groomed_pct": 0,
+        "lifts_open": 0,
+        "lifts_total": 0,
+        "lifts_open_pct": 0
+      },
+      "forecast": {
+        "today": {
+          "high_f": null,
+          "low_f": 9,
+          "description": "Cloudy",
+          "snow_inches": 1
+        },
+        "upcoming_days": [
+          {
+            "date": "2026-01-28",
+            "high_f": null,
+            "low_f": 9,
+            "description": "Cloudy",
+            "snow_inches": 1
+          },
+          {
+            "date": "2026-01-29",
+            "high_f": 16,
+            "low_f": 9,
+            "description": "Partly Cloudy",
+            "snow_inches": 1
+          },
+          {
+            "date": "2026-01-30",
+            "high_f": 20,
+            "low_f": 12,
+            "description": "Mostly Sunny",
+            "snow_inches": 0
+          },
+          {
+            "date": "2026-01-31",
+            "high_f": 27,
+            "low_f": 16,
+            "description": "Mostly Sunny",
+            "snow_inches": 0
+          },
+          {
+            "date": "2026-02-01",
+            "high_f": 34,
+            "low_f": 20,
+            "description": "Sunny",
+            "snow_inches": 0
+          }
+        ],
+        "total_snow_expected": 2
+      },
+      "lastSnowDate": "2026-01-28",
+=======
       "lastSnowDate": "2026-01-29",
+>>>>>>> Stashed changes
       "lastTerrainDate": "2026-01-29"
     },
     "buttermilk": {
@@ -8203,8 +8408,8 @@
         "trails_open": 126,
         "trails_total": 202,
         "trails_open_pct": 0.624,
-        "trails_groomed": 42,
-        "trails_groomed_pct": 0.333,
+        "trails_groomed": 39,
+        "trails_groomed_pct": 0.31,
         "lifts_open": 18,
         "lifts_total": 23,
         "lifts_open_pct": 0.783
@@ -8755,9 +8960,9 @@
         "trails_open_pct": 0.782,
         "trails_groomed": 45,
         "trails_groomed_pct": 0.405,
-        "lifts_open": 0,
+        "lifts_open": 1,
         "lifts_total": 16,
-        "lifts_open_pct": 0
+        "lifts_open_pct": 0.063
       },
       "forecast": {
         "today": {
@@ -8824,8 +9029,8 @@
         "trails_open": 144,
         "trails_total": 176,
         "trails_open_pct": 0.818,
-        "trails_groomed": 59,
-        "trails_groomed_pct": 0.41,
+        "trails_groomed": 58,
+        "trails_groomed_pct": 0.403,
         "lifts_open": 0,
         "lifts_total": 15,
         "lifts_open_pct": 0
@@ -9039,9 +9244,9 @@
         "trails_open_pct": 0.992,
         "trails_groomed": 75,
         "trails_groomed_pct": 0.586,
-        "lifts_open": 0,
+        "lifts_open": 3,
         "lifts_total": 14,
-        "lifts_open_pct": 0
+        "lifts_open_pct": 0.214
       },
       "forecast": {
         "today": {
@@ -9470,11 +9675,17 @@
   "totals": {
     "resorts_total": 70,
     "resorts_reporting": 67,
-    "trails_open": 5242,
+    "trails_open": 5283,
     "trails_total": 7025,
+<<<<<<< Updated upstream
+    "trails_groomed": 2406,
+    "lifts_open": 68,
+    "snow_24h_sum": 38.4
+=======
     "trails_groomed": 2428,
     "lifts_open": 64,
     "snow_24h_sum": 40.4
+>>>>>>> Stashed changes
   },
   "coverage": {
     "with_snow_data": [

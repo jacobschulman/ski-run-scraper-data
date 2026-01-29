@@ -2,7 +2,7 @@
   "resort": "solitude",
   "resortName": "Solitude",
   "date": "2026-01-29",
-  "generated": "2026-01-29T15:43:59.016Z",
+  "generated": "2026-01-29T14:44:53.243Z",
   "rawData": {
     "snow": {
       "overnight_inches": 1,
@@ -28,22 +28,16 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 34,
+          "today": 35,
           "yesterday": 35,
-          "delta": -1
+          "delta": 0
         },
         "totalTrails": 107
       },
       "newlyOpened": [],
       "newlyClosed": [],
       "newlyGroomed": [],
-      "ungroomed": [
-        {
-          "name": "Woodlawn",
-          "difficulty": "Difficult",
-          "area": "Honeycomb Canyon"
-        }
-      ]
+      "ungroomed": []
     },
     "lifts": {
       "available": true,
@@ -129,7 +123,7 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "A Little Sugar on Top",
+    "headline": "Overnight Refresh",
     "body": "1\" fell while you were sleeping. The bumps are softer, groomers are primo. Clear skies and 25° means stunning views and firm snow. Layer up.",
     "debug": {
       "firedRules": [
@@ -155,10 +149,10 @@
       "totalRulesFired": 4,
       "headlineSelection": {
         "condition": "fresh_coat",
-        "variationIndex": 1,
+        "variationIndex": 3,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Overnight Refresh"
+        "previousHeadline": "Quiet Days on the Hill"
       },
       "dayOfWeek": "Thursday"
     }

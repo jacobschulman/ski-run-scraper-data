@@ -2,7 +2,7 @@
   "resort": "buttermilk",
   "resortName": "Buttermilk",
   "date": "2026-01-29",
-  "generated": "2026-01-29T15:43:59.125Z",
+  "generated": "2026-01-29T14:44:53.348Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -28,21 +28,15 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 22,
+          "today": 21,
           "yesterday": 21,
-          "delta": 1
+          "delta": 0
         },
         "totalTrails": 52
       },
       "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [
-        {
-          "name": "Bear",
-          "difficulty": "Blue",
-          "area": "Main"
-        }
-      ],
+      "newlyGroomed": [],
       "ungroomed": []
     },
     "lifts": {
@@ -112,15 +106,11 @@
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [
-      "1 trail freshly groomed"
-    ],
+    "alerts": [],
     "trends": [
       "Steady snowfall - 7\" in last 7 days"
     ],
-    "recommendations": [
-      "Fresh corduroy on Bear - perfect for intermediate skiers"
-    ]
+    "recommendations": []
   },
   "morningBrief": {
     "headline": "Midweek Bliss",

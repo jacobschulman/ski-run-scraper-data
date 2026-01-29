@@ -1,6 +1,6 @@
 {
   "ResortId": "loon",
-  "Date": "2026-01-29T15:08:00Z",
+  "Date": "2026-01-29T13:02:56Z",
   "GroomingAreas": [
     {
       "Name": "North Peak",
@@ -960,8 +960,8 @@
         },
         {
           "Name": "Springboard",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "On Hold",
+          "IsOpen": false,
           "Difficulty": "Blue",
           "IsGroomed": true,
           "GroomingStatus": "Groomed",

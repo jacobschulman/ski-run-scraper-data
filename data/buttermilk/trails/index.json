@@ -19,10 +19,10 @@
       "slug": "bear",
       "area": "Main",
       "difficulty": "Blue",
-      "isGroomedToday": true,
+      "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 18,
-      "currentStreak": 1,
+      "groomingPercentage": 14,
+      "currentStreak": 0,
       "longestStreak": 1
     },
     {
@@ -565,5 +565,5 @@
       "longestStreak": 5
     }
   ],
-  "lastUpdated": "2026-01-29T15:55:42.125Z"
+  "lastUpdated": "2026-01-29T14:57:43.115Z"
 }

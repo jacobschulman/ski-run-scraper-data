@@ -1,5 +1,5 @@
 {
-  "Date": "2026-01-29T08:28:43-0700",
+  "Date": "2026-01-29T07:33:56-0700",
   "GroomingAreas": [
     {
       "Name": "Moonbeam Area",
@@ -144,8 +144,8 @@
       "Lifts": [
         {
           "Name": "Link",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Scheduled",
+          "IsOpen": false,
           "LiftType": "Double",
           "WaitTime": "--",
           "WaitTimeString": "-- min",
@@ -183,8 +183,8 @@
         },
         {
           "Name": "Moonbeam Express",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Scheduled",
+          "IsOpen": false,
           "LiftType": "High-Speed Quad",
           "WaitTime": "--",
           "WaitTimeString": "-- min",
@@ -222,8 +222,8 @@
         },
         {
           "Name": "Magic Carpet",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Scheduled",
+          "IsOpen": false,
           "LiftType": "Magic Carpet",
           "WaitTime": "--",
           "WaitTimeString": "-- min",
@@ -1390,8 +1390,8 @@
       "Lifts": [
         {
           "Name": "Apex Express",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Scheduled",
+          "IsOpen": false,
           "LiftType": "High-Speed Quad",
           "WaitTime": "--",
           "WaitTimeString": "-- min",
@@ -1736,8 +1736,8 @@
           "Status": "Open",
           "IsOpen": true,
           "Difficulty": "Difficult",
-          "IsGroomed": false,
-          "GroomingStatus": null,
+          "IsGroomed": true,
+          "GroomingStatus": "Yes",
           "TrailType": "Skiing",
           "Moguls": "No",
           "Glades": "No",
@@ -1746,7 +1746,7 @@
           "SnowMaking": "No",
           "NightSkiing": "No",
           "Nordic": "No",
-          "_inspectorGrooming": "No"
+          "_inspectorGrooming": "Yes"
         }
       ],
       "Lifts": [
@@ -2237,8 +2237,8 @@
   "Lifts": [
     {
       "Name": "Link",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Scheduled",
+      "IsOpen": false,
       "LiftType": "Double",
       "WaitTime": "--",
       "WaitTimeString": "-- min",
@@ -2276,8 +2276,8 @@
     },
     {
       "Name": "Moonbeam Express",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Scheduled",
+      "IsOpen": false,
       "LiftType": "High-Speed Quad",
       "WaitTime": "--",
       "WaitTimeString": "-- min",
@@ -2315,8 +2315,8 @@
     },
     {
       "Name": "Magic Carpet",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Scheduled",
+      "IsOpen": false,
       "LiftType": "Magic Carpet",
       "WaitTime": "--",
       "WaitTimeString": "-- min",
@@ -2432,8 +2432,8 @@
     },
     {
       "Name": "Apex Express",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Scheduled",
+      "IsOpen": false,
       "LiftType": "High-Speed Quad",
       "WaitTime": "--",
       "WaitTimeString": "-- min",
@@ -2623,7 +2623,7 @@
     "TotalOpenTrails": 72,
     "TotalTrails": 82,
     "TotalTrailsMakingSnow": 0,
-    "GroomedTrails": 23,
+    "GroomedTrails": 24,
     "TotalOpenLifts": 8,
     "TotalLifts": 8,
     "TotalOpenActivities": 7,

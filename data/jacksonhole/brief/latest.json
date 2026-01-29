@@ -2,7 +2,7 @@
   "resort": "jacksonhole",
   "resortName": "Jackson Hole",
   "date": "2026-01-29",
-  "generated": "2026-01-29T21:35:52.915Z",
+  "generated": "2026-01-29T20:40:24.960Z",
   "rawData": {
     "snow": {
       "overnight_inches": 1,
@@ -23,14 +23,14 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 116,
+          "today": 114,
           "yesterday": 112,
-          "delta": 4
+          "delta": 2
         },
         "groomedTrails": {
-          "today": 47,
+          "today": 43,
           "yesterday": 47,
-          "delta": 0
+          "delta": -4
         },
         "totalTrails": 145
       },
@@ -41,23 +41,13 @@
           "area": "All Terrain"
         },
         {
-          "name": "Togwotee Pass Traverse",
-          "difficulty": "Blue",
+          "name": "Headwall",
+          "difficulty": "Black",
           "area": "All Terrain"
         },
         {
-          "name": "Moran (Lower)",
-          "difficulty": "Blue",
-          "area": "All Terrain"
-        },
-        {
-          "name": "Crags Run",
-          "difficulty": "Blue",
-          "area": "All Terrain"
-        },
-        {
-          "name": "Moran (Upper)",
-          "difficulty": "Blue",
+          "name": "Coombs",
+          "difficulty": "Black",
           "area": "All Terrain"
         },
         {
@@ -78,23 +68,7 @@
           "area": "All Terrain"
         }
       ],
-      "newlyGroomed": [
-        {
-          "name": "Moran (Lower)",
-          "difficulty": "Blue",
-          "area": "All Terrain"
-        },
-        {
-          "name": "Crags Run",
-          "difficulty": "Blue",
-          "area": "All Terrain"
-        },
-        {
-          "name": "Moran (Upper)",
-          "difficulty": "Blue",
-          "area": "All Terrain"
-        }
-      ],
+      "newlyGroomed": [],
       "ungroomed": [
         {
           "name": "Sleeping Indian",
@@ -139,21 +113,16 @@
     },
     "alerts": [
       "1\" new snow overnight",
-      "6 new trails opened today",
-      "3 trails freshly groomed"
+      "4 new trails opened today"
     ],
     "trends": [
-      "4 more trails open than yesterday"
+      "2 more trails open than yesterday"
     ],
-    "recommendations": [
-      "Fresh corduroy on Moran (Lower) - perfect for intermediate skiers",
-      "Fresh corduroy on Crags Run - perfect for intermediate skiers",
-      "Fresh corduroy on Moran (Upper) - perfect for intermediate skiers"
-    ]
+    "recommendations": []
   },
   "morningBrief": {
     "headline": "Fresh Layer in Place",
-    "body": "The mountain got a nice 2\" touch-up. Expect improved conditions. 6 more trails opened today, expanding your options.",
+    "body": "The mountain got a nice 2\" touch-up. Expect improved conditions. 4 new trails opened today.",
     "debug": {
       "firedRules": [
         {
@@ -169,9 +138,9 @@
           "usedFor": "body"
         },
         {
-          "id": "terrain_few",
+          "id": "terrain_micro",
           "category": "terrain",
-          "priority": 60,
+          "priority": 45,
           "usedFor": "body"
         }
       ],

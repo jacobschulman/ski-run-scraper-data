@@ -2,7 +2,7 @@
   "resort": "palisades",
   "resortName": "Palisades Tahoe",
   "date": "2026-01-29",
-  "generated": "2026-01-29T23:34:20.076Z",
+  "generated": "2026-01-29T22:36:18.518Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,14 +23,14 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 205,
+          "today": 206,
           "yesterday": 185,
-          "delta": 20
+          "delta": 21
         },
         "groomedTrails": {
-          "today": 79,
+          "today": 77,
           "yesterday": 77,
-          "delta": 2
+          "delta": 0
         },
         "totalTrails": 301
       },
@@ -148,18 +148,7 @@
           "area": "Emigrant Peak"
         }
       ],
-      "newlyGroomed": [
-        {
-          "name": "Bill's Boardwalk",
-          "difficulty": "Intermediate",
-          "area": "Palisades Peak"
-        },
-        {
-          "name": "Groove Tube",
-          "difficulty": "Intermediate",
-          "area": "Palisades Peak"
-        }
-      ],
+      "newlyGroomed": [],
       "ungroomed": []
     },
     "lifts": {
@@ -240,20 +229,16 @@
       "highLiftDemand": false
     },
     "alerts": [
-      "21 new trails opened today",
-      "2 trails freshly groomed"
+      "21 new trails opened today"
     ],
     "trends": [
-      "20 more trails open than yesterday"
+      "21 more trails open than yesterday"
     ],
-    "recommendations": [
-      "Fresh corduroy on Bill's Boardwalk - all skill levels",
-      "Fresh corduroy on Groove Tube - all skill levels"
-    ]
+    "recommendations": []
   },
   "morningBrief": {
-    "headline": "Big Expansion Today",
-    "body": "The rundown: 205 trails open, 79 groomed. Mostly Cloudy with temps around 43°. 21 additional trails are now available. Lots of new ground to cover.",
+    "headline": "Patrol Won't Quit",
+    "body": "The rundown: 206 trails open, 77 groomed. Mostly Cloudy with temps around 43°. 21 additional trails are now available. Lots of new ground to cover.",
     "debug": {
       "firedRules": [
         {
@@ -281,7 +266,7 @@
         "variationIndex": 1,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Patrol Won't Quit"
+        "previousHeadline": "Big Expansion Today"
       },
       "dayOfWeek": "Thursday"
     }

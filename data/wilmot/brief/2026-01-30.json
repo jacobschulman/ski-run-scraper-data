@@ -2,7 +2,7 @@
   "resort": "wilmot",
   "resortName": "Wilmot Mountain",
   "date": "2026-01-30",
-  "generated": "2026-01-30T16:52:00.246Z",
+  "generated": "2026-01-30T15:43:55.424Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,14 +23,14 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 17,
+          "today": 0,
           "yesterday": 18,
-          "delta": -1
+          "delta": -18
         },
         "groomedTrails": {
-          "today": 16,
+          "today": 0,
           "yesterday": 17,
-          "delta": -1
+          "delta": -17
         },
         "totalTrails": 26
       },
@@ -40,6 +40,91 @@
           "name": "Bunny West",
           "difficulty": "Green",
           "area": "Beginner Area"
+        },
+        {
+          "name": "Turtle",
+          "difficulty": "Green",
+          "area": "Beginner Area"
+        },
+        {
+          "name": "Broadway",
+          "difficulty": "Green",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Competition",
+          "difficulty": "Black",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Exhibition",
+          "difficulty": "Black",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Heartland",
+          "difficulty": "Black",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Inspiration",
+          "difficulty": "Blue",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Paradise",
+          "difficulty": "Blue",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Ridge Run",
+          "difficulty": "Black",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Sidewinder",
+          "difficulty": "Black",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Snowbowl",
+          "difficulty": "Black",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Sundance",
+          "difficulty": "Blue",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Sunnyside",
+          "difficulty": "Blue",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Superior",
+          "difficulty": "Black",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Upper Cat Trail",
+          "difficulty": "Green",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Walter's Folly",
+          "difficulty": "Blue",
+          "area": "Main Hill"
+        },
+        {
+          "name": "The Gully",
+          "difficulty": "TerrainPark",
+          "area": "Terrain Park"
+        },
+        {
+          "name": "The Rope",
+          "difficulty": "TerrainPark",
+          "area": "Terrain Park"
         }
       ],
       "newlyGroomed": [],
@@ -119,36 +204,30 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "1\" Freshened Things Up",
-    "body": "Overnight dusting of 1\" means the hardpack got a makeover. Cold day ahead: 16° high. Dress warmly.",
+    "headline": "The Wait Continues",
+    "body": "The mountain is still prepping for the season. Weather today: Mostly Cloudy.",
     "debug": {
       "firedRules": [
         {
-          "id": "snow_dusting",
-          "category": "snow",
-          "priority": 70,
+          "id": "resort_closed",
+          "category": "terrain",
+          "priority": 95,
           "usedFor": "headline"
         },
         {
-          "id": "snow_dusting",
-          "category": "snow",
-          "priority": 70,
-          "usedFor": "body"
-        },
-        {
-          "id": "temp_cold",
-          "category": "weather",
-          "priority": 55,
+          "id": "resort_closed",
+          "category": "terrain",
+          "priority": 95,
           "usedFor": "body"
         }
       ],
       "totalRulesFired": 4,
       "headlineSelection": {
-        "condition": "fresh_coat",
+        "condition": "resort_closed",
         "variationIndex": 2,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "The Wait Continues"
+        "previousHeadline": "Stay Tuned for Opening"
       },
       "dayOfWeek": "Friday"
     }

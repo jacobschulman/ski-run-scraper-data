@@ -2,7 +2,7 @@
   "resort": "bigsky",
   "resortName": "Big Sky",
   "date": "2026-01-30",
-  "generated": "2026-01-30T16:52:08.068Z",
+  "generated": "2026-01-30T15:44:02.060Z",
   "rawData": {
     "snow": {
       "overnight_inches": 1,
@@ -23,9 +23,9 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 245,
+          "today": 242,
           "yesterday": 242,
-          "delta": 3
+          "delta": 0
         },
         "groomedTrails": {
           "today": 62,
@@ -34,23 +34,7 @@
         },
         "totalTrails": 319
       },
-      "newlyOpened": [
-        {
-          "name": "LRT Traverse",
-          "difficulty": "Double Black",
-          "area": "Challenger Area"
-        },
-        {
-          "name": "Rockville Bowl",
-          "difficulty": "Double Black",
-          "area": "Lone Peak Area"
-        },
-        {
-          "name": "Big Couloir",
-          "difficulty": "high exposure",
-          "area": "Lone Peak Area"
-        }
-      ],
+      "newlyOpened": [],
       "newlyClosed": [],
       "newlyGroomed": [
         {
@@ -422,19 +406,17 @@
     "flags": {
       "hasFreshSnow": true,
       "isPowderDay": false,
-      "hasNewTrails": true,
+      "hasNewTrails": false,
       "significantGroomingIncrease": true,
       "highLiftDemand": false
     },
     "alerts": [
       "1\" new snow overnight",
-      "3 new trails opened today",
       "59 trails freshly groomed"
     ],
     "trends": [
       "Steady snowfall - 8\" in last 7 days",
       "Grooming increased 1967% from yesterday",
-      "3 more trails open than yesterday",
       "2\" snow expected Friday"
     ],
     "recommendations": [
@@ -445,7 +427,7 @@
   },
   "morningBrief": {
     "headline": "Snow Cats Went Hard",
-    "body": "1\" of fresh snow settled in overnight. Not a powder day, but an upgrade. 3 more trails opened today, expanding your options. Light snow possible in the forecast.",
+    "body": "1\" of fresh snow settled in overnight. Not a powder day, but an upgrade. 59 runs freshly groomed. The mountain is absolutely pristine. Light snow possible in the forecast.",
     "debug": {
       "firedRules": [
         {
@@ -461,9 +443,9 @@
           "usedFor": "body"
         },
         {
-          "id": "terrain_few",
+          "id": "grooming_massive",
           "category": "terrain",
-          "priority": 60,
+          "priority": 78,
           "usedFor": "body"
         },
         {
@@ -473,7 +455,7 @@
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 7,
+      "totalRulesFired": 6,
       "headlineSelection": {
         "condition": "grooming_massive",
         "variationIndex": 0,

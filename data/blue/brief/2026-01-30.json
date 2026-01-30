@@ -2,7 +2,7 @@
   "resort": "blue",
   "resortName": "Blue Mountain",
   "date": "2026-01-30",
-  "generated": "2026-01-30T16:52:07.995Z",
+  "generated": "2026-01-30T15:44:02.000Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,23 +23,18 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 61,
+          "today": 58,
           "yesterday": 59,
-          "delta": 2
+          "delta": -1
         },
         "groomedTrails": {
-          "today": 48,
+          "today": 45,
           "yesterday": 46,
-          "delta": 2
+          "delta": -1
         },
         "totalTrails": 64
       },
       "newlyOpened": [
-        {
-          "name": "Burner",
-          "difficulty": "Moderately Difficult",
-          "area": "Valley"
-        },
         {
           "name": "Dieppe",
           "difficulty": "Moderately Difficult",
@@ -52,6 +47,16 @@
         }
       ],
       "newlyClosed": [
+        {
+          "name": "Crooked Oak",
+          "difficulty": "Moderately Difficult",
+          "area": "South"
+        },
+        {
+          "name": "Sunrise",
+          "difficulty": "Intermediate",
+          "area": "South"
+        },
         {
           "name": "Yahoo Trail",
           "difficulty": "Intermediate",
@@ -139,18 +144,17 @@
       "highLiftDemand": false
     },
     "alerts": [
-      "3 new trails opened today"
+      "2 new trails opened today"
     ],
     "trends": [
       "Steady snowfall - 11\" in last 7 days",
-      "2 more trails open than yesterday",
       "1\" snow expected Friday"
     ],
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "The Weekend Starts Now",
-    "body": "Steady snowfall with 11\" over the last week. 3 new trails opened today. Light snow possible in the forecast.",
+    "headline": "Cheers to the Weekend",
+    "body": "Steady snowfall with 11\" over the last week. Light snow possible in the forecast.",
     "debug": {
       "firedRules": [
         {
@@ -166,25 +170,19 @@
           "usedFor": "body"
         },
         {
-          "id": "terrain_micro",
-          "category": "terrain",
-          "priority": 45,
-          "usedFor": "body"
-        },
-        {
           "id": "forecast_flurries",
           "category": "weather",
           "priority": 30,
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 6,
+      "totalRulesFired": 4,
       "headlineSelection": {
         "condition": "weekend_kickoff",
         "variationIndex": 3,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Cheers to the Weekend"
+        "previousHeadline": "The Weekend Starts Now"
       },
       "dayOfWeek": "Friday"
     }

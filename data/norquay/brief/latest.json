@@ -2,7 +2,11 @@
   "resort": "norquay",
   "resortName": "Mt Norquay",
   "date": "2026-01-30",
-  "generated": "2026-01-30T09:49:51.361Z",
+<<<<<<< Updated upstream
+  "generated": "2026-01-30T08:51:37.923Z",
+=======
+  "generated": "2026-01-30T09:17:28.058Z",
+>>>>>>> Stashed changes
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -68,7 +72,7 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "TGIF",
+    "headline": "The Weekend Starts Now",
     "body": "66/81 trails spinning, 27 freshly groomed. 37.4° and Unknown. 66/81 trails open, 27 groomed. 37.4° and Unknown.",
     "debug": {
       "firedRules": [
@@ -94,10 +98,10 @@
       "totalRulesFired": 3,
       "headlineSelection": {
         "condition": "weekend_kickoff",
-        "variationIndex": 1,
+        "variationIndex": 2,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": null
+        "previousHeadline": "Friday: Ready for the Weekend"
       },
       "dayOfWeek": "Friday"
     }

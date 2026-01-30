@@ -1,6 +1,10 @@
 {
   "date": "2026-01-30",
-  "generated": "2026-01-30T09:58:02.966Z",
+<<<<<<< Updated upstream
+  "generated": "2026-01-30T09:00:07.245Z",
+=======
+  "generated": "2026-01-30T09:17:28.232Z",
+>>>>>>> Stashed changes
   "superlatives": {
     "snow_overnight_max": {
       "resort": "steamboat",
@@ -7599,8 +7603,13 @@
         ],
         "total_snow_expected": 0
       },
-      "lastSnowDate": "2026-01-30",
+<<<<<<< Updated upstream
+      "lastSnowDate": "2026-01-29",
       "lastTerrainDate": "2026-01-30"
+=======
+      "lastSnowDate": "2026-01-30",
+      "lastTerrainDate": "2026-01-29"
+>>>>>>> Stashed changes
     },
     "jacksonhole": {
       "name": "Jackson Hole",
@@ -8521,8 +8530,13 @@
         ],
         "total_snow_expected": 0
       },
-      "lastSnowDate": "2026-01-30",
+<<<<<<< Updated upstream
+      "lastSnowDate": "2026-01-29",
       "lastTerrainDate": "2026-01-30"
+=======
+      "lastSnowDate": "2026-01-30",
+      "lastTerrainDate": "2026-01-29"
+>>>>>>> Stashed changes
     },
     "junemountain": {
       "name": "June Mountain",
@@ -8592,8 +8606,13 @@
         ],
         "total_snow_expected": 0
       },
-      "lastSnowDate": "2026-01-30",
+<<<<<<< Updated upstream
+      "lastSnowDate": "2026-01-29",
       "lastTerrainDate": "2026-01-30"
+=======
+      "lastSnowDate": "2026-01-30",
+      "lastTerrainDate": "2026-01-29"
+>>>>>>> Stashed changes
     },
     "crystal": {
       "name": "Crystal Mountain",
@@ -8663,8 +8682,13 @@
         ],
         "total_snow_expected": 2
       },
-      "lastSnowDate": "2026-01-30",
+<<<<<<< Updated upstream
+      "lastSnowDate": "2026-01-29",
       "lastTerrainDate": "2026-01-30"
+=======
+      "lastSnowDate": "2026-01-30",
+      "lastTerrainDate": "2026-01-29"
+>>>>>>> Stashed changes
     },
     "killington": {
       "name": "Killington",
@@ -9293,8 +9317,13 @@
         ],
         "total_snow_expected": 0
       },
-      "lastSnowDate": "2026-01-30",
+<<<<<<< Updated upstream
+      "lastSnowDate": "2026-01-29",
       "lastTerrainDate": "2026-01-30"
+=======
+      "lastSnowDate": "2026-01-30",
+      "lastTerrainDate": "2026-01-29"
+>>>>>>> Stashed changes
     },
     "banff": {
       "name": "Banff Sunshine Village",

@@ -2,7 +2,7 @@
   "resort": "blue",
   "resortName": "Blue Mountain",
   "date": "2026-01-30",
-  "generated": "2026-01-30T14:42:02.731Z",
+  "generated": "2026-01-30T13:18:51.221Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,14 +23,14 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 58,
+          "today": 59,
           "yesterday": 59,
-          "delta": -1
+          "delta": 0
         },
         "groomedTrails": {
-          "today": 45,
+          "today": 46,
           "yesterday": 46,
-          "delta": -1
+          "delta": 0
         },
         "totalTrails": 64
       },
@@ -48,19 +48,14 @@
       ],
       "newlyClosed": [
         {
-          "name": "Crooked Oak",
-          "difficulty": "Moderately Difficult",
+          "name": "Cruiser",
+          "difficulty": "Intermediate",
           "area": "South"
         },
         {
           "name": "Sunrise",
           "difficulty": "Intermediate",
           "area": "South"
-        },
-        {
-          "name": "Yahoo Trail",
-          "difficulty": "Intermediate",
-          "area": "Village"
         }
       ],
       "newlyGroomed": [],
@@ -153,7 +148,7 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "The Weekend Starts Now",
+    "headline": "Cheers to the Weekend",
     "body": "Steady snowfall with 11\" over the last week. Light snow possible in the forecast.",
     "debug": {
       "firedRules": [
@@ -182,7 +177,7 @@
         "variationIndex": 3,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Cheers to the Weekend"
+        "previousHeadline": "The Weekend Starts Now"
       },
       "dayOfWeek": "Friday"
     }

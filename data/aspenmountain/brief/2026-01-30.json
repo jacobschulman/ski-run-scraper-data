@@ -2,7 +2,7 @@
   "resort": "aspenmountain",
   "resortName": "Aspen Mountain",
   "date": "2026-01-30",
-  "generated": "2026-01-30T14:42:02.797Z",
+  "generated": "2026-01-30T13:18:51.289Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -28,22 +28,16 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 24,
+          "today": 25,
           "yesterday": 25,
-          "delta": -1
+          "delta": 0
         },
         "totalTrails": 140
       },
       "newlyOpened": [],
       "newlyClosed": [],
       "newlyGroomed": [],
-      "ungroomed": [
-        {
-          "name": "Tower Ten Road",
-          "difficulty": "Blue",
-          "area": "Shadow Mountain"
-        }
-      ]
+      "ungroomed": []
     },
     "lifts": {
       "available": true,

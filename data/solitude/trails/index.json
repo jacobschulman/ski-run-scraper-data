@@ -910,11 +910,11 @@
       "slug": "back-door",
       "area": "Solitude Canyon",
       "difficulty": "Intermediate",
-      "isGroomedToday": true,
+      "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 2,
-      "currentStreak": 1,
-      "longestStreak": 1
+      "groomingPercentage": 0,
+      "currentStreak": 0,
+      "longestStreak": 0
     },
     {
       "name": "Broadway",
@@ -1181,5 +1181,5 @@
       "longestStreak": 0
     }
   ],
-  "lastUpdated": "2026-01-30T14:50:18.600Z"
+  "lastUpdated": "2026-01-30T13:27:51.044Z"
 }

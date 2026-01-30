@@ -2,7 +2,7 @@
   "resort": "steamboat",
   "resortName": "Steamboat",
   "date": "2026-01-30",
-  "generated": "2026-01-30T14:42:02.702Z",
+  "generated": "2026-01-30T13:18:51.192Z",
   "rawData": {
     "snow": {
       "overnight_inches": 3,
@@ -28,78 +28,16 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 75,
+          "today": 71,
           "yesterday": 71,
-          "delta": 4
+          "delta": 0
         },
         "totalTrails": 193
       },
       "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [
-        {
-          "name": "First Chance",
-          "difficulty": "Advanced",
-          "area": "Steamboat"
-        },
-        {
-          "name": "Last Chance",
-          "difficulty": "Advanced",
-          "area": "Steamboat"
-        },
-        {
-          "name": "One O'Clock",
-          "difficulty": "Intermediate",
-          "area": "Steamboat"
-        },
-        {
-          "name": "Over Easy",
-          "difficulty": "Intermediate",
-          "area": "Steamboat"
-        },
-        {
-          "name": "Rooster",
-          "difficulty": "Intermediate",
-          "area": "Steamboat"
-        },
-        {
-          "name": "Snooze Bar",
-          "difficulty": "Intermediate",
-          "area": "Steamboat"
-        },
-        {
-          "name": "Sunshine Lift Line",
-          "difficulty": "Intermediate",
-          "area": "Steamboat"
-        },
-        {
-          "name": "Voo Doo",
-          "difficulty": "Advanced",
-          "area": "Steamboat"
-        }
-      ],
-      "ungroomed": [
-        {
-          "name": "Blizzard",
-          "difficulty": "Intermediate",
-          "area": "Steamboat"
-        },
-        {
-          "name": "Corridor",
-          "difficulty": "Advanced",
-          "area": "Steamboat"
-        },
-        {
-          "name": "Flintlock",
-          "difficulty": "Intermediate",
-          "area": "Steamboat"
-        },
-        {
-          "name": "Two O'Clock",
-          "difficulty": "Advanced Intermediate",
-          "area": "Steamboat"
-        }
-      ]
+      "newlyGroomed": [],
+      "ungroomed": []
     },
     "lifts": {
       "available": true,
@@ -179,21 +117,16 @@
       "highLiftDemand": false
     },
     "alerts": [
-      "3\" fresh snow overnight",
-      "8 trails freshly groomed"
+      "3\" fresh snow overnight"
     ],
     "trends": [
       "Great week for snow - 15\" in last 7 days"
     ],
-    "recommendations": [
-      "Fresh corduroy on First Chance - all skill levels",
-      "Fresh corduroy on Last Chance - all skill levels",
-      "Fresh corduroy on One O'Clock - all skill levels"
-    ]
+    "recommendations": []
   },
   "morningBrief": {
-    "headline": "Nice Little Top-Up",
-    "body": "3\" settled in while you were sleeping. Groomers are smooth, off-piste is soft. 8 runs freshly groomed, mostly in Steamboat.",
+    "headline": "Solid Refresh: 3\"",
+    "body": "3\" settled in while you were sleeping. Groomers are smooth, off-piste is soft.",
     "debug": {
       "firedRules": [
         {
@@ -207,21 +140,15 @@
           "category": "snow",
           "priority": 82,
           "usedFor": "body"
-        },
-        {
-          "id": "grooming_moderate",
-          "category": "terrain",
-          "priority": 55,
-          "usedFor": "body"
         }
       ],
-      "totalRulesFired": 4,
+      "totalRulesFired": 3,
       "headlineSelection": {
         "condition": "snow_solid",
         "variationIndex": 0,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Solid Refresh: {snow24h}\""
+        "previousHeadline": "Nice Little Top-Up"
       },
       "dayOfWeek": "Friday"
     }

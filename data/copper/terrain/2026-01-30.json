@@ -1,6 +1,6 @@
 {
   "ResortId": "copper",
-  "Date": "2026-01-30T14:42:00.942Z",
+  "Date": "2026-01-30T13:18:49.573Z",
   "GroomingAreas": [
     {
       "Name": "Beginner Learning",
@@ -1307,8 +1307,8 @@
         },
         {
           "Name": "Guthrie’s Chute",
-          "Status": "Closed",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "Difficulty": "Black",
           "IsGroomed": false,
           "GroomingStatus": null,

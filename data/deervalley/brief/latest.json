@@ -2,14 +2,14 @@
   "resort": "deervalley",
   "resortName": "Deer Valley",
   "date": "2026-01-30",
-  "generated": "2026-01-30T07:46:59.135Z",
+  "generated": "2026-01-30T07:00:16.259Z",
   "rawData": {
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 119,
+          "today": 118,
           "yesterday": 118,
-          "delta": 1
+          "delta": 0
         },
         "groomedTrails": {
           "today": 61,
@@ -18,43 +18,10 @@
         },
         "totalTrails": 227
       },
-      "newlyOpened": [
-        {
-          "name": "Nabob",
-          "difficulty": "Intermediate",
-          "area": "Bald Mountain"
-        },
-        {
-          "name": "Hawkeye",
-          "difficulty": "Intermediate",
-          "area": "Flagstaff Mountain"
-        },
-        {
-          "name": "Jordanelle",
-          "difficulty": "Advanced Intermediate",
-          "area": "Little Baldy Peak"
-        }
-      ],
-      "newlyClosed": [
-        {
-          "name": "Bandana",
-          "difficulty": "Easy",
-          "area": "Flagstaff Mountain"
-        },
-        {
-          "name": "Pay Rock",
-          "difficulty": "Intermediate",
-          "area": "Park Peak"
-        }
-      ],
+      "newlyOpened": [],
+      "newlyClosed": [],
       "newlyGroomed": [],
-      "ungroomed": [
-        {
-          "name": "Hawkeye",
-          "difficulty": "Intermediate",
-          "area": "Flagstaff Mountain"
-        }
-      ]
+      "ungroomed": []
     },
     "lifts": {
       "available": true,
@@ -69,16 +36,12 @@
   },
   "computedInsights": {
     "flags": {
-      "hasNewTrails": true,
+      "hasNewTrails": false,
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [
-      "3 new trails opened today"
-    ],
-    "trends": [
-      "1 more trail open than yesterday"
-    ],
+    "alerts": [],
+    "trends": [],
     "recommendations": []
   },
   "morningBrief": null,

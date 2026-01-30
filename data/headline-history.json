@@ -32,7 +32,12 @@
       {
         "date": "2026-01-30",
         "condition": "fresh_coat",
-        "headline": "Fresh Layer in Place"
+        "headline": "A Little Sugar on Top"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "fresh_coat",
+        "headline": "Fresh Coat on the Mountain"
       }
     ]
   },
@@ -69,7 +74,12 @@
       {
         "date": "2026-01-30",
         "condition": "weekend_kickoff",
-        "headline": "Friday: Ready for the Weekend"
+        "headline": "The Weekend Starts Now"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "weekend_kickoff",
+        "headline": "Cheers to the Weekend"
       }
     ]
   },
@@ -106,7 +116,12 @@
       {
         "date": "2026-01-30",
         "condition": "fresh_coat",
-        "headline": "Overnight Refresh"
+        "headline": "{snow24h}\" Freshened Things Up"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "fresh_coat",
+        "headline": "A Little Sugar on Top"
       }
     ]
   },
@@ -143,7 +158,12 @@
       {
         "date": "2026-01-30",
         "condition": "fresh_coat",
-        "headline": "A Little Sugar on Top"
+        "headline": "{snow24h}\" Freshened Things Up"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "fresh_coat",
+        "headline": "Overnight Refresh"
       }
     ]
   },
@@ -180,17 +200,42 @@
       {
         "date": "2026-01-30",
         "condition": "snow_solid",
-        "headline": "The Mountain Got a Boost"
+        "headline": "Nice Little Top-Up"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "snow_solid",
+        "headline": "Solid Refresh: {snow24h}\""
       }
     ]
   },
   "mammoth": {
-    "lastHeadline": "TGIF",
-    "lastCondition": "weekend_kickoff",
+    "lastHeadline": "More Mountain to Explore",
+    "lastCondition": "terrain_expansion",
     "lastDate": "2026-01-30",
     "history": [
       {
         "date": "2026-01-30",
+        "condition": "terrain_expansion",
+        "headline": "More Mountain to Explore"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "terrain_expansion",
+        "headline": "Fresh Terrain Unlocked"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "weekend_kickoff",
+        "headline": "TGIF"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "weekend_kickoff",
+        "headline": "Is It the Weekend Yet?"
+      },
+      {
+        "date": "2026-01-30",
         "condition": "weekend_kickoff",
         "headline": "TGIF"
       },
@@ -203,21 +248,6 @@
         "date": "2026-01-30",
         "condition": "weekend_kickoff",
         "headline": "TGIF"
-      },
-      {
-        "date": "2026-01-30",
-        "condition": "weekend_kickoff",
-        "headline": "Is It the Weekend Yet?"
-      },
-      {
-        "date": "2026-01-30",
-        "condition": "weekend_kickoff",
-        "headline": "TGIF"
-      },
-      {
-        "date": "2026-01-30",
-        "condition": "weekend_kickoff",
-        "headline": "Is It the Weekend Yet?"
       }
     ]
   },
@@ -255,6 +285,11 @@
         "date": "2026-01-30",
         "condition": "weekend_kickoff",
         "headline": "TGIF"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "weekend_kickoff",
+        "headline": "Is It the Weekend Yet?"
       }
     ]
   },
@@ -291,7 +326,12 @@
       {
         "date": "2026-01-30",
         "condition": "weather_mixed",
-        "headline": "Variable Conditions"
+        "headline": "Rain at Base, Snow Up Top"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "weather_mixed",
+        "headline": "Mixed Precip Today"
       }
     ]
   },
@@ -328,7 +368,12 @@
       {
         "date": "2026-01-30",
         "condition": "weekend_kickoff",
-        "headline": "Friday: Ready for the Weekend"
+        "headline": "The Weekend Starts Now"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "weekend_kickoff",
+        "headline": "Cheers to the Weekend"
       }
     ]
   },
@@ -366,6 +411,11 @@
         "date": "2026-01-30",
         "condition": "fresh_coat",
         "headline": "Overnight Refresh"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "fresh_coat",
+        "headline": "{snow24h}\" Freshened Things Up"
       }
     ]
   },
@@ -403,6 +453,11 @@
         "date": "2026-01-30",
         "condition": "weekend_kickoff",
         "headline": "The Weekend Starts Now"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "weekend_kickoff",
+        "headline": "Cheers to the Weekend"
       }
     ]
   },
@@ -429,22 +484,22 @@
       {
         "date": "2026-01-30",
         "condition": "grooming_massive",
-        "headline": "The Groomers Delivered"
+        "headline": "{groomedCount} Runs Freshly Groomed"
       },
       {
         "date": "2026-01-30",
-        "condition": "fresh_coat",
-        "headline": "Fresh Layer in Place"
+        "condition": "grooming_massive",
+        "headline": "Snow Cats Went Hard"
       },
       {
         "date": "2026-01-30",
-        "condition": "fresh_coat",
-        "headline": "The Mountain Got a Touch-Up"
+        "condition": "grooming_massive",
+        "headline": "{groomedCount} Runs Freshly Groomed"
       },
       {
         "date": "2026-01-30",
-        "condition": "fresh_coat",
-        "headline": "Fresh Layer in Place"
+        "condition": "grooming_massive",
+        "headline": "Snow Cats Went Hard"
       }
     ]
   },
@@ -691,12 +746,12 @@
       {
         "date": "2026-01-30",
         "condition": "grooming_highlight",
-        "headline": "Fresh Corduroy Awaits"
+        "headline": "{groomedCount} {GroomedRunWord} Groomed Overnight"
       },
       {
         "date": "2026-01-30",
-        "condition": "weekend_kickoff",
-        "headline": "The Weekend Starts Now"
+        "condition": "grooming_highlight",
+        "headline": "Smooth Sailing Today"
       }
     ]
   },
@@ -743,29 +798,29 @@
     ]
   },
   "jacksonhole": {
-    "lastHeadline": "Fresh Layer in Place",
-    "lastCondition": "fresh_coat",
+    "lastHeadline": "More Mountain to Explore",
+    "lastCondition": "terrain_expansion",
     "lastDate": "2026-01-30",
     "history": [
       {
         "date": "2026-01-30",
-        "condition": "fresh_coat",
-        "headline": "Fresh Layer in Place"
+        "condition": "terrain_expansion",
+        "headline": "More Mountain to Explore"
       },
       {
         "date": "2026-01-30",
-        "condition": "fresh_coat",
-        "headline": "The Mountain Got a Touch-Up"
+        "condition": "terrain_expansion",
+        "headline": "{newTrailsCount} New {NewTrailWord} Today"
       },
       {
         "date": "2026-01-30",
-        "condition": "fresh_coat",
-        "headline": "Fresh Layer in Place"
+        "condition": "terrain_expansion",
+        "headline": "More Mountain to Explore"
       },
       {
         "date": "2026-01-30",
-        "condition": "fresh_coat",
-        "headline": "The Mountain Got a Touch-Up"
+        "condition": "terrain_expansion",
+        "headline": "Terrain Expanding"
       },
       {
         "date": "2026-01-30",
@@ -785,10 +840,30 @@
     ]
   },
   "aspenhighlands": {
-    "lastHeadline": "Groomers Were Busy",
-    "lastCondition": "grooming_highlight",
+    "lastHeadline": "Half the Mountain Just Dropped",
+    "lastCondition": "terrain_massive",
     "lastDate": "2026-01-30",
     "history": [
+      {
+        "date": "2026-01-30",
+        "condition": "terrain_massive",
+        "headline": "Half the Mountain Just Dropped"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "terrain_massive",
+        "headline": "Patrol Went Big Today"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "terrain_massive",
+        "headline": "Half the Mountain Just Dropped"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "terrain_massive",
+        "headline": "The Map Exploded"
+      },
       {
         "date": "2026-01-30",
         "condition": "grooming_highlight",
@@ -798,26 +873,6 @@
         "date": "2026-01-30",
         "condition": "grooming_highlight",
         "headline": "The Corduroy Is Calling"
-      },
-      {
-        "date": "2026-01-30",
-        "condition": "weekend_kickoff",
-        "headline": "TGIF"
-      },
-      {
-        "date": "2026-01-30",
-        "condition": "weekend_kickoff",
-        "headline": "Is It the Weekend Yet?"
-      },
-      {
-        "date": "2026-01-30",
-        "condition": "weekend_kickoff",
-        "headline": "TGIF"
-      },
-      {
-        "date": "2026-01-30",
-        "condition": "weekend_kickoff",
-        "headline": "Is It the Weekend Yet?"
       },
       {
         "date": "2026-01-30",
@@ -1270,6 +1325,16 @@
       {
         "date": "2026-01-30",
         "condition": "resort_closed",
+        "headline": "Stay Tuned for Opening"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "resort_closed",
+        "headline": "Not Open Yet"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "resort_closed",
         "headline": "Checking the Forecast"
       }
     ]
@@ -1299,10 +1364,15 @@
     ]
   },
   "wilmot": {
-    "lastHeadline": "The Wait Continues",
-    "lastCondition": "resort_closed",
+    "lastHeadline": "{snow24h}\" Freshened Things Up",
+    "lastCondition": "fresh_coat",
     "lastDate": "2026-01-30",
     "history": [
+      {
+        "date": "2026-01-30",
+        "condition": "fresh_coat",
+        "headline": "{snow24h}\" Freshened Things Up"
+      },
       {
         "date": "2026-01-30",
         "condition": "resort_closed",

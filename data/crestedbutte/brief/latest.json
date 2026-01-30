@@ -1,8 +1,8 @@
 {
   "resort": "crestedbutte",
   "resortName": "Crested Butte",
-  "date": "2026-01-30",
-  "generated": "2026-01-30T13:18:44.288Z",
+  "date": "2026-01-29",
+  "generated": "2026-01-29T13:21:14.547Z",
   "rawData": {
     "terrain": {
       "stats": {
@@ -12,15 +12,27 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 40,
-          "yesterday": 38,
-          "delta": 2
+          "today": 38,
+          "yesterday": 41,
+          "delta": -3
         },
         "totalTrails": 168
       },
       "newlyOpened": [],
       "newlyClosed": [],
       "newlyGroomed": [
+        {
+          "name": "Peanut",
+          "difficulty": "Green",
+          "area": "Front Side"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Bushwacker",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
         {
           "name": "Upper Forest Queen",
           "difficulty": "Blue",
@@ -30,9 +42,13 @@
           "name": "Upper Treasury",
           "difficulty": "Blue",
           "area": "Back Side"
+        },
+        {
+          "name": "Gunsight Pass",
+          "difficulty": "Green",
+          "area": "Ten Peaks"
         }
-      ],
-      "ungroomed": []
+      ]
     },
     "lifts": {
       "available": false
@@ -44,12 +60,11 @@
       "significantGroomingIncrease": false
     },
     "alerts": [
-      "2 trails freshly groomed"
+      "1 trail freshly groomed"
     ],
     "trends": [],
     "recommendations": [
-      "Fresh corduroy on Upper Forest Queen - perfect for intermediate skiers",
-      "Fresh corduroy on Upper Treasury - perfect for intermediate skiers"
+      "Fresh corduroy on Peanut - great for beginners"
     ]
   },
   "morningBrief": null,

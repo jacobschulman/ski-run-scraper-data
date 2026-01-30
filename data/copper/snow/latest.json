@@ -1,8 +1,8 @@
 {
   "resort": "copper",
   "resortName": "Copper Mountain",
-  "date": "2026-01-30",
-  "timestamp": "2026-01-30T09:17:09.939Z",
+  "date": "2026-01-29",
+  "timestamp": "2026-01-30T05:29:44.006Z",
   "lastUpdated": "2026-01-29 05:36:00",
   "conditions": "Loose Granular",
   "operatingStatus": "Open",
@@ -40,7 +40,7 @@
   },
   "forecast": {
     "location": "Copper Mountain",
-    "issuedAt": "2026-01-30T02:12:07-0700",
+    "issuedAt": "2026-01-29T22:27:03-0700",
     "temp_high_f": 13,
     "temp_low_f": 3,
     "forecasted_snow_in": 0,
@@ -63,12 +63,12 @@
         "temp_low_f": 10,
         "forecasted_snow_in": 1,
         "wind": "NW",
-        "wind_speed_mph": 10
+        "wind_speed_mph": 9
       },
       {
         "date": "2026-01-31",
-        "skies": "Cloudy. Clear",
-        "conditions": "Cloudy",
+        "skies": "Mostly Cloudy. Clear",
+        "conditions": "Mostly Cloudy",
         "temp_high_f": 26,
         "temp_low_f": 9,
         "forecasted_snow_in": 1,
@@ -87,13 +87,13 @@
       },
       {
         "date": "2026-02-02",
-        "skies": "Partly Cloudy. Clear",
+        "skies": "Partly Cloudy. Mostly Clear",
         "conditions": "Partly Cloudy",
-        "temp_high_f": 29,
-        "temp_low_f": 9,
-        "forecasted_snow_in": 0,
+        "temp_high_f": 30,
+        "temp_low_f": 10,
+        "forecasted_snow_in": 1,
         "wind": "WNW",
-        "wind_speed_mph": 9
+        "wind_speed_mph": 8
       }
     ],
     "locations": [
@@ -126,7 +126,7 @@
             "date": "2026-01-31",
             "high_f": 26,
             "low_f": 9,
-            "description": "Cloudy",
+            "description": "Mostly Cloudy",
             "snowfall_day_inches": 1
           },
           {
@@ -138,10 +138,10 @@
           },
           {
             "date": "2026-02-02",
-            "high_f": 29,
-            "low_f": 9,
+            "high_f": 30,
+            "low_f": 10,
             "description": "Partly Cloudy",
-            "snowfall_day_inches": 0
+            "snowfall_day_inches": 1
           }
         ]
       }

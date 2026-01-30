@@ -1,8 +1,8 @@
 {
   "resort": "bigsky",
   "resortName": "Big Sky",
-  "date": "2026-01-30",
-  "timestamp": "2026-01-30T09:17:07.443Z",
+  "date": "2026-01-29",
+  "timestamp": "2026-01-30T05:29:41.777Z",
   "lastUpdated": "2026-01-30T00:00:03Z",
   "conditions": null,
   "operatingStatus": null,
@@ -19,9 +19,9 @@
     "season_total_cm": 0
   },
   "baseDepth": {
-    "inches": 0,
-    "cm": 0,
-    "range_inches": null,
+    "inches": 46,
+    "cm": 117,
+    "range_inches": "46-46",
     "range_cm": null
   },
   "terrain": {
@@ -40,7 +40,7 @@
   },
   "forecast": {
     "location": "Big Sky",
-    "issuedAt": "2026-01-30T02:12:07-0700",
+    "issuedAt": "2026-01-29T22:27:03-0700",
     "temp_high_f": 22,
     "temp_low_f": 17,
     "forecasted_snow_in": 0,
@@ -67,13 +67,13 @@
       },
       {
         "date": "2026-01-31",
-        "skies": "Partly Cloudy. Cloudy",
+        "skies": "Partly Cloudy. Mostly Cloudy",
         "conditions": "Partly Cloudy",
         "temp_high_f": 32,
         "temp_low_f": 27,
         "forecasted_snow_in": 0,
-        "wind": "WNW",
-        "wind_speed_mph": 14
+        "wind": "W",
+        "wind_speed_mph": 12
       },
       {
         "date": "2026-02-01",
@@ -87,13 +87,13 @@
       },
       {
         "date": "2026-02-02",
-        "skies": "Mostly Sunny. Mostly Cloudy",
-        "conditions": "Mostly Sunny",
+        "skies": "Partly Cloudy. Partly Cloudy",
+        "conditions": "Partly Cloudy",
         "temp_high_f": 25,
-        "temp_low_f": 22,
+        "temp_low_f": 20,
         "forecasted_snow_in": 0,
         "wind": "W",
-        "wind_speed_mph": 11
+        "wind_speed_mph": 12
       }
     ],
     "locations": [
@@ -139,8 +139,8 @@
           {
             "date": "2026-02-02",
             "high_f": 25,
-            "low_f": 22,
-            "description": "Mostly Sunny",
+            "low_f": 20,
+            "description": "Partly Cloudy",
             "snowfall_day_inches": 0
           }
         ]

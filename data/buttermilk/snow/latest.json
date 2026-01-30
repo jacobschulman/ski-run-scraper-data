@@ -1,9 +1,9 @@
 {
   "resort": "buttermilk",
   "resortName": "Buttermilk",
-  "date": "2026-01-30",
-  "timestamp": "2026-01-30T09:17:11.129Z",
-  "lastUpdated": "02:15 AM Jan 30, 2026",
+  "date": "2026-01-29",
+  "timestamp": "2026-01-30T05:29:45.122Z",
+  "lastUpdated": "10:17 AM Jan 29, 2026",
   "conditions": "Open",
   "operatingStatus": "Open",
   "snowfall": {
@@ -38,11 +38,11 @@
     "base": null,
     "midMountain": null,
     "summit": null,
-    "lastUpdated": "02:15 AM Jan 30, 2026"
+    "lastUpdated": "10:17 AM Jan 29, 2026"
   },
   "forecast": {
     "location": "Buttermilk",
-    "issuedAt": "2026-01-30T02:12:07-0700",
+    "issuedAt": "2026-01-29T22:27:03-0700",
     "temp_high_f": 24,
     "temp_low_f": 11,
     "forecasted_snow_in": 0,
@@ -59,7 +59,7 @@
       },
       {
         "date": "2026-01-30",
-        "skies": "Sunny. Partly Cloudy",
+        "skies": "Sunny. Mostly Clear",
         "conditions": "Sunny",
         "temp_high_f": 29,
         "temp_low_f": 18,
@@ -72,29 +72,29 @@
         "skies": "Mostly Sunny. Clear",
         "conditions": "Mostly Sunny",
         "temp_high_f": 35,
-        "temp_low_f": 16,
+        "temp_low_f": 17,
         "forecasted_snow_in": 0,
         "wind": "NW",
-        "wind_speed_mph": 6
+        "wind_speed_mph": 5
       },
       {
         "date": "2026-02-01",
-        "skies": "Sunny. Partly Cloudy",
-        "conditions": "Sunny",
-        "temp_high_f": 41,
+        "skies": "Mostly Sunny. Mostly Clear",
+        "conditions": "Mostly Sunny",
+        "temp_high_f": 40,
         "temp_low_f": 22,
         "forecasted_snow_in": 0,
-        "wind": "WNW",
+        "wind": "NNW",
         "wind_speed_mph": 2
       },
       {
         "date": "2026-02-02",
-        "skies": "Mostly Sunny. Clear",
+        "skies": "Mostly Sunny. Mostly Clear",
         "conditions": "Mostly Sunny",
         "temp_high_f": 39,
-        "temp_low_f": 17,
+        "temp_low_f": 18,
         "forecasted_snow_in": 0,
-        "wind": "NW",
+        "wind": "WNW",
         "wind_speed_mph": 4
       }
     ],
@@ -127,21 +127,21 @@
           {
             "date": "2026-01-31",
             "high_f": 35,
-            "low_f": 16,
+            "low_f": 17,
             "description": "Mostly Sunny",
             "snowfall_day_inches": 0
           },
           {
             "date": "2026-02-01",
-            "high_f": 41,
+            "high_f": 40,
             "low_f": 22,
-            "description": "Sunny",
+            "description": "Mostly Sunny",
             "snowfall_day_inches": 0
           },
           {
             "date": "2026-02-02",
             "high_f": 39,
-            "low_f": 17,
+            "low_f": 18,
             "description": "Mostly Sunny",
             "snowfall_day_inches": 0
           }

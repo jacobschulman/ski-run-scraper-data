@@ -2,7 +2,7 @@
   "resort": "deervalley",
   "resortName": "Deer Valley",
   "date": "2026-01-30",
-  "generated": "2026-01-30T17:41:47.686Z",
+  "generated": "2026-01-30T16:52:07.956Z",
   "rawData": {
     "snow": {
       "overnight_inches": 1,
@@ -28,9 +28,9 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 60,
+          "today": 61,
           "yesterday": 61,
-          "delta": -1
+          "delta": 0
         },
         "totalTrails": 227
       },
@@ -86,11 +86,6 @@
         }
       ],
       "ungroomed": [
-        {
-          "name": "Dakota",
-          "difficulty": "Intermediate",
-          "area": "Lady Morgan"
-        },
         {
           "name": "Hawkeye",
           "difficulty": "Intermediate",
@@ -191,7 +186,7 @@
     ]
   },
   "morningBrief": {
-    "headline": "A Little Sugar on Top",
+    "headline": "1\" Freshened Things Up",
     "body": "A light refresh of 1\" overnight makes the groomers smoother.",
     "debug": {
       "firedRules": [
@@ -214,7 +209,7 @@
         "variationIndex": 1,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "{snow24h}\" Freshened Things Up"
+        "previousHeadline": "A Little Sugar on Top"
       },
       "dayOfWeek": "Friday"
     }

@@ -2,7 +2,7 @@
   "resort": "palisades",
   "resortName": "Palisades Tahoe",
   "date": "2026-01-30",
-  "generated": "2026-01-30T23:33:38.712Z",
+  "generated": "2026-01-30T22:34:30.148Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,9 +23,9 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 190,
+          "today": 208,
           "yesterday": 205,
-          "delta": -15
+          "delta": 3
         },
         "groomedTrails": {
           "today": 84,
@@ -53,94 +53,9 @@
       ],
       "newlyClosed": [
         {
-          "name": "Sun Bowl",
-          "difficulty": "Very Difficult",
-          "area": "Summit Peak"
-        },
-        {
           "name": "Funnel",
           "difficulty": "Expert",
           "area": "Emigrant Peak"
-        },
-        {
-          "name": "Hidden Bowl",
-          "difficulty": "Very Difficult",
-          "area": "Granite Peak"
-        },
-        {
-          "name": "High Traverse",
-          "difficulty": "Very Difficult",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "Beaver Bowl",
-          "difficulty": "Expert",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "Bernie's Bowl",
-          "difficulty": "Expert",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "Big Bend Bowl",
-          "difficulty": "Very Difficult",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "Big Bend Keyhole",
-          "difficulty": "Very Difficult",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "CB Chute",
-          "difficulty": "Very Difficult",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "CK Bench",
-          "difficulty": "Very Difficult",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "Estelle Bowl",
-          "difficulty": "Expert",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "Grouse Rock",
-          "difficulty": "Expert",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "Grouse Saddle",
-          "difficulty": "Expert",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "Idiot's Delight",
-          "difficulty": "Expert",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "Sherwood Creek",
-          "difficulty": "Very Difficult",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "South Beaver",
-          "difficulty": "Expert",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "S.P. Bowl",
-          "difficulty": "Very Difficult",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "The Buttress",
-          "difficulty": "Expert",
-          "area": "Summit Peak"
         }
       ],
       "newlyGroomed": [
@@ -253,7 +168,9 @@
       "3 new trails opened today",
       "5 trails freshly groomed"
     ],
-    "trends": [],
+    "trends": [
+      "3 more trails open than yesterday"
+    ],
     "recommendations": [
       "Fresh corduroy on Red Dog Face - all skill levels",
       "Fresh corduroy on Secret Garden - all skill levels",
@@ -261,14 +178,14 @@
     ]
   },
   "morningBrief": {
-    "headline": "Friday: Ready for the Weekend",
-    "body": "The rundown: 190 trails open, 84 groomed. Mostly Cloudy with temps around temps TBD. 5 runs freshly groomed, mostly in Snow King Peak and Granite Peak. 190/301 trails open, 84 groomed. Mostly Cloudy.",
+    "headline": "Terrain Update",
+    "body": "The rundown: 208 trails open, 84 groomed. Mostly Cloudy with temps around temps TBD. The terrain list grew by 3 today. More variety to choose from.",
     "debug": {
       "firedRules": [
         {
-          "id": "time_weekend_kickoff",
-          "category": "time",
-          "priority": 52,
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
           "usedFor": "headline"
         },
         {
@@ -278,25 +195,19 @@
           "usedFor": "body"
         },
         {
-          "id": "grooming_moderate",
+          "id": "terrain_few",
           "category": "terrain",
-          "priority": 55,
-          "usedFor": "body"
-        },
-        {
-          "id": "fallback_body",
-          "category": "weather",
-          "priority": 5,
+          "priority": 60,
           "usedFor": "body"
         }
       ],
       "totalRulesFired": 4,
       "headlineSelection": {
-        "condition": "weekend_kickoff",
-        "variationIndex": 2,
+        "condition": "terrain_few",
+        "variationIndex": 3,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Terrain Update"
+        "previousHeadline": "Friday: Ready for the Weekend"
       },
       "dayOfWeek": "Friday"
     }

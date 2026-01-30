@@ -2,7 +2,11 @@
   "resort": "lakelouise",
   "resortName": "Lake Louise",
   "date": "2026-01-29",
+<<<<<<< Updated upstream
+  "generated": "2026-01-30T02:38:14.394Z",
+=======
   "generated": "2026-01-30T03:09:57.513Z",
+>>>>>>> Stashed changes
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -97,7 +101,11 @@
       },
       "outlook": [
         {
+<<<<<<< Updated upstream
+          "date": "2026-01-31T02:38:14.393Z",
+=======
           "date": "2026-01-31T03:09:57.512Z",
+>>>>>>> Stashed changes
           "high_f": 32,
           "low_f": 32,
           "high_c": 0,
@@ -108,7 +116,11 @@
           "snowfall_expected": 0
         },
         {
+<<<<<<< Updated upstream
+          "date": "2026-02-01T02:38:14.393Z",
+=======
           "date": "2026-02-01T03:09:57.512Z",
+>>>>>>> Stashed changes
           "high_f": 32,
           "low_f": 32,
           "high_c": 0,
@@ -119,7 +131,11 @@
           "snowfall_expected": 0
         },
         {
+<<<<<<< Updated upstream
+          "date": "2026-02-02T02:38:14.393Z",
+=======
           "date": "2026-02-02T03:09:57.512Z",
+>>>>>>> Stashed changes
           "high_f": 32,
           "low_f": 32,
           "high_c": 0,
@@ -131,7 +147,11 @@
         }
       ],
       "tomorrow": {
+<<<<<<< Updated upstream
+        "date": "2026-01-31T02:38:14.393Z",
+=======
         "date": "2026-01-31T03:09:57.512Z",
+>>>>>>> Stashed changes
         "high_f": 32,
         "low_f": 32,
         "high_c": 0,

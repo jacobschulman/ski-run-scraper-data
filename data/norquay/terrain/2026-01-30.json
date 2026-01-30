@@ -1,9 +1,9 @@
 {
   "ResortId": "norquay",
-  "Date": "2026-01-30T18:55:54.508Z",
+  "Date": "2026-01-30T17:42:06.082Z",
   "provider": "canadian-big3",
   "apiProvider": "hybrid-wordpress",
-  "scrapedAt": "2026-01-30T18:55:54.508Z",
+  "scrapedAt": "2026-01-30T17:42:06.082Z",
   "date": "2026-01-30",
   "Lifts": [
     {
@@ -368,9 +368,9 @@
     },
     {
       "Name": "Abracadabra lower",
-      "Status": "Open",
-      "IsOpen": true,
-      "IsGroomed": true,
+      "Status": "Closed",
+      "IsOpen": false,
+      "IsGroomed": false,
       "Difficulty": "Green"
     },
     {
@@ -403,8 +403,8 @@
     },
     {
       "Name": "FM 2",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "IsGroomed": false,
       "Difficulty": "Black"
     },
@@ -452,8 +452,8 @@
     },
     {
       "Name": "Steel Pipes",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "IsGroomed": false,
       "Difficulty": "Black"
     },
@@ -529,15 +529,15 @@
     },
     {
       "Name": "Black Magic",
-      "Status": "Open",
-      "IsOpen": true,
-      "IsGroomed": true,
+      "Status": "Closed",
+      "IsOpen": false,
+      "IsGroomed": false,
       "Difficulty": "Black"
     },
     {
       "Name": "Kapoof",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "IsGroomed": false,
       "Difficulty": "Black"
     },
@@ -564,9 +564,9 @@
     },
     {
       "Name": "Stoney Trail",
-      "Status": "Open",
-      "IsOpen": true,
-      "IsGroomed": true,
+      "Status": "Closed",
+      "IsOpen": false,
+      "IsGroomed": false,
       "Difficulty": "Green"
     },
     {
@@ -940,9 +940,9 @@
         },
         {
           "Name": "Abracadabra lower",
-          "Status": "Open",
-          "IsOpen": true,
-          "IsGroomed": true,
+          "Status": "Closed",
+          "IsOpen": false,
+          "IsGroomed": false,
           "Difficulty": "Green"
         },
         {
@@ -975,8 +975,8 @@
         },
         {
           "Name": "FM 2",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "IsGroomed": false,
           "Difficulty": "Black"
         },
@@ -1024,8 +1024,8 @@
         },
         {
           "Name": "Steel Pipes",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "IsGroomed": false,
           "Difficulty": "Black"
         },
@@ -1101,15 +1101,15 @@
         },
         {
           "Name": "Black Magic",
-          "Status": "Open",
-          "IsOpen": true,
-          "IsGroomed": true,
+          "Status": "Closed",
+          "IsOpen": false,
+          "IsGroomed": false,
           "Difficulty": "Black"
         },
         {
           "Name": "Kapoof",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "IsGroomed": false,
           "Difficulty": "Black"
         },
@@ -1136,9 +1136,9 @@
         },
         {
           "Name": "Stoney Trail",
-          "Status": "Open",
-          "IsOpen": true,
-          "IsGroomed": true,
+          "Status": "Closed",
+          "IsOpen": false,
+          "IsGroomed": false,
           "Difficulty": "Green"
         },
         {
@@ -1244,12 +1244,12 @@
   "_stats": {
     "liftsOpen": 6,
     "liftsTotal": 6,
-    "trailsOpen": 72,
+    "trailsOpen": 66,
     "trailsTotal": 81,
-    "trailsGroomed": 31
+    "trailsGroomed": 28
   },
   "_conditions": {
-    "temperature_c": 5,
-    "temperature_f": 41
+    "temperature_c": 4,
+    "temperature_f": 39.2
   }
 }

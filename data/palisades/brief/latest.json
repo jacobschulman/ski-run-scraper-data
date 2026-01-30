@@ -2,7 +2,7 @@
   "resort": "palisades",
   "resortName": "Palisades Tahoe",
   "date": "2026-01-30",
-  "generated": "2026-01-30T18:55:36.470Z",
+  "generated": "2026-01-30T17:41:47.679Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,9 +23,9 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 207,
+          "today": 205,
           "yesterday": 205,
-          "delta": 2
+          "delta": 0
         },
         "groomedTrails": {
           "today": 84,
@@ -34,18 +34,7 @@
         },
         "totalTrails": 301
       },
-      "newlyOpened": [
-        {
-          "name": "Tower 16",
-          "difficulty": "Very Difficult",
-          "area": "High Camp"
-        },
-        {
-          "name": "Granite Chief Peak",
-          "difficulty": "Expert",
-          "area": "Granite Peak"
-        }
-      ],
+      "newlyOpened": [],
       "newlyClosed": [],
       "newlyGroomed": [
         {
@@ -149,17 +138,14 @@
     "flags": {
       "hasFreshSnow": false,
       "isPowderDay": false,
-      "hasNewTrails": true,
+      "hasNewTrails": false,
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
     "alerts": [
-      "2 new trails opened today",
       "5 trails freshly groomed"
     ],
-    "trends": [
-      "2 more trails open than yesterday"
-    ],
+    "trends": [],
     "recommendations": [
       "Fresh corduroy on Red Dog Face - all skill levels",
       "Fresh corduroy on Secret Garden - all skill levels",
@@ -167,8 +153,8 @@
     ]
   },
   "morningBrief": {
-    "headline": "The Weekend Starts Now",
-    "body": "The rundown: 207 trails open, 84 groomed. Mostly Cloudy with temps around temps TBD. 5 runs freshly groomed, mostly in Snow King Peak and Granite Peak.",
+    "headline": "Cheers to the Weekend",
+    "body": "The rundown: 205 trails open, 84 groomed. Mostly Cloudy with temps around temps TBD. 5 runs freshly groomed, mostly in Snow King Peak and Granite Peak. 205/301 trails open, 84 groomed. Mostly Cloudy.",
     "debug": {
       "firedRules": [
         {
@@ -188,6 +174,12 @@
           "category": "terrain",
           "priority": 55,
           "usedFor": "body"
+        },
+        {
+          "id": "fallback_body",
+          "category": "weather",
+          "priority": 5,
+          "usedFor": "body"
         }
       ],
       "totalRulesFired": 4,
@@ -196,7 +188,7 @@
         "variationIndex": 3,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Cheers to the Weekend"
+        "previousHeadline": "The Weekend Starts Now"
       },
       "dayOfWeek": "Friday"
     }

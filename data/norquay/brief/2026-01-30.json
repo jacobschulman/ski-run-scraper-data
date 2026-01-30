@@ -2,7 +2,7 @@
   "resort": "norquay",
   "resortName": "Mt Norquay",
   "date": "2026-01-30",
-  "generated": "2026-01-30T18:55:54.510Z",
+  "generated": "2026-01-30T17:42:06.084Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,67 +23,20 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 72,
+          "today": 66,
           "yesterday": 66,
-          "delta": 6
+          "delta": 0
         },
         "groomedTrails": {
-          "today": 30,
+          "today": 27,
           "yesterday": 27,
-          "delta": 3
+          "delta": 0
         },
         "totalTrails": 81
       },
-      "newlyOpened": [
-        {
-          "name": "Abracadabra lower",
-          "difficulty": "Green",
-          "area": "All Terrain"
-        },
-        {
-          "name": "FM 2",
-          "difficulty": "Black",
-          "area": "All Terrain"
-        },
-        {
-          "name": "Steel Pipes",
-          "difficulty": "Black",
-          "area": "All Terrain"
-        },
-        {
-          "name": "Black Magic",
-          "difficulty": "Black",
-          "area": "All Terrain"
-        },
-        {
-          "name": "Kapoof",
-          "difficulty": "Black",
-          "area": "All Terrain"
-        },
-        {
-          "name": "Stoney Trail",
-          "difficulty": "Green",
-          "area": "All Terrain"
-        }
-      ],
+      "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [
-        {
-          "name": "Abracadabra lower",
-          "difficulty": "Green",
-          "area": "All Terrain"
-        },
-        {
-          "name": "Black Magic",
-          "difficulty": "Black",
-          "area": "All Terrain"
-        },
-        {
-          "name": "Stoney Trail",
-          "difficulty": "Green",
-          "area": "All Terrain"
-        }
-      ],
+      "newlyGroomed": [],
       "ungroomed": []
     },
     "lifts": {
@@ -92,10 +45,10 @@
     "forecast": {
       "today": {
         "date": "2026-01-30",
-        "high_f": 41,
-        "low_f": 41,
-        "high_c": 5,
-        "low_c": 5,
+        "high_f": 39.2,
+        "low_f": 39.2,
+        "high_c": 4,
+        "low_c": 4,
         "description": "Unknown",
         "snowfall_day_inches": 0,
         "snowfall_night_inches": 0
@@ -107,31 +60,22 @@
     "flags": {
       "hasFreshSnow": false,
       "isPowderDay": false,
-      "hasNewTrails": true,
+      "hasNewTrails": false,
       "significantGroomingIncrease": false
     },
-    "alerts": [
-      "6 new trails opened today",
-      "3 trails freshly groomed"
-    ],
-    "trends": [
-      "6 more trails open than yesterday"
-    ],
-    "recommendations": [
-      "Fresh corduroy on Abracadabra lower - great for beginners",
-      "Fresh corduroy on Black Magic - challenging for advanced skiers",
-      "Fresh corduroy on Stoney Trail - great for beginners"
-    ]
+    "alerts": [],
+    "trends": [],
+    "recommendations": []
   },
   "morningBrief": {
-    "headline": "6 New Trails Today",
-    "body": "72/81 trails spinning, 30 freshly groomed. 41° and Unknown. New terrain alert: 6 trails added to the mix.",
+    "headline": "Friday: Ready for the Weekend",
+    "body": "66/81 trails spinning, 27 freshly groomed. 39.2° and Unknown. 66/81 trails open, 27 groomed. 39.2° and Unknown.",
     "debug": {
       "firedRules": [
         {
-          "id": "terrain_expanding",
-          "category": "terrain",
-          "priority": 75,
+          "id": "time_weekend_kickoff",
+          "category": "time",
+          "priority": 52,
           "usedFor": "headline"
         },
         {
@@ -141,17 +85,17 @@
           "usedFor": "body"
         },
         {
-          "id": "terrain_expanding",
-          "category": "terrain",
-          "priority": 75,
+          "id": "fallback_body",
+          "category": "weather",
+          "priority": 5,
           "usedFor": "body"
         }
       ],
       "totalRulesFired": 3,
       "headlineSelection": {
-        "condition": "terrain_expansion",
+        "condition": "weekend_kickoff",
         "variationIndex": 2,
-        "totalVariations": 6,
+        "totalVariations": 5,
         "usedWeekendVariation": false,
         "previousHeadline": "The Weekend Starts Now"
       },

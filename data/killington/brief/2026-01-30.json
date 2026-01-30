@@ -2,7 +2,7 @@
   "resort": "killington",
   "resortName": "Killington",
   "date": "2026-01-30",
-  "generated": "2026-01-30T21:35:30.837Z",
+  "generated": "2026-01-30T20:39:58.111Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -28,31 +28,15 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 92,
+          "today": 89,
           "yesterday": 89,
-          "delta": 3
+          "delta": 0
         },
         "totalTrails": 222
       },
       "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [
-        {
-          "name": "Yodeler",
-          "difficulty": "easiest",
-          "area": "Snowshed"
-        },
-        {
-          "name": "Downdraft - Lower",
-          "difficulty": "Double Black",
-          "area": "Canyon Area"
-        },
-        {
-          "name": "Downdraft - Middle",
-          "difficulty": "Double Black",
-          "area": "Canyon Area"
-        }
-      ],
+      "newlyGroomed": [],
       "ungroomed": []
     },
     "lifts": {
@@ -122,19 +106,13 @@
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [
-      "3 trails freshly groomed"
-    ],
+    "alerts": [],
     "trends": [],
-    "recommendations": [
-      "Fresh corduroy on Yodeler - all skill levels",
-      "Fresh corduroy on Downdraft - Lower - all skill levels",
-      "Fresh corduroy on Downdraft - Middle - all skill levels"
-    ]
+    "recommendations": []
   },
   "morningBrief": {
     "headline": "Is It the Weekend Yet?",
-    "body": "172 of 222 trails are open with 92 groomed. Windy with a temperatures TBD. Windy conditions expected. Upper lifts may have holds or delays.",
+    "body": "172 of 222 trails are open with 89 groomed. Windy with a temperatures TBD. Windy conditions expected. Upper lifts may have holds or delays.",
     "debug": {
       "firedRules": [
         {

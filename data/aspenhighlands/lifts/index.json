@@ -17,7 +17,7 @@
       "openTime": "9:00 AM",
       "closeTime": "3:30 PM",
       "avgWaitTime": null,
-      "lastUpdated": "2026-01-31T00:59:51.419Z"
+      "lastUpdated": "2026-01-31T03:21:52.738Z"
     },
     {
       "liftId": "aspen:thunderbowl",
@@ -31,7 +31,7 @@
       "openTime": "12:00 PM",
       "closeTime": "3:30 PM",
       "avgWaitTime": null,
-      "lastUpdated": "2026-01-31T00:59:51.419Z"
+      "lastUpdated": "2026-01-31T03:21:52.738Z"
     },
     {
       "liftId": "aspen:cloud-nine",
@@ -45,7 +45,7 @@
       "openTime": "9:00 AM",
       "closeTime": "3:30 PM",
       "avgWaitTime": null,
-      "lastUpdated": "2026-01-31T00:59:51.419Z"
+      "lastUpdated": "2026-01-31T03:21:52.738Z"
     },
     {
       "liftId": "aspen:deep-temerity",
@@ -59,7 +59,7 @@
       "openTime": "9:00 AM",
       "closeTime": "3:30 PM",
       "avgWaitTime": null,
-      "lastUpdated": "2026-01-31T00:59:51.419Z"
+      "lastUpdated": "2026-01-31T03:21:52.738Z"
     },
     {
       "liftId": "aspen:loge-peak",
@@ -73,8 +73,8 @@
       "openTime": "9:00 AM",
       "closeTime": "3:30 PM",
       "avgWaitTime": null,
-      "lastUpdated": "2026-01-31T00:59:51.419Z"
+      "lastUpdated": "2026-01-31T03:21:52.738Z"
     }
   ],
-  "generated": "2026-01-31T01:00:07.438Z"
+  "generated": "2026-01-31T03:22:06.746Z"
 }

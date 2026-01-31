@@ -2,7 +2,7 @@
   "resort": "sugarbush",
   "resortName": "Sugarbush",
   "date": "2026-01-31",
-  "generated": "2026-01-31T11:28:28.005Z",
+  "generated": "2026-01-31T10:38:27.890Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,44 +23,21 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 111,
+          "today": 113,
           "yesterday": 113,
-          "delta": -2
+          "delta": 0
         },
         "groomedTrails": {
-          "today": 48,
+          "today": 49,
           "yesterday": 49,
-          "delta": -1
+          "delta": 0
         },
         "totalTrails": 142
       },
       "newlyOpened": [],
-      "newlyClosed": [
-        {
-          "name": "Racer's Edge",
-          "difficulty": "Intermediate",
-          "area": "Gadd Peak"
-        },
-        {
-          "name": "Brambles",
-          "difficulty": "Intermediate",
-          "area": "Inverness Peak"
-        }
-      ],
-      "newlyGroomed": [
-        {
-          "name": "Lower Hot Shot",
-          "difficulty": "Intermediate",
-          "area": "North Lynx Peak"
-        }
-      ],
-      "ungroomed": [
-        {
-          "name": "Sleeper Road",
-          "difficulty": "Intermediate",
-          "area": "North Lynx Peak"
-        }
-      ]
+      "newlyClosed": [],
+      "newlyGroomed": [],
+      "ungroomed": []
     },
     "lifts": {
       "available": true,
@@ -139,17 +116,13 @@
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [
-      "1 trail freshly groomed"
-    ],
+    "alerts": [],
     "trends": [],
-    "recommendations": [
-      "Fresh corduroy on Lower Hot Shot - all skill levels"
-    ]
+    "recommendations": []
   },
   "morningBrief": {
-    "headline": "Weekend Warrior Day",
-    "body": "111/142 trails spinning, 48 freshly groomed. Windy. Windy conditions expected. Upper lifts may have holds or delays.",
+    "headline": "Saturday at the Mountain",
+    "body": "113/142 trails spinning, 49 freshly groomed. Windy. Windy conditions expected. Upper lifts may have holds or delays.",
     "debug": {
       "firedRules": [
         {
@@ -177,7 +150,7 @@
         "variationIndex": 0,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Saturday at the Mountain"
+        "previousHeadline": "Weekend Warrior Day"
       },
       "dayOfWeek": "Saturday"
     }

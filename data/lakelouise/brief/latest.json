@@ -1,8 +1,8 @@
 {
   "resort": "lakelouise",
   "resortName": "Lake Louise",
-  "date": "2026-01-31",
-  "generated": "2026-01-31T07:35:39.345Z",
+  "date": "2026-01-30",
+  "generated": "2026-01-31T06:51:42.546Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -17,7 +17,7 @@
       "season_total_cm": 595,
       "conditions": {
         "today": "Snowing",
-        "yesterday": "Snowing"
+        "yesterday": "Overcast"
       }
     },
     "terrain": {
@@ -29,22 +29,74 @@
         },
         "groomedTrails": {
           "today": 36,
-          "yesterday": 36,
-          "delta": 0
+          "yesterday": 32,
+          "delta": 4
         },
         "totalTrails": 170
       },
       "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [],
-      "ungroomed": []
+      "newlyGroomed": [
+        {
+          "name": "Men's Downhill",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "Grizzly Gully",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        },
+        {
+          "name": "Flight Chutes Cat Track",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "Meadowlark",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "Bunchberry",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        },
+        {
+          "name": "30 Goats",
+          "difficulty": "Blue",
+          "area": "Larch"
+        },
+        {
+          "name": "Ski Out",
+          "difficulty": "Green",
+          "area": "Larch"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Bearberry",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        },
+        {
+          "name": "Jerry's Jungle",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Charlie's Choice",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        }
+      ]
     },
     "lifts": {
       "available": false
     },
     "forecast": {
       "today": {
-        "date": "2026-01-31",
+        "date": "2026-01-30",
         "high_f": 32,
         "low_f": 32,
         "high_c": 0,
@@ -55,7 +107,7 @@
       },
       "outlook": [
         {
-          "date": "2026-02-01T07:35:39.344Z",
+          "date": "2026-02-01T06:51:42.545Z",
           "high_f": 32,
           "low_f": 32,
           "high_c": 0,
@@ -66,7 +118,7 @@
           "snowfall_expected": 0
         },
         {
-          "date": "2026-02-02T07:35:39.344Z",
+          "date": "2026-02-02T06:51:42.545Z",
           "high_f": 32,
           "low_f": 32,
           "high_c": 0,
@@ -77,7 +129,7 @@
           "snowfall_expected": 0
         },
         {
-          "date": "2026-02-03T07:35:39.344Z",
+          "date": "2026-02-03T06:51:42.545Z",
           "high_f": 32,
           "low_f": 32,
           "high_c": 0,
@@ -89,7 +141,7 @@
         }
       ],
       "tomorrow": {
-        "date": "2026-02-01T07:35:39.344Z",
+        "date": "2026-02-01T06:51:42.545Z",
         "high_f": 32,
         "low_f": 32,
         "high_c": 0,
@@ -108,13 +160,19 @@
       "hasNewTrails": false,
       "significantGroomingIncrease": false
     },
-    "alerts": [],
+    "alerts": [
+      "7 trails freshly groomed"
+    ],
     "trends": [],
-    "recommendations": []
+    "recommendations": [
+      "Fresh corduroy on Men's Downhill - challenging for advanced skiers",
+      "Fresh corduroy on Grizzly Gully - perfect for intermediate skiers",
+      "Fresh corduroy on Flight Chutes Cat Track - challenging for advanced skiers"
+    ]
   },
   "morningBrief": {
-    "headline": "Rain at Base, Snow Up Top",
-    "body": "170 of 170 trails are open with 36 groomed. Cloud/Sun/Mixed with a high of 32°F. Peak terrain status: almost everything is available today. Mixed precipitation expected. Rain at base, snow up top. Dress in layers.",
+    "headline": "Mother Nature Can't Decide",
+    "body": "The rundown: 170 trails open, 36 groomed. Cloud/Sun/Mixed with temps around 32°. 7 runs freshly groomed, mostly in Front Side and Larch. It's going to be a mixed bag today. Expect rain below and snow above.",
     "debug": {
       "firedRules": [
         {
@@ -130,9 +188,9 @@
           "usedFor": "body"
         },
         {
-          "id": "percent_full",
+          "id": "grooming_moderate",
           "category": "terrain",
-          "priority": 45,
+          "priority": 55,
           "usedFor": "body"
         },
         {
@@ -142,15 +200,15 @@
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 4,
+      "totalRulesFired": 5,
       "headlineSelection": {
         "condition": "weather_mixed",
-        "variationIndex": 1,
+        "variationIndex": 2,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Mother Nature Can't Decide"
+        "previousHeadline": "Variable Conditions"
       },
-      "dayOfWeek": "Saturday"
+      "dayOfWeek": "Friday"
     }
   },
   "errors": []

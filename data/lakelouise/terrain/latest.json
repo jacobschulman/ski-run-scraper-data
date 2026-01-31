@@ -1,10 +1,10 @@
 {
   "ResortId": "lakelouise",
-  "Date": "2026-01-31T07:35:39.341Z",
+  "Date": "2026-01-31T06:51:42.542Z",
   "provider": "canadian-big3",
   "apiProvider": "ski-louise-xml",
-  "scrapedAt": "2026-01-31T07:35:39.341Z",
-  "date": "2026-01-31",
+  "scrapedAt": "2026-01-31T06:51:42.542Z",
+  "date": "2026-01-30",
   "Lifts": [
     {
       "Name": "Magic Carpet",

@@ -1,9 +1,25 @@
 {
   "resort": "copper",
   "resortName": "Copper Mountain",
-  "date": "2026-01-31",
-  "generated": "2026-01-31T07:35:28.708Z",
+  "date": "2026-01-30",
+  "generated": "2026-01-31T06:51:31.225Z",
   "rawData": {
+    "snow": {
+      "overnight_inches": 1,
+      "overnight_cm": 3,
+      "24hour_inches": 1,
+      "24hour_cm": 3,
+      "48hour_inches": 1,
+      "48hour_cm": 3,
+      "7day_inches": 1,
+      "7day_cm": 3,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Packed Powder",
+        "yesterday": "Loose Granular"
+      }
+    },
     "terrain": {
       "stats": {
         "openTrails": {
@@ -13,37 +29,242 @@
         },
         "groomedTrails": {
           "today": 53,
-          "yesterday": 53,
-          "delta": 0
+          "yesterday": 43,
+          "delta": 10
         },
         "totalTrails": 202
       },
-      "newlyOpened": [],
-      "newlyClosed": [],
-      "newlyGroomed": [],
-      "ungroomed": []
+      "newlyOpened": [
+        {
+          "name": "Golf Course Loops",
+          "difficulty": "easiest",
+          "area": "Cross Country Skiing"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Guthrie’s Chute",
+          "difficulty": "Black",
+          "area": "Union Peak"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Hallelujah Ridge",
+          "difficulty": "Black",
+          "area": "Spaulding & Resolution"
+        },
+        {
+          "name": "Spaulding Ridge",
+          "difficulty": "Black",
+          "area": "Spaulding & Resolution"
+        },
+        {
+          "name": "Revenge (L)",
+          "difficulty": "Black",
+          "area": "Union Peak"
+        },
+        {
+          "name": "Timber Ridge",
+          "difficulty": "Blue",
+          "area": "Union Peak"
+        },
+        {
+          "name": "Union Park",
+          "difficulty": "easiest",
+          "area": "Union Peak"
+        },
+        {
+          "name": "Clear Cut",
+          "difficulty": "Blue",
+          "area": "West"
+        },
+        {
+          "name": "Fairway",
+          "difficulty": "easiest",
+          "area": "West"
+        },
+        {
+          "name": "Lyman Lane",
+          "difficulty": "easiest",
+          "area": "West"
+        },
+        {
+          "name": "Pinecone Alley",
+          "difficulty": "Blue",
+          "area": "West"
+        },
+        {
+          "name": "Prospector",
+          "difficulty": "easiest",
+          "area": "West"
+        },
+        {
+          "name": "Roundabout (U)",
+          "difficulty": "easiest",
+          "area": "West"
+        },
+        {
+          "name": "Timber Road",
+          "difficulty": "easiest",
+          "area": "West"
+        },
+        {
+          "name": "Coppertone",
+          "difficulty": "easiest",
+          "area": "Center"
+        },
+        {
+          "name": "Golf Course Loops",
+          "difficulty": "easiest",
+          "area": "Cross Country Skiing"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Oh No (U)",
+          "difficulty": "Blue",
+          "area": "East"
+        },
+        {
+          "name": "Oh No (L)",
+          "difficulty": "Blue",
+          "area": "East"
+        },
+        {
+          "name": "Easy Feelin'",
+          "difficulty": "easiest",
+          "area": "West"
+        },
+        {
+          "name": "Collage (U)",
+          "difficulty": "Blue",
+          "area": "Center"
+        }
+      ]
     },
     "lifts": {
       "available": true,
       "yesterday": {
-        "date": "2026-01-30",
+        "date": "2026-01-29",
         "avgWaitTime": 0,
         "maxWaitTime": 0,
         "totalLiftsTracked": 23,
         "busiest": []
       }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-30",
+        "high_f": null,
+        "low_f": 9,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-31",
+          "high_f": 25,
+          "low_f": 11,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2026-02-01",
+          "high_f": 33,
+          "low_f": 14,
+          "description": "Mostly Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-02",
+          "high_f": 29,
+          "low_f": 7,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-31",
+        "high_f": 25,
+        "low_f": 11,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 1,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 1
+      }
     }
   },
   "computedInsights": {
     "flags": {
-      "hasNewTrails": false,
-      "significantGroomingIncrease": false,
+      "hasFreshSnow": true,
+      "isPowderDay": false,
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true,
       "highLiftDemand": false
     },
-    "alerts": [],
-    "trends": [],
-    "recommendations": []
+    "alerts": [
+      "1\" new snow overnight",
+      "1 new trail opened today",
+      "14 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 23% from yesterday",
+      "1\" snow expected Saturday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Hallelujah Ridge - challenging for advanced skiers",
+      "Fresh corduroy on Spaulding Ridge - challenging for advanced skiers",
+      "Fresh corduroy on Revenge (L) - challenging for advanced skiers"
+    ]
   },
-  "morningBrief": null,
+  "morningBrief": {
+    "headline": "Fresh Coat on the Mountain",
+    "body": "1\" of fresh snow settled in overnight. Not a powder day, but an upgrade. The grooming crew went hard: 14 trails of fresh corduroy in Spaulding & Resolution, Union Peak, and more. Light snow possible in the forecast.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
+          "usedFor": "body"
+        },
+        {
+          "id": "grooming_good",
+          "category": "terrain",
+          "priority": 68,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_flurries",
+          "category": "weather",
+          "priority": 30,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 5,
+      "headlineSelection": {
+        "condition": "fresh_coat",
+        "variationIndex": 0,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "A Little Sugar on Top"
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
   "errors": []
 }

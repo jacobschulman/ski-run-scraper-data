@@ -2,7 +2,7 @@
   "resort": "sugarloaf",
   "resortName": "Sugarloaf",
   "date": "2026-01-30",
-  "generated": "2026-01-31T04:40:33.542Z",
+  "generated": "2026-01-31T02:33:05.375Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -205,14 +205,23 @@
     },
     "forecast": {
       "today": {
-        "date": "2026-01-30",
+        "date": "2026-01-29",
         "high_f": null,
-        "low_f": 3,
+        "low_f": -6,
         "description": "Windy",
         "snowfall_day_inches": 0,
         "snowfall_night_inches": 0
       },
       "outlook": [
+        {
+          "date": "2026-01-30",
+          "high_f": 3,
+          "low_f": 3,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
         {
           "date": "2026-01-31",
           "high_f": 5,
@@ -230,21 +239,12 @@
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
           "snowfall_expected": 0
-        },
-        {
-          "date": "2026-02-02",
-          "high_f": 18,
-          "low_f": 16,
-          "description": "Windy",
-          "snowfall_day_inches": 0,
-          "snowfall_night_inches": 0,
-          "snowfall_expected": 0
         }
       ],
       "tomorrow": {
-        "date": "2026-01-31",
-        "high_f": 5,
-        "low_f": 5,
+        "date": "2026-01-30",
+        "high_f": 3,
+        "low_f": 3,
         "description": "Windy",
         "snowfall_day_inches": 0,
         "snowfall_night_inches": 0,

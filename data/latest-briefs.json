@@ -4236,7 +4236,7 @@
       "resort": "stratton",
       "resortName": "Stratton",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:24.935Z",
+      "generated": "2026-01-31T13:08:05.260Z",
       "rawData": {
         "snow": {
           "overnight_inches": 0,
@@ -4446,7 +4446,7 @@
         ]
       },
       "morningBrief": {
-        "headline": "Smooth Sailing Today",
+        "headline": "The Corduroy Is Calling",
         "body": "Holding steady - that 13\" base from recent storms is doing the heavy lifting. The grooming crew went hard: 15 trails of fresh corduroy in Learning Areas, Lower Mountain, and more. Windy conditions expected. Upper lifts may have holds or delays.",
         "debug": {
           "firedRules": [
@@ -4481,7 +4481,7 @@
             "variationIndex": 3,
             "totalVariations": 6,
             "usedWeekendVariation": false,
-            "previousHeadline": "The Corduroy Is Calling"
+            "previousHeadline": "Smooth Sailing Today"
           },
           "dayOfWeek": "Saturday"
         }
@@ -4497,7 +4497,7 @@
       "resort": "palisades",
       "resortName": "Palisades Tahoe",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:24.943Z",
+      "generated": "2026-01-31T13:08:05.269Z",
       "rawData": {
         "terrain": {
           "stats": {
@@ -4552,7 +4552,7 @@
       "resort": "jacksonhole",
       "resortName": "Jackson Hole",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:25.019Z",
+      "generated": "2026-01-31T13:08:05.350Z",
       "rawData": {
         "terrain": {
           "stats": {
@@ -4562,68 +4562,16 @@
               "delta": 0
             },
             "groomedTrails": {
-              "today": 50,
+              "today": 54,
               "yesterday": 54,
-              "delta": -4
+              "delta": 0
             },
             "totalTrails": 145
           },
           "newlyOpened": [],
           "newlyClosed": [],
-          "newlyGroomed": [
-            {
-              "name": "St. John's",
-              "difficulty": "Blue",
-              "area": "All Terrain"
-            },
-            {
-              "name": "Thunder",
-              "difficulty": "Black",
-              "area": "All Terrain"
-            },
-            {
-              "name": "Buck Run",
-              "difficulty": "Blue",
-              "area": "All Terrain"
-            }
-          ],
-          "ungroomed": [
-            {
-              "name": "Bivouac",
-              "difficulty": "Black",
-              "area": "All Terrain"
-            },
-            {
-              "name": "Union Pass Traverse",
-              "difficulty": "Blue",
-              "area": "All Terrain"
-            },
-            {
-              "name": "Kemmerer (Upper)",
-              "difficulty": "Black",
-              "area": "All Terrain"
-            },
-            {
-              "name": "U.P. Connection",
-              "difficulty": "Blue",
-              "area": "All Terrain"
-            },
-            {
-              "name": "Symmetry",
-              "difficulty": "Blue",
-              "area": "All Terrain"
-            },
-            {
-              "name": "Ranger",
-              "difficulty": "Black",
-              "area": "All Terrain"
-            },
-            {
-              "name": "Gros Ventre (Upper)",
-              "difficulty": "Blue",
-              "area": "All Terrain"
-            }
-          ]
+          "newlyGroomed": [],
+          "ungroomed": []
         },
         "lifts": {
           "available": true,
@@ -4642,15 +4590,9 @@
           "significantGroomingIncrease": false,
           "highLiftDemand": false
         },
-        "alerts": [
-          "3 trails freshly groomed"
-        ],
+        "alerts": [],
         "trends": [],
-        "recommendations": [
-          "Fresh corduroy on St. John's - perfect for intermediate skiers",
-          "Fresh corduroy on Thunder - challenging for advanced skiers",
-          "Fresh corduroy on Buck Run - perfect for intermediate skiers"
-        ]
+        "recommendations": []
       },
       "morningBrief": null,
       "errors": []
@@ -4665,7 +4607,7 @@
       "resort": "bigsky",
       "resortName": "Big Sky",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:25.021Z",
+      "generated": "2026-01-31T13:08:05.352Z",
       "rawData": {
         "terrain": {
           "stats": {
@@ -4675,331 +4617,15 @@
               "delta": 0
             },
             "groomedTrails": {
-              "today": 66,
+              "today": 3,
               "yesterday": 3,
-              "delta": 63
+              "delta": 0
             },
             "totalTrails": 319
           },
           "newlyOpened": [],
           "newlyClosed": [],
-          "newlyGroomed": [
-            {
-              "name": "Comet",
-              "difficulty": "Black",
-              "area": "Challenger Area"
-            },
-            {
-              "name": "Half Moon",
-              "difficulty": "Black",
-              "area": "Challenger Area"
-            },
-            {
-              "name": "Dakota Road",
-              "difficulty": "Blue",
-              "area": "Dakota Area"
-            },
-            {
-              "name": "Hippy Highway",
-              "difficulty": "Blue",
-              "area": "Dakota Area"
-            },
-            {
-              "name": "Mule Skinner",
-              "difficulty": "Blue",
-              "area": "Dakota Area"
-            },
-            {
-              "name": "Cupajo",
-              "difficulty": "Green",
-              "area": "Derringer Area"
-            },
-            {
-              "name": "Madison Base Learning Area",
-              "difficulty": "Green",
-              "area": "Derringer Area"
-            },
-            {
-              "name": "Bozeman Trail",
-              "difficulty": "Green",
-              "area": "Explorer Area"
-            },
-            {
-              "name": "Lois Lane",
-              "difficulty": "Green",
-              "area": "Explorer Area"
-            },
-            {
-              "name": "Lone Wolf",
-              "difficulty": "Green",
-              "area": "Explorer Area"
-            },
-            {
-              "name": "Mr. Ed",
-              "difficulty": "Green",
-              "area": "Explorer Area"
-            },
-            {
-              "name": "Mr. K",
-              "difficulty": "Green",
-              "area": "Explorer Area"
-            },
-            {
-              "name": "White Wing",
-              "difficulty": "Green",
-              "area": "Explorer Area"
-            },
-            {
-              "name": "Black & Blue",
-              "difficulty": "Blue",
-              "area": "Explorer Area"
-            },
-            {
-              "name": "Chet's Knob",
-              "difficulty": "Blue",
-              "area": "Explorer Area"
-            },
-            {
-              "name": "SA Road",
-              "difficulty": "Green",
-              "area": "Iron Horse Area"
-            },
-            {
-              "name": "Blue Moon",
-              "difficulty": "Blue",
-              "area": "Iron Horse Area"
-            },
-            {
-              "name": "Fast Lane",
-              "difficulty": "Blue",
-              "area": "Iron Horse Area"
-            },
-            {
-              "name": "Powder River",
-              "difficulty": "Blue",
-              "area": "Iron Horse Area"
-            },
-            {
-              "name": "Little Calf",
-              "difficulty": "Green",
-              "area": "Lone Moose Area"
-            },
-            {
-              "name": "Lone Moose Access",
-              "difficulty": "Green",
-              "area": "Lone Moose Area"
-            },
-            {
-              "name": "To Southern Comfort",
-              "difficulty": "Green",
-              "area": "Lone Moose Area"
-            },
-            {
-              "name": "Horseshoe Cutoff",
-              "difficulty": "Green",
-              "area": "Lone Tree Area"
-            },
-            {
-              "name": "Horseshoe",
-              "difficulty": "Blue",
-              "area": "Lone Tree Area"
-            },
-            {
-              "name": "Meriwether Cutoff",
-              "difficulty": "Blue",
-              "area": "Lone Tree Area"
-            },
-            {
-              "name": "Ice House",
-              "difficulty": "advanced intermediate",
-              "area": "Lone Tree Area"
-            },
-            {
-              "name": "Lookout Ridge",
-              "difficulty": "advanced intermediate",
-              "area": "Lone Tree Area"
-            },
-            {
-              "name": "Cinnabar",
-              "difficulty": "Green",
-              "area": "Madison Area"
-            },
-            {
-              "name": "Lazy Jack",
-              "difficulty": "Green",
-              "area": "Madison Area"
-            },
-            {
-              "name": "Meriwether",
-              "difficulty": "Blue",
-              "area": "Madison Area"
-            },
-            {
-              "name": "Stillwater Traverse",
-              "difficulty": "Blue",
-              "area": "Madison Area"
-            },
-            {
-              "name": "Pony Express",
-              "difficulty": "Green",
-              "area": "Pony Express Area"
-            },
-            {
-              "name": "Morningstar",
-              "difficulty": "Blue",
-              "area": "Powder Seeker Area"
-            },
-            {
-              "name": "Gun Mount",
-              "difficulty": "advanced intermediate",
-              "area": "Powder Seeker Area"
-            },
-            {
-              "name": "Pacifier",
-              "difficulty": "Green",
-              "area": "Ramcharger Area"
-            },
-            {
-              "name": "Bear Back Line",
-              "difficulty": "Blue",
-              "area": "Ramcharger Area"
-            },
-            {
-              "name": "Safari",
-              "difficulty": "Blue",
-              "area": "Ramcharger Area"
-            },
-            {
-              "name": "Ambush",
-              "difficulty": "advanced intermediate",
-              "area": "Ramcharger Area"
-            },
-            {
-              "name": "Hangman's",
-              "difficulty": "advanced intermediate",
-              "area": "Ramcharger Area"
-            },
-            {
-              "name": "Tippy's Tumble",
-              "difficulty": "advanced intermediate",
-              "area": "Ramcharger Area"
-            },
-            {
-              "name": "Cow Flats",
-              "difficulty": "Blue",
-              "area": "Shedhorn Area"
-            },
-            {
-              "name": "Duck Walk",
-              "difficulty": "Blue",
-              "area": "Shedhorn Area"
-            },
-            {
-              "name": "Lupine",
-              "difficulty": "Blue",
-              "area": "Shedhorn Area"
-            },
-            {
-              "name": "Skittles Road",
-              "difficulty": "Blue",
-              "area": "Shedhorn Area"
-            },
-            {
-              "name": "Sunlight",
-              "difficulty": "Blue",
-              "area": "Shedhorn Area"
-            },
-            {
-              "name": "Upper Sunlight",
-              "difficulty": "Blue",
-              "area": "Shedhorn Area"
-            },
-            {
-              "name": "Deep South",
-              "difficulty": "Green",
-              "area": "Southern Comfort Area"
-            },
-            {
-              "name": "Sacajawea",
-              "difficulty": "Green",
-              "area": "Southern Comfort Area"
-            },
-            {
-              "name": "Yellow Brick Road",
-              "difficulty": "Green",
-              "area": "Southern Comfort Area"
-            },
-            {
-              "name": "El Dorado",
-              "difficulty": "Blue",
-              "area": "Southern Comfort Area"
-            },
-            {
-              "name": "Ponderosa",
-              "difficulty": "Blue",
-              "area": "Southern Comfort Area"
-            },
-            {
-              "name": "Clubhouse Loop",
-              "difficulty": "Green",
-              "area": "Spanish Peaks Area"
-            },
-            {
-              "name": "K1 Return",
-              "difficulty": "Green",
-              "area": "Spanish Peaks Area"
-            },
-            {
-              "name": "Spanish Peaks Learning Area",
-              "difficulty": "Green",
-              "area": "Spanish Peaks Area"
-            },
-            {
-              "name": "Take a Bough (Lower)",
-              "difficulty": "Green",
-              "area": "Spanish Peaks Area"
-            },
-            {
-              "name": "Mountain Village Learning Area",
-              "difficulty": "Green",
-              "area": "Swift Current Area"
-            },
-            {
-              "name": "Huntley Hollow",
-              "difficulty": "Blue",
-              "area": "Swift Current Area"
-            },
-            {
-              "name": "Jay Walk",
-              "difficulty": "Blue",
-              "area": "Swift Current Area"
-            },
-            {
-              "name": "Lobo",
-              "difficulty": "Blue",
-              "area": "Swift Current Area"
-            },
-            {
-              "name": "Calamity Jane (Lower)",
-              "difficulty": "advanced intermediate",
-              "area": "Swift Current Area"
-            },
-            {
-              "name": "Calamity Jane (Upper)",
-              "difficulty": "advanced intermediate",
-              "area": "Swift Current Area"
-            },
-            {
-              "name": "Low Dog",
-              "difficulty": "Blue",
-              "area": "Thunder Wolf Area"
-            },
-            {
-              "name": "Elk Park Ridge",
-              "difficulty": "advanced intermediate",
-              "area": "Thunder Wolf Area"
-            }
-          ],
+          "newlyGroomed": [],
           "ungroomed": []
         },
         "lifts": {
@@ -5016,20 +4642,12 @@
       "computedInsights": {
         "flags": {
           "hasNewTrails": false,
-          "significantGroomingIncrease": true,
+          "significantGroomingIncrease": false,
           "highLiftDemand": false
         },
-        "alerts": [
-          "63 trails freshly groomed"
-        ],
-        "trends": [
-          "Grooming increased 2100% from yesterday"
-        ],
-        "recommendations": [
-          "Fresh corduroy on Comet - challenging for advanced skiers",
-          "Fresh corduroy on Half Moon - challenging for advanced skiers",
-          "Fresh corduroy on Dakota Road - perfect for intermediate skiers"
-        ]
+        "alerts": [],
+        "trends": [],
+        "recommendations": []
       },
       "morningBrief": null,
       "errors": []
@@ -5043,7 +4661,7 @@
       "resort": "deervalley",
       "resortName": "Deer Valley",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:24.948Z",
+      "generated": "2026-01-31T13:08:05.276Z",
       "rawData": {
         "terrain": {
           "stats": {
@@ -5308,7 +4926,7 @@
       "resort": "snowbird",
       "resortName": "Snowbird",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:25.025Z",
+      "generated": "2026-01-31T13:08:05.356Z",
       "rawData": {
         "terrain": {
           "stats": {
@@ -5362,7 +4980,7 @@
       "resort": "solitude",
       "resortName": "Solitude",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:24.953Z",
+      "generated": "2026-01-31T13:08:05.281Z",
       "rawData": {
         "terrain": {
           "stats": {
@@ -5417,7 +5035,7 @@
       "resort": "aspenhighlands",
       "resortName": "Aspen Highlands",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:25.028Z",
+      "generated": "2026-01-31T13:08:05.358Z",
       "rawData": {
         "terrain": {
           "stats": {
@@ -5487,7 +5105,7 @@
       "resort": "aspenmountain",
       "resortName": "Aspen Mountain",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:25.030Z",
+      "generated": "2026-01-31T13:08:05.359Z",
       "rawData": {
         "terrain": {
           "stats": {
@@ -5497,137 +5115,16 @@
               "delta": 0
             },
             "groomedTrails": {
-              "today": 0,
+              "today": 24,
               "yesterday": 24,
-              "delta": -24
+              "delta": 0
             },
             "totalTrails": 140
           },
           "newlyOpened": [],
           "newlyClosed": [],
           "newlyGroomed": [],
-          "ungroomed": [
-            {
-              "name": "Bellissimo (Lower)",
-              "difficulty": "Blue",
-              "area": "Ajax Express"
-            },
-            {
-              "name": "Bellissimo (Upper)",
-              "difficulty": "Blue",
-              "area": "Ajax Express"
-            },
-            {
-              "name": "Buckhorn Cutoff",
-              "difficulty": "Blue",
-              "area": "Ajax Express"
-            },
-            {
-              "name": "Deer Park",
-              "difficulty": "Blue",
-              "area": "Ajax Express"
-            },
-            {
-              "name": "Dipsy Doodle (Lower)",
-              "difficulty": "Blue",
-              "area": "Ajax Express"
-            },
-            {
-              "name": "Dipsy Doodle (Upper)",
-              "difficulty": "Blue",
-              "area": "Ajax Express"
-            },
-            {
-              "name": "Midway Road",
-              "difficulty": "Blue",
-              "area": "Ajax Express"
-            },
-            {
-              "name": "North American",
-              "difficulty": "Blue",
-              "area": "Ajax Express"
-            },
-            {
-              "name": "Silver Bell",
-              "difficulty": "Blue",
-              "area": "Ajax Express"
-            },
-            {
-              "name": "Hodge Podge",
-              "difficulty": "Blue",
-              "area": "Hero's"
-            },
-            {
-              "name": "Kleenex Corner",
-              "difficulty": "Blue",
-              "area": "Lower Mountain"
-            },
-            {
-              "name": "Little Nell",
-              "difficulty": "Blue",
-              "area": "Lower Mountain"
-            },
-            {
-              "name": "Ruthie's Run",
-              "difficulty": "Blue",
-              "area": "Ruthie's"
-            },
-            {
-              "name": "Beattie Way",
-              "difficulty": "Blue",
-              "area": "Shadow Mountain"
-            },
-            {
-              "name": "Roch Run (Lower)",
-              "difficulty": "Blue",
-              "area": "Shadow Mountain"
-            },
-            {
-              "name": "Schuss Gully",
-              "difficulty": "Blue",
-              "area": "Shadow Mountain"
-            },
-            {
-              "name": "Strawpile",
-              "difficulty": "Blue",
-              "area": "Shadow Mountain"
-            },
-            {
-              "name": "Summer Road",
-              "difficulty": "Blue",
-              "area": "Shadow Mountain"
-            },
-            {
-              "name": "Copper (Lower)",
-              "difficulty": "Blue",
-              "area": "Silver Queen"
-            },
-            {
-              "name": "Copper (Upper)",
-              "difficulty": "Blue",
-              "area": "Silver Queen"
-            },
-            {
-              "name": "Copper Bowl",
-              "difficulty": "Blue",
-              "area": "Silver Queen"
-            },
-            {
-              "name": "Lazy Boy",
-              "difficulty": "Blue",
-              "area": "Silver Queen"
-            },
-            {
-              "name": "One And Two Leaf",
-              "difficulty": "Blue",
-              "area": "Silver Queen"
-            },
-            {
-              "name": "Spar Gulch",
-              "difficulty": "Blue",
-              "area": "Silver Queen"
-            }
-          ]
+          "ungroomed": []
         },
         "lifts": {
           "available": true,
@@ -5663,7 +5160,7 @@
       "resort": "copper",
       "resortName": "Copper Mountain",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:25.033Z",
+      "generated": "2026-01-31T13:08:05.362Z",
       "rawData": {
         "terrain": {
           "stats": {
@@ -5673,9 +5170,9 @@
               "delta": 0
             },
             "groomedTrails": {
-              "today": 52,
+              "today": 53,
               "yesterday": 53,
-              "delta": -1
+              "delta": 0
             },
             "totalTrails": 202
           },
@@ -5710,18 +5207,8 @@
               "area": "Union Peak"
             },
             {
-              "name": "Fairway",
-              "difficulty": "easiest",
-              "area": "West"
-            },
-            {
               "name": "Pinecone Alley",
               "difficulty": "Blue",
-              "area": "West"
-            },
-            {
-              "name": "Prospector",
-              "difficulty": "easiest",
               "area": "West"
             }
           ]
@@ -5765,7 +5252,7 @@
       "resort": "steamboat",
       "resortName": "Steamboat",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:24.955Z",
+      "generated": "2026-01-31T13:08:05.284Z",
       "rawData": {
         "terrain": {
           "stats": {
@@ -6023,7 +5510,7 @@
       "resort": "mammoth",
       "resortName": "Mammoth Mountain",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:24.959Z",
+      "generated": "2026-01-31T13:08:05.288Z",
       "rawData": {
         "terrain": {
           "stats": {
@@ -6077,7 +5564,7 @@
       "resort": "crystal",
       "resortName": "Crystal Mountain",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:24.966Z",
+      "generated": "2026-01-31T13:08:05.294Z",
       "rawData": {
         "terrain": {
           "stats": {
@@ -6132,7 +5619,7 @@
       "resort": "killington",
       "resortName": "Killington",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:25.036Z",
+      "generated": "2026-01-31T13:08:05.365Z",
       "rawData": {
         "snow": {
           "overnight_inches": 0,
@@ -6286,7 +5773,7 @@
       "resort": "sugarbush",
       "resortName": "Sugarbush",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:24.969Z",
+      "generated": "2026-01-31T13:08:05.296Z",
       "rawData": {
         "snow": {
           "overnight_inches": 0,
@@ -6432,7 +5919,7 @@
         ]
       },
       "morningBrief": {
-        "headline": "Weekend Warrior Day",
+        "headline": "Saturday at the Mountain",
         "body": "111/142 trails spinning, 48 freshly groomed. Windy. Windy conditions expected. Upper lifts may have holds or delays.",
         "debug": {
           "firedRules": [
@@ -6461,7 +5948,7 @@
             "variationIndex": 0,
             "totalVariations": 5,
             "usedWeekendVariation": false,
-            "previousHeadline": "Saturday at the Mountain"
+            "previousHeadline": "Weekend Warrior Day"
           },
           "dayOfWeek": "Saturday"
         }
@@ -6478,7 +5965,7 @@
       "resort": "sugarloaf",
       "resortName": "Sugarloaf",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:25.040Z",
+      "generated": "2026-01-31T13:08:05.369Z",
       "rawData": {
         "snow": {
           "overnight_inches": 0,
@@ -6709,7 +6196,7 @@
       "resort": "sundayriver",
       "resortName": "Sunday River",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:25.044Z",
+      "generated": "2026-01-31T13:08:05.373Z",
       "rawData": {
         "snow": {
           "overnight_inches": 0,
@@ -6872,7 +6359,7 @@
       "resort": "loon",
       "resortName": "Loon Mountain",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:25.047Z",
+      "generated": "2026-01-31T13:08:05.377Z",
       "rawData": {
         "snow": {
           "overnight_inches": 0,
@@ -7044,7 +6531,7 @@
       "resort": "tremblant",
       "resortName": "Tremblant",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:24.973Z",
+      "generated": "2026-01-31T13:08:05.301Z",
       "rawData": {
         "snow": {
           "overnight_inches": 0,
@@ -7225,7 +6712,7 @@
         ]
       },
       "morningBrief": {
-        "headline": "The Mountain Got a Touch-Up",
+        "headline": "Overnight Refresh",
         "body": "The mountain got a nice 1\" touch-up. Expect improved conditions. 6 runs freshly groomed, mostly in South Side, North Side, and more.",
         "debug": {
           "firedRules": [
@@ -7254,7 +6741,7 @@
             "variationIndex": 3,
             "totalVariations": 6,
             "usedWeekendVariation": false,
-            "previousHeadline": "Overnight Refresh"
+            "previousHeadline": "The Mountain Got a Touch-Up"
           },
           "dayOfWeek": "Saturday"
         }
@@ -7270,7 +6757,7 @@
       "resort": "blue",
       "resortName": "Blue Mountain",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:24.978Z",
+      "generated": "2026-01-31T13:08:05.306Z",
       "rawData": {
         "snow": {
           "overnight_inches": 0,
@@ -7405,7 +6892,7 @@
         "recommendations": []
       },
       "morningBrief": {
-        "headline": "2\" Freshened Things Up",
+        "headline": "Overnight Refresh",
         "body": "The mountain got a nice 2\" touch-up. Expect improved conditions. 2 new trails opened today.",
         "debug": {
           "firedRules": [
@@ -7434,7 +6921,7 @@
             "variationIndex": 2,
             "totalVariations": 6,
             "usedWeekendVariation": false,
-            "previousHeadline": "Overnight Refresh"
+            "previousHeadline": "{snow24h}\" Freshened Things Up"
           },
           "dayOfWeek": "Saturday"
         }
@@ -7554,7 +7041,7 @@
       "resort": "cypressmountain",
       "resortName": "Cypress Mountain",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:25.050Z",
+      "generated": "2026-01-31T13:08:05.380Z",
       "rawData": {
         "terrain": {
           "stats": {
@@ -7609,13 +7096,13 @@
       "resort": "banff",
       "resortName": "Banff Sunshine Village",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:25.052Z",
+      "generated": "2026-01-31T13:08:05.381Z",
       "rawData": {
         "snow": {
-          "overnight_inches": 2,
-          "overnight_cm": 5,
-          "24hour_inches": 2.4,
-          "24hour_cm": 6,
+          "overnight_inches": 0.4,
+          "overnight_cm": 1,
+          "24hour_inches": 0.4,
+          "24hour_cm": 1,
           "48hour_inches": 0,
           "48hour_cm": 0,
           "7day_inches": 0,
@@ -7653,16 +7140,16 @@
           "today": {
             "date": "2026-01-31",
             "high_f": 33.8,
-            "low_f": 23,
+            "low_f": 21.2,
             "high_c": 1,
-            "low_c": -5,
+            "low_c": -6,
             "description": "Unknown",
             "snowfall_day_inches": 0,
             "snowfall_night_inches": 0
           },
           "outlook": [
             {
-              "date": "2026-02-01T13:08:13.661Z",
+              "date": "2026-02-01T11:28:37.181Z",
               "high_f": 33.8,
               "low_f": 21.2,
               "high_c": 1,
@@ -7673,7 +7160,7 @@
               "snowfall_expected": 0
             },
             {
-              "date": "2026-02-02T13:08:13.661Z",
+              "date": "2026-02-02T11:28:37.181Z",
               "high_f": 32,
               "low_f": 24.8,
               "high_c": 0,
@@ -7685,7 +7172,7 @@
             }
           ],
           "tomorrow": {
-            "date": "2026-02-01T13:08:13.661Z",
+            "date": "2026-02-01T11:28:37.181Z",
             "high_f": 33.8,
             "low_f": 21.2,
             "high_c": 1,
@@ -7699,14 +7186,12 @@
       },
       "computedInsights": {
         "flags": {
-          "hasFreshSnow": true,
+          "hasFreshSnow": false,
           "isPowderDay": false,
           "hasNewTrails": false,
           "significantGroomingIncrease": false
         },
-        "alerts": [
-          "2\" fresh snow overnight"
-        ],
+        "alerts": [],
         "trends": [],
         "recommendations": []
       },
@@ -7757,19 +7242,19 @@
       "resort": "lakelouise",
       "resortName": "Lake Louise",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:25.054Z",
+      "generated": "2026-01-31T13:08:05.383Z",
       "rawData": {
         "snow": {
-          "overnight_inches": 2.4,
-          "overnight_cm": 6,
-          "24hour_inches": 2.8,
-          "24hour_cm": 7,
-          "48hour_inches": 3.9,
-          "48hour_cm": 10,
-          "7day_inches": 5.5,
-          "7day_cm": 14,
-          "season_total_inches": 237.8,
-          "season_total_cm": 604,
+          "overnight_inches": 0,
+          "overnight_cm": 0,
+          "24hour_inches": 0.4,
+          "24hour_cm": 1,
+          "48hour_inches": 0.4,
+          "48hour_cm": 1,
+          "7day_inches": 2.8,
+          "7day_cm": 7,
+          "season_total_inches": 234.3,
+          "season_total_cm": 595,
           "conditions": {
             "today": "Overcast",
             "yesterday": "Snowing"
@@ -7783,73 +7268,16 @@
               "delta": 0
             },
             "groomedTrails": {
-              "today": 39,
+              "today": 36,
               "yesterday": 36,
-              "delta": 3
+              "delta": 0
             },
             "totalTrails": 170
           },
           "newlyOpened": [],
           "newlyClosed": [],
-          "newlyGroomed": [
-            {
-              "name": "Wapta",
-              "difficulty": "Black",
-              "area": "Front Side"
-            },
-            {
-              "name": "Bearberry",
-              "difficulty": "Blue",
-              "area": "Front Side"
-            },
-            {
-              "name": "Jerry's Jungle",
-              "difficulty": "Green",
-              "area": "Front Side"
-            },
-            {
-              "name": "Lake Lindsey Way",
-              "difficulty": "Black",
-              "area": "Front Side"
-            },
-            {
-              "name": "Charlie's Choice",
-              "difficulty": "Blue",
-              "area": "Front Side"
-            },
-            {
-              "name": "Larch Poma",
-              "difficulty": "Blue",
-              "area": "Larch"
-            },
-            {
-              "name": "Merlin",
-              "difficulty": "Blue",
-              "area": "Richardson's Ridge"
-            }
-          ],
-          "ungroomed": [
-            {
-              "name": "Men's Downhill",
-              "difficulty": "Black",
-              "area": "Front Side"
-            },
-            {
-              "name": "Meadowlark",
-              "difficulty": "Black",
-              "area": "Front Side"
-            },
-            {
-              "name": "30 Goats",
-              "difficulty": "Blue",
-              "area": "Larch"
-            },
-            {
-              "name": "Ski Out",
-              "difficulty": "Green",
-              "area": "Larch"
-            }
-          ]
+          "newlyGroomed": [],
+          "ungroomed": []
         },
         "lifts": {
           "available": false
@@ -7867,7 +7295,7 @@
           },
           "outlook": [
             {
-              "date": "2026-02-01T13:08:13.730Z",
+              "date": "2026-02-01T11:28:37.311Z",
               "high_f": 32,
               "low_f": 32,
               "high_c": 0,
@@ -7878,7 +7306,7 @@
               "snowfall_expected": 0
             },
             {
-              "date": "2026-02-02T13:08:13.730Z",
+              "date": "2026-02-02T11:28:37.311Z",
               "high_f": 32,
               "low_f": 32,
               "high_c": 0,
@@ -7889,7 +7317,7 @@
               "snowfall_expected": 0
             },
             {
-              "date": "2026-02-03T13:08:13.730Z",
+              "date": "2026-02-03T11:28:37.311Z",
               "high_f": 32,
               "low_f": 32,
               "high_c": 0,
@@ -7901,7 +7329,7 @@
             }
           ],
           "tomorrow": {
-            "date": "2026-02-01T13:08:13.730Z",
+            "date": "2026-02-01T11:28:37.311Z",
             "high_f": 32,
             "low_f": 32,
             "high_c": 0,
@@ -7915,25 +7343,18 @@
       },
       "computedInsights": {
         "flags": {
-          "hasFreshSnow": true,
+          "hasFreshSnow": false,
           "isPowderDay": false,
           "hasNewTrails": false,
           "significantGroomingIncrease": false
         },
-        "alerts": [
-          "2.4\" fresh snow overnight",
-          "7 trails freshly groomed"
-        ],
+        "alerts": [],
         "trends": [],
-        "recommendations": [
-          "Fresh corduroy on Wapta - challenging for advanced skiers",
-          "Fresh corduroy on Bearberry - perfect for intermediate skiers",
-          "Fresh corduroy on Jerry's Jungle - great for beginners"
-        ]
+        "recommendations": []
       },
       "morningBrief": {
         "headline": "Variable Conditions",
-        "body": "170 of 170 trails are open with 39 groomed. Cloud/Sun/Mixed with a high of 32°F. 7 runs freshly groomed, mostly in Front Side, Larch, and more. Mixed precipitation expected. Rain at base, snow up top. Dress in layers.",
+        "body": "170 of 170 trails are open with 36 groomed. Cloud/Sun/Mixed with a high of 32°F. Peak terrain status: almost everything is available today. Mixed precipitation expected. Rain at base, snow up top. Dress in layers.",
         "debug": {
           "firedRules": [
             {
@@ -7949,9 +7370,9 @@
               "usedFor": "body"
             },
             {
-              "id": "grooming_moderate",
+              "id": "percent_full",
               "category": "terrain",
-              "priority": 55,
+              "priority": 45,
               "usedFor": "body"
             },
             {
@@ -7961,7 +7382,7 @@
               "usedFor": "body"
             }
           ],
-          "totalRulesFired": 5,
+          "totalRulesFired": 4,
           "headlineSelection": {
             "condition": "weather_mixed",
             "variationIndex": 1,
@@ -8156,7 +7577,7 @@
       "resort": "junemountain",
       "resortName": "June Mountain",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:24.964Z",
+      "generated": "2026-01-31T13:08:05.292Z",
       "rawData": {
         "terrain": {
           "stats": {
@@ -8211,7 +7632,7 @@
       "resort": "buttermilk",
       "resortName": "Buttermilk",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:25.031Z",
+      "generated": "2026-01-31T13:08:05.361Z",
       "rawData": {
         "terrain": {
           "stats": {
@@ -8266,7 +7687,7 @@
       "resort": "norquay",
       "resortName": "Mt Norquay",
       "date": "2026-01-31",
-      "generated": "2026-01-31T13:49:25.057Z",
+      "generated": "2026-01-31T13:08:05.387Z",
       "rawData": {
         "snow": {
           "overnight_inches": 0,

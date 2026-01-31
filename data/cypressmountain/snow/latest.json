@@ -1,9 +1,9 @@
 {
   "resort": "cypressmountain",
   "resortName": "Cypress Mountain",
-  "date": "2026-01-31",
-  "timestamp": "2026-01-31T17:02:14.720Z",
-  "lastUpdated": "2026-01-31T16:57:42Z",
+  "date": "2026-01-30",
+  "timestamp": "2026-01-31T05:18:14.089Z",
+  "lastUpdated": "2026-01-31T05:00:33Z",
   "conditions": "Hard Pack",
   "operatingStatus": null,
   "snowfall": {
@@ -26,74 +26,74 @@
   },
   "terrain": {
     "totalTrails": 96,
-    "openTrails": 37,
-    "groomedTrails": 46,
+    "openTrails": 33,
+    "groomedTrails": 41,
     "totalLifts": 6,
-    "openLifts": 4
+    "openLifts": 3
   },
   "activities": {},
   "currentConditions": {
     "base": null,
     "midMountain": null,
     "summit": null,
-    "lastUpdated": "2026-01-31T16:57:42Z"
+    "lastUpdated": "2026-01-31T05:00:33Z"
   },
   "forecast": {
     "location": "Cypress Mountain",
-    "issuedAt": "2026-01-31T09:49:40-0700",
-    "temp_high_f": 43,
+    "issuedAt": "2026-01-30T22:14:31-0700",
+    "temp_high_f": 40,
     "temp_low_f": 39,
     "forecasted_snow_in": 0,
     "forecast_days": [
+      {
+        "date": "2026-01-30",
+        "skies": "Cloudy",
+        "conditions": "Cloudy",
+        "temp_high_f": null,
+        "temp_low_f": 39,
+        "forecasted_snow_in": 0,
+        "wind": "SE",
+        "wind_speed_mph": 8
+      },
       {
         "date": "2026-01-31",
         "skies": "Rain. Rain",
         "conditions": "Rain",
         "temp_high_f": 43,
-        "temp_low_f": 39,
+        "temp_low_f": 38,
         "forecasted_snow_in": 0,
         "wind": "SE",
-        "wind_speed_mph": 13
+        "wind_speed_mph": 15
       },
       {
         "date": "2026-02-01",
-        "skies": "Rain. Scattered Thunderstorms",
-        "conditions": "Rain",
+        "skies": "Scattered Thunderstorms. Scattered Thunderstorms",
+        "conditions": "Scattered T Storms",
         "temp_high_f": 38,
         "temp_low_f": 35,
         "forecasted_snow_in": 0,
         "wind": "S",
-        "wind_speed_mph": 14
+        "wind_speed_mph": 15
       },
       {
         "date": "2026-02-02",
         "skies": "Rain. Rain",
         "conditions": "Rain",
-        "temp_high_f": 37,
-        "temp_low_f": 37,
+        "temp_high_f": 36,
+        "temp_low_f": 36,
         "forecasted_snow_in": 0,
-        "wind": "SSE",
+        "wind": "SE",
         "wind_speed_mph": 14
       },
       {
         "date": "2026-02-03",
         "skies": "Cloudy. Cloudy",
         "conditions": "Cloudy",
-        "temp_high_f": 46,
+        "temp_high_f": 45,
         "temp_low_f": 45,
         "forecasted_snow_in": 0,
         "wind": "SE",
-        "wind_speed_mph": 6
-      },
-      {
-        "date": "2026-02-04",
-        "skies": "Cloudy. Mostly Clear",
-        "conditions": "Cloudy",
-        "temp_high_f": 47,
-        "temp_low_f": 47,
-        "forecasted_snow_in": 0,
-        "wind": "SE",
-        "wind_speed_mph": 6
+        "wind_speed_mph": 7
       }
     ],
     "locations": [
@@ -101,17 +101,24 @@
         "name": "Cypress Mountain",
         "elevation": null,
         "today": {
-          "date": "2026-01-31",
-          "high_f": 43,
+          "date": "2026-01-30",
+          "high_f": null,
           "low_f": 39,
-          "description": "Rain",
+          "description": "Cloudy",
           "snowfall_day_inches": 0
         },
         "forecast_days": [
           {
+            "date": "2026-01-30",
+            "high_f": null,
+            "low_f": 39,
+            "description": "Cloudy",
+            "snowfall_day_inches": 0
+          },
+          {
             "date": "2026-01-31",
             "high_f": 43,
-            "low_f": 39,
+            "low_f": 38,
             "description": "Rain",
             "snowfall_day_inches": 0
           },
@@ -119,27 +126,20 @@
             "date": "2026-02-01",
             "high_f": 38,
             "low_f": 35,
-            "description": "Rain",
+            "description": "Scattered T Storms",
             "snowfall_day_inches": 0
           },
           {
             "date": "2026-02-02",
-            "high_f": 37,
-            "low_f": 37,
+            "high_f": 36,
+            "low_f": 36,
             "description": "Rain",
             "snowfall_day_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 46,
+            "high_f": 45,
             "low_f": 45,
-            "description": "Cloudy",
-            "snowfall_day_inches": 0
-          },
-          {
-            "date": "2026-02-04",
-            "high_f": 47,
-            "low_f": 47,
             "description": "Cloudy",
             "snowfall_day_inches": 0
           }

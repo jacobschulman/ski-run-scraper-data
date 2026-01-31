@@ -2,7 +2,7 @@
   "resort": "norquay",
   "resortName": "Mt Norquay",
   "date": "2026-01-31",
-  "generated": "2026-01-31T17:02:36.362Z",
+  "generated": "2026-01-31T16:38:36.139Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -68,7 +68,7 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Weekend Warrior Day",
+    "headline": "Saturday Session",
     "body": "The rundown: 72 trails open, 30 groomed. Unknown with temps around 32°. 72/81 trails open, 30 groomed. 32° and Unknown.",
     "debug": {
       "firedRules": [
@@ -97,7 +97,7 @@
         "variationIndex": 1,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Saturday Session"
+        "previousHeadline": "Weekend Warrior Day"
       },
       "dayOfWeek": "Saturday"
     }

@@ -1,6 +1,6 @@
 {
   "ResortId": "killington",
-  "Date": "2026-01-31T16:38:18.375Z",
+  "Date": "2026-01-31T15:31:34.143Z",
   "GroomingAreas": [
     {
       "Name": "North Ridge Area",
@@ -2305,8 +2305,8 @@
         },
         {
           "Name": "Rendezvous",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "Difficulty": "easiest",
           "IsGroomed": false,
           "GroomingStatus": null,

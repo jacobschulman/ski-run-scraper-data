@@ -668,11 +668,11 @@
       "slug": "backside",
       "area": "NORTH PEAK",
       "difficulty": "novice",
-      "isGroomedToday": true,
+      "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 2,
-      "currentStreak": 1,
-      "longestStreak": 1
+      "groomingPercentage": 0,
+      "currentStreak": 0,
+      "longestStreak": 0
     },
     {
       "name": "Broadway Connection",
@@ -1240,10 +1240,10 @@
       "slug": "upper-risky-business",
       "area": "SPRUCE PEAK",
       "difficulty": "Blue",
-      "isGroomedToday": true,
+      "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 64,
-      "currentStreak": 1,
+      "groomingPercentage": 62,
+      "currentStreak": 0,
       "longestStreak": 18
     },
     {
@@ -1588,5 +1588,5 @@
       "longestStreak": 21
     }
   ],
-  "lastUpdated": "2026-01-31T16:46:58.841Z"
+  "lastUpdated": "2026-01-31T15:40:15.081Z"
 }

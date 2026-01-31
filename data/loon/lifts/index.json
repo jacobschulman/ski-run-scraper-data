@@ -12,13 +12,13 @@
       "mountain": "North Peak",
       "type": "Detachable Chairlift",
       "capacity": 4,
-      "status": "Hold",
+      "status": "Open",
       "waitMinutes": null,
       "openTime": null,
       "closeTime": null,
       "avgWaitTime": null,
-      "lastUpdated": "2026-01-31T14:00:16.779Z"
+      "lastUpdated": "2026-01-31T14:15:18.403Z"
     }
   ],
-  "generated": "2026-01-31T14:00:38.467Z"
+  "generated": "2026-01-31T14:15:36.857Z"
 }

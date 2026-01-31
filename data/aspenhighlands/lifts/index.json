@@ -2,10 +2,13 @@
   "resort": "aspenhighlands",
   "resortName": "Aspen Highlands",
   "provider": "ikon",
-  "liftWaitTimesAvailable": false,
+  "apiProvider": "aspensnowmass",
   "liftCount": 5,
   "lifts": [
     {
+<<<<<<< Updated upstream
+      "liftId": "2",
+=======
       "liftId": "aspen:exhibition",
       "name": "Exhibition",
       "slug": "exhibition",
@@ -35,46 +38,90 @@
     },
     {
       "liftId": "aspen:cloud-nine",
+>>>>>>> Stashed changes
       "name": "Cloud Nine",
       "slug": "cloud-nine",
-      "mountain": "Mid Mountain",
-      "type": "Chair",
+      "mountain": "Main",
+      "type": "Unknown",
       "capacity": null,
       "status": "Closed",
       "waitMinutes": null,
-      "openTime": "9:00 AM",
-      "closeTime": "3:30 PM",
+      "openTime": "9:00",
+      "closeTime": "3:30",
       "avgWaitTime": null,
+<<<<<<< Updated upstream
+      "lastUpdated": "2026-01-31"
+=======
       "lastUpdated": "2026-01-31T04:50:51.244Z"
+>>>>>>> Stashed changes
     },
     {
-      "liftId": "aspen:deep-temerity",
+      "liftId": "3",
       "name": "Deep Temerity",
       "slug": "deep-temerity",
-      "mountain": "Temerity",
-      "type": "Chair",
+      "mountain": "Main",
+      "type": "Unknown",
       "capacity": null,
       "status": "Closed",
       "waitMinutes": null,
-      "openTime": "9:00 AM",
-      "closeTime": "3:30 PM",
+      "openTime": "9:00",
+      "closeTime": "3:30",
       "avgWaitTime": null,
+<<<<<<< Updated upstream
+      "lastUpdated": "2026-01-31"
+=======
       "lastUpdated": "2026-01-31T04:50:51.244Z"
+>>>>>>> Stashed changes
     },
     {
-      "liftId": "aspen:loge-peak",
-      "name": "Loge Peak",
-      "slug": "loge-peak",
-      "mountain": "Upper Mountain",
-      "type": "Chair",
+      "liftId": "0",
+      "name": "Exhibition",
+      "slug": "exhibition",
+      "mountain": "Main",
+      "type": "Unknown",
       "capacity": null,
       "status": "Closed",
       "waitMinutes": null,
-      "openTime": "9:00 AM",
-      "closeTime": "3:30 PM",
+      "openTime": "9:00",
+      "closeTime": "3:30",
       "avgWaitTime": null,
+<<<<<<< Updated upstream
+      "lastUpdated": "2026-01-31"
+    },
+    {
+      "liftId": "4",
+      "name": "Loge Peak",
+      "slug": "loge-peak",
+      "mountain": "Main",
+      "type": "Unknown",
+      "capacity": null,
+      "status": "Closed",
+      "waitMinutes": null,
+      "openTime": "9:00",
+      "closeTime": "3:30",
+      "avgWaitTime": null,
+      "lastUpdated": "2026-01-31"
+    },
+    {
+      "liftId": "1",
+      "name": "Thunderbowl",
+      "slug": "thunderbowl",
+      "mountain": "Main",
+      "type": "Unknown",
+      "capacity": null,
+      "status": "Closed",
+      "waitMinutes": null,
+      "openTime": "12:00",
+      "closeTime": "3:30",
+      "avgWaitTime": null,
+      "lastUpdated": "2026-01-31"
+    }
+  ],
+  "generated": "2026-01-31T04:40:32.532Z"
+=======
       "lastUpdated": "2026-01-31T04:50:51.244Z"
     }
   ],
   "generated": "2026-01-31T04:51:09.543Z"
+>>>>>>> Stashed changes
 }

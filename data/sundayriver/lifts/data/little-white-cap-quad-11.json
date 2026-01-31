@@ -12,8 +12,8 @@
     "waitMinutes": null,
     "openTime": "08:00",
     "closeTime": "16:00",
-    "timestamp": "2026-01-31T17:04:10.464Z",
-    "localTime": "12:04"
+    "timestamp": "2026-01-31T17:06:04.899Z",
+    "localTime": "12:06"
   },
   "stats": {
     "totalRecords": 14706,
@@ -240,5 +240,5 @@
       "openPercentage": 74
     }
   ],
-  "generated": "2026-01-31T17:04:27.776Z"
+  "generated": "2026-01-31T17:06:23.112Z"
 }

@@ -2,7 +2,7 @@
   "resort": "deervalley",
   "resortName": "Deer Valley",
   "date": "2026-01-30",
-  "generated": "2026-01-31T02:33:05.250Z",
+  "generated": "2026-01-30T23:33:38.719Z",
   "rawData": {
     "snow": {
       "overnight_inches": 1,
@@ -23,76 +23,26 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 140,
+          "today": 121,
           "yesterday": 118,
-          "delta": 22
+          "delta": 3
         },
         "groomedTrails": {
-          "today": 63,
+          "today": 62,
           "yesterday": 61,
-          "delta": 2
+          "delta": 1
         },
         "totalTrails": 227
       },
       "newlyOpened": [
-        {
-          "name": "Blue Ledge",
-          "difficulty": "Expert",
-          "area": "Bald Mountain"
-        },
-        {
-          "name": "Edgar's Alley",
-          "difficulty": "Intermediate",
-          "area": "Bald Mountain"
-        },
-        {
-          "name": "Evergreen",
-          "difficulty": "Expert",
-          "area": "Bald Mountain"
-        },
-        {
-          "name": "Grizzly",
-          "difficulty": "Expert",
-          "area": "Bald Mountain"
-        },
         {
           "name": "Nabob",
           "difficulty": "Intermediate",
           "area": "Bald Mountain"
         },
         {
-          "name": "Peerless",
-          "difficulty": "Expert",
-          "area": "Bald Mountain"
-        },
-        {
-          "name": "Perseverance",
-          "difficulty": "Advanced Intermediate",
-          "area": "Bald Mountain"
-        },
-        {
-          "name": "Perseverance Bowl",
-          "difficulty": "Expert",
-          "area": "Bald Mountain"
-        },
-        {
-          "name": "Ruins Of Pompeii",
-          "difficulty": "Expert",
-          "area": "Bald Mountain"
-        },
-        {
           "name": "Sultan Connection",
           "difficulty": "Easy",
-          "area": "Bald Mountain"
-        },
-        {
-          "name": "Thunderer",
-          "difficulty": "Expert",
-          "area": "Bald Mountain"
-        },
-        {
-          "name": "Tycoon",
-          "difficulty": "Advanced Intermediate",
           "area": "Bald Mountain"
         },
         {
@@ -106,11 +56,6 @@
           "area": "Keetley Point"
         },
         {
-          "name": "Short Line",
-          "difficulty": "Intermediate",
-          "area": "Keetley Point"
-        },
-        {
           "name": "Hawkeye",
           "difficulty": "Intermediate",
           "area": "Flagstaff Mountain"
@@ -121,49 +66,9 @@
           "area": "Park Peak"
         },
         {
-          "name": "Dream",
-          "difficulty": "Easy",
-          "area": "Park Peak"
-        },
-        {
-          "name": "Nugget",
-          "difficulty": "Intermediate",
-          "area": "Empire"
-        },
-        {
-          "name": "Ore Cart",
-          "difficulty": "Intermediate",
-          "area": "Empire"
-        },
-        {
-          "name": "Supreme (Lower)",
-          "difficulty": "Intermediate",
-          "area": "Empire"
-        },
-        {
-          "name": "Supreme (Upper)",
-          "difficulty": "Intermediate",
-          "area": "Empire"
-        },
-        {
           "name": "Jordanelle",
           "difficulty": "Advanced Intermediate",
           "area": "Little Baldy Peak"
-        },
-        {
-          "name": "Silver Hill",
-          "difficulty": "Intermediate",
-          "area": "Little Baldy Peak"
-        },
-        {
-          "name": "Evening Star",
-          "difficulty": "Intermediate",
-          "area": "Big Dutch Peak"
-        },
-        {
-          "name": "Big Stick (Lower)",
-          "difficulty": "Advanced Intermediate",
-          "area": "Bald Eagle Mountain"
         }
       ],
       "newlyClosed": [
@@ -297,11 +202,11 @@
     },
     "alerts": [
       "1\" new snow overnight",
-      "26 new trails opened today",
+      "7 new trails opened today",
       "2 trails freshly groomed"
     ],
     "trends": [
-      "22 more trails open than yesterday"
+      "3 more trails open than yesterday"
     ],
     "recommendations": [
       "Fresh corduroy on Road to Sultan - all skill levels",
@@ -309,14 +214,14 @@
     ]
   },
   "morningBrief": {
-    "headline": "Significant Terrain Release",
-    "body": "A light refresh of 1\" overnight makes the groomers smoother. Big expansion: 26 new trails opened up. More room to roam.",
+    "headline": "A Little Sugar on Top",
+    "body": "A light refresh of 1\" overnight makes the groomers smoother. 7 more trails opened today, expanding your options.",
     "debug": {
       "firedRules": [
         {
-          "id": "terrain_major",
-          "category": "terrain",
-          "priority": 88,
+          "id": "snow_dusting",
+          "category": "snow",
+          "priority": 70,
           "usedFor": "headline"
         },
         {
@@ -326,19 +231,19 @@
           "usedFor": "body"
         },
         {
-          "id": "terrain_major",
+          "id": "terrain_few",
           "category": "terrain",
-          "priority": 88,
+          "priority": 60,
           "usedFor": "body"
         }
       ],
       "totalRulesFired": 4,
       "headlineSelection": {
-        "condition": "terrain_major",
-        "variationIndex": 4,
-        "totalVariations": 5,
+        "condition": "fresh_coat",
+        "variationIndex": 1,
+        "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "A Little Sugar on Top"
+        "previousHeadline": "{snow24h}\" Freshened Things Up"
       },
       "dayOfWeek": "Friday"
     }

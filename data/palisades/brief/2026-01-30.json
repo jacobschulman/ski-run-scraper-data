@@ -2,7 +2,7 @@
   "resort": "palisades",
   "resortName": "Palisades Tahoe",
   "date": "2026-01-30",
-  "generated": "2026-01-31T02:33:05.242Z",
+  "generated": "2026-01-30T23:33:38.712Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -261,7 +261,7 @@
     ]
   },
   "morningBrief": {
-    "headline": "Cheers to the Weekend",
+    "headline": "Friday: Ready for the Weekend",
     "body": "The rundown: 190 trails open, 84 groomed. Mostly Cloudy with temps around temps TBD. 5 runs freshly groomed, mostly in Snow King Peak and Granite Peak. 190/301 trails open, 84 groomed. Mostly Cloudy.",
     "debug": {
       "firedRules": [
@@ -293,10 +293,10 @@
       "totalRulesFired": 4,
       "headlineSelection": {
         "condition": "weekend_kickoff",
-        "variationIndex": 3,
+        "variationIndex": 2,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Friday: Ready for the Weekend"
+        "previousHeadline": "Terrain Update"
       },
       "dayOfWeek": "Friday"
     }

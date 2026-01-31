@@ -1,20 +1,20 @@
 {
   "resort": "madrivermountain",
   "resortName": "Mad River Mountain",
-  "date": "2026-01-31",
-  "generated": "2026-01-31T10:38:20.709Z",
+  "date": "2026-01-30",
+  "generated": "2026-01-30T10:51:15.042Z",
   "rawData": {
     "snow": {
       "overnight_inches": 1,
       "overnight_cm": 2,
       "24hour_inches": 1,
       "24hour_cm": 2,
-      "48hour_inches": 2,
-      "48hour_cm": 5,
-      "7day_inches": 18,
-      "7day_cm": 45,
-      "season_total_inches": 28,
-      "season_total_cm": 71,
+      "48hour_inches": 1,
+      "48hour_cm": 2,
+      "7day_inches": 17,
+      "7day_cm": 43,
+      "season_total_inches": 27,
+      "season_total_cm": 68,
       "conditions": {
         "today": "Snow Groomed",
         "yesterday": "Snow Groomed"
@@ -44,21 +44,21 @@
     },
     "forecast": {
       "today": {
-        "date": "2026-01-31",
-        "high_f": 12,
+        "date": "2026-01-30",
+        "high_f": 13,
         "low_f": -1,
-        "high_c": -12,
+        "high_c": -11,
         "low_c": -18,
-        "description": "Clear",
+        "description": "Partly Cloudy",
         "snowfall_day_inches": 0,
         "snowfall_night_inches": 0
       },
       "outlook": [
         {
           "date": "2026-01-31T05:00:00Z",
-          "high_f": 12,
+          "high_f": 11,
           "low_f": -5,
-          "high_c": -11,
+          "high_c": -12,
           "low_c": -21,
           "description": "Mostly Cloudy",
           "snowfall_day_inches": 0,
@@ -67,10 +67,10 @@
         },
         {
           "date": "2026-02-01T05:00:00Z",
-          "high_f": 13,
-          "low_f": 2,
-          "high_c": -11,
-          "low_c": -17,
+          "high_f": 14,
+          "low_f": -1,
+          "high_c": -10,
+          "low_c": -18,
           "description": "Partly Cloudy",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
@@ -78,11 +78,11 @@
         },
         {
           "date": "2026-02-02T05:00:00Z",
-          "high_f": 23,
-          "low_f": 6,
-          "high_c": -5,
-          "low_c": -14,
-          "description": "Mostly Cloudy",
+          "high_f": 22,
+          "low_f": 5,
+          "high_c": -6,
+          "low_c": -15,
+          "description": "Cloudy",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
           "snowfall_expected": 0
@@ -90,9 +90,9 @@
       ],
       "tomorrow": {
         "date": "2026-01-31T05:00:00Z",
-        "high_f": 12,
+        "high_f": 11,
         "low_f": -5,
-        "high_c": -11,
+        "high_c": -12,
         "low_c": -21,
         "description": "Mostly Cloudy",
         "snowfall_day_inches": 0,
@@ -112,13 +112,13 @@
       "1\" new snow overnight"
     ],
     "trends": [
-      "Great week for snow - 18\" in last 7 days"
+      "Great week for snow - 17\" in last 7 days"
     ],
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Fresh Layer in Place",
-    "body": "1\" fell while you were sleeping. The bumps are softer, groomers are primo. Clear skies and 12° means stunning views and firm snow. Layer up.",
+    "headline": "Overnight Refresh",
+    "body": "A light refresh of 1\" overnight makes the groomers smoother. Cold day ahead: 13° high. Dress warmly.",
     "debug": {
       "firedRules": [
         {
@@ -134,21 +134,21 @@
           "usedFor": "body"
         },
         {
-          "id": "weather_bluebird",
+          "id": "temp_cold",
           "category": "weather",
-          "priority": 70,
+          "priority": 55,
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 5,
+      "totalRulesFired": 4,
       "headlineSelection": {
         "condition": "fresh_coat",
-        "variationIndex": 4,
+        "variationIndex": 3,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Overnight Refresh"
+        "previousHeadline": null
       },
-      "dayOfWeek": "Saturday"
+      "dayOfWeek": "Friday"
     }
   },
   "errors": []

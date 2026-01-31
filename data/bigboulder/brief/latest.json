@@ -1,8 +1,8 @@
 {
   "resort": "bigboulder",
   "resortName": "Big Boulder",
-  "date": "2026-01-31",
-  "generated": "2026-01-31T10:38:20.691Z",
+  "date": "2026-01-30",
+  "generated": "2026-01-30T10:51:15.027Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -44,11 +44,11 @@
     },
     "forecast": {
       "today": {
-        "date": "2026-01-31",
-        "high_f": 6,
-        "low_f": -1,
+        "date": "2026-01-30",
+        "high_f": 5,
+        "low_f": -4,
         "high_c": -15,
-        "low_c": -18,
+        "low_c": -20,
         "description": "Windy",
         "snowfall_day_inches": 0,
         "snowfall_night_inches": 0
@@ -59,7 +59,7 @@
           "high_f": 10,
           "low_f": -1,
           "high_c": -12,
-          "low_c": -19,
+          "low_c": -18,
           "description": "Windy",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
@@ -67,9 +67,9 @@
         },
         {
           "date": "2026-02-01T05:00:00Z",
-          "high_f": 10,
-          "low_f": 1,
-          "high_c": -13,
+          "high_f": 11,
+          "low_f": 2,
+          "high_c": -12,
           "low_c": -17,
           "description": "Windy",
           "snowfall_day_inches": 0,
@@ -78,9 +78,9 @@
         },
         {
           "date": "2026-02-02T05:00:00Z",
-          "high_f": 20,
-          "low_f": 8,
-          "high_c": -7,
+          "high_f": 21,
+          "low_f": 9,
+          "high_c": -6,
           "low_c": -13,
           "description": "Windy",
           "snowfall_day_inches": 0,
@@ -93,7 +93,7 @@
         "high_f": 10,
         "low_f": -1,
         "high_c": -12,
-        "low_c": -19,
+        "low_c": -18,
         "description": "Windy",
         "snowfall_day_inches": 0,
         "snowfall_night_inches": 0,
@@ -115,8 +115,8 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "BRRRRRRRRR",
-    "body": "No fresh overnight, but 24\" in the past week is keeping things soft and fun. It's cold cold cold - 6° for a high. Hand warmers are mandatory.",
+    "headline": "Layer Up, Ski Hard",
+    "body": "Zero new inches, but who's complaining? 24\" this week means conditions are still prime. Brace yourself: 5° today. Dress like you mean it.",
     "debug": {
       "firedRules": [
         {
@@ -141,12 +141,12 @@
       "totalRulesFired": 5,
       "headlineSelection": {
         "condition": "cold_snap",
-        "variationIndex": 4,
+        "variationIndex": 2,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Layer Up, Ski Hard"
+        "previousHeadline": null
       },
-      "dayOfWeek": "Saturday"
+      "dayOfWeek": "Friday"
     }
   },
   "errors": []

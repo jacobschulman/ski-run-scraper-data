@@ -1,8 +1,8 @@
 {
   "resort": "wildcat",
   "resortName": "Wildcat Mountain",
-  "date": "2026-01-31",
-  "generated": "2026-01-31T10:38:20.676Z",
+  "date": "2026-01-30",
+  "generated": "2026-01-30T10:51:15.012Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -11,8 +11,8 @@
       "24hour_cm": 0,
       "48hour_inches": 0,
       "48hour_cm": 0,
-      "7day_inches": 20,
-      "7day_cm": 50,
+      "7day_inches": 21,
+      "7day_cm": 53,
       "season_total_inches": 78,
       "season_total_cm": 200,
       "conditions": {
@@ -23,35 +23,159 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 42,
-          "yesterday": 44,
-          "delta": -2
+          "today": 44,
+          "yesterday": 45,
+          "delta": -1
         },
         "groomedTrails": {
           "today": 17,
-          "yesterday": 17,
-          "delta": 0
+          "yesterday": 3,
+          "delta": 14
         },
         "totalTrails": 48
       },
       "newlyOpened": [],
       "newlyClosed": [
         {
-          "name": "Middle Catapult",
+          "name": "Lift Lion",
+          "difficulty": "Black",
+          "area": "Wildcat"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Bobcat",
+          "difficulty": "Blue",
+          "area": "Wildcat"
+        },
+        {
+          "name": "Cat & Mouse",
+          "difficulty": "Green",
+          "area": "Wildcat"
+        },
+        {
+          "name": "Cat Track",
+          "difficulty": "Blue",
+          "area": "Wildcat"
+        },
+        {
+          "name": "Cheetah",
+          "difficulty": "Blue",
+          "area": "Wildcat"
+        },
+        {
+          "name": "Lower Lynx",
+          "difficulty": "Blue",
+          "area": "Wildcat"
+        },
+        {
+          "name": "Lower Polecat",
+          "difficulty": "Green",
+          "area": "Wildcat"
+        },
+        {
+          "name": "Lynx Lair",
           "difficulty": "Black",
           "area": "Wildcat"
         },
         {
-          "name": "Panther",
+          "name": "Middle Lynx",
           "difficulty": "Blue",
+          "area": "Wildcat"
+        },
+        {
+          "name": "Middle Polecat",
+          "difficulty": "Green",
+          "area": "Wildcat"
+        },
+        {
+          "name": "Middle Wildcat",
+          "difficulty": "Blue",
+          "area": "Wildcat"
+        },
+        {
+          "name": "Snow Cat Trail",
+          "difficulty": "Green",
+          "area": "Wildcat"
+        },
+        {
+          "name": "Upper Catapult",
+          "difficulty": "Blue",
+          "area": "Wildcat"
+        },
+        {
+          "name": "Upper Lynx",
+          "difficulty": "Blue",
+          "area": "Wildcat"
+        },
+        {
+          "name": "Upper Polecat",
+          "difficulty": "Green",
           "area": "Wildcat"
         }
       ],
-      "newlyGroomed": [],
       "ungroomed": []
     },
     "lifts": {
       "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-30",
+        "high_f": 8,
+        "low_f": -5,
+        "high_c": -13,
+        "low_c": -21,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-31T05:00:00Z",
+          "high_f": 16,
+          "low_f": -4,
+          "high_c": -9,
+          "low_c": -20,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-01T05:00:00Z",
+          "high_f": 20,
+          "low_f": -5,
+          "high_c": -7,
+          "low_c": -21,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-02T05:00:00Z",
+          "high_f": 22,
+          "low_f": 6,
+          "high_c": -6,
+          "low_c": -15,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-31T05:00:00Z",
+        "high_f": 16,
+        "low_f": -4,
+        "high_c": -9,
+        "low_c": -20,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
     }
   },
   "computedInsights": {
@@ -59,23 +183,30 @@
       "hasFreshSnow": false,
       "isPowderDay": false,
       "hasNewTrails": false,
-      "significantGroomingIncrease": false
+      "significantGroomingIncrease": true
     },
-    "alerts": [],
-    "trends": [
-      "Great week for snow - 20\" in last 7 days"
+    "alerts": [
+      "14 trails freshly groomed"
     ],
-    "recommendations": []
+    "trends": [
+      "Great week for snow - 21\" in last 7 days",
+      "Grooming increased 467% from yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Bobcat - perfect for intermediate skiers",
+      "Fresh corduroy on Cat & Mouse - great for beginners",
+      "Fresh corduroy on Cat Track - perfect for intermediate skiers"
+    ]
   },
   "morningBrief": {
-    "headline": "The Base Is Holding Up",
-    "body": "Zero new inches, but who's complaining? 20\" this week means conditions are still prime.",
+    "headline": "It's Gonna Be a Cold One",
+    "body": "No fresh overnight, but 21\" in the past week is keeping things soft and fun. The snow cats were busy. 14 trails in Wildcat looking mint. It's cold cold cold - 8° for a high. Hand warmers are mandatory.",
     "debug": {
       "firedRules": [
         {
-          "id": "snow_holding_strong",
-          "category": "snow",
-          "priority": 60,
+          "id": "temp_frigid",
+          "category": "weather",
+          "priority": 73,
           "usedFor": "headline"
         },
         {
@@ -83,17 +214,29 @@
           "category": "snow",
           "priority": 60,
           "usedFor": "body"
+        },
+        {
+          "id": "grooming_good",
+          "category": "terrain",
+          "priority": 68,
+          "usedFor": "body"
+        },
+        {
+          "id": "temp_frigid",
+          "category": "weather",
+          "priority": 73,
+          "usedFor": "body"
         }
       ],
-      "totalRulesFired": 3,
+      "totalRulesFired": 5,
       "headlineSelection": {
-        "condition": "holding_strong",
-        "variationIndex": 4,
+        "condition": "cold_snap",
+        "variationIndex": 1,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "It's Gonna Be a Cold One"
+        "previousHeadline": null
       },
-      "dayOfWeek": "Saturday"
+      "dayOfWeek": "Friday"
     }
   },
   "errors": []

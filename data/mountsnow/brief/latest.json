@@ -1,42 +1,41 @@
 {
   "resort": "mountsnow",
   "resortName": "Mount Snow",
-  "date": "2026-01-31",
-  "generated": "2026-01-31T10:38:20.669Z",
+  "date": "2026-01-30",
+  "generated": "2026-01-30T10:51:15.007Z",
   "rawData": {
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 77,
-          "yesterday": 78,
-          "delta": -1
+          "today": 78,
+          "yesterday": 75,
+          "delta": 3
         },
         "groomedTrails": {
           "today": 46,
-          "yesterday": 46,
-          "delta": 0
+          "yesterday": 45,
+          "delta": 1
         },
         "totalTrails": 86
       },
       "newlyOpened": [
         {
-          "name": "Upper Exhibition",
-          "difficulty": "Blue",
-          "area": "Main Face"
-        }
-      ],
-      "newlyClosed": [
-        {
-          "name": "Charlie's Chase",
-          "difficulty": "Blue",
-          "area": "Main Face"
+          "name": "Iron Run",
+          "difficulty": "TerrainPark",
+          "area": "Carinthia"
         },
         {
-          "name": "Under Pressure",
+          "name": "Tunnel Vision",
+          "difficulty": "TerrainPark",
+          "area": "Carinthia"
+        },
+        {
+          "name": "Drop",
           "difficulty": "Blue",
           "area": "Main Face"
         }
       ],
+      "newlyClosed": [],
       "newlyGroomed": [],
       "ungroomed": []
     },
@@ -50,9 +49,11 @@
       "significantGroomingIncrease": false
     },
     "alerts": [
-      "1 new trail opened today"
+      "3 new trails opened today"
     ],
-    "trends": [],
+    "trends": [
+      "3 more trails open than yesterday"
+    ],
     "recommendations": []
   },
   "morningBrief": null,

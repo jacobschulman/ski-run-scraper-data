@@ -1,8 +1,8 @@
 {
   "resort": "bostonmills",
   "resortName": "Boston Mills",
-  "date": "2026-01-31",
-  "generated": "2026-01-31T10:38:20.704Z",
+  "date": "2026-01-30",
+  "generated": "2026-01-30T10:51:15.039Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -10,11 +10,11 @@
       "24hour_inches": 0,
       "24hour_cm": 1,
       "48hour_inches": 1,
-      "48hour_cm": 2,
-      "7day_inches": 16,
-      "7day_cm": 40,
+      "48hour_cm": 3,
+      "7day_inches": 15,
+      "7day_cm": 39,
       "season_total_inches": 42,
-      "season_total_cm": 108,
+      "season_total_cm": 106,
       "conditions": {
         "today": "Snow Groomed",
         "yesterday": "Snow Groomed"
@@ -23,9 +23,9 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 0,
+          "today": 1,
           "yesterday": 1,
-          "delta": -1
+          "delta": 0
         },
         "groomedTrails": {
           "today": 0,
@@ -35,18 +35,70 @@
         "totalTrails": 7
       },
       "newlyOpened": [],
-      "newlyClosed": [
-        {
-          "name": "Jug Handle",
-          "difficulty": "Blue",
-          "area": "Boston Mills"
-        }
-      ],
+      "newlyClosed": [],
       "newlyGroomed": [],
       "ungroomed": []
     },
     "lifts": {
       "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-30",
+        "high_f": 13,
+        "low_f": -9,
+        "high_c": -11,
+        "low_c": -23,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-31T05:00:00Z",
+          "high_f": 13,
+          "low_f": -4,
+          "high_c": -11,
+          "low_c": -20,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-01T05:00:00Z",
+          "high_f": 17,
+          "low_f": 4,
+          "high_c": -8,
+          "low_c": -16,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-02T05:00:00Z",
+          "high_f": 24,
+          "low_f": -1,
+          "high_c": -5,
+          "low_c": -18,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-31T05:00:00Z",
+        "high_f": 13,
+        "low_f": -4,
+        "high_c": -11,
+        "low_c": -20,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
     }
   },
   "computedInsights": {
@@ -58,37 +110,43 @@
     },
     "alerts": [],
     "trends": [
-      "Great week for snow - 16\" in last 7 days"
+      "Great week for snow - 15\" in last 7 days"
     ],
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Not Open Yet",
-    "body": "No trails open yet. Current forecast: Variable conditions.",
+    "headline": "Picture-Perfect Conditions",
+    "body": "No fresh overnight, but 15\" in the past week is keeping things soft and fun. Clear skies and 13° means stunning views and firm snow. Layer up.",
     "debug": {
       "firedRules": [
         {
-          "id": "resort_closed",
-          "category": "terrain",
-          "priority": 95,
+          "id": "weather_bluebird",
+          "category": "weather",
+          "priority": 70,
           "usedFor": "headline"
         },
         {
-          "id": "resort_closed",
-          "category": "terrain",
-          "priority": 95,
+          "id": "snow_holding_strong",
+          "category": "snow",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "weather_bluebird",
+          "category": "weather",
+          "priority": 70,
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 3,
+      "totalRulesFired": 6,
       "headlineSelection": {
-        "condition": "resort_closed",
-        "variationIndex": 1,
+        "condition": "bluebird_day",
+        "variationIndex": 2,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Picture-Perfect Conditions"
+        "previousHeadline": null
       },
-      "dayOfWeek": "Saturday"
+      "dayOfWeek": "Friday"
     }
   },
   "errors": []

@@ -1,8 +1,8 @@
 {
   "resort": "crotched",
   "resortName": "Crotched Mountain",
-  "date": "2026-01-31",
-  "generated": "2026-01-31T10:38:20.680Z",
+  "date": "2026-01-30",
+  "generated": "2026-01-30T10:51:15.016Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,30 +23,82 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 23,
+          "today": 24,
           "yesterday": 24,
-          "delta": -1
+          "delta": 0
         },
         "groomedTrails": {
-          "today": 15,
+          "today": 16,
           "yesterday": 16,
-          "delta": -1
+          "delta": 0
         },
         "totalTrails": 26
       },
       "newlyOpened": [],
-      "newlyClosed": [
-        {
-          "name": "CM Park",
-          "difficulty": "TerrainPark",
-          "area": "Crotched"
-        }
-      ],
+      "newlyClosed": [],
       "newlyGroomed": [],
       "ungroomed": []
     },
     "lifts": {
       "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-30",
+        "high_f": 8,
+        "low_f": -3,
+        "high_c": -14,
+        "low_c": -20,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-31T05:00:00Z",
+          "high_f": 15,
+          "low_f": -1,
+          "high_c": -10,
+          "low_c": -18,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-01T05:00:00Z",
+          "high_f": 18,
+          "low_f": 3,
+          "high_c": -8,
+          "low_c": -17,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-02T05:00:00Z",
+          "high_f": 25,
+          "low_f": 13,
+          "high_c": -4,
+          "low_c": -11,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-31T05:00:00Z",
+        "high_f": 15,
+        "low_f": -1,
+        "high_c": -10,
+        "low_c": -18,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
     }
   },
   "computedInsights": {
@@ -63,14 +115,14 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "The Base Is Holding Up",
-    "body": "The 22\" from this week is still skiing great. No new snow needed (yet).",
+    "headline": "BRRRRRRRRR",
+    "body": "Zero new inches, but who's complaining? 22\" this week means conditions are still prime. Arctic air has settled in. 8° means quick laps and hot cocoa breaks.",
     "debug": {
       "firedRules": [
         {
-          "id": "snow_holding_strong",
-          "category": "snow",
-          "priority": 60,
+          "id": "temp_frigid",
+          "category": "weather",
+          "priority": 73,
           "usedFor": "headline"
         },
         {
@@ -78,17 +130,23 @@
           "category": "snow",
           "priority": 60,
           "usedFor": "body"
+        },
+        {
+          "id": "temp_frigid",
+          "category": "weather",
+          "priority": 73,
+          "usedFor": "body"
         }
       ],
-      "totalRulesFired": 3,
+      "totalRulesFired": 4,
       "headlineSelection": {
-        "condition": "holding_strong",
-        "variationIndex": 4,
+        "condition": "cold_snap",
+        "variationIndex": 5,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "BRRRRRRRRR"
+        "previousHeadline": null
       },
-      "dayOfWeek": "Saturday"
+      "dayOfWeek": "Friday"
     }
   },
   "errors": []

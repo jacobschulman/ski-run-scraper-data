@@ -7,7 +7,7 @@
   "difficulty": "Green",
   "trailType": "Skiing",
   "currentStatus": {
-    "date": "2026-01-31",
+    "date": "2026-01-30",
     "isOpen": true,
     "isGroomed": false,
     "groomingStatus": null,
@@ -15,9 +15,9 @@
   },
   "stats": {
     "seasonStartDate": "2025-11-22",
-    "daysTracked": 61,
+    "daysTracked": 60,
     "daysGroomed": 56,
-    "groomingPercentage": 92,
+    "groomingPercentage": 93,
     "currentStreak": 0,
     "longestStreak": 56,
     "lastGroomed": "2026-01-26",
@@ -60,20 +60,13 @@
       },
       {
         "day": "Sat",
-        "percentage": 89,
+        "percentage": 100,
         "groomed": 8,
-        "total": 9
+        "total": 8
       }
     ]
   },
   "history": [
-    {
-      "date": "2026-01-31",
-      "isOpen": true,
-      "isGroomed": false,
-      "groomingStatus": null,
-      "groomingType": "Skiing"
-    },
     {
       "date": "2026-01-30",
       "isOpen": true,
@@ -495,5 +488,5 @@
       "groomingType": "Skiing"
     }
   ],
-  "generated": "2026-01-31T10:46:55.333Z"
+  "generated": "2026-01-31T09:52:39.425Z"
 }

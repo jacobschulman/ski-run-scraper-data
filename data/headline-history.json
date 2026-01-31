@@ -1,14 +1,9 @@
 {
   "stratton": {
-    "lastHeadline": "Base Conditions Solid",
+    "lastHeadline": "Soft Snow Holding Strong",
     "lastCondition": "holding_strong",
     "lastDate": "2026-01-31",
     "history": [
-      {
-        "date": "2026-01-31",
-        "condition": "holding_strong",
-        "headline": "Base Conditions Solid"
-      },
       {
         "date": "2026-01-31",
         "condition": "holding_strong",
@@ -38,6 +33,11 @@
         "date": "2026-01-30",
         "condition": "fresh_coat",
         "headline": "Fresh Coat on the Mountain"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "fresh_coat",
+        "headline": "A Little Sugar on Top"
       }
     ]
   },
@@ -336,18 +336,13 @@
     ]
   },
   "sugarbush": {
-    "lastHeadline": "Saturday at the Mountain",
+    "lastHeadline": "Weekend Warrior Day",
     "lastCondition": "saturday",
     "lastDate": "2026-01-31",
     "history": [
       {
         "date": "2026-01-31",
         "condition": "saturday",
-        "headline": "Saturday at the Mountain"
-      },
-      {
-        "date": "2026-01-31",
-        "condition": "saturday",
         "headline": "Weekend Warrior Day"
       },
       {
@@ -374,22 +369,22 @@
         "date": "2026-01-30",
         "condition": "weekend_kickoff",
         "headline": "Cheers to the Weekend"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "weekend_kickoff",
+        "headline": "The Weekend Starts Now"
       }
     ]
   },
   "tremblant": {
-    "lastHeadline": "Overnight Refresh",
+    "lastHeadline": "The Mountain Got a Touch-Up",
     "lastCondition": "fresh_coat",
     "lastDate": "2026-01-31",
     "history": [
       {
         "date": "2026-01-31",
         "condition": "fresh_coat",
-        "headline": "Overnight Refresh"
-      },
-      {
-        "date": "2026-01-31",
-        "condition": "fresh_coat",
         "headline": "The Mountain Got a Touch-Up"
       },
       {
@@ -416,19 +411,19 @@
         "date": "2026-01-30",
         "condition": "fresh_coat",
         "headline": "{snow24h}\" Freshened Things Up"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "fresh_coat",
+        "headline": "Overnight Refresh"
       }
     ]
   },
   "blue": {
-    "lastHeadline": "Overnight Refresh",
+    "lastHeadline": "{snow24h}\" Freshened Things Up",
     "lastCondition": "fresh_coat",
     "lastDate": "2026-01-31",
     "history": [
-      {
-        "date": "2026-01-31",
-        "condition": "fresh_coat",
-        "headline": "Overnight Refresh"
-      },
       {
         "date": "2026-01-31",
         "condition": "fresh_coat",
@@ -458,6 +453,11 @@
         "date": "2026-01-30",
         "condition": "weekend_kickoff",
         "headline": "Cheers to the Weekend"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "weekend_kickoff",
+        "headline": "The Weekend Starts Now"
       }
     ]
   },
@@ -539,9 +539,9 @@
         "headline": "The Base Is Holding Up"
       },
       {
-        "date": "2026-01-31",
+        "date": "2026-01-30",
         "condition": "holding_strong",
-        "headline": "Good Snow Persisting"
+        "headline": "Base Conditions Solid"
       }
     ]
   },
@@ -581,9 +581,9 @@
         "headline": "Good Snow Persisting"
       },
       {
-        "date": "2026-01-31",
+        "date": "2026-01-30",
         "condition": "holding_strong",
-        "headline": "Recent Snow Still Skiing Well"
+        "headline": "Soft Snow Holding Strong"
       }
     ]
   },
@@ -623,9 +623,9 @@
         "headline": "Soft Snow Holding Strong"
       },
       {
-        "date": "2026-01-31",
+        "date": "2026-01-30",
         "condition": "holding_strong",
-        "headline": "Base Conditions Solid"
+        "headline": "The Base Is Holding Up"
       }
     ]
   },
@@ -791,9 +791,9 @@
         "headline": "Saturday Shred Day"
       },
       {
-        "date": "2026-01-31",
-        "condition": "saturday",
-        "headline": "Weekend Mode: Engaged"
+        "date": "2026-01-30",
+        "condition": "weekend_kickoff",
+        "headline": "Is It the Weekend Yet?"
       }
     ]
   },
@@ -976,14 +976,14 @@
         "headline": "Nearly Everything Open"
       },
       {
-        "date": "2026-01-31",
-        "condition": "percent_full",
-        "headline": "The Whole Mountain Awaits"
+        "date": "2026-01-30",
+        "condition": "weekend_kickoff",
+        "headline": "TGIF"
       },
       {
-        "date": "2026-01-31",
-        "condition": "percent_full",
-        "headline": "Nearly Everything Open"
+        "date": "2026-01-30",
+        "condition": "weekend_kickoff",
+        "headline": "Is It the Weekend Yet?"
       },
       {
         "date": "2026-01-30",
@@ -1018,14 +1018,14 @@
         "headline": "Rain at Base, Snow Up Top"
       },
       {
-        "date": "2026-01-31",
+        "date": "2026-01-30",
         "condition": "weather_mixed",
-        "headline": "Variable Conditions"
+        "headline": "Mother Nature Can't Decide"
       },
       {
-        "date": "2026-01-31",
+        "date": "2026-01-30",
         "condition": "weather_mixed",
-        "headline": "Rain at Base, Snow Up Top"
+        "headline": "Variable Conditions"
       },
       {
         "date": "2026-01-30",
@@ -1050,24 +1050,24 @@
     ]
   },
   "norquay": {
-    "lastHeadline": "Saturday Session",
+    "lastHeadline": "Saturday Shred Day",
     "lastCondition": "saturday",
     "lastDate": "2026-01-31",
     "history": [
       {
         "date": "2026-01-31",
         "condition": "saturday",
-        "headline": "Saturday Session"
-      },
-      {
-        "date": "2026-01-31",
-        "condition": "saturday",
-        "headline": "Weekend Warrior Day"
-      },
-      {
-        "date": "2026-01-31",
-        "condition": "saturday",
         "headline": "Saturday Shred Day"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "terrain_expansion",
+        "headline": "The Map Got Bigger"
+      },
+      {
+        "date": "2026-01-30",
+        "condition": "terrain_expansion",
+        "headline": "Fresh Terrain Unlocked"
       },
       {
         "date": "2026-01-30",

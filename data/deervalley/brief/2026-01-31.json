@@ -2,7 +2,7 @@
   "resort": "deervalley",
   "resortName": "Deer Valley",
   "date": "2026-01-31",
-  "generated": "2026-01-31T08:39:37.574Z",
+  "generated": "2026-01-31T07:35:28.618Z",
   "rawData": {
     "terrain": {
       "stats": {
@@ -12,48 +12,16 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 67,
+          "today": 63,
           "yesterday": 63,
-          "delta": 4
+          "delta": 0
         },
         "totalTrails": 227
       },
       "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [
-        {
-          "name": "Tycoon",
-          "difficulty": "Advanced Intermediate",
-          "area": "Bald Mountain"
-        },
-        {
-          "name": "Corner Stone",
-          "difficulty": "Intermediate",
-          "area": "Keetley Point"
-        },
-        {
-          "name": "Lake Shore",
-          "difficulty": "Intermediate",
-          "area": "Keetley Point"
-        },
-        {
-          "name": "Little Giant",
-          "difficulty": "Easy",
-          "area": "Keetley Point"
-        },
-        {
-          "name": "Short Line",
-          "difficulty": "Intermediate",
-          "area": "Keetley Point"
-        }
-      ],
-      "ungroomed": [
-        {
-          "name": "Sunset",
-          "difficulty": "Intermediate",
-          "area": "Bald Mountain"
-        }
-      ]
+      "newlyGroomed": [],
+      "ungroomed": []
     },
     "lifts": {
       "available": true,
@@ -72,15 +40,9 @@
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [
-      "5 trails freshly groomed"
-    ],
+    "alerts": [],
     "trends": [],
-    "recommendations": [
-      "Fresh corduroy on Tycoon - all skill levels",
-      "Fresh corduroy on Corner Stone - all skill levels",
-      "Fresh corduroy on Lake Shore - all skill levels"
-    ]
+    "recommendations": []
   },
   "morningBrief": null,
   "errors": []

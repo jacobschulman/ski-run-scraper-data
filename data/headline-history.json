@@ -48,15 +48,10 @@
     ]
   },
   "stratton": {
-    "lastHeadline": "It's Gonna Be a Cold One",
+    "lastHeadline": "Layer Up, Ski Hard",
     "lastCondition": "cold_snap",
     "lastDate": "2026-01-31",
     "history": [
-      {
-        "date": "2026-01-31",
-        "condition": "cold_snap",
-        "headline": "It's Gonna Be a Cold One"
-      },
       {
         "date": "2026-01-31",
         "condition": "cold_snap",
@@ -85,15 +80,10 @@
     ]
   },
   "palisades": {
-    "lastHeadline": "Patrol Went Big Today",
+    "lastHeadline": "Half the Mountain Just Dropped",
     "lastCondition": "terrain_massive",
     "lastDate": "2026-01-31",
     "history": [
-      {
-        "date": "2026-01-31",
-        "condition": "terrain_massive",
-        "headline": "Patrol Went Big Today"
-      },
       {
         "date": "2026-01-31",
         "condition": "terrain_massive",
@@ -122,15 +112,10 @@
     ]
   },
   "deervalley": {
-    "lastHeadline": "Groomers Were Busy",
+    "lastHeadline": "{groomedCount} {GroomedRunWord} Groomed Overnight",
     "lastCondition": "grooming_highlight",
     "lastDate": "2026-01-31",
     "history": [
-      {
-        "date": "2026-01-31",
-        "condition": "grooming_highlight",
-        "headline": "Groomers Were Busy"
-      },
       {
         "date": "2026-01-31",
         "condition": "grooming_highlight",
@@ -159,15 +144,10 @@
     ]
   },
   "solitude": {
-    "lastHeadline": "Saturday Shred Day",
+    "lastHeadline": "Weekend Mode: Engaged",
     "lastCondition": "saturday",
     "lastDate": "2026-01-31",
     "history": [
-      {
-        "date": "2026-01-31",
-        "condition": "saturday",
-        "headline": "Saturday Shred Day"
-      },
       {
         "date": "2026-01-31",
         "condition": "saturday",
@@ -196,15 +176,10 @@
     ]
   },
   "steamboat": {
-    "lastHeadline": "{snow24h}\" Freshened Things Up",
+    "lastHeadline": "Overnight Refresh",
     "lastCondition": "fresh_coat",
     "lastDate": "2026-01-31",
     "history": [
-      {
-        "date": "2026-01-31",
-        "condition": "fresh_coat",
-        "headline": "{snow24h}\" Freshened Things Up"
-      },
       {
         "date": "2026-01-31",
         "condition": "fresh_coat",
@@ -233,15 +208,10 @@
     ]
   },
   "mammoth": {
-    "lastHeadline": "The Map Got Bigger",
+    "lastHeadline": "Fresh Terrain Unlocked",
     "lastCondition": "terrain_expansion",
     "lastDate": "2026-01-31",
     "history": [
-      {
-        "date": "2026-01-31",
-        "condition": "terrain_expansion",
-        "headline": "The Map Got Bigger"
-      },
       {
         "date": "2026-01-31",
         "condition": "terrain_expansion",
@@ -270,15 +240,10 @@
     ]
   },
   "junemountain": {
-    "lastHeadline": "Peak Terrain",
+    "lastHeadline": "All Systems Go",
     "lastCondition": "percent_full",
     "lastDate": "2026-01-31",
     "history": [
-      {
-        "date": "2026-01-31",
-        "condition": "percent_full",
-        "headline": "Peak Terrain"
-      },
       {
         "date": "2026-01-31",
         "condition": "percent_full",
@@ -307,15 +272,10 @@
     ]
   },
   "crystal": {
-    "lastHeadline": "More Mountain to Explore",
+    "lastHeadline": "{newTrailsCount} New {NewTrailWord} Today",
     "lastCondition": "terrain_expansion",
     "lastDate": "2026-01-31",
     "history": [
-      {
-        "date": "2026-01-31",
-        "condition": "terrain_expansion",
-        "headline": "More Mountain to Explore"
-      },
       {
         "date": "2026-01-31",
         "condition": "terrain_expansion",
@@ -344,15 +304,10 @@
     ]
   },
   "sugarbush": {
-    "lastHeadline": "Crisp Conditions",
+    "lastHeadline": "Layer Up, Ski Hard",
     "lastCondition": "cold_snap",
     "lastDate": "2026-01-31",
     "history": [
-      {
-        "date": "2026-01-31",
-        "condition": "cold_snap",
-        "headline": "Crisp Conditions"
-      },
       {
         "date": "2026-01-31",
         "condition": "cold_snap",
@@ -381,15 +336,10 @@
     ]
   },
   "tremblant": {
-    "lastHeadline": "Crisp Conditions",
+    "lastHeadline": "Arctic Air in Place",
     "lastCondition": "cold_snap",
     "lastDate": "2026-01-31",
     "history": [
-      {
-        "date": "2026-01-31",
-        "condition": "cold_snap",
-        "headline": "Crisp Conditions"
-      },
       {
         "date": "2026-01-31",
         "condition": "cold_snap",
@@ -418,15 +368,10 @@
     ]
   },
   "blue": {
-    "lastHeadline": "Crisp Conditions",
+    "lastHeadline": "Layer Up, Ski Hard",
     "lastCondition": "cold_snap",
     "lastDate": "2026-01-31",
     "history": [
-      {
-        "date": "2026-01-31",
-        "condition": "cold_snap",
-        "headline": "Crisp Conditions"
-      },
       {
         "date": "2026-01-31",
         "condition": "cold_snap",
@@ -455,19 +400,19 @@
     ]
   },
   "bigsky": {
-    "lastHeadline": "Saturday Shred Day",
-    "lastCondition": "saturday",
+    "lastHeadline": "Corduroy Everywhere",
+    "lastCondition": "grooming_massive",
     "lastDate": "2026-01-31",
     "history": [
       {
         "date": "2026-01-31",
-        "condition": "saturday",
-        "headline": "Saturday Shred Day"
+        "condition": "grooming_massive",
+        "headline": "Corduroy Everywhere"
       },
       {
         "date": "2026-01-31",
-        "condition": "saturday",
-        "headline": "Weekend Warrior Day"
+        "condition": "grooming_massive",
+        "headline": "{groomedCount} Runs Freshly Groomed"
       },
       {
         "date": "2026-01-31",
@@ -743,8 +688,8 @@
       },
       {
         "date": "2026-01-31",
-        "condition": "terrain_few",
-        "headline": "{newTrailsCount} New Runs Open"
+        "condition": "terrain_expansion",
+        "headline": "More Mountain to Explore"
       }
     ]
   },
@@ -817,13 +762,13 @@
       },
       {
         "date": "2026-01-31",
-        "condition": "fresh_coat",
-        "headline": "A Little Sugar on Top"
+        "condition": "terrain_major",
+        "headline": "Patrol Won't Quit"
       },
       {
         "date": "2026-01-31",
-        "condition": "fresh_coat",
-        "headline": "Fresh Coat on the Mountain"
+        "condition": "terrain_major",
+        "headline": "Big Expansion Today"
       },
       {
         "date": "2026-01-31",
@@ -845,17 +790,17 @@
       {
         "date": "2026-01-31",
         "condition": "saturday",
-        "headline": "Weekend Mode: Engaged"
-      },
-      {
-        "date": "2026-01-31",
-        "condition": "saturday",
-        "headline": "Saturday Shred Day"
-      },
-      {
-        "date": "2026-01-31",
-        "condition": "saturday",
         "headline": "Weekend Warrior Day"
+      },
+      {
+        "date": "2026-01-31",
+        "condition": "terrain_massive",
+        "headline": "Half the Mountain Just Dropped"
+      },
+      {
+        "date": "2026-01-31",
+        "condition": "terrain_massive",
+        "headline": "Patrol Went Big Today"
       },
       {
         "date": "2026-01-31",

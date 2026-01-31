@@ -2,7 +2,7 @@
   "resort": "loon",
   "resortName": "Loon Mountain",
   "date": "2026-01-31",
-  "generated": "2026-01-31T13:08:05.377Z",
+  "generated": "2026-01-31T11:28:28.081Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -28,26 +28,15 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 69,
+          "today": 67,
           "yesterday": 67,
-          "delta": 2
+          "delta": 0
         },
         "totalTrails": 85
       },
       "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [
-        {
-          "name": "Ripsaw",
-          "difficulty": "Double Black",
-          "area": "South Peak"
-        },
-        {
-          "name": "Rolling Bear",
-          "difficulty": "Black",
-          "area": "Loon Peak"
-        }
-      ],
+      "newlyGroomed": [],
       "ungroomed": []
     },
     "lifts": {
@@ -117,16 +106,11 @@
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [
-      "2 trails freshly groomed"
-    ],
+    "alerts": [],
     "trends": [
       "Great week for snow - 19\" in last 7 days"
     ],
-    "recommendations": [
-      "Fresh corduroy on Ripsaw - all skill levels",
-      "Fresh corduroy on Rolling Bear - challenging for advanced skiers"
-    ]
+    "recommendations": []
   },
   "morningBrief": {
     "headline": "Base Conditions Solid",

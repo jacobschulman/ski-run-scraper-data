@@ -2,7 +2,7 @@
   "resort": "copper",
   "resortName": "Copper Mountain",
   "date": "2026-01-31",
-  "generated": "2026-01-31T13:08:05.362Z",
+  "generated": "2026-01-31T11:28:28.067Z",
   "rawData": {
     "terrain": {
       "stats": {
@@ -20,40 +20,8 @@
       },
       "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [
-        {
-          "name": "Oh No (L)",
-          "difficulty": "Blue",
-          "area": "East"
-        },
-        {
-          "name": "Bittersweet (L)",
-          "difficulty": "Blue",
-          "area": "Center"
-        },
-        {
-          "name": "Collage (U)",
-          "difficulty": "Blue",
-          "area": "Center"
-        }
-      ],
-      "ungroomed": [
-        {
-          "name": "Revenge (L)",
-          "difficulty": "Black",
-          "area": "Union Peak"
-        },
-        {
-          "name": "Timber Ridge",
-          "difficulty": "Blue",
-          "area": "Union Peak"
-        },
-        {
-          "name": "Pinecone Alley",
-          "difficulty": "Blue",
-          "area": "West"
-        }
-      ]
+      "newlyGroomed": [],
+      "ungroomed": []
     },
     "lifts": {
       "available": true,
@@ -72,15 +40,9 @@
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [
-      "3 trails freshly groomed"
-    ],
+    "alerts": [],
     "trends": [],
-    "recommendations": [
-      "Fresh corduroy on Oh No (L) - perfect for intermediate skiers",
-      "Fresh corduroy on Bittersweet (L) - perfect for intermediate skiers",
-      "Fresh corduroy on Collage (U) - perfect for intermediate skiers"
-    ]
+    "recommendations": []
   },
   "morningBrief": null,
   "errors": []

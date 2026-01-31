@@ -1,116 +1,70 @@
 {
   "resort": "vail",
   "resortName": "Vail",
-  "date": "2026-01-31",
-  "generated": "2026-01-31T13:07:56.472Z",
+  "date": "2026-01-30",
+  "generated": "2026-01-30T13:18:44.263Z",
   "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 3,
+      "24hour_cm": 7,
+      "48hour_inches": 3,
+      "48hour_cm": 7,
+      "7day_inches": 17,
+      "7day_cm": 43,
+      "season_total_inches": 86,
+      "season_total_cm": 218,
+      "conditions": {
+        "today": "Powder",
+        "yesterday": "Powder"
+      }
+    },
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 171,
-          "yesterday": 170,
-          "delta": 1
+          "today": 170,
+          "yesterday": 171,
+          "delta": -1
         },
         "groomedTrails": {
-          "today": 97,
+          "today": 90,
           "yesterday": 90,
-          "delta": 7
+          "delta": 0
         },
         "totalTrails": 277
       },
-      "newlyOpened": [
+      "newlyOpened": [],
+      "newlyClosed": [
         {
-          "name": "Born Free - Lower Middle",
-          "difficulty": "Blue",
-          "area": "Lionshead"
-        }
-      ],
-      "newlyClosed": [],
-      "newlyGroomed": [
-        {
-          "name": "Brisk Walk",
-          "difficulty": "Green",
-          "area": "Golden Peak"
-        },
-        {
-          "name": "Brisk Walk - Lower",
-          "difficulty": "Green",
-          "area": "Golden Peak"
-        },
-        {
-          "name": "Brisk Walk - Upper",
-          "difficulty": "Green",
-          "area": "Golden Peak"
-        },
-        {
-          "name": "Born Free - Upper Middle",
-          "difficulty": "Green",
-          "area": "Lionshead"
-        },
-        {
-          "name": "Minnie Ha Ha",
-          "difficulty": "Green",
-          "area": "Lionshead"
-        },
-        {
-          "name": "Minnie's - Middle",
-          "difficulty": "Green",
-          "area": "Lionshead"
-        },
-        {
-          "name": "Born Free - Lower Middle",
-          "difficulty": "Blue",
-          "area": "Lionshead"
-        },
-        {
-          "name": "Gitalong Road - Upper",
-          "difficulty": "Green",
-          "area": "Mid-Vail"
-        },
-        {
-          "name": "Black Forest",
-          "difficulty": "Blue",
-          "area": "Mid-Vail"
-        },
-        {
-          "name": "Cappuccino",
-          "difficulty": "Blue",
-          "area": "Mid-Vail"
-        },
-        {
-          "name": "Chaos Canyon",
-          "difficulty": "Blue",
-          "area": "Mid-Vail"
-        },
-        {
-          "name": "Christmas",
-          "difficulty": "Blue",
-          "area": "Mid-Vail"
-        },
-        {
-          "name": "Northwoods",
-          "difficulty": "Blue",
-          "area": "North East Bowl"
-        },
-        {
-          "name": "Windisch Way",
-          "difficulty": "Green",
-          "area": "Vail Village"
-        },
-        {
-          "name": "Lindsey's - Lower",
+          "name": "Pickeroon - Lower",
           "difficulty": "Black",
-          "area": "Vail Village"
+          "area": "Lionshead"
         }
       ],
-      "ungroomed": [
+      "newlyGroomed": [
         {
           "name": "The Woods",
           "difficulty": "Blue",
           "area": "Game Creek Bowl"
         },
         {
+          "name": "Bwana Loop",
+          "difficulty": "Green",
+          "area": "Lionshead"
+        },
+        {
           "name": "Ha Ha - West",
+          "difficulty": "Green",
+          "area": "Lionshead"
+        },
+        {
+          "name": "Owl's Roost 1",
+          "difficulty": "Green",
+          "area": "Lionshead"
+        },
+        {
+          "name": "Post Road",
           "difficulty": "Green",
           "area": "Lionshead"
         },
@@ -123,51 +77,161 @@
           "name": "Columbine - Upper",
           "difficulty": "Blue",
           "area": "Lionshead"
-        },
+        }
+      ],
+      "ungroomed": [
         {
-          "name": "Lodgepole Gulch Cutoff",
-          "difficulty": "Blue",
+          "name": "Minnie Ha Ha",
+          "difficulty": "Green",
           "area": "Lionshead"
         },
         {
-          "name": "Mid-Vail Express",
+          "name": "Gitalong Road - Upper",
+          "difficulty": "Green",
+          "area": "Mid-Vail"
+        },
+        {
+          "name": "Cappuccino",
           "difficulty": "Blue",
           "area": "Mid-Vail"
         },
         {
-          "name": "Slifer Express",
+          "name": "Christmas",
           "difficulty": "Blue",
           "area": "Mid-Vail"
         },
         {
-          "name": "Northstar",
+          "name": "Windows Road",
           "difficulty": "Black",
+          "area": "Mid-Vail"
+        },
+        {
+          "name": "Northwoods",
+          "difficulty": "Blue",
           "area": "North East Bowl"
+        },
+        {
+          "name": "Windisch Way",
+          "difficulty": "Green",
+          "area": "Vail Village"
         }
       ]
     },
     "lifts": {
       "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-30",
+        "high_f": 29,
+        "low_f": 10,
+        "high_c": -2,
+        "low_c": -13,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-31T07:00:00Z",
+          "high_f": 36,
+          "low_f": 18,
+          "high_c": 2,
+          "low_c": -8,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-01T07:00:00Z",
+          "high_f": 41,
+          "low_f": 14,
+          "high_c": 5,
+          "low_c": -10,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-02T07:00:00Z",
+          "high_f": 38,
+          "low_f": 22,
+          "high_c": 3,
+          "low_c": -6,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-31T07:00:00Z",
+        "high_f": 36,
+        "low_f": 18,
+        "high_c": 2,
+        "low_c": -8,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
     }
   },
   "computedInsights": {
     "flags": {
-      "hasNewTrails": true,
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
       "significantGroomingIncrease": false
     },
     "alerts": [
-      "1 new trail opened today",
-      "15 trails freshly groomed"
+      "7 trails freshly groomed"
     ],
     "trends": [
-      "1 more trail open than yesterday"
+      "Great week for snow - 17\" in last 7 days"
     ],
     "recommendations": [
-      "Fresh corduroy on Brisk Walk - great for beginners",
-      "Fresh corduroy on Brisk Walk - Lower - great for beginners",
-      "Fresh corduroy on Brisk Walk - Upper - great for beginners"
+      "Fresh corduroy on The Woods - perfect for intermediate skiers",
+      "Fresh corduroy on Bwana Loop - great for beginners",
+      "Fresh corduroy on Ha Ha - West - great for beginners"
     ]
   },
-  "morningBrief": null,
+  "morningBrief": {
+    "headline": "Nice Little Top-Up",
+    "body": "3\" settled in while you were sleeping. Groomers are smooth, off-piste is soft. 7 runs freshly groomed, mostly in Game Creek Bowl and Lionshead.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "snow_solid",
+          "category": "snow",
+          "priority": 82,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_solid",
+          "category": "snow",
+          "priority": 82,
+          "usedFor": "body"
+        },
+        {
+          "id": "grooming_moderate",
+          "category": "terrain",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "snow_solid",
+        "variationIndex": 1,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": null
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
   "errors": []
 }

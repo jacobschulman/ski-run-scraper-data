@@ -10,9 +10,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": false,
-      "groomingPercentage": 21,
-      "currentStreak": 7,
-      "longestStreak": 7
+      "groomingPercentage": 19,
+      "currentStreak": 6,
+      "longestStreak": 6
     },
     {
       "name": "Double Diamond",
@@ -54,9 +54,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": false,
-      "groomingPercentage": 73,
-      "currentStreak": 11,
-      "longestStreak": 11
+      "groomingPercentage": 72,
+      "currentStreak": 10,
+      "longestStreak": 10
     },
     {
       "name": "Roller Coaster",
@@ -77,8 +77,8 @@
       "isGroomedToday": true,
       "isOpen": false,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Skid Road",
@@ -88,8 +88,8 @@
       "isGroomedToday": true,
       "isOpen": false,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Trapper",
@@ -121,8 +121,8 @@
       "isGroomedToday": true,
       "isOpen": false,
       "groomingPercentage": 94,
-      "currentStreak": 16,
-      "longestStreak": 16
+      "currentStreak": 15,
+      "longestStreak": 15
     },
     {
       "name": "Broadway",
@@ -132,8 +132,8 @@
       "isGroomedToday": true,
       "isOpen": false,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Lower Mavericks Park",
@@ -143,8 +143,8 @@
       "isGroomedToday": true,
       "isOpen": false,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Midway Park",
@@ -154,8 +154,8 @@
       "isGroomedToday": true,
       "isOpen": false,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Upper Mavericks Park",
@@ -165,8 +165,8 @@
       "isGroomedToday": true,
       "isOpen": false,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Waterfall",
@@ -187,8 +187,8 @@
       "isGroomedToday": true,
       "isOpen": false,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Barrier Bowl",
@@ -209,8 +209,8 @@
       "isGroomedToday": true,
       "isOpen": false,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Blue Trail",
@@ -219,9 +219,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": false,
-      "groomingPercentage": 18,
-      "currentStreak": 6,
-      "longestStreak": 6
+      "groomingPercentage": 16,
+      "currentStreak": 5,
+      "longestStreak": 5
     },
     {
       "name": "Bobby Chute",
@@ -253,8 +253,8 @@
       "isGroomedToday": true,
       "isOpen": false,
       "groomingPercentage": 97,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Exhibition",
@@ -263,9 +263,9 @@
       "difficulty": "Black",
       "isGroomedToday": true,
       "isOpen": false,
-      "groomingPercentage": 15,
-      "currentStreak": 5,
-      "longestStreak": 5
+      "groomingPercentage": 13,
+      "currentStreak": 4,
+      "longestStreak": 4
     },
     {
       "name": "Hagen Hill",
@@ -274,9 +274,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": false,
-      "groomingPercentage": 85,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "groomingPercentage": 84,
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "High Five",
@@ -296,9 +296,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": false,
-      "groomingPercentage": 76,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "groomingPercentage": 75,
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Hog Wild",
@@ -308,8 +308,8 @@
       "isGroomedToday": true,
       "isOpen": false,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Hoot 'n Holler",
@@ -318,9 +318,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": false,
-      "groomingPercentage": 79,
-      "currentStreak": 13,
-      "longestStreak": 13
+      "groomingPercentage": 78,
+      "currentStreak": 12,
+      "longestStreak": 12
     },
     {
       "name": "International",
@@ -440,8 +440,8 @@
       "isGroomedToday": true,
       "isOpen": false,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "SkyLine",
@@ -451,8 +451,8 @@
       "isGroomedToday": true,
       "isOpen": false,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Slow Poke",
@@ -462,8 +462,8 @@
       "isGroomedToday": true,
       "isOpen": false,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Training Grounds Park",
@@ -473,8 +473,8 @@
       "isGroomedToday": true,
       "isOpen": false,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Tye Creek",
@@ -483,7 +483,7 @@
       "difficulty": "Green",
       "isGroomedToday": false,
       "isOpen": false,
-      "groomingPercentage": 12,
+      "groomingPercentage": 13,
       "currentStreak": 0,
       "longestStreak": 1
     },
@@ -550,7 +550,7 @@
       "isGroomedToday": true,
       "isOpen": false,
       "groomingPercentage": 88,
-      "currentStreak": 8,
+      "currentStreak": 7,
       "longestStreak": 11
     },
     {
@@ -560,7 +560,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": false,
-      "groomingPercentage": 42,
+      "groomingPercentage": 44,
       "currentStreak": 0,
       "longestStreak": 7
     },
@@ -594,7 +594,7 @@
       "isGroomedToday": true,
       "isOpen": false,
       "groomingPercentage": 88,
-      "currentStreak": 8,
+      "currentStreak": 7,
       "longestStreak": 11
     },
     {
@@ -615,9 +615,9 @@
       "difficulty": "Black",
       "isGroomedToday": true,
       "isOpen": false,
-      "groomingPercentage": 15,
-      "currentStreak": 4,
-      "longestStreak": 4
+      "groomingPercentage": 13,
+      "currentStreak": 3,
+      "longestStreak": 3
     },
     {
       "name": "South Divide",
@@ -626,10 +626,10 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": false,
-      "groomingPercentage": 79,
+      "groomingPercentage": 81,
       "currentStreak": 0,
       "longestStreak": 12
     }
   ],
-  "lastUpdated": "2026-01-31T13:16:38.817Z"
+  "lastUpdated": "2026-01-31T11:36:50.407Z"
 }

@@ -1,106 +1,203 @@
 {
   "resort": "northstar",
   "resortName": "Northstar",
-  "date": "2026-01-31",
-  "generated": "2026-01-31T13:07:56.487Z",
+  "date": "2026-01-30",
+  "generated": "2026-01-30T13:18:44.292Z",
   "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 2,
+      "48hour_cm": 5,
+      "7day_inches": 2,
+      "7day_cm": 5,
+      "season_total_inches": 156,
+      "season_total_cm": 396,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 97,
-          "yesterday": 98,
-          "delta": -1
+          "today": 98,
+          "yesterday": 96,
+          "delta": 2
         },
         "groomedTrails": {
-          "today": 62,
-          "yesterday": 55,
-          "delta": 7
+          "today": 55,
+          "yesterday": 50,
+          "delta": 5
         },
         "totalTrails": 103
       },
       "newlyOpened": [
-        {
-          "name": "Polaris",
-          "difficulty": "Black",
-          "area": "The Backside"
-        }
-      ],
-      "newlyClosed": [
         {
           "name": "Stampede",
           "difficulty": "Black",
           "area": "Lookout Mountain"
         },
         {
-          "name": "Cat's Face",
+          "name": "Castle Peak",
           "difficulty": "Blue",
-          "area": "Mt. Pluto"
+          "area": "The Backside"
         }
       ],
+      "newlyClosed": [],
       "newlyGroomed": [
         {
-          "name": "Eagle Chute",
+          "name": "Flying Squirrel",
           "difficulty": "Blue",
           "area": "Mt. Pluto"
         },
         {
-          "name": "Upper Jibboom",
+          "name": "Lower Grouse Alley",
           "difficulty": "Blue",
           "area": "Mt. Pluto"
         },
         {
-          "name": "Bobcat Bowl",
-          "difficulty": "Blue",
-          "area": "Northwest Territory"
-        },
-        {
-          "name": "Northern Lights",
-          "difficulty": "Blue",
-          "area": "Northwest Territory"
-        },
-        {
-          "name": "The Gully",
-          "difficulty": "Blue",
-          "area": "Northwest Territory"
-        },
-        {
-          "name": "Forerunner",
-          "difficulty": "TerrainPark",
-          "area": "Terrain Parks"
-        },
-        {
-          "name": "Playground",
-          "difficulty": "TerrainPark",
-          "area": "Terrain Parks"
-        },
-        {
-          "name": "Iron Horse",
+          "name": "Spring Board",
           "difficulty": "Black",
-          "area": "The Backside"
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "Upper Grouse Alley",
+          "difficulty": "Black",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "The Straits",
+          "difficulty": "TerrainPark",
+          "area": "Terrain Parks"
         }
       ],
       "ungroomed": []
     },
     "lifts": {
       "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-30",
+        "high_f": 50,
+        "low_f": 37,
+        "high_c": 10,
+        "low_c": 2,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-31T08:00:00Z",
+          "high_f": 51,
+          "low_f": 36,
+          "high_c": 10,
+          "low_c": 2,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-01T08:00:00Z",
+          "high_f": 48,
+          "low_f": 33,
+          "high_c": 9,
+          "low_c": 1,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-02T08:00:00Z",
+          "high_f": 49,
+          "low_f": 31,
+          "high_c": 9,
+          "low_c": -1,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-31T08:00:00Z",
+        "high_f": 51,
+        "low_f": 36,
+        "high_c": 10,
+        "low_c": 2,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
     }
   },
   "computedInsights": {
     "flags": {
+      "hasFreshSnow": false,
+      "isPowderDay": false,
       "hasNewTrails": true,
       "significantGroomingIncrease": false
     },
     "alerts": [
-      "1 new trail opened today",
-      "8 trails freshly groomed"
+      "2 new trails opened today",
+      "5 trails freshly groomed"
     ],
-    "trends": [],
+    "trends": [
+      "2 more trails open than yesterday"
+    ],
     "recommendations": [
-      "Fresh corduroy on Eagle Chute - perfect for intermediate skiers",
-      "Fresh corduroy on Upper Jibboom - perfect for intermediate skiers",
-      "Fresh corduroy on Bobcat Bowl - perfect for intermediate skiers"
+      "Fresh corduroy on Flying Squirrel - perfect for intermediate skiers",
+      "Fresh corduroy on Lower Grouse Alley - perfect for intermediate skiers",
+      "Fresh corduroy on Spring Board - challenging for advanced skiers"
     ]
   },
-  "morningBrief": null,
+  "morningBrief": {
+    "headline": "Above Average Temps",
+    "body": "98 of 103 trails are open with 55 groomed. Cloudy with a high of 50°F. 5 runs freshly groomed, mostly in Mt. Pluto and Terrain Parks. Above average temps (50°) will soften things up. Hit it early.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "temp_unseasonably_warm",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "grooming_moderate",
+          "category": "terrain",
+          "priority": 55,
+          "usedFor": "body"
+        },
+        {
+          "id": "temp_unseasonably_warm",
+          "category": "weather",
+          "priority": 55,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "unseasonably_warm",
+        "variationIndex": 1,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": null
+      },
+      "dayOfWeek": "Friday"
+    }
+  },
   "errors": []
 }

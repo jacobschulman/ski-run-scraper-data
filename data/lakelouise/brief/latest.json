@@ -2,7 +2,11 @@
   "resort": "lakelouise",
   "resortName": "Lake Louise",
   "date": "2026-01-31",
-  "generated": "2026-01-31T17:30:38.060Z",
+<<<<<<< Updated upstream
+  "generated": "2026-01-31T16:38:29.042Z",
+=======
+  "generated": "2026-01-31T17:02:27.466Z",
+>>>>>>> Stashed changes
   "rawData": {
     "snow": {
       "overnight_inches": 2.4,
@@ -112,7 +116,11 @@
       },
       "outlook": [
         {
-          "date": "2026-02-01T17:30:38.059Z",
+<<<<<<< Updated upstream
+          "date": "2026-02-01T16:38:29.041Z",
+=======
+          "date": "2026-02-01T17:02:27.465Z",
+>>>>>>> Stashed changes
           "high_f": 32,
           "low_f": 32,
           "high_c": 0,
@@ -123,7 +131,11 @@
           "snowfall_expected": 0
         },
         {
-          "date": "2026-02-02T17:30:38.059Z",
+<<<<<<< Updated upstream
+          "date": "2026-02-02T16:38:29.041Z",
+=======
+          "date": "2026-02-02T17:02:27.465Z",
+>>>>>>> Stashed changes
           "high_f": 32,
           "low_f": 32,
           "high_c": 0,
@@ -134,7 +146,11 @@
           "snowfall_expected": 0
         },
         {
-          "date": "2026-02-03T17:30:38.059Z",
+<<<<<<< Updated upstream
+          "date": "2026-02-03T16:38:29.041Z",
+=======
+          "date": "2026-02-03T17:02:27.465Z",
+>>>>>>> Stashed changes
           "high_f": 32,
           "low_f": 32,
           "high_c": 0,
@@ -146,7 +162,11 @@
         }
       ],
       "tomorrow": {
-        "date": "2026-02-01T17:30:38.059Z",
+<<<<<<< Updated upstream
+        "date": "2026-02-01T16:38:29.041Z",
+=======
+        "date": "2026-02-01T17:02:27.465Z",
+>>>>>>> Stashed changes
         "high_f": 32,
         "low_f": 32,
         "high_c": 0,
@@ -209,10 +229,10 @@
       "totalRulesFired": 5,
       "headlineSelection": {
         "condition": "weather_mixed",
-        "variationIndex": 2,
+        "variationIndex": 1,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": null
+        "previousHeadline": "Rain at Base, Snow Up Top"
       },
       "dayOfWeek": "Saturday"
     }

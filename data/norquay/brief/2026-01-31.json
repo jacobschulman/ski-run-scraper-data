@@ -2,7 +2,11 @@
   "resort": "norquay",
   "resortName": "Mt Norquay",
   "date": "2026-01-31",
-  "generated": "2026-01-31T17:30:44.401Z",
+<<<<<<< Updated upstream
+  "generated": "2026-01-31T16:38:36.139Z",
+=======
+  "generated": "2026-01-31T17:02:36.362Z",
+>>>>>>> Stashed changes
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -45,10 +49,10 @@
     "forecast": {
       "today": {
         "date": "2026-01-31",
-        "high_f": 39.2,
-        "low_f": 39.2,
-        "high_c": 4,
-        "low_c": 4,
+        "high_f": 32,
+        "low_f": 32,
+        "high_c": 0,
+        "low_c": 0,
         "description": "Unknown",
         "snowfall_day_inches": 0,
         "snowfall_night_inches": 0
@@ -68,8 +72,8 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Saturday Shred Day",
-    "body": "The rundown: 72 trails open, 30 groomed. Unknown with temps around 39.2°. 72/81 trails open, 30 groomed. 39.2° and Unknown.",
+    "headline": "Weekend Warrior Day",
+    "body": "The rundown: 72 trails open, 30 groomed. Unknown with temps around 32°. 72/81 trails open, 30 groomed. 32° and Unknown.",
     "debug": {
       "firedRules": [
         {
@@ -94,10 +98,10 @@
       "totalRulesFired": 3,
       "headlineSelection": {
         "condition": "saturday",
-        "variationIndex": 4,
+        "variationIndex": 1,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": null
+        "previousHeadline": "Saturday Session"
       },
       "dayOfWeek": "Saturday"
     }

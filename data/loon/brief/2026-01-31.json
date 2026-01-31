@@ -2,7 +2,7 @@
   "resort": "loon",
   "resortName": "Loon Mountain",
   "date": "2026-01-31",
-  "generated": "2026-01-31T17:30:26.677Z",
+  "generated": "2026-01-31T16:38:20.689Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -62,14 +62,23 @@
     },
     "forecast": {
       "today": {
-        "date": "2026-01-31",
-        "high_f": 10,
-        "low_f": 1,
-        "description": "Mostly Sunny",
+        "date": "2026-01-30",
+        "high_f": null,
+        "low_f": -5,
+        "description": "Cold",
         "snowfall_day_inches": 0,
         "snowfall_night_inches": 0
       },
       "outlook": [
+        {
+          "date": "2026-01-31",
+          "high_f": 10,
+          "low_f": 1,
+          "description": "Mostly Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
         {
           "date": "2026-02-01",
           "high_f": 16,
@@ -82,16 +91,7 @@
         {
           "date": "2026-02-02",
           "high_f": 18,
-          "low_f": 8,
-          "description": "Sunny",
-          "snowfall_day_inches": 0,
-          "snowfall_night_inches": 0,
-          "snowfall_expected": 0
-        },
-        {
-          "date": "2026-02-03",
-          "high_f": 25,
-          "low_f": 11,
+          "low_f": 9,
           "description": "Mostly Sunny",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
@@ -99,10 +99,10 @@
         }
       ],
       "tomorrow": {
-        "date": "2026-02-01",
-        "high_f": 16,
-        "low_f": 6,
-        "description": "Mostly Cloudy",
+        "date": "2026-01-31",
+        "high_f": 10,
+        "low_f": 1,
+        "description": "Mostly Sunny",
         "snowfall_day_inches": 0,
         "snowfall_night_inches": 0,
         "snowfall_expected": 0
@@ -129,14 +129,14 @@
     ]
   },
   "morningBrief": {
-    "headline": "Crisp Conditions",
-    "body": "The 19\" from this week is still skiing great. No new snow needed (yet). Nearly full mountain access with 85 of 85 trails spinning. Arctic air has settled in. 10° means quick laps and hot cocoa breaks.",
+    "headline": "Base Conditions Solid",
+    "body": "The 19\" from this week is still skiing great. No new snow needed (yet). Nearly full mountain access with 85 of 85 trails spinning.",
     "debug": {
       "firedRules": [
         {
-          "id": "temp_frigid",
-          "category": "weather",
-          "priority": 73,
+          "id": "snow_holding_strong",
+          "category": "snow",
+          "priority": 60,
           "usedFor": "headline"
         },
         {
@@ -150,21 +150,15 @@
           "category": "terrain",
           "priority": 45,
           "usedFor": "body"
-        },
-        {
-          "id": "temp_frigid",
-          "category": "weather",
-          "priority": 73,
-          "usedFor": "body"
         }
       ],
-      "totalRulesFired": 5,
+      "totalRulesFired": 4,
       "headlineSelection": {
-        "condition": "cold_snap",
-        "variationIndex": 2,
+        "condition": "holding_strong",
+        "variationIndex": 0,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Bundle Up Out There"
+        "previousHeadline": "Soft Snow Holding Strong"
       },
       "dayOfWeek": "Saturday"
     }

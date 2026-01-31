@@ -2,7 +2,7 @@
   "resort": "bigsky",
   "resortName": "Big Sky",
   "date": "2026-01-31",
-  "generated": "2026-01-31T21:29:29.620Z",
+  "generated": "2026-01-31T20:34:34.837Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,14 +23,14 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 259,
+          "today": 258,
           "yesterday": 248,
-          "delta": 11
+          "delta": 10
         },
         "groomedTrails": {
-          "today": 66,
+          "today": 65,
           "yesterday": 3,
-          "delta": 63
+          "delta": 62
         },
         "totalTrails": 319
       },
@@ -101,6 +101,11 @@
           "name": "Lower Pinnacles",
           "difficulty": "Double Black",
           "area": "Challenger Area"
+        },
+        {
+          "name": "Hangman's",
+          "difficulty": "advanced intermediate",
+          "area": "Ramcharger Area"
         }
       ],
       "newlyGroomed": [
@@ -291,11 +296,6 @@
         },
         {
           "name": "Ambush",
-          "difficulty": "advanced intermediate",
-          "area": "Ramcharger Area"
-        },
-        {
-          "name": "Hangman's",
           "difficulty": "advanced intermediate",
           "area": "Ramcharger Area"
         },
@@ -491,12 +491,12 @@
     },
     "alerts": [
       "12 new trails opened today",
-      "63 trails freshly groomed"
+      "62 trails freshly groomed"
     ],
     "trends": [
       "Steady snowfall - 8\" in last 7 days",
-      "Grooming increased 2100% from yesterday",
-      "11 more trails open than yesterday"
+      "Grooming increased 2067% from yesterday",
+      "10 more trails open than yesterday"
     ],
     "recommendations": [
       "Fresh corduroy on Comet - challenging for advanced skiers",

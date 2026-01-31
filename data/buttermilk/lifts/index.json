@@ -17,7 +17,7 @@
       "openTime": "9:00 AM",
       "closeTime": "3:00 PM",
       "avgWaitTime": null,
-      "lastUpdated": "2026-01-31T17:48:24.752Z"
+      "lastUpdated": "2026-01-31T17:53:00.466Z"
     },
     {
       "liftId": "aspen:panda-peak",
@@ -31,7 +31,7 @@
       "openTime": "9:00 AM",
       "closeTime": "3:30 PM",
       "avgWaitTime": null,
-      "lastUpdated": "2026-01-31T17:48:24.752Z"
+      "lastUpdated": "2026-01-31T17:53:00.466Z"
     },
     {
       "liftId": "aspen:summit-express",
@@ -45,7 +45,7 @@
       "openTime": "9:00 AM",
       "closeTime": "3:30 PM",
       "avgWaitTime": null,
-      "lastUpdated": "2026-01-31T17:48:24.752Z"
+      "lastUpdated": "2026-01-31T17:53:00.466Z"
     },
     {
       "liftId": "aspen:tiehack-express",
@@ -59,7 +59,7 @@
       "openTime": "9:00 AM",
       "closeTime": "3:30 PM",
       "avgWaitTime": null,
-      "lastUpdated": "2026-01-31T17:48:24.752Z"
+      "lastUpdated": "2026-01-31T17:53:00.466Z"
     },
     {
       "liftId": "aspen:west-buttermilk-express",
@@ -73,8 +73,8 @@
       "openTime": "9:00 AM",
       "closeTime": "3:30 PM",
       "avgWaitTime": null,
-      "lastUpdated": "2026-01-31T17:48:24.752Z"
+      "lastUpdated": "2026-01-31T17:53:00.466Z"
     }
   ],
-  "generated": "2026-01-31T17:48:41.148Z"
+  "generated": "2026-01-31T17:53:16.424Z"
 }

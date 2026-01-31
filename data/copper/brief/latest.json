@@ -2,7 +2,7 @@
   "resort": "copper",
   "resortName": "Copper Mountain",
   "date": "2026-01-31",
-  "generated": "2026-01-31T20:34:34.855Z",
+  "generated": "2026-01-31T19:27:32.254Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,9 +23,9 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 130,
+          "today": 131,
           "yesterday": 125,
-          "delta": 5
+          "delta": 6
         },
         "groomedTrails": {
           "today": 52,
@@ -66,13 +66,7 @@
           "area": "East"
         }
       ],
-      "newlyClosed": [
-        {
-          "name": "Cabin Chute",
-          "difficulty": "Black",
-          "area": "Spaulding & Resolution"
-        }
-      ],
+      "newlyClosed": [],
       "newlyGroomed": [
         {
           "name": "Oh No (L)",
@@ -190,7 +184,7 @@
       "3 trails freshly groomed"
     ],
     "trends": [
-      "5 more trails open than yesterday",
+      "6 more trails open than yesterday",
       "1\" snow expected Tuesday"
     ],
     "recommendations": [
@@ -200,14 +194,14 @@
     ]
   },
   "morningBrief": {
-    "headline": "6 New Runs Open",
-    "body": "130 trails open, 52 groomed. Cloudy, high of 25°. The terrain list grew by 6 today. More variety to choose from. Light snow possible in the forecast.",
+    "headline": "More Mountain to Explore",
+    "body": "131 trails open, 52 groomed. Cloudy, high of 25°. Terrain expanding: 6 new trails opening up more options. Light snow possible in the forecast.",
     "debug": {
       "firedRules": [
         {
-          "id": "terrain_few",
+          "id": "terrain_expanding",
           "category": "terrain",
-          "priority": 60,
+          "priority": 75,
           "usedFor": "headline"
         },
         {
@@ -217,9 +211,9 @@
           "usedFor": "body"
         },
         {
-          "id": "terrain_few",
+          "id": "terrain_expanding",
           "category": "terrain",
-          "priority": 60,
+          "priority": 75,
           "usedFor": "body"
         },
         {
@@ -231,11 +225,11 @@
       ],
       "totalRulesFired": 4,
       "headlineSelection": {
-        "condition": "terrain_few",
-        "variationIndex": 0,
-        "totalVariations": 5,
+        "condition": "terrain_expansion",
+        "variationIndex": 3,
+        "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "A Few More Options Today"
+        "previousHeadline": "Fresh Terrain Unlocked"
       },
       "dayOfWeek": "Saturday"
     }

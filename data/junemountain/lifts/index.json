@@ -17,7 +17,7 @@
       "openTime": "8:00 AM",
       "closeTime": "4:00 PM",
       "avgWaitTime": null,
-      "lastUpdated": "2026-01-31T18:57:01.657Z"
+      "lastUpdated": "2026-01-31T19:13:56.540Z"
     },
     {
       "liftId": 299,
@@ -31,7 +31,7 @@
       "openTime": "8:30 AM",
       "closeTime": "4:00 PM",
       "avgWaitTime": null,
-      "lastUpdated": "2026-01-31T18:57:01.657Z"
+      "lastUpdated": "2026-01-31T19:13:56.540Z"
     },
     {
       "liftId": 300,
@@ -45,7 +45,7 @@
       "openTime": "9:00 AM",
       "closeTime": "4:00 PM",
       "avgWaitTime": null,
-      "lastUpdated": "2026-01-31T18:57:01.657Z"
+      "lastUpdated": "2026-01-31T19:13:56.540Z"
     },
     {
       "liftId": 301,
@@ -59,7 +59,7 @@
       "openTime": "9:00 AM",
       "closeTime": "4:00 PM",
       "avgWaitTime": null,
-      "lastUpdated": "2026-01-31T18:57:01.657Z"
+      "lastUpdated": "2026-01-31T19:13:56.540Z"
     },
     {
       "liftId": 302,
@@ -73,7 +73,7 @@
       "openTime": "8:30 AM",
       "closeTime": "4:00 PM",
       "avgWaitTime": null,
-      "lastUpdated": "2026-01-31T18:57:01.657Z"
+      "lastUpdated": "2026-01-31T19:13:56.540Z"
     },
     {
       "liftId": 303,
@@ -87,7 +87,7 @@
       "openTime": "9:00 AM",
       "closeTime": "4:00 PM",
       "avgWaitTime": null,
-      "lastUpdated": "2026-01-31T18:57:01.657Z"
+      "lastUpdated": "2026-01-31T19:13:56.540Z"
     },
     {
       "liftId": 855,
@@ -101,8 +101,8 @@
       "openTime": "10:00 AM",
       "closeTime": "2:00 PM",
       "avgWaitTime": null,
-      "lastUpdated": "2026-01-31T18:57:01.657Z"
+      "lastUpdated": "2026-01-31T19:13:56.540Z"
     }
   ],
-  "generated": "2026-01-31T18:57:19.121Z"
+  "generated": "2026-01-31T19:14:14.842Z"
 }

@@ -2,41 +2,24 @@
   "resort": "deervalley",
   "resortName": "Deer Valley",
   "date": "2026-01-31",
-  "generated": "2026-01-31T09:36:27.467Z",
+  "generated": "2026-01-31T08:39:37.574Z",
   "rawData": {
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 141,
+          "today": 140,
           "yesterday": 140,
-          "delta": 1
+          "delta": 0
         },
         "groomedTrails": {
-          "today": 78,
+          "today": 67,
           "yesterday": 63,
-          "delta": 15
+          "delta": 4
         },
         "totalTrails": 227
       },
-      "newlyOpened": [
-        {
-          "name": "Bandana",
-          "difficulty": "Easy",
-          "area": "Flagstaff Mountain"
-        },
-        {
-          "name": "Bluebell",
-          "difficulty": "Intermediate",
-          "area": "Flagstaff Mountain"
-        }
-      ],
-      "newlyClosed": [
-        {
-          "name": "Keno",
-          "difficulty": "Intermediate",
-          "area": "Bald Mountain"
-        }
-      ],
+      "newlyOpened": [],
+      "newlyClosed": [],
       "newlyGroomed": [
         {
           "name": "Tycoon",
@@ -62,56 +45,6 @@
           "name": "Short Line",
           "difficulty": "Intermediate",
           "area": "Keetley Point"
-        },
-        {
-          "name": "Dakota",
-          "difficulty": "Intermediate",
-          "area": "Lady Morgan"
-        },
-        {
-          "name": "Dream",
-          "difficulty": "Easy",
-          "area": "Park Peak"
-        },
-        {
-          "name": "Golden Age",
-          "difficulty": "Easy",
-          "area": "Park Peak"
-        },
-        {
-          "name": "Humbug",
-          "difficulty": "Intermediate",
-          "area": "Park Peak"
-        },
-        {
-          "name": "Supreme (Lower)",
-          "difficulty": "Intermediate",
-          "area": "Empire"
-        },
-        {
-          "name": "Supreme (Upper)",
-          "difficulty": "Intermediate",
-          "area": "Empire"
-        },
-        {
-          "name": "Evening Star",
-          "difficulty": "Intermediate",
-          "area": "Big Dutch Peak"
-        },
-        {
-          "name": "Big Stick (Lower)",
-          "difficulty": "Advanced Intermediate",
-          "area": "Bald Eagle Mountain"
-        },
-        {
-          "name": "Dew Drop",
-          "difficulty": "Intermediate",
-          "area": "Bald Eagle Mountain"
-        },
-        {
-          "name": "Little Kate",
-          "difficulty": "Intermediate",
-          "area": "Bald Eagle Mountain"
         }
       ],
       "ungroomed": [
@@ -135,18 +68,14 @@
   },
   "computedInsights": {
     "flags": {
-      "hasNewTrails": true,
-      "significantGroomingIncrease": true,
+      "hasNewTrails": false,
+      "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
     "alerts": [
-      "2 new trails opened today",
-      "15 trails freshly groomed"
+      "5 trails freshly groomed"
     ],
-    "trends": [
-      "Grooming increased 24% from yesterday",
-      "1 more trail open than yesterday"
-    ],
+    "trends": [],
     "recommendations": [
       "Fresh corduroy on Tycoon - all skill levels",
       "Fresh corduroy on Corner Stone - all skill levels",

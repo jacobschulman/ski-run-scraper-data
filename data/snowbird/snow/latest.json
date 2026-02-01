@@ -1,8 +1,8 @@
 {
   "resort": "snowbird",
   "resortName": "Snowbird",
-  "date": "2026-02-01",
-  "timestamp": "2026-02-01T09:12:16.091Z",
+  "date": "2026-01-31",
+  "timestamp": "2026-02-01T03:39:03.601Z",
   "lastUpdated": "2026-01-31 05:24:00",
   "conditions": "Machine Groomed",
   "operatingStatus": "Open",
@@ -40,7 +40,7 @@
   },
   "forecast": {
     "location": "Snowbird",
-    "issuedAt": "2026-02-01T02:04:29-0700",
+    "issuedAt": "2026-01-31T20:34:32-0700",
     "temp_high_f": 31,
     "temp_low_f": 28,
     "forecasted_snow_in": 0,
@@ -67,23 +67,23 @@
       },
       {
         "date": "2026-02-02",
-        "skies": "Mostly Sunny. Clear",
-        "conditions": "Mostly Sunny",
+        "skies": "Sunny. Clear",
+        "conditions": "Sunny",
         "temp_high_f": 27,
         "temp_low_f": 25,
         "forecasted_snow_in": 0,
         "wind": "NW",
-        "wind_speed_mph": 12
+        "wind_speed_mph": 13
       },
       {
         "date": "2026-02-03",
-        "skies": "Windy. Clear",
-        "conditions": "Windy",
-        "temp_high_f": 28,
-        "temp_low_f": 27,
+        "skies": "Sunny. Clear",
+        "conditions": "Sunny",
+        "temp_high_f": 29,
+        "temp_low_f": 28,
         "forecasted_snow_in": 0,
         "wind": "NNW",
-        "wind_speed_mph": 16
+        "wind_speed_mph": 15
       },
       {
         "date": "2026-02-04",
@@ -126,14 +126,14 @@
             "date": "2026-02-02",
             "high_f": 27,
             "low_f": 25,
-            "description": "Mostly Sunny",
+            "description": "Sunny",
             "snowfall_day_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 28,
-            "low_f": 27,
-            "description": "Windy",
+            "high_f": 29,
+            "low_f": 28,
+            "description": "Sunny",
             "snowfall_day_inches": 0
           },
           {

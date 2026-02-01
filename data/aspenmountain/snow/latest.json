@@ -1,9 +1,9 @@
 {
   "resort": "aspenmountain",
   "resortName": "Aspen Mountain",
-  "date": "2026-02-01",
-  "timestamp": "2026-02-01T09:12:16.921Z",
-  "lastUpdated": "02:08 AM Feb 01, 2026",
+  "date": "2026-01-31",
+  "timestamp": "2026-02-01T03:39:04.160Z",
+  "lastUpdated": "08:33 AM Jan 31, 2026",
   "conditions": "Open",
   "operatingStatus": "Open",
   "snowfall": {
@@ -38,11 +38,11 @@
     "base": null,
     "midMountain": null,
     "summit": null,
-    "lastUpdated": "02:08 AM Feb 01, 2026"
+    "lastUpdated": "08:33 AM Jan 31, 2026"
   },
   "forecast": {
     "location": "Aspen Mountain",
-    "issuedAt": "2026-02-01T02:04:29-0700",
+    "issuedAt": "2026-01-31T20:34:32-0700",
     "temp_high_f": 26,
     "temp_low_f": 19,
     "forecasted_snow_in": 0,
@@ -59,18 +59,18 @@
       },
       {
         "date": "2026-02-01",
-        "skies": "Sunny. Clear",
+        "skies": "Sunny. Mostly Clear",
         "conditions": "Sunny",
         "temp_high_f": 34,
-        "temp_low_f": 24,
+        "temp_low_f": 23,
         "forecasted_snow_in": 0,
         "wind": "NW",
         "wind_speed_mph": 6
       },
       {
         "date": "2026-02-02",
-        "skies": "Mostly Cloudy. Clear",
-        "conditions": "Mostly Cloudy",
+        "skies": "Partly Cloudy. Clear",
+        "conditions": "Partly Cloudy",
         "temp_high_f": 30,
         "temp_low_f": 13,
         "forecasted_snow_in": 0,
@@ -79,20 +79,20 @@
       },
       {
         "date": "2026-02-03",
-        "skies": "Partly Cloudy. Partly Cloudy",
+        "skies": "Partly Cloudy. Mostly Clear",
         "conditions": "Partly Cloudy",
-        "temp_high_f": 22,
-        "temp_low_f": 11,
-        "forecasted_snow_in": 1,
+        "temp_high_f": 24,
+        "temp_low_f": 12,
+        "forecasted_snow_in": 0,
         "wind": "NW",
-        "wind_speed_mph": 9
+        "wind_speed_mph": 8
       },
       {
         "date": "2026-02-04",
         "skies": "Sunny. Clear",
         "conditions": "Sunny",
-        "temp_high_f": 27,
-        "temp_low_f": 17,
+        "temp_high_f": 28,
+        "temp_low_f": 18,
         "forecasted_snow_in": 0,
         "wind": "N",
         "wind_speed_mph": 5
@@ -120,7 +120,7 @@
           {
             "date": "2026-02-01",
             "high_f": 34,
-            "low_f": 24,
+            "low_f": 23,
             "description": "Sunny",
             "snowfall_day_inches": 0
           },
@@ -128,20 +128,20 @@
             "date": "2026-02-02",
             "high_f": 30,
             "low_f": 13,
-            "description": "Mostly Cloudy",
+            "description": "Partly Cloudy",
             "snowfall_day_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 22,
-            "low_f": 11,
+            "high_f": 24,
+            "low_f": 12,
             "description": "Partly Cloudy",
-            "snowfall_day_inches": 1
+            "snowfall_day_inches": 0
           },
           {
             "date": "2026-02-04",
-            "high_f": 27,
-            "low_f": 17,
+            "high_f": 28,
+            "low_f": 18,
             "description": "Sunny",
             "snowfall_day_inches": 0
           }

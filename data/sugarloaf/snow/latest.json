@@ -1,8 +1,8 @@
 {
   "resort": "sugarloaf",
   "resortName": "Sugarloaf",
-  "date": "2026-02-01",
-  "timestamp": "2026-02-01T09:12:14.779Z",
+  "date": "2026-01-31",
+  "timestamp": "2026-02-01T03:39:02.096Z",
   "lastUpdated": "2026-01-31T20:50:01Z",
   "conditions": "Packed Powder",
   "operatingStatus": null,
@@ -40,7 +40,7 @@
   },
   "forecast": {
     "location": "Sugarloaf",
-    "issuedAt": "2026-02-01T02:04:29-0700",
+    "issuedAt": "2026-01-31T20:34:32-0700",
     "temp_high_f": 6,
     "temp_low_f": 4,
     "forecasted_snow_in": 0,
@@ -70,9 +70,9 @@
         "skies": "Windy. Windy",
         "conditions": "Windy",
         "temp_high_f": 16,
-        "temp_low_f": 14,
+        "temp_low_f": 15,
         "forecasted_snow_in": 0,
-        "wind": "NW",
+        "wind": "NNW",
         "wind_speed_mph": 24
       },
       {
@@ -80,7 +80,7 @@
         "skies": "Mostly Sunny. Partly Cloudy",
         "conditions": "Mostly Sunny",
         "temp_high_f": 16,
-        "temp_low_f": 12,
+        "temp_low_f": 11,
         "forecasted_snow_in": 0,
         "wind": "NW",
         "wind_speed_mph": 7
@@ -90,7 +90,7 @@
         "skies": "Windy. Windy",
         "conditions": "Windy",
         "temp_high_f": 11,
-        "temp_low_f": 7,
+        "temp_low_f": 9,
         "forecasted_snow_in": 2,
         "wind": "WNW",
         "wind_speed_mph": 10
@@ -125,21 +125,21 @@
           {
             "date": "2026-02-02",
             "high_f": 16,
-            "low_f": 14,
+            "low_f": 15,
             "description": "Windy",
             "snowfall_day_inches": 0
           },
           {
             "date": "2026-02-03",
             "high_f": 16,
-            "low_f": 12,
+            "low_f": 11,
             "description": "Mostly Sunny",
             "snowfall_day_inches": 0
           },
           {
             "date": "2026-02-04",
             "high_f": 11,
-            "low_f": 7,
+            "low_f": 9,
             "description": "Windy",
             "snowfall_day_inches": 2
           }

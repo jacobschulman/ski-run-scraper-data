@@ -2,7 +2,7 @@
   "resort": "banff",
   "resortName": "Banff Sunshine Village",
   "date": "2026-02-01",
-  "generated": "2026-02-01T09:12:26.265Z",
+  "generated": "2026-02-01T08:43:08.332Z",
   "rawData": {
     "snow": {
       "overnight_inches": 2,
@@ -55,7 +55,7 @@
       },
       "outlook": [
         {
-          "date": "2026-02-02T09:12:26.264Z",
+          "date": "2026-02-02T08:43:08.331Z",
           "high_f": 32,
           "low_f": 24.8,
           "high_c": 0,
@@ -66,7 +66,7 @@
           "snowfall_expected": 0
         },
         {
-          "date": "2026-02-03T09:12:26.264Z",
+          "date": "2026-02-03T08:43:08.331Z",
           "high_f": 26.6,
           "low_f": 24.8,
           "high_c": -3,
@@ -78,7 +78,7 @@
         }
       ],
       "tomorrow": {
-        "date": "2026-02-02T09:12:26.264Z",
+        "date": "2026-02-02T08:43:08.331Z",
         "high_f": 32,
         "low_f": 24.8,
         "high_c": 0,
@@ -104,7 +104,7 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Nearly Everything Open",
+    "headline": "The Whole Mountain Awaits",
     "body": "The rundown: 115 trails open, 49 groomed. Unknown with temps around 35.6°. Nearly full mountain access with 115 of 120 trails spinning.",
     "debug": {
       "firedRules": [
@@ -133,7 +133,7 @@
         "variationIndex": 1,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "The Whole Mountain Awaits"
+        "previousHeadline": "Nearly Everything Open"
       },
       "dayOfWeek": "Sunday"
     }

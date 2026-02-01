@@ -2,8 +2,8 @@
   "resort": "whistlerblackcomb",
   "resortName": "Whistler Blackcomb",
   "provider": "vail",
-  "date": "2026-02-01",
-  "timestamp": "2026-02-01T09:11:21.028Z",
+  "date": "2026-01-31",
+  "timestamp": "2026-02-01T03:38:06.289Z",
   "lastUpdated": "Updated January 31, 2026 at 3:15 PM PST",
   "conditions": "Wet Snow",
   "snowfall": {
@@ -97,15 +97,25 @@
         "today": {
           "high_f": 40,
           "high_c": 4,
-          "low_f": 37,
-          "low_c": 3,
+          "low_f": 34,
+          "low_c": 1,
           "description": "Rain",
-          "wind": "SW",
-          "wind_speed": 4.45,
+          "wind": "ESE",
+          "wind_speed": 2.3,
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0
         },
         "forecast_days": [
+          {
+            "date": "2026-01-31T08:00:00Z",
+            "high_f": 40,
+            "high_c": 4,
+            "low_f": 34,
+            "low_c": 1,
+            "description": "Rain",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
           {
             "date": "2026-02-01T08:00:00Z",
             "high_f": 40,
@@ -118,11 +128,11 @@
           },
           {
             "date": "2026-02-02T08:00:00Z",
-            "high_f": 39,
-            "high_c": 3,
+            "high_f": 40,
+            "high_c": 4,
             "low_f": 35,
             "low_c": 1,
-            "description": "Cloudy",
+            "description": "Rain",
             "snowfall_day_inches": 0,
             "snowfall_night_inches": 0
           },
@@ -131,28 +141,18 @@
             "high_f": 45,
             "high_c": 7,
             "low_f": 35,
-            "low_c": 1,
+            "low_c": 2,
             "description": "Cloudy",
             "snowfall_day_inches": 0,
             "snowfall_night_inches": 0
           },
           {
             "date": "2026-02-04T08:00:00Z",
-            "high_f": 48,
-            "high_c": 9,
-            "low_f": 41,
-            "low_c": 5,
-            "description": "Cloudy",
-            "snowfall_day_inches": 0,
-            "snowfall_night_inches": 0
-          },
-          {
-            "date": "2026-02-05T08:00:00Z",
             "high_f": 47,
             "high_c": 8,
-            "low_f": 35,
-            "low_c": 2,
-            "description": "Mostly Clear",
+            "low_f": 41,
+            "low_c": 5,
+            "description": "Mostly Cloudy",
             "snowfall_day_inches": 0,
             "snowfall_night_inches": 0
           }

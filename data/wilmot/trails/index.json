@@ -10,9 +10,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": false,
-      "groomingPercentage": 56,
-      "currentStreak": 23,
-      "longestStreak": 23
+      "groomingPercentage": 55,
+      "currentStreak": 22,
+      "longestStreak": 22
     },
     {
       "name": "Bunny West",
@@ -20,10 +20,10 @@
       "area": "Beginner Area",
       "difficulty": "Green",
       "isGroomedToday": true,
-      "isOpen": false,
+      "isOpen": true,
       "groomingPercentage": 57,
-      "currentStreak": 23,
-      "longestStreak": 23
+      "currentStreak": 22,
+      "longestStreak": 22
     },
     {
       "name": "Turtle",
@@ -31,9 +31,9 @@
       "area": "Beginner Area",
       "difficulty": "Green",
       "isGroomedToday": true,
-      "isOpen": false,
+      "isOpen": true,
       "groomingPercentage": 98,
-      "currentStreak": 24,
+      "currentStreak": 23,
       "longestStreak": 30
     },
     {
@@ -42,9 +42,9 @@
       "area": "Main Hill",
       "difficulty": "Green",
       "isGroomedToday": true,
-      "isOpen": false,
+      "isOpen": true,
       "groomingPercentage": 98,
-      "currentStreak": 24,
+      "currentStreak": 23,
       "longestStreak": 30
     },
     {
@@ -53,10 +53,10 @@
       "area": "Main Hill",
       "difficulty": "Black",
       "isGroomedToday": true,
-      "isOpen": false,
-      "groomingPercentage": 51,
-      "currentStreak": 23,
-      "longestStreak": 23
+      "isOpen": true,
+      "groomingPercentage": 50,
+      "currentStreak": 22,
+      "longestStreak": 22
     },
     {
       "name": "Exhibition",
@@ -64,10 +64,10 @@
       "area": "Main Hill",
       "difficulty": "Black",
       "isGroomedToday": true,
-      "isOpen": false,
-      "groomingPercentage": 84,
-      "currentStreak": 23,
-      "longestStreak": 23
+      "isOpen": true,
+      "groomingPercentage": 83,
+      "currentStreak": 22,
+      "longestStreak": 22
     },
     {
       "name": "Heartland",
@@ -75,10 +75,10 @@
       "area": "Main Hill",
       "difficulty": "Black",
       "isGroomedToday": true,
-      "isOpen": false,
-      "groomingPercentage": 46,
-      "currentStreak": 23,
-      "longestStreak": 23
+      "isOpen": true,
+      "groomingPercentage": 45,
+      "currentStreak": 22,
+      "longestStreak": 22
     },
     {
       "name": "Inspiration",
@@ -86,10 +86,10 @@
       "area": "Main Hill",
       "difficulty": "Blue",
       "isGroomedToday": true,
-      "isOpen": false,
+      "isOpen": true,
       "groomingPercentage": 72,
-      "currentStreak": 23,
-      "longestStreak": 23
+      "currentStreak": 22,
+      "longestStreak": 22
     },
     {
       "name": "Lower Cat Trail",
@@ -97,9 +97,9 @@
       "area": "Main Hill",
       "difficulty": "Green",
       "isGroomedToday": true,
-      "isOpen": false,
+      "isOpen": true,
       "groomingPercentage": 77,
-      "currentStreak": 2,
+      "currentStreak": 1,
       "longestStreak": 25
     },
     {
@@ -108,9 +108,9 @@
       "area": "Main Hill",
       "difficulty": "Green",
       "isGroomedToday": true,
-      "isOpen": false,
+      "isOpen": true,
       "groomingPercentage": 80,
-      "currentStreak": 2,
+      "currentStreak": 1,
       "longestStreak": 25
     },
     {
@@ -119,9 +119,9 @@
       "area": "Main Hill",
       "difficulty": "Blue",
       "isGroomedToday": true,
-      "isOpen": false,
+      "isOpen": true,
       "groomingPercentage": 95,
-      "currentStreak": 23,
+      "currentStreak": 22,
       "longestStreak": 30
     },
     {
@@ -141,10 +141,10 @@
       "area": "Main Hill",
       "difficulty": "Black",
       "isGroomedToday": true,
-      "isOpen": false,
-      "groomingPercentage": 44,
-      "currentStreak": 15,
-      "longestStreak": 15
+      "isOpen": true,
+      "groomingPercentage": 43,
+      "currentStreak": 14,
+      "longestStreak": 14
     },
     {
       "name": "Shenanigan",
@@ -152,10 +152,10 @@
       "area": "Main Hill",
       "difficulty": "Blue",
       "isGroomedToday": true,
-      "isOpen": false,
-      "groomingPercentage": 3,
-      "currentStreak": 2,
-      "longestStreak": 2
+      "isOpen": true,
+      "groomingPercentage": 2,
+      "currentStreak": 1,
+      "longestStreak": 1
     },
     {
       "name": "Sidewinder",
@@ -163,10 +163,10 @@
       "area": "Main Hill",
       "difficulty": "Black",
       "isGroomedToday": true,
-      "isOpen": false,
+      "isOpen": true,
       "groomingPercentage": 70,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Snowbowl",
@@ -174,10 +174,10 @@
       "area": "Main Hill",
       "difficulty": "Black",
       "isGroomedToday": true,
-      "isOpen": false,
-      "groomingPercentage": 46,
-      "currentStreak": 23,
-      "longestStreak": 23
+      "isOpen": true,
+      "groomingPercentage": 45,
+      "currentStreak": 22,
+      "longestStreak": 22
     },
     {
       "name": "Stateline",
@@ -185,10 +185,10 @@
       "area": "Main Hill",
       "difficulty": "Blue",
       "isGroomedToday": true,
-      "isOpen": false,
-      "groomingPercentage": 3,
-      "currentStreak": 2,
-      "longestStreak": 2
+      "isOpen": true,
+      "groomingPercentage": 2,
+      "currentStreak": 1,
+      "longestStreak": 1
     },
     {
       "name": "Sundance",
@@ -196,10 +196,10 @@
       "area": "Main Hill",
       "difficulty": "Blue",
       "isGroomedToday": true,
-      "isOpen": false,
-      "groomingPercentage": 84,
-      "currentStreak": 23,
-      "longestStreak": 23
+      "isOpen": true,
+      "groomingPercentage": 83,
+      "currentStreak": 22,
+      "longestStreak": 22
     },
     {
       "name": "Sunnyside",
@@ -207,9 +207,9 @@
       "area": "Main Hill",
       "difficulty": "Blue",
       "isGroomedToday": true,
-      "isOpen": false,
+      "isOpen": true,
       "groomingPercentage": 95,
-      "currentStreak": 23,
+      "currentStreak": 22,
       "longestStreak": 30
     },
     {
@@ -218,9 +218,9 @@
       "area": "Main Hill",
       "difficulty": "Black",
       "isGroomedToday": true,
-      "isOpen": false,
+      "isOpen": true,
       "groomingPercentage": 92,
-      "currentStreak": 23,
+      "currentStreak": 22,
       "longestStreak": 25
     },
     {
@@ -229,10 +229,10 @@
       "area": "Main Hill",
       "difficulty": "Green",
       "isGroomedToday": true,
-      "isOpen": false,
+      "isOpen": true,
       "groomingPercentage": 93,
-      "currentStreak": 23,
-      "longestStreak": 23
+      "currentStreak": 22,
+      "longestStreak": 22
     },
     {
       "name": "Walter's Folly",
@@ -240,10 +240,10 @@
       "area": "Main Hill",
       "difficulty": "Blue",
       "isGroomedToday": true,
-      "isOpen": false,
-      "groomingPercentage": 84,
-      "currentStreak": 23,
-      "longestStreak": 23
+      "isOpen": true,
+      "groomingPercentage": 83,
+      "currentStreak": 22,
+      "longestStreak": 22
     },
     {
       "name": "Progression Park",
@@ -262,8 +262,8 @@
       "area": "Terrain Park",
       "difficulty": "TerrainPark",
       "isGroomedToday": false,
-      "isOpen": false,
-      "groomingPercentage": 61,
+      "isOpen": true,
+      "groomingPercentage": 62,
       "currentStreak": 0,
       "longestStreak": 17
     },
@@ -284,11 +284,11 @@
       "area": "Terrain Park",
       "difficulty": "TerrainPark",
       "isGroomedToday": true,
-      "isOpen": false,
-      "groomingPercentage": 59,
-      "currentStreak": 24,
-      "longestStreak": 24
+      "isOpen": true,
+      "groomingPercentage": 58,
+      "currentStreak": 23,
+      "longestStreak": 23
     }
   ],
-  "lastUpdated": "2026-02-01T07:11:13.679Z"
+  "lastUpdated": "2026-02-01T05:38:50.588Z"
 }

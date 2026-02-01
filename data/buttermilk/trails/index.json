@@ -10,7 +10,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 35,
+      "groomingPercentage": 37,
       "currentStreak": 0,
       "longestStreak": 6
     },
@@ -21,7 +21,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 19,
+      "groomingPercentage": 20,
       "currentStreak": 0,
       "longestStreak": 2
     },
@@ -32,7 +32,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 61,
+      "groomingPercentage": 63,
       "currentStreak": 0,
       "longestStreak": 6
     },
@@ -54,7 +54,7 @@
       "difficulty": "Green",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 39,
+      "groomingPercentage": 40,
       "currentStreak": 0,
       "longestStreak": 6
     },
@@ -65,7 +65,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 61,
+      "groomingPercentage": 63,
       "currentStreak": 0,
       "longestStreak": 6
     },
@@ -76,7 +76,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 6,
+      "groomingPercentage": 7,
       "currentStreak": 0,
       "longestStreak": 1
     },
@@ -87,7 +87,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 61,
+      "groomingPercentage": 63,
       "currentStreak": 0,
       "longestStreak": 6
     },
@@ -98,7 +98,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 6,
+      "groomingPercentage": 7,
       "currentStreak": 0,
       "longestStreak": 1
     },
@@ -120,7 +120,7 @@
       "difficulty": "Green",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 58,
+      "groomingPercentage": 60,
       "currentStreak": 0,
       "longestStreak": 6
     },
@@ -131,7 +131,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 45,
+      "groomingPercentage": 47,
       "currentStreak": 0,
       "longestStreak": 6
     },
@@ -142,7 +142,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 42,
+      "groomingPercentage": 43,
       "currentStreak": 0,
       "longestStreak": 6
     },
@@ -197,7 +197,7 @@
       "difficulty": "TerrainPark",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 16,
+      "groomingPercentage": 17,
       "currentStreak": 0,
       "longestStreak": 2
     },
@@ -208,7 +208,7 @@
       "difficulty": "TerrainPark",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 16,
+      "groomingPercentage": 17,
       "currentStreak": 0,
       "longestStreak": 2
     },
@@ -230,7 +230,7 @@
       "difficulty": "TerrainPark",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 16,
+      "groomingPercentage": 17,
       "currentStreak": 0,
       "longestStreak": 2
     },
@@ -285,7 +285,7 @@
       "difficulty": "TerrainPark",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 16,
+      "groomingPercentage": 17,
       "currentStreak": 0,
       "longestStreak": 2
     },
@@ -296,7 +296,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 19,
+      "groomingPercentage": 20,
       "currentStreak": 0,
       "longestStreak": 4
     },
@@ -307,7 +307,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 61,
+      "groomingPercentage": 63,
       "currentStreak": 0,
       "longestStreak": 6
     },
@@ -329,7 +329,7 @@
       "difficulty": "Black",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 52,
+      "groomingPercentage": 53,
       "currentStreak": 0,
       "longestStreak": 6
     },
@@ -340,7 +340,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 19,
+      "groomingPercentage": 20,
       "currentStreak": 0,
       "longestStreak": 5
     },
@@ -384,7 +384,7 @@
       "difficulty": "Black",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 26,
+      "groomingPercentage": 27,
       "currentStreak": 0,
       "longestStreak": 6
     },
@@ -395,7 +395,7 @@
       "difficulty": "Black",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 16,
+      "groomingPercentage": 17,
       "currentStreak": 0,
       "longestStreak": 3
     },
@@ -406,7 +406,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 39,
+      "groomingPercentage": 40,
       "currentStreak": 0,
       "longestStreak": 4
     },
@@ -417,7 +417,7 @@
       "difficulty": "Black",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 32,
+      "groomingPercentage": 33,
       "currentStreak": 0,
       "longestStreak": 5
     },
@@ -472,7 +472,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 35,
+      "groomingPercentage": 37,
       "currentStreak": 0,
       "longestStreak": 6
     },
@@ -505,7 +505,7 @@
       "difficulty": "Green",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 48,
+      "groomingPercentage": 50,
       "currentStreak": 0,
       "longestStreak": 6
     },
@@ -549,7 +549,7 @@
       "difficulty": "Green",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 45,
+      "groomingPercentage": 47,
       "currentStreak": 0,
       "longestStreak": 6
     },
@@ -560,10 +560,10 @@
       "difficulty": "Green",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 45,
+      "groomingPercentage": 47,
       "currentStreak": 0,
       "longestStreak": 6
     }
   ],
-  "lastUpdated": "2026-02-01T07:11:25.327Z"
+  "lastUpdated": "2026-02-01T05:39:02.017Z"
 }

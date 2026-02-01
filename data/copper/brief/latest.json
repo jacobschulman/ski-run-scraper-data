@@ -1,49 +1,244 @@
 {
   "resort": "copper",
   "resortName": "Copper Mountain",
-  "date": "2026-02-01",
-  "generated": "2026-02-01T07:02:22.621Z",
+  "date": "2026-01-31",
+  "generated": "2026-02-01T05:30:16.226Z",
   "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 1,
+      "48hour_cm": 3,
+      "7day_inches": 1,
+      "7day_cm": 3,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Packed Powder",
+        "yesterday": "Packed Powder"
+      }
+    },
     "terrain": {
       "stats": {
         "openTrails": {
           "today": 130,
-          "yesterday": 130,
-          "delta": 0
+          "yesterday": 125,
+          "delta": 5
         },
         "groomedTrails": {
           "today": 52,
-          "yesterday": 52,
-          "delta": 0
+          "yesterday": 53,
+          "delta": -1
         },
         "totalTrails": 202
       },
-      "newlyOpened": [],
-      "newlyClosed": [],
-      "newlyGroomed": [],
-      "ungroomed": []
+      "newlyOpened": [
+        {
+          "name": "Boardwalk",
+          "difficulty": "Black",
+          "area": "Spaulding & Resolution"
+        },
+        {
+          "name": "Marvin Garden",
+          "difficulty": "Black",
+          "area": "Spaulding & Resolution"
+        },
+        {
+          "name": "Park Place",
+          "difficulty": "Black",
+          "area": "Spaulding & Resolution"
+        },
+        {
+          "name": "Treble Cliff",
+          "difficulty": "Black",
+          "area": "East"
+        },
+        {
+          "name": "Black Bear Glade",
+          "difficulty": "Double Black",
+          "area": "East"
+        },
+        {
+          "name": "Free Fall Glade",
+          "difficulty": "Double Black",
+          "area": "East"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Cabin Chute",
+          "difficulty": "Black",
+          "area": "Spaulding & Resolution"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Oh No (L)",
+          "difficulty": "Blue",
+          "area": "East"
+        },
+        {
+          "name": "Bittersweet (L)",
+          "difficulty": "Blue",
+          "area": "Center"
+        },
+        {
+          "name": "Collage (U)",
+          "difficulty": "Blue",
+          "area": "Center"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Revenge (L)",
+          "difficulty": "Black",
+          "area": "Union Peak"
+        },
+        {
+          "name": "Timber Ridge",
+          "difficulty": "Blue",
+          "area": "Union Peak"
+        },
+        {
+          "name": "Fairway",
+          "difficulty": "easiest",
+          "area": "West"
+        },
+        {
+          "name": "Pinecone Alley",
+          "difficulty": "Blue",
+          "area": "West"
+        },
+        {
+          "name": "Prospector",
+          "difficulty": "easiest",
+          "area": "West"
+        }
+      ]
     },
     "lifts": {
       "available": true,
       "yesterday": {
-        "date": "2026-01-31",
+        "date": "2026-01-30",
         "avgWaitTime": 0,
         "maxWaitTime": 0,
         "totalLiftsTracked": 23,
         "busiest": []
       }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-31",
+        "high_f": null,
+        "low_f": 11,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-02-01",
+          "high_f": 34,
+          "low_f": 16,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-02",
+          "high_f": 29,
+          "low_f": 8,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-03",
+          "high_f": 21,
+          "low_f": 11,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-02-01",
+        "high_f": 34,
+        "low_f": 16,
+        "description": "Sunny",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
     }
   },
   "computedInsights": {
     "flags": {
-      "hasNewTrails": false,
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [],
-    "trends": [],
-    "recommendations": []
+    "alerts": [
+      "6 new trails opened today",
+      "3 trails freshly groomed"
+    ],
+    "trends": [
+      "5 more trails open than yesterday",
+      "2\" snow expected Tuesday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Oh No (L) - perfect for intermediate skiers",
+      "Fresh corduroy on Bittersweet (L) - perfect for intermediate skiers",
+      "Fresh corduroy on Collage (U) - perfect for intermediate skiers"
+    ]
   },
-  "morningBrief": null,
+  "morningBrief": {
+    "headline": "6 New Runs Open",
+    "body": "130 trails open, 52 groomed. Clear, temperatures TBD. The terrain list grew by 6 today. More variety to choose from. Light snow possible in the forecast.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_flurries",
+          "category": "weather",
+          "priority": 30,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 4,
+      "headlineSelection": {
+        "condition": "terrain_few",
+        "variationIndex": 0,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": "A Few More Options Today"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
   "errors": []
 }

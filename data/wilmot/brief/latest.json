@@ -1,59 +1,28 @@
 {
   "resort": "wilmot",
   "resortName": "Wilmot Mountain",
-  "date": "2026-02-01",
-  "generated": "2026-02-01T07:02:15.368Z",
+  "date": "2026-01-31",
+  "generated": "2026-01-31T15:31:25.671Z",
   "rawData": {
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 0,
-          "yesterday": 22,
-          "delta": -22
+          "today": 22,
+          "yesterday": 17,
+          "delta": 5
         },
         "groomedTrails": {
-          "today": 0,
-          "yesterday": 21,
-          "delta": -21
+          "today": 21,
+          "yesterday": 16,
+          "delta": 5
         },
         "totalTrails": 26
       },
-      "newlyOpened": [],
-      "newlyClosed": [
+      "newlyOpened": [
         {
           "name": "Bunny West",
           "difficulty": "Green",
           "area": "Beginner Area"
-        },
-        {
-          "name": "Turtle",
-          "difficulty": "Green",
-          "area": "Beginner Area"
-        },
-        {
-          "name": "Broadway",
-          "difficulty": "Green",
-          "area": "Main Hill"
-        },
-        {
-          "name": "Competition",
-          "difficulty": "Black",
-          "area": "Main Hill"
-        },
-        {
-          "name": "Exhibition",
-          "difficulty": "Black",
-          "area": "Main Hill"
-        },
-        {
-          "name": "Heartland",
-          "difficulty": "Black",
-          "area": "Main Hill"
-        },
-        {
-          "name": "Inspiration",
-          "difficulty": "Blue",
-          "area": "Main Hill"
         },
         {
           "name": "Lower Cat Trail",
@@ -66,13 +35,26 @@
           "area": "Main Hill"
         },
         {
-          "name": "Paradise",
+          "name": "Shenanigan",
           "difficulty": "Blue",
           "area": "Main Hill"
         },
         {
-          "name": "Ridge Run",
-          "difficulty": "Black",
+          "name": "Stateline",
+          "difficulty": "Blue",
+          "area": "Main Hill"
+        }
+      ],
+      "newlyClosed": [],
+      "newlyGroomed": [
+        {
+          "name": "Lower Cat Trail",
+          "difficulty": "Green",
+          "area": "Main Hill"
+        },
+        {
+          "name": "Meadows",
+          "difficulty": "Green",
           "area": "Main Hill"
         },
         {
@@ -81,57 +63,11 @@
           "area": "Main Hill"
         },
         {
-          "name": "Sidewinder",
-          "difficulty": "Black",
-          "area": "Main Hill"
-        },
-        {
-          "name": "Snowbowl",
-          "difficulty": "Black",
-          "area": "Main Hill"
-        },
-        {
           "name": "Stateline",
           "difficulty": "Blue",
           "area": "Main Hill"
-        },
-        {
-          "name": "Sundance",
-          "difficulty": "Blue",
-          "area": "Main Hill"
-        },
-        {
-          "name": "Sunnyside",
-          "difficulty": "Blue",
-          "area": "Main Hill"
-        },
-        {
-          "name": "Superior",
-          "difficulty": "Black",
-          "area": "Main Hill"
-        },
-        {
-          "name": "Upper Cat Trail",
-          "difficulty": "Green",
-          "area": "Main Hill"
-        },
-        {
-          "name": "Walter's Folly",
-          "difficulty": "Blue",
-          "area": "Main Hill"
-        },
-        {
-          "name": "The Gully",
-          "difficulty": "TerrainPark",
-          "area": "Terrain Park"
-        },
-        {
-          "name": "The Rope",
-          "difficulty": "TerrainPark",
-          "area": "Terrain Park"
         }
       ],
-      "newlyGroomed": [],
       "ungroomed": []
     },
     "lifts": {
@@ -140,12 +76,22 @@
   },
   "computedInsights": {
     "flags": {
-      "hasNewTrails": false,
-      "significantGroomingIncrease": false
+      "hasNewTrails": true,
+      "significantGroomingIncrease": true
     },
-    "alerts": [],
-    "trends": [],
-    "recommendations": []
+    "alerts": [
+      "5 new trails opened today",
+      "4 trails freshly groomed"
+    ],
+    "trends": [
+      "Grooming increased 31% from yesterday",
+      "5 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Lower Cat Trail - great for beginners",
+      "Fresh corduroy on Meadows - great for beginners",
+      "Fresh corduroy on Shenanigan - perfect for intermediate skiers"
+    ]
   },
   "morningBrief": null,
   "errors": []

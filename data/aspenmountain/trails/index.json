@@ -10,8 +10,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 65,
-      "currentStreak": 6,
+      "groomingPercentage": 63,
+      "currentStreak": 5,
       "longestStreak": 9
     },
     {
@@ -21,8 +21,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 71,
-      "currentStreak": 6,
+      "groomingPercentage": 70,
+      "currentStreak": 5,
       "longestStreak": 15
     },
     {
@@ -54,7 +54,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 16,
+      "groomingPercentage": 17,
       "currentStreak": 0,
       "longestStreak": 2
     },
@@ -76,9 +76,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 84,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "groomingPercentage": 83,
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Deer Park",
@@ -88,8 +88,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Dipsy Doodle (Lower)",
@@ -99,8 +99,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Dipsy Doodle (Upper)",
@@ -110,8 +110,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Easy Chair",
@@ -153,9 +153,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 81,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "groomingPercentage": 80,
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "North American",
@@ -165,8 +165,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 77,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Pumphouse Hill",
@@ -209,8 +209,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Silver Dip",
@@ -219,7 +219,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 6,
+      "groomingPercentage": 7,
       "currentStreak": 0,
       "longestStreak": 2
     },
@@ -593,8 +593,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 68,
-      "currentStreak": 6,
+      "groomingPercentage": 67,
+      "currentStreak": 5,
       "longestStreak": 15
     },
     {
@@ -803,8 +803,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Little Nell",
@@ -814,8 +814,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Niagara",
@@ -913,8 +913,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Tourtelotte Park",
@@ -945,7 +945,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 6,
+      "groomingPercentage": 7,
       "currentStreak": 0,
       "longestStreak": 2
     },
@@ -957,8 +957,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Corkscrew",
@@ -1067,8 +1067,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Schuss Gully",
@@ -1078,8 +1078,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Silver Rush",
@@ -1111,8 +1111,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Summer Road",
@@ -1122,8 +1122,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Super 8",
@@ -1220,7 +1220,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 26,
+      "groomingPercentage": 27,
       "currentStreak": 0,
       "longestStreak": 5
     },
@@ -1264,8 +1264,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 61,
-      "currentStreak": 7,
+      "groomingPercentage": 60,
+      "currentStreak": 6,
       "longestStreak": 7
     },
     {
@@ -1275,8 +1275,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 65,
-      "currentStreak": 7,
+      "groomingPercentage": 63,
+      "currentStreak": 6,
       "longestStreak": 7
     },
     {
@@ -1287,8 +1287,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Copper Connector",
@@ -1408,8 +1408,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Lud's Lane",
@@ -1462,9 +1462,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 81,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "groomingPercentage": 80,
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Ridge of Bell",
@@ -1507,8 +1507,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Sunrise/Sunset",
@@ -1533,5 +1533,5 @@
       "longestStreak": 0
     }
   ],
-  "lastUpdated": "2026-02-01T07:11:25.279Z"
+  "lastUpdated": "2026-02-01T05:39:01.970Z"
 }

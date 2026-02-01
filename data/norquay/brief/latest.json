@@ -1,8 +1,8 @@
 {
   "resort": "norquay",
   "resortName": "Mt Norquay",
-  "date": "2026-02-01",
-  "generated": "2026-02-01T07:02:48.820Z",
+  "date": "2026-01-31",
+  "generated": "2026-02-01T05:30:31.629Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -44,7 +44,7 @@
     },
     "forecast": {
       "today": {
-        "date": "2026-02-01",
+        "date": "2026-01-31",
         "high_f": 35.6,
         "low_f": 35.6,
         "high_c": 2,
@@ -68,12 +68,12 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Weekend Finale",
-    "body": "72 trails open, 30 groomed. Unknown, high of 35.6°. 72/81 trails open, 30 groomed. 35.6° and Unknown.",
+    "headline": "Weekend Warrior Day",
+    "body": "The rundown: 72 trails open, 30 groomed. Unknown with temps around 35.6°. 72/81 trails open, 30 groomed. 35.6° and Unknown.",
     "debug": {
       "firedRules": [
         {
-          "id": "time_sunday",
+          "id": "time_saturday",
           "category": "time",
           "priority": 38,
           "usedFor": "headline"
@@ -93,13 +93,13 @@
       ],
       "totalRulesFired": 3,
       "headlineSelection": {
-        "condition": "sunday",
-        "variationIndex": 3,
+        "condition": "saturday",
+        "variationIndex": 1,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Weekend Warrior Day"
+        "previousHeadline": "Saturday Session"
       },
-      "dayOfWeek": "Sunday"
+      "dayOfWeek": "Saturday"
     }
   },
   "errors": []

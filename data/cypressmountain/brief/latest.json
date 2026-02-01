@@ -2,7 +2,7 @@
   "resort": "cypressmountain",
   "resortName": "Cypress Mountain",
   "date": "2026-02-01",
-  "generated": "2026-02-01T15:43:11.961Z",
+  "generated": "2026-02-01T14:43:06.432Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -28,27 +28,16 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 31,
+          "today": 33,
           "yesterday": 33,
-          "delta": -2
+          "delta": 0
         },
         "totalTrails": 96
       },
       "newlyOpened": [],
       "newlyClosed": [],
       "newlyGroomed": [],
-      "ungroomed": [
-        {
-          "name": "Lower Bowen",
-          "difficulty": "Blue",
-          "area": "Lions Express"
-        },
-        {
-          "name": "Shuttle",
-          "difficulty": "Novice",
-          "area": "Midway Chair"
-        }
-      ]
+      "ungroomed": []
     },
     "lifts": {
       "available": true,
@@ -125,7 +114,7 @@
   },
   "morningBrief": {
     "headline": "Last Chance This Week",
-    "body": "37 of 96 trails are open with 31 groomed. Rain with a temperatures TBD. Light snow possible in the forecast.",
+    "body": "37 of 96 trails are open with 33 groomed. Rain with a temperatures TBD. Light snow possible in the forecast.",
     "debug": {
       "firedRules": [
         {

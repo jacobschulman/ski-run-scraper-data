@@ -2,7 +2,7 @@
   "resort": "crotched",
   "resortName": "Crotched Mountain",
   "date": "2026-02-01",
-  "generated": "2026-02-01T15:43:04.855Z",
+  "generated": "2026-02-01T14:42:58.581Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -138,7 +138,7 @@
     ]
   },
   "morningBrief": {
-    "headline": "Base Conditions Solid",
+    "headline": "Recent Snow Still Skiing Well",
     "body": "Holding steady - that 22\" base from recent storms is doing the heavy lifting. Cold day ahead: 18° high. Dress warmly.",
     "debug": {
       "firedRules": [
@@ -167,7 +167,7 @@
         "variationIndex": 1,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Recent Snow Still Skiing Well"
+        "previousHeadline": "Base Conditions Solid"
       },
       "dayOfWeek": "Sunday"
     }

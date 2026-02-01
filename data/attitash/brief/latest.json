@@ -2,7 +2,7 @@
   "resort": "attitash",
   "resortName": "Attitash",
   "date": "2026-02-01",
-  "generated": "2026-02-01T15:43:04.846Z",
+  "generated": "2026-02-01T14:42:58.574Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,14 +23,14 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 67,
+          "today": 66,
           "yesterday": 65,
-          "delta": 2
+          "delta": 1
         },
         "groomedTrails": {
-          "today": 48,
+          "today": 47,
           "yesterday": 42,
-          "delta": 6
+          "delta": 5
         },
         "totalTrails": 76
       },
@@ -43,11 +43,6 @@
         {
           "name": "Arcade",
           "difficulty": "TerrainPark",
-          "area": "Bear Peak"
-        },
-        {
-          "name": "Avenger",
-          "difficulty": "Black",
           "area": "Bear Peak"
         },
         {
@@ -83,11 +78,6 @@
           "name": "Farther Out",
           "difficulty": "Blue",
           "area": "Attitash Peak"
-        },
-        {
-          "name": "Avenger",
-          "difficulty": "Black",
-          "area": "Bear Peak"
         },
         {
           "name": "Bumper",
@@ -172,22 +162,22 @@
       "significantGroomingIncrease": false
     },
     "alerts": [
-      "5 new trails opened today",
-      "4 trails freshly groomed"
+      "4 new trails opened today",
+      "3 trails freshly groomed"
     ],
     "trends": [
       "Great week for snow - 19\" in last 7 days",
-      "2 more trails open than yesterday"
+      "1 more trail open than yesterday"
     ],
     "recommendations": [
       "Fresh corduroy on Farther Out - perfect for intermediate skiers",
-      "Fresh corduroy on Avenger - challenging for advanced skiers",
-      "Fresh corduroy on Bumper - perfect for intermediate skiers"
+      "Fresh corduroy on Bumper - perfect for intermediate skiers",
+      "Fresh corduroy on Kachina Falls - challenging for advanced skiers"
     ]
   },
   "morningBrief": {
-    "headline": "Recent Snow Still Skiing Well",
-    "body": "Holding steady - that 19\" base from recent storms is doing the heavy lifting. 5 new trails opened today.",
+    "headline": "Base Conditions Solid",
+    "body": "Holding steady - that 19\" base from recent storms is doing the heavy lifting. 4 new trails opened today.",
     "debug": {
       "firedRules": [
         {
@@ -215,7 +205,7 @@
         "variationIndex": 1,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Base Conditions Solid"
+        "previousHeadline": "Recent Snow Still Skiing Well"
       },
       "dayOfWeek": "Sunday"
     }

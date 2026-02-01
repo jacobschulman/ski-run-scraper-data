@@ -1,14 +1,9 @@
 {
   "stratton": {
-    "lastHeadline": "BRRRRRRRRR",
+    "lastHeadline": "Crisp Conditions",
     "lastCondition": "cold_snap",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "cold_snap",
-        "headline": "BRRRRRRRRR"
-      },
       {
         "date": "2026-02-01",
         "condition": "cold_snap",
@@ -37,15 +32,10 @@
     ]
   },
   "palisades": {
-    "lastHeadline": "Last Chance This Week",
+    "lastHeadline": "Weekend Finale",
     "lastCondition": "sunday",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Last Chance This Week"
-      },
       {
         "date": "2026-02-01",
         "condition": "sunday",
@@ -74,15 +64,10 @@
     ]
   },
   "deervalley": {
-    "lastHeadline": "A Few More Options Today",
-    "lastCondition": "terrain_few",
+    "lastHeadline": "One More Day",
+    "lastCondition": "sunday",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "terrain_few",
-        "headline": "A Few More Options Today"
-      },
       {
         "date": "2026-02-01",
         "condition": "sunday",
@@ -111,80 +96,6 @@
     ]
   },
   "solitude": {
-    "lastHeadline": "Sunday Skiing",
-    "lastCondition": "sunday",
-    "lastDate": "2026-02-01",
-    "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Sunday Skiing"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Weekend Finale"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Sunday Skiing"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Weekend Finale"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Sunday Skiing"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Weekend Finale"
-      }
-    ]
-  },
-  "steamboat": {
-    "lastHeadline": "One More Day",
-    "lastCondition": "sunday",
-    "lastDate": "2026-02-01",
-    "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "One More Day"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Sunday Skiing"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "fresh_coat",
-        "headline": "The Mountain Got a Touch-Up"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "fresh_coat",
-        "headline": "Fresh Layer in Place"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "fresh_coat",
-        "headline": "The Mountain Got a Touch-Up"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "fresh_coat",
-        "headline": "Fresh Layer in Place"
-      }
-    ]
-  },
-  "mammoth": {
     "lastHeadline": "Weekend Finale",
     "lastCondition": "sunday",
     "lastDate": "2026-02-01",
@@ -213,6 +124,65 @@
         "date": "2026-02-01",
         "condition": "sunday",
         "headline": "Weekend Finale"
+      }
+    ]
+  },
+  "steamboat": {
+    "lastHeadline": "Sunday Skiing",
+    "lastCondition": "sunday",
+    "lastDate": "2026-02-01",
+    "history": [
+      {
+        "date": "2026-02-01",
+        "condition": "sunday",
+        "headline": "Sunday Skiing"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "fresh_coat",
+        "headline": "The Mountain Got a Touch-Up"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "fresh_coat",
+        "headline": "Fresh Layer in Place"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "fresh_coat",
+        "headline": "The Mountain Got a Touch-Up"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "fresh_coat",
+        "headline": "Fresh Layer in Place"
+      }
+    ]
+  },
+  "mammoth": {
+    "lastHeadline": "Sunday Skiing",
+    "lastCondition": "sunday",
+    "lastDate": "2026-02-01",
+    "history": [
+      {
+        "date": "2026-02-01",
+        "condition": "sunday",
+        "headline": "Sunday Skiing"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "sunday",
+        "headline": "Weekend Finale"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "sunday",
+        "headline": "Sunday Skiing"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "sunday",
+        "headline": "Weekend Finale"
       },
       {
         "date": "2026-02-01",
@@ -222,15 +192,10 @@
     ]
   },
   "junemountain": {
-    "lastHeadline": "Peak Terrain",
+    "lastHeadline": "All Systems Go",
     "lastCondition": "percent_full",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "percent_full",
-        "headline": "Peak Terrain"
-      },
       {
         "date": "2026-02-01",
         "condition": "percent_full",
@@ -259,15 +224,10 @@
     ]
   },
   "crystal": {
-    "lastHeadline": "One More Day",
+    "lastHeadline": "Sunday Skiing",
     "lastCondition": "sunday",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "One More Day"
-      },
       {
         "date": "2026-02-01",
         "condition": "sunday",
@@ -296,15 +256,10 @@
     ]
   },
   "sugarbush": {
-    "lastHeadline": "BRRRRRRRRR",
+    "lastHeadline": "Arctic Air in Place",
     "lastCondition": "cold_snap",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "cold_snap",
-        "headline": "BRRRRRRRRR"
-      },
       {
         "date": "2026-02-01",
         "condition": "cold_snap",
@@ -333,15 +288,10 @@
     ]
   },
   "tremblant": {
-    "lastHeadline": "Bluebird Day",
+    "lastHeadline": "Picture-Perfect Conditions",
     "lastCondition": "bluebird_day",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "bluebird_day",
-        "headline": "Bluebird Day"
-      },
       {
         "date": "2026-02-01",
         "condition": "bluebird_day",
@@ -370,15 +320,10 @@
     ]
   },
   "blue": {
-    "lastHeadline": "Unlimited Visibility",
+    "lastHeadline": "Clear Skies, Cold Temps",
     "lastCondition": "bluebird_day",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "bluebird_day",
-        "headline": "Unlimited Visibility"
-      },
       {
         "date": "2026-02-01",
         "condition": "bluebird_day",
@@ -419,17 +364,17 @@
       {
         "date": "2026-02-01",
         "condition": "grooming_massive",
-        "headline": "The Groomers Delivered"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "grooming_massive",
-        "headline": "Grooming Crew MVP"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "grooming_massive",
         "headline": "Snow Cats Went Hard"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "sunday",
+        "headline": "Sunday Funday"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "sunday",
+        "headline": "One More Day"
       },
       {
         "date": "2026-02-01",
@@ -681,17 +626,17 @@
       {
         "date": "2026-02-01",
         "condition": "grooming_highlight",
-        "headline": "The Corduroy Is Calling"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "grooming_highlight",
-        "headline": "Groomers Did Their Thing"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "grooming_highlight",
         "headline": "Smooth Sailing Today"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "sunday",
+        "headline": "Sunday Funday"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "sunday",
+        "headline": "One More Day"
       },
       {
         "date": "2026-02-01",
@@ -713,17 +658,17 @@
       {
         "date": "2026-02-01",
         "condition": "cold_snap",
-        "headline": "Layer Up, Ski Hard"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "cold_snap",
-        "headline": "Crisp Conditions"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "cold_snap",
         "headline": "It's Gonna Be a Cold One"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "sunday",
+        "headline": "Weekend Finale"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "sunday",
+        "headline": "Sunday Skiing"
       },
       {
         "date": "2026-02-01",
@@ -759,13 +704,13 @@
       },
       {
         "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Weekend Finale"
+        "condition": "fresh_coat",
+        "headline": "Fresh Coat on the Mountain"
       },
       {
         "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Sunday Skiing"
+        "condition": "fresh_coat",
+        "headline": "A Little Sugar on Top"
       },
       {
         "date": "2026-02-01",
@@ -869,19 +814,19 @@
     ]
   },
   "buttermilk": {
-    "lastHeadline": "Groomers Were Busy",
-    "lastCondition": "grooming_highlight",
+    "lastHeadline": "Weekend Finale",
+    "lastCondition": "sunday",
     "lastDate": "2026-02-01",
     "history": [
       {
         "date": "2026-02-01",
-        "condition": "grooming_highlight",
-        "headline": "Groomers Were Busy"
+        "condition": "sunday",
+        "headline": "Weekend Finale"
       },
       {
         "date": "2026-02-01",
-        "condition": "grooming_highlight",
-        "headline": "Smooth Sailing Today"
+        "condition": "sunday",
+        "headline": "Sunday Skiing"
       },
       {
         "date": "2026-02-01",
@@ -1037,15 +982,10 @@
     ]
   },
   "stowe": {
-    "lastHeadline": "Arctic Air in Place",
+    "lastHeadline": "BRRRRRRRRR",
     "lastCondition": "cold_snap",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "cold_snap",
-        "headline": "Arctic Air in Place"
-      },
       {
         "date": "2026-02-01",
         "condition": "cold_snap",
@@ -1069,15 +1009,10 @@
     ]
   },
   "okemo": {
-    "lastHeadline": "Major Terrain Drop",
+    "lastHeadline": "The Map Exploded",
     "lastCondition": "terrain_massive",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "terrain_massive",
-        "headline": "Major Terrain Drop"
-      },
       {
         "date": "2026-02-01",
         "condition": "terrain_massive",
@@ -1101,15 +1036,10 @@
     ]
   },
   "hunter": {
-    "lastHeadline": "Arctic Air in Place",
+    "lastHeadline": "BRRRRRRRRR",
     "lastCondition": "cold_snap",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "cold_snap",
-        "headline": "Arctic Air in Place"
-      },
       {
         "date": "2026-02-01",
         "condition": "cold_snap",
@@ -1133,15 +1063,10 @@
     ]
   },
   "attitash": {
-    "lastHeadline": "Recent Snow Still Skiing Well",
+    "lastHeadline": "Base Conditions Solid",
     "lastCondition": "holding_strong",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "holding_strong",
-        "headline": "Recent Snow Still Skiing Well"
-      },
       {
         "date": "2026-02-01",
         "condition": "holding_strong",
@@ -1165,15 +1090,10 @@
     ]
   },
   "wildcat": {
-    "lastHeadline": "Soft Snow Holding Strong",
+    "lastHeadline": "Base Conditions Solid",
     "lastCondition": "holding_strong",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "holding_strong",
-        "headline": "Soft Snow Holding Strong"
-      },
       {
         "date": "2026-02-01",
         "condition": "holding_strong",
@@ -1197,38 +1117,6 @@
     ]
   },
   "mountsunapee": {
-    "lastHeadline": "Recent Snow Still Skiing Well",
-    "lastCondition": "holding_strong",
-    "lastDate": "2026-02-01",
-    "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "holding_strong",
-        "headline": "Recent Snow Still Skiing Well"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "holding_strong",
-        "headline": "Base Conditions Solid"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "holding_strong",
-        "headline": "Recent Snow Still Skiing Well"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "holding_strong",
-        "headline": "Base Conditions Solid"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "holding_strong",
-        "headline": "Recent Snow Still Skiing Well"
-      }
-    ]
-  },
-  "crotched": {
     "lastHeadline": "Base Conditions Solid",
     "lastCondition": "holding_strong",
     "lastDate": "2026-02-01",
@@ -1252,6 +1140,28 @@
         "date": "2026-02-01",
         "condition": "holding_strong",
         "headline": "Recent Snow Still Skiing Well"
+      }
+    ]
+  },
+  "crotched": {
+    "lastHeadline": "Recent Snow Still Skiing Well",
+    "lastCondition": "holding_strong",
+    "lastDate": "2026-02-01",
+    "history": [
+      {
+        "date": "2026-02-01",
+        "condition": "holding_strong",
+        "headline": "Recent Snow Still Skiing Well"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "holding_strong",
+        "headline": "Base Conditions Solid"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "holding_strong",
+        "headline": "Recent Snow Still Skiing Well"
       },
       {
         "date": "2026-02-01",
@@ -1261,15 +1171,10 @@
     ]
   },
   "liberty": {
-    "lastHeadline": "Picture-Perfect Conditions",
+    "lastHeadline": "Not a Cloud in Sight",
     "lastCondition": "bluebird_day",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "bluebird_day",
-        "headline": "Picture-Perfect Conditions"
-      },
       {
         "date": "2026-02-01",
         "condition": "bluebird_day",
@@ -1293,15 +1198,10 @@
     ]
   },
   "roundtop": {
-    "lastHeadline": "The Whole Mountain Awaits",
+    "lastHeadline": "Nearly Everything Open",
     "lastCondition": "percent_full",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "percent_full",
-        "headline": "The Whole Mountain Awaits"
-      },
       {
         "date": "2026-02-01",
         "condition": "percent_full",
@@ -1325,15 +1225,10 @@
     ]
   },
   "whitetail": {
-    "lastHeadline": "Unlimited Visibility",
+    "lastHeadline": "Postcard Day",
     "lastCondition": "bluebird_day",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "bluebird_day",
-        "headline": "Unlimited Visibility"
-      },
       {
         "date": "2026-02-01",
         "condition": "bluebird_day",
@@ -1357,15 +1252,10 @@
     ]
   },
   "jackfrost": {
-    "lastHeadline": "Layer Up, Ski Hard",
+    "lastHeadline": "It's Gonna Be a Cold One",
     "lastCondition": "cold_snap",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "cold_snap",
-        "headline": "Layer Up, Ski Hard"
-      },
       {
         "date": "2026-02-01",
         "condition": "cold_snap",
@@ -1389,15 +1279,10 @@
     ]
   },
   "bigboulder": {
-    "lastHeadline": "It's Gonna Be a Cold One",
+    "lastHeadline": "Bundle Up Out There",
     "lastCondition": "cold_snap",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "cold_snap",
-        "headline": "It's Gonna Be a Cold One"
-      },
       {
         "date": "2026-02-01",
         "condition": "cold_snap",
@@ -1421,15 +1306,10 @@
     ]
   },
   "hiddenvalley": {
-    "lastHeadline": "Arctic Air in Place",
+    "lastHeadline": "BRRRRRRRRR",
     "lastCondition": "cold_snap",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "cold_snap",
-        "headline": "Arctic Air in Place"
-      },
       {
         "date": "2026-02-01",
         "condition": "cold_snap",
@@ -1453,15 +1333,10 @@
     ]
   },
   "laurelmountain": {
-    "lastHeadline": "Good Snow Persisting",
+    "lastHeadline": "The Base Is Holding Up",
     "lastCondition": "holding_strong",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "holding_strong",
-        "headline": "Good Snow Persisting"
-      },
       {
         "date": "2026-02-01",
         "condition": "holding_strong",
@@ -1485,15 +1360,10 @@
     ]
   },
   "sevensprings": {
-    "lastHeadline": "It's Gonna Be a Cold One",
+    "lastHeadline": "Bundle Up Out There",
     "lastCondition": "cold_snap",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "cold_snap",
-        "headline": "It's Gonna Be a Cold One"
-      },
       {
         "date": "2026-02-01",
         "condition": "cold_snap",
@@ -1517,15 +1387,10 @@
     ]
   },
   "mtbrighton": {
-    "lastHeadline": "Major Terrain Drop: {newTrailsCount} Runs",
+    "lastHeadline": "Patrol Won't Quit",
     "lastCondition": "terrain_major",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "terrain_major",
-        "headline": "Major Terrain Drop: {newTrailsCount} Runs"
-      },
       {
         "date": "2026-02-01",
         "condition": "terrain_major",
@@ -1549,15 +1414,10 @@
     ]
   },
   "alpinevalley": {
-    "lastHeadline": "Recent Snow Still Skiing Well",
+    "lastHeadline": "Good Snow Persisting",
     "lastCondition": "holding_strong",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "holding_strong",
-        "headline": "Recent Snow Still Skiing Well"
-      },
       {
         "date": "2026-02-01",
         "condition": "holding_strong",
@@ -1581,15 +1441,10 @@
     ]
   },
   "bostonmills": {
-    "lastHeadline": "Postcard Day",
+    "lastHeadline": "Clear Skies, Cold Temps",
     "lastCondition": "bluebird_day",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "bluebird_day",
-        "headline": "Postcard Day"
-      },
       {
         "date": "2026-02-01",
         "condition": "bluebird_day",
@@ -1613,15 +1468,10 @@
     ]
   },
   "brandywine": {
-    "lastHeadline": "Bluebird Day",
+    "lastHeadline": "Unlimited Visibility",
     "lastCondition": "bluebird_day",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "bluebird_day",
-        "headline": "Bluebird Day"
-      },
       {
         "date": "2026-02-01",
         "condition": "bluebird_day",
@@ -1645,15 +1495,10 @@
     ]
   },
   "madrivermountain": {
-    "lastHeadline": "Clear Skies, Cold Temps",
+    "lastHeadline": "Bluebird Day",
     "lastCondition": "bluebird_day",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "bluebird_day",
-        "headline": "Clear Skies, Cold Temps"
-      },
       {
         "date": "2026-02-01",
         "condition": "bluebird_day",
@@ -1677,15 +1522,10 @@
     ]
   },
   "paolipeaks": {
-    "lastHeadline": "Good Snow Persisting",
+    "lastHeadline": "The Base Is Holding Up",
     "lastCondition": "holding_strong",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "holding_strong",
-        "headline": "Good Snow Persisting"
-      },
       {
         "date": "2026-02-01",
         "condition": "holding_strong",
@@ -1709,15 +1549,10 @@
     ]
   },
   "wilmot": {
-    "lastHeadline": "Last Chance This Week",
-    "lastCondition": "sunday",
+    "lastHeadline": "Not Open Yet",
+    "lastCondition": "resort_closed",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Last Chance This Week"
-      },
       {
         "date": "2026-02-01",
         "condition": "resort_closed",
@@ -1736,15 +1571,10 @@
     ]
   },
   "aftonalps": {
-    "lastHeadline": "The Map Exploded",
-    "lastCondition": "terrain_massive",
+    "lastHeadline": "Not Open Yet",
+    "lastCondition": "resort_closed",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "terrain_massive",
-        "headline": "The Map Exploded"
-      },
       {
         "date": "2026-02-01",
         "condition": "resort_closed",
@@ -1763,15 +1593,10 @@
     ]
   },
   "vail": {
-    "lastHeadline": "Last Chance This Week",
+    "lastHeadline": "One More Day",
     "lastCondition": "sunday",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Last Chance This Week"
-      },
       {
         "date": "2026-02-01",
         "condition": "sunday",
@@ -1785,15 +1610,10 @@
     ]
   },
   "beavercreek": {
-    "lastHeadline": "Sunday Skiing",
+    "lastHeadline": "Weekend Finale",
     "lastCondition": "sunday",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Sunday Skiing"
-      },
       {
         "date": "2026-02-01",
         "condition": "sunday",
@@ -1807,15 +1627,10 @@
     ]
   },
   "breckenridge": {
-    "lastHeadline": "One More Day",
+    "lastHeadline": "Sunday Funday",
     "lastCondition": "sunday",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "One More Day"
-      },
       {
         "date": "2026-02-01",
         "condition": "sunday",
@@ -1829,15 +1644,10 @@
     ]
   },
   "parkcity": {
-    "lastHeadline": "Warm for Winter",
+    "lastHeadline": "Mild Day Ahead",
     "lastCondition": "unseasonably_warm",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "unseasonably_warm",
-        "headline": "Warm for Winter"
-      },
       {
         "date": "2026-02-01",
         "condition": "unseasonably_warm",
@@ -1851,15 +1661,10 @@
     ]
   },
   "keystone": {
-    "lastHeadline": "Fresh Layer in Place",
+    "lastHeadline": "The Mountain Got a Touch-Up",
     "lastCondition": "fresh_coat",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "fresh_coat",
-        "headline": "Fresh Layer in Place"
-      },
       {
         "date": "2026-02-01",
         "condition": "fresh_coat",
@@ -1873,50 +1678,6 @@
     ]
   },
   "heavenly": {
-    "lastHeadline": "Full Mountain Access",
-    "lastCondition": "percent_full",
-    "lastDate": "2026-02-01",
-    "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "percent_full",
-        "headline": "Full Mountain Access"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "percent_full",
-        "headline": "Nearly Everything Open"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "percent_full",
-        "headline": "Full Mountain Access"
-      }
-    ]
-  },
-  "northstar": {
-    "lastHeadline": "Above Average Temps",
-    "lastCondition": "unseasonably_warm",
-    "lastDate": "2026-02-01",
-    "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "unseasonably_warm",
-        "headline": "Above Average Temps"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "unseasonably_warm",
-        "headline": "Unseasonably Warm: {tempHigh}°"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "unseasonably_warm",
-        "headline": "Above Average Temps"
-      }
-    ]
-  },
-  "kirkwood": {
     "lastHeadline": "Nearly Everything Open",
     "lastCondition": "percent_full",
     "lastDate": "2026-02-01",
@@ -1930,6 +1691,35 @@
         "date": "2026-02-01",
         "condition": "percent_full",
         "headline": "Full Mountain Access"
+      }
+    ]
+  },
+  "northstar": {
+    "lastHeadline": "Unseasonably Warm: {tempHigh}°",
+    "lastCondition": "unseasonably_warm",
+    "lastDate": "2026-02-01",
+    "history": [
+      {
+        "date": "2026-02-01",
+        "condition": "unseasonably_warm",
+        "headline": "Unseasonably Warm: {tempHigh}°"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "unseasonably_warm",
+        "headline": "Above Average Temps"
+      }
+    ]
+  },
+  "kirkwood": {
+    "lastHeadline": "Full Mountain Access",
+    "lastCondition": "percent_full",
+    "lastDate": "2026-02-01",
+    "history": [
+      {
+        "date": "2026-02-01",
+        "condition": "percent_full",
+        "headline": "Full Mountain Access"
       },
       {
         "date": "2026-02-01",
@@ -1939,15 +1729,10 @@
     ]
   },
   "whistlerblackcomb": {
-    "lastHeadline": "More Snow Coming",
+    "lastHeadline": "Snow in the Forecast",
     "lastCondition": "snow_coming",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "snow_coming",
-        "headline": "More Snow Coming"
-      },
       {
         "date": "2026-02-01",
         "condition": "snow_coming",

@@ -2,7 +2,7 @@
   "resort": "mtbrighton",
   "resortName": "Mt Brighton",
   "date": "2026-02-01",
-  "generated": "2026-02-01T15:43:04.883Z",
+  "generated": "2026-02-01T14:42:58.608Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -228,7 +228,7 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Major Terrain Drop: 22 Runs",
+    "headline": "Patrol Won't Quit",
     "body": "22/25 trails spinning, 20 freshly groomed. 23° and Clear. Ski patrol opened 22 new runs. Major expansion today. It's a postcard kind of day. 23° and sunny - the mountain is photogenic.",
     "debug": {
       "firedRules": [
@@ -260,10 +260,10 @@
       "totalRulesFired": 4,
       "headlineSelection": {
         "condition": "terrain_major",
-        "variationIndex": 0,
+        "variationIndex": 2,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Patrol Won't Quit"
+        "previousHeadline": "Stay Tuned for Opening"
       },
       "dayOfWeek": "Sunday"
     }

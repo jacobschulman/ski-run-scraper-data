@@ -2,7 +2,7 @@
   "resort": "hunter",
   "resortName": "Hunter Mountain",
   "date": "2026-02-01",
-  "generated": "2026-02-01T13:13:10.781Z",
+  "generated": "2026-02-01T11:33:17.678Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,9 +23,9 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 61,
+          "today": 62,
           "yesterday": 59,
-          "delta": 2
+          "delta": 3
         },
         "groomedTrails": {
           "today": 53,
@@ -48,6 +48,11 @@
         {
           "name": "Minya Konka",
           "difficulty": "Black",
+          "area": "Main Mountain"
+        },
+        {
+          "name": "Snow Tubing Park",
+          "difficulty": "TerrainPark",
           "area": "Main Mountain"
         },
         {
@@ -198,13 +203,13 @@
       "significantGroomingIncrease": true
     },
     "alerts": [
-      "4 new trails opened today",
+      "5 new trails opened today",
       "10 trails freshly groomed"
     ],
     "trends": [
       "Great week for snow - 23\" in last 7 days",
       "Grooming increased 20% from yesterday",
-      "2 more trails open than yesterday"
+      "3 more trails open than yesterday"
     ],
     "recommendations": [
       "Fresh corduroy on Lower Highlands - perfect for intermediate skiers",
@@ -213,8 +218,8 @@
     ]
   },
   "morningBrief": {
-    "headline": "Arctic Air in Place",
-    "body": "No fresh overnight, but 23\" in the past week is keeping things soft and fun. Smooth operators: 10 runs got the full treatment overnight. It's cold cold cold - 9° for a high. Hand warmers are mandatory.",
+    "headline": "BRRRRRRRRR",
+    "body": "No fresh overnight, but 23\" in the past week is keeping things soft and fun. 5 more trails opened today, expanding your options. It's cold cold cold - 9° for a high. Hand warmers are mandatory.",
     "debug": {
       "firedRules": [
         {
@@ -230,9 +235,9 @@
           "usedFor": "body"
         },
         {
-          "id": "grooming_good",
+          "id": "terrain_few",
           "category": "terrain",
-          "priority": 68,
+          "priority": 60,
           "usedFor": "body"
         },
         {
@@ -248,7 +253,7 @@
         "variationIndex": 4,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "BRRRRRRRRR"
+        "previousHeadline": "Bundle Up Out There"
       },
       "dayOfWeek": "Sunday"
     }

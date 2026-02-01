@@ -2,7 +2,7 @@
   "resort": "wildcat",
   "resortName": "Wildcat Mountain",
   "date": "2026-02-01",
-  "generated": "2026-02-01T13:13:10.786Z",
+  "generated": "2026-02-01T11:33:17.682Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,9 +23,9 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 40,
+          "today": 42,
           "yesterday": 42,
-          "delta": -2
+          "delta": 0
         },
         "groomedTrails": {
           "today": 17,
@@ -36,11 +36,6 @@
       },
       "newlyOpened": [
         {
-          "name": "Alley Cat",
-          "difficulty": "Blue",
-          "area": "Wildcat"
-        },
-        {
           "name": "Panther",
           "difficulty": "Blue",
           "area": "Wildcat"
@@ -48,33 +43,12 @@
       ],
       "newlyClosed": [
         {
-          "name": "Bobcat",
-          "difficulty": "Blue",
-          "area": "Wildcat"
-        },
-        {
-          "name": "Ocelot Way",
-          "difficulty": "Blue",
-          "area": "Wildcat"
-        },
-        {
-          "name": "Starr Line",
-          "difficulty": "Black",
-          "area": "Wildcat"
-        },
-        {
           "name": "Top Cat",
           "difficulty": "Black",
           "area": "Wildcat"
         }
       ],
-      "newlyGroomed": [
-        {
-          "name": "Alley Cat",
-          "difficulty": "Blue",
-          "area": "Wildcat"
-        }
-      ],
+      "newlyGroomed": [],
       "ungroomed": []
     },
     "lifts": {
@@ -147,18 +121,15 @@
       "significantGroomingIncrease": false
     },
     "alerts": [
-      "2 new trails opened today",
-      "1 trail freshly groomed"
+      "1 new trail opened today"
     ],
     "trends": [
       "Great week for snow - 19\" in last 7 days"
     ],
-    "recommendations": [
-      "Fresh corduroy on Alley Cat - perfect for intermediate skiers"
-    ]
+    "recommendations": []
   },
   "morningBrief": {
-    "headline": "Soft Snow Holding Strong",
+    "headline": "Base Conditions Solid",
     "body": "No fresh overnight, but 19\" in the past week is keeping things soft and fun. Cold day ahead: 20° high. Dress warmly.",
     "debug": {
       "firedRules": [
@@ -187,7 +158,7 @@
         "variationIndex": 0,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Base Conditions Solid"
+        "previousHeadline": "Soft Snow Holding Strong"
       },
       "dayOfWeek": "Sunday"
     }

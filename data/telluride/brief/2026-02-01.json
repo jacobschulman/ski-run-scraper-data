@@ -2,7 +2,7 @@
   "resort": "telluride",
   "resortName": "Telluride",
   "date": "2026-02-01",
-  "generated": "2026-02-01T13:13:10.836Z",
+  "generated": "2026-02-01T07:02:15.372Z",
   "rawData": {
     "terrain": {
       "stats": {
@@ -12,78 +12,16 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 54,
+          "today": 48,
           "yesterday": 48,
-          "delta": 6
+          "delta": 0
         },
         "totalTrails": 157
       },
       "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [
-        {
-          "name": "Misty Maiden – Middle",
-          "difficulty": "Blue",
-          "area": "Village Express"
-        },
-        {
-          "name": "Pick ‘n Gad",
-          "difficulty": "Blue",
-          "area": "Village Express"
-        },
-        {
-          "name": "Last Chance",
-          "difficulty": "Blue",
-          "area": "Plunge Lift"
-        },
-        {
-          "name": "Plunge",
-          "difficulty": "",
-          "area": "Plunge Lift"
-        },
-        {
-          "name": "Enchanted Forest",
-          "difficulty": "Blue",
-          "area": "Sunshine Express"
-        },
-        {
-          "name": "Sundance",
-          "difficulty": "Blue",
-          "area": "Sunshine Express"
-        },
-        {
-          "name": "Madison",
-          "difficulty": "Green",
-          "area": "Prospect Express"
-        },
-        {
-          "name": "Sandia",
-          "difficulty": "Blue",
-          "area": "Prospect Express"
-        },
-        {
-          "name": "Majestic",
-          "difficulty": "",
-          "area": "Revelation Lift"
-        }
-      ],
-      "ungroomed": [
-        {
-          "name": "Bushwacker – Upper",
-          "difficulty": "",
-          "area": "Plunge Lift"
-        },
-        {
-          "name": "Lower Galloping Goose (Middle)",
-          "difficulty": "Green",
-          "area": "Sunshine Express"
-        },
-        {
-          "name": "Magnolia",
-          "difficulty": "Blue",
-          "area": "Prospect Express"
-        }
-      ]
+      "newlyGroomed": [],
+      "ungroomed": []
     },
     "lifts": {
       "available": false
@@ -94,15 +32,9 @@
       "hasNewTrails": false,
       "significantGroomingIncrease": false
     },
-    "alerts": [
-      "9 trails freshly groomed"
-    ],
+    "alerts": [],
     "trends": [],
-    "recommendations": [
-      "Fresh corduroy on Misty Maiden – Middle - perfect for intermediate skiers",
-      "Fresh corduroy on Pick ‘n Gad - perfect for intermediate skiers",
-      "Fresh corduroy on Last Chance - perfect for intermediate skiers"
-    ]
+    "recommendations": []
   },
   "morningBrief": null,
   "errors": []

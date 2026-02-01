@@ -2,8 +2,8 @@
   "resort": "taos",
   "resortName": "Taos",
   "date": "2026-02-01",
-  "timestamp": "2026-02-01T13:36:48.877Z",
-  "lastUpdated": "2026-02-01T06:29:30-0700",
+  "timestamp": "2026-02-01T09:12:17.174Z",
+  "lastUpdated": "2026-02-01T02:04:29-0700",
   "conditions": null,
   "operatingStatus": null,
   "snowfall": {
@@ -40,17 +40,40 @@
   },
   "forecast": {
     "location": "Taos",
-    "issuedAt": "2026-02-01T06:29:30-0700",
-    "temp_high_f": 36,
-    "temp_low_f": 29,
-    "temp_high_c": 2,
-    "temp_low_c": -1,
+    "issuedAt": "2026-02-01T02:04:29-0700",
+    "temp_high_f": 30,
+    "temp_low_f": 24,
+    "temp_high_c": -1,
+    "temp_low_c": -5,
     "forecasted_snow_in": 0,
     "forecasted_snow_cm": 0,
     "day_comments": "--",
     "night_comments": "--",
     "days": {
       "one": {
+        "date": "2026-01-31",
+        "skies": "Clear",
+        "conditions": "Clear",
+        "icon": "skc.svg",
+        "icon_fa": {
+          "style": "fa-kit",
+          "name": "fa-sunny-light"
+        },
+        "temp_high_f": null,
+        "temp_low_f": 24,
+        "temp_high_c": null,
+        "temp_low_c": -5,
+        "forecasted_snow_in": 0,
+        "forecasted_snow_cm": 0,
+        "forecasted_snow_day_in": null,
+        "forecasted_snow_day_cm": null,
+        "forecasted_snow_night_in": 0,
+        "forecasted_snow_night_cm": 0,
+        "wind": "NW",
+        "wind_speed_mph": 11,
+        "wind_speed_kph": 17
+      },
+      "two": {
         "date": "2026-02-01",
         "skies": "Sunny. Mostly Clear",
         "conditions": "Sunny",
@@ -71,9 +94,9 @@
         "forecasted_snow_night_cm": 0,
         "wind": "WNW",
         "wind_speed_mph": 11,
-        "wind_speed_kph": 18
+        "wind_speed_kph": 17
       },
-      "two": {
+      "three": {
         "date": "2026-02-02",
         "skies": "Cloudy. Mostly Clear",
         "conditions": "Cloudy",
@@ -83,9 +106,9 @@
           "name": "fa-cloudy-light"
         },
         "temp_high_f": 34,
-        "temp_low_f": 22,
+        "temp_low_f": 23,
         "temp_high_c": 1,
-        "temp_low_c": -6,
+        "temp_low_c": -5,
         "forecasted_snow_in": 0,
         "forecasted_snow_cm": 0,
         "forecasted_snow_day_in": 0,
@@ -93,10 +116,10 @@
         "forecasted_snow_night_in": 0,
         "forecasted_snow_night_cm": 0,
         "wind": "WNW",
-        "wind_speed_mph": 12,
-        "wind_speed_kph": 19
+        "wind_speed_mph": 11,
+        "wind_speed_kph": 18
       },
-      "three": {
+      "four": {
         "date": "2026-02-03",
         "skies": "Windy. Clear",
         "conditions": "Windy",
@@ -119,7 +142,7 @@
         "wind_speed_mph": 15,
         "wind_speed_kph": 24
       },
-      "four": {
+      "five": {
         "date": "2026-02-04",
         "skies": "Sunny. Clear",
         "conditions": "Sunny",
@@ -141,33 +164,33 @@
         "wind": "N",
         "wind_speed_mph": 11,
         "wind_speed_kph": 18
-      },
-      "five": {
-        "date": "2026-02-05",
-        "skies": "Sunny. Clear",
-        "conditions": "Sunny",
-        "icon": "skc.svg",
-        "icon_fa": {
-          "style": "fa-kit",
-          "name": "fa-sunny-light"
-        },
-        "temp_high_f": 36,
-        "temp_low_f": 32,
-        "temp_high_c": 2,
-        "temp_low_c": 0,
-        "forecasted_snow_in": 0,
-        "forecasted_snow_cm": 0,
-        "forecasted_snow_day_in": 0,
-        "forecasted_snow_day_cm": 0,
-        "forecasted_snow_night_in": 0,
-        "forecasted_snow_night_cm": 0,
-        "wind": "NNW",
-        "wind_speed_mph": 5,
-        "wind_speed_kph": 8
       }
     },
     "forecast_days": [
       {
+        "date": "2026-01-31",
+        "skies": "Clear",
+        "conditions": "Clear",
+        "icon": "skc.svg",
+        "icon_fa": {
+          "style": "fa-kit",
+          "name": "fa-sunny-light"
+        },
+        "temp_high_f": null,
+        "temp_low_f": 24,
+        "temp_high_c": null,
+        "temp_low_c": -5,
+        "forecasted_snow_in": 0,
+        "forecasted_snow_cm": 0,
+        "forecasted_snow_day_in": null,
+        "forecasted_snow_day_cm": null,
+        "forecasted_snow_night_in": 0,
+        "forecasted_snow_night_cm": 0,
+        "wind": "NW",
+        "wind_speed_mph": 11,
+        "wind_speed_kph": 17
+      },
+      {
         "date": "2026-02-01",
         "skies": "Sunny. Mostly Clear",
         "conditions": "Sunny",
@@ -188,7 +211,7 @@
         "forecasted_snow_night_cm": 0,
         "wind": "WNW",
         "wind_speed_mph": 11,
-        "wind_speed_kph": 18
+        "wind_speed_kph": 17
       },
       {
         "date": "2026-02-02",
@@ -200,9 +223,9 @@
           "name": "fa-cloudy-light"
         },
         "temp_high_f": 34,
-        "temp_low_f": 22,
+        "temp_low_f": 23,
         "temp_high_c": 1,
-        "temp_low_c": -6,
+        "temp_low_c": -5,
         "forecasted_snow_in": 0,
         "forecasted_snow_cm": 0,
         "forecasted_snow_day_in": 0,
@@ -210,8 +233,8 @@
         "forecasted_snow_night_in": 0,
         "forecasted_snow_night_cm": 0,
         "wind": "WNW",
-        "wind_speed_mph": 12,
-        "wind_speed_kph": 19
+        "wind_speed_mph": 11,
+        "wind_speed_kph": 18
       },
       {
         "date": "2026-02-03",
@@ -258,29 +281,6 @@
         "wind": "N",
         "wind_speed_mph": 11,
         "wind_speed_kph": 18
-      },
-      {
-        "date": "2026-02-05",
-        "skies": "Sunny. Clear",
-        "conditions": "Sunny",
-        "icon": "skc.svg",
-        "icon_fa": {
-          "style": "fa-kit",
-          "name": "fa-sunny-light"
-        },
-        "temp_high_f": 36,
-        "temp_low_f": 32,
-        "temp_high_c": 2,
-        "temp_low_c": 0,
-        "forecasted_snow_in": 0,
-        "forecasted_snow_cm": 0,
-        "forecasted_snow_day_in": 0,
-        "forecasted_snow_day_cm": 0,
-        "forecasted_snow_night_in": 0,
-        "forecasted_snow_night_cm": 0,
-        "wind": "NNW",
-        "wind_speed_mph": 5,
-        "wind_speed_kph": 8
       }
     ],
     "locations": [
@@ -288,18 +288,30 @@
         "name": "Taos",
         "elevation": null,
         "today": {
-          "date": "2026-02-01",
-          "high_f": 36,
-          "high_c": 2,
-          "low_f": 29,
-          "low_c": -1,
-          "description": "Sunny",
+          "date": "2026-01-31",
+          "high_f": null,
+          "high_c": null,
+          "low_f": 24,
+          "low_c": -5,
+          "description": "Clear",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
-          "wind": "WNW",
+          "wind": "NW",
           "wind_speed": 11
         },
         "forecast_days": [
+          {
+            "date": "2026-01-31",
+            "high_f": null,
+            "high_c": null,
+            "low_f": 24,
+            "low_c": -5,
+            "description": "Clear",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0,
+            "wind": "NW",
+            "wind_speed": 11
+          },
           {
             "date": "2026-02-01",
             "high_f": 36,
@@ -316,13 +328,13 @@
             "date": "2026-02-02",
             "high_f": 34,
             "high_c": 1,
-            "low_f": 22,
-            "low_c": -6,
+            "low_f": 23,
+            "low_c": -5,
             "description": "Cloudy",
             "snowfall_day_inches": 0,
             "snowfall_night_inches": 0,
             "wind": "WNW",
-            "wind_speed": 12
+            "wind_speed": 11
           },
           {
             "date": "2026-02-03",
@@ -347,35 +359,48 @@
             "snowfall_night_inches": 0,
             "wind": "N",
             "wind_speed": 11
-          },
-          {
-            "date": "2026-02-05",
-            "high_f": 36,
-            "high_c": 2,
-            "low_f": 32,
-            "low_c": 0,
-            "description": "Sunny",
-            "snowfall_day_inches": 0,
-            "snowfall_night_inches": 0,
-            "wind": "NNW",
-            "wind_speed": 5
           }
         ]
       }
     ],
     "_raw": {
       "ResortName": "Taos",
-      "FeedSavedTime": "2026-02-01T06:29:30-0700",
-      "TempHighF": "36",
-      "TempLowF": "29",
-      "TempHighC": "2",
-      "TempHigh_c": "2",
-      "TempLowC": "-1",
+      "FeedSavedTime": "2026-02-01T02:04:29-0700",
+      "TempHighF": "30",
+      "TempLowF": "24",
+      "TempHighC": "-1",
+      "TempHigh_c": "-1",
+      "TempLowC": "-5",
       "ForecastedSnowIn": "0",
       "ForecastedSnowCm": "0",
       "DayComments": "--",
       "NightComments": "--",
       "OneDay": {
+        "skies": "Clear",
+        "icon_fa": {
+          "style": "fa-kit",
+          "name": "fa-sunny-light"
+        },
+        "temp_high_f": "--",
+        "temp_low_f": "24",
+        "temp_high_c": "--",
+        "temp_low_c": "-5",
+        "forecasted_snow_in": "0",
+        "forecasted_snow_cm": "0",
+        "date": "2026-01-31",
+        "conditions": "clear",
+        "icon": "skc.svg",
+        "avewind": {
+          "mph": "11mph",
+          "kph": "17kph",
+          "dir": "NW"
+        },
+        "forecasted_snow_day_in": "--",
+        "forecasted_snow_day_cm": "--",
+        "forecasted_snow_night_in": "0",
+        "forecasted_snow_night_cm": "0"
+      },
+      "TwoDay": {
         "skies": "Sunny. Mostly Clear",
         "icon_fa": {
           "style": "fa-kit",
@@ -392,32 +417,7 @@
         "icon": "skc.svg",
         "avewind": {
           "mph": "11mph",
-          "kph": "18kph",
-          "dir": "WNW"
-        },
-        "forecasted_snow_day_in": "0",
-        "forecasted_snow_day_cm": "0",
-        "forecasted_snow_night_in": "0",
-        "forecasted_snow_night_cm": "0"
-      },
-      "TwoDay": {
-        "skies": "Cloudy. Mostly Clear",
-        "icon_fa": {
-          "style": "fa-kit",
-          "name": "fa-cloudy-light"
-        },
-        "temp_high_f": "34",
-        "temp_low_f": "22",
-        "temp_high_c": "1",
-        "temp_low_c": "-6",
-        "forecasted_snow_in": "0",
-        "forecasted_snow_cm": "0",
-        "date": "2026-02-02",
-        "conditions": "cloudy",
-        "icon": "bkn.svg",
-        "avewind": {
-          "mph": "12mph",
-          "kph": "19kph",
+          "kph": "17kph",
           "dir": "WNW"
         },
         "forecasted_snow_day_in": "0",
@@ -426,6 +426,31 @@
         "forecasted_snow_night_cm": "0"
       },
       "ThreeDay": {
+        "skies": "Cloudy. Mostly Clear",
+        "icon_fa": {
+          "style": "fa-kit",
+          "name": "fa-cloudy-light"
+        },
+        "temp_high_f": "34",
+        "temp_low_f": "23",
+        "temp_high_c": "1",
+        "temp_low_c": "-5",
+        "forecasted_snow_in": "0",
+        "forecasted_snow_cm": "0",
+        "date": "2026-02-02",
+        "conditions": "cloudy",
+        "icon": "bkn.svg",
+        "avewind": {
+          "mph": "11mph",
+          "kph": "18kph",
+          "dir": "WNW"
+        },
+        "forecasted_snow_day_in": "0",
+        "forecasted_snow_day_cm": "0",
+        "forecasted_snow_night_in": "0",
+        "forecasted_snow_night_cm": "0"
+      },
+      "FourDay": {
         "skies": "Windy. Clear",
         "icon_fa": {
           "style": "fa-kit",
@@ -450,7 +475,7 @@
         "forecasted_snow_night_in": "0-1",
         "forecasted_snow_night_cm": "0-3"
       },
-      "FourDay": {
+      "FiveDay": {
         "skies": "Sunny. Clear",
         "icon_fa": {
           "style": "fa-kit",
@@ -469,31 +494,6 @@
           "mph": "11mph",
           "kph": "18kph",
           "dir": "N"
-        },
-        "forecasted_snow_day_in": "0",
-        "forecasted_snow_day_cm": "0",
-        "forecasted_snow_night_in": "0",
-        "forecasted_snow_night_cm": "0"
-      },
-      "FiveDay": {
-        "skies": "Sunny. Clear",
-        "icon_fa": {
-          "style": "fa-kit",
-          "name": "fa-sunny-light"
-        },
-        "temp_high_f": "36",
-        "temp_low_f": "32",
-        "temp_high_c": "2",
-        "temp_low_c": "0",
-        "forecasted_snow_in": "0",
-        "forecasted_snow_cm": "0",
-        "date": "2026-02-05",
-        "conditions": "sunny",
-        "icon": "skc.svg",
-        "avewind": {
-          "mph": "5mph",
-          "kph": "8kph",
-          "dir": "NNW"
         },
         "forecasted_snow_day_in": "0",
         "forecasted_snow_day_cm": "0",

@@ -1,6 +1,6 @@
 {
   "ResortId": "loon",
-  "Date": "2026-02-01T20:20:13Z",
+  "Date": "2026-02-01T16:45:10Z",
   "GroomingAreas": [
     {
       "Name": "North Peak",
@@ -392,8 +392,8 @@
         },
         {
           "Name": "River's Edge Double",
-          "Status": "Closed",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "LiftType": "Chairlift",
           "WaitTime": null,
           "WaitTimeString": null,
@@ -451,8 +451,8 @@
         },
         {
           "Name": "Coolidge Street",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Event",
+          "IsOpen": false,
           "Difficulty": "Blue",
           "IsGroomed": true,
           "GroomingStatus": "Groomed",
@@ -547,8 +547,8 @@
         },
         {
           "Name": "Upper Rumrunner",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Event",
+          "IsOpen": false,
           "Difficulty": "Black",
           "IsGroomed": true,
           "GroomingStatus": "Groomed",
@@ -617,8 +617,8 @@
         },
         {
           "Name": "Little Sass Carpet",
-          "Status": "Closed",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "LiftType": "Magic Carpet",
           "WaitTime": null,
           "WaitTimeString": null,
@@ -1046,8 +1046,8 @@
       "Lifts": [
         {
           "Name": "East Basin Double",
-          "Status": "Closed",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "LiftType": "Chairlift",
           "WaitTime": null,
           "WaitTimeString": null,
@@ -1290,8 +1290,8 @@
     },
     {
       "Name": "River's Edge Double",
-      "Status": "Closed",
-      "IsOpen": false,
+      "Status": "Open",
+      "IsOpen": true,
       "LiftType": "Chairlift",
       "WaitTime": null,
       "WaitTimeString": null,
@@ -1388,8 +1388,8 @@
     },
     {
       "Name": "Little Sass Carpet",
-      "Status": "Closed",
-      "IsOpen": false,
+      "Status": "Open",
+      "IsOpen": true,
       "LiftType": "Magic Carpet",
       "WaitTime": null,
       "WaitTimeString": null,
@@ -1402,8 +1402,8 @@
     },
     {
       "Name": "East Basin Double",
-      "Status": "Closed",
-      "IsOpen": false,
+      "Status": "Open",
+      "IsOpen": true,
       "LiftType": "Chairlift",
       "WaitTime": null,
       "WaitTimeString": null,

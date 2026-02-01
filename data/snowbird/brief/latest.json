@@ -2,7 +2,7 @@
   "resort": "snowbird",
   "resortName": "Snowbird",
   "date": "2026-02-01",
-  "generated": "2026-02-01T20:36:07.557Z",
+  "generated": "2026-02-01T19:31:33.185Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,32 +23,20 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 184,
+          "today": 185,
           "yesterday": 185,
-          "delta": -1
+          "delta": 0
         },
         "groomedTrails": {
-          "today": 50,
+          "today": 49,
           "yesterday": 49,
-          "delta": 1
+          "delta": 0
         },
         "totalTrails": 200
       },
       "newlyOpened": [],
-      "newlyClosed": [
-        {
-          "name": "Bryce's Run",
-          "difficulty": "Blue",
-          "area": "Gad Valley"
-        }
-      ],
-      "newlyGroomed": [
-        {
-          "name": "Wilbere Cutoff",
-          "difficulty": "Blue",
-          "area": "Gad Valley"
-        }
-      ],
+      "newlyClosed": [],
+      "newlyGroomed": [],
       "ungroomed": []
     },
     "lifts": {
@@ -118,17 +106,13 @@
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [
-      "1 trail freshly groomed"
-    ],
+    "alerts": [],
     "trends": [],
-    "recommendations": [
-      "Fresh corduroy on Wilbere Cutoff - perfect for intermediate skiers"
-    ]
+    "recommendations": []
   },
   "morningBrief": {
     "headline": "Last Chance This Week",
-    "body": "184/200 trails spinning, 50 freshly groomed. 36° and Partly Cloudy. 184/200 trails open, 50 groomed. 36° and Partly Cloudy.",
+    "body": "185/200 trails spinning, 49 freshly groomed. 36° and Partly Cloudy. 185/200 trails open, 49 groomed. 36° and Partly Cloudy.",
     "debug": {
       "firedRules": [
         {

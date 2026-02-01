@@ -1,5 +1,5 @@
 {
-  "Date": "2026-02-01T12:31:43-0800",
+  "Date": "2026-02-01T11:26:47-0800",
   "GroomingAreas": [
     {
       "Name": "Snow King Peak",
@@ -3089,8 +3089,8 @@
         },
         {
           "Name": "Tower 16",
-          "Status": "Closed",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "Difficulty": "Very Difficult",
           "IsGroomed": false,
           "GroomingStatus": null,
@@ -6437,8 +6437,8 @@
         },
         {
           "Name": "Treeline Cirque",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Open to Mid-Station Only",
+          "IsOpen": false,
           "LiftType": "High-Speed Quad",
           "WaitTime": null,
           "WaitTimeString": null,
@@ -6481,8 +6481,8 @@
       "Trails": [
         {
           "Name": "East Gully",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "Difficulty": "Very Difficult",
           "IsGroomed": false,
           "GroomingStatus": null,
@@ -6498,8 +6498,8 @@
         },
         {
           "Name": "Maid Marian",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "Difficulty": "Intermediate",
           "IsGroomed": true,
           "GroomingStatus": "Yes",
@@ -6515,8 +6515,8 @@
         },
         {
           "Name": "Nottingham's Notch",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "Difficulty": "Intermediate",
           "IsGroomed": true,
           "GroomingStatus": "Yes",
@@ -6532,8 +6532,8 @@
         },
         {
           "Name": "Ray's Rut",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "Difficulty": "Intermediate",
           "IsGroomed": false,
           "GroomingStatus": null,
@@ -6549,8 +6549,8 @@
         },
         {
           "Name": "Reily's Run",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "Difficulty": "Intermediate",
           "IsGroomed": true,
           "GroomingStatus": "Yes",
@@ -6566,8 +6566,8 @@
         },
         {
           "Name": "Robin Hood",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "Difficulty": "Intermediate",
           "IsGroomed": true,
           "GroomingStatus": "Yes",
@@ -6583,8 +6583,8 @@
         },
         {
           "Name": "Sherwood Face",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "Difficulty": "Very Difficult",
           "IsGroomed": false,
           "GroomingStatus": null,
@@ -6600,8 +6600,8 @@
         },
         {
           "Name": "Sherwood Run",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "Difficulty": "Intermediate",
           "IsGroomed": true,
           "GroomingStatus": "Yes",
@@ -6617,8 +6617,8 @@
         },
         {
           "Name": "South Face",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "Difficulty": "Very Difficult",
           "IsGroomed": false,
           "GroomingStatus": null,
@@ -6634,8 +6634,8 @@
         },
         {
           "Name": "South Face Access",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "Difficulty": "Very Difficult",
           "IsGroomed": false,
           "GroomingStatus": null,
@@ -6651,8 +6651,8 @@
         },
         {
           "Name": "West Gully",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "Difficulty": "Very Difficult",
           "IsGroomed": false,
           "GroomingStatus": null,
@@ -6670,8 +6670,8 @@
       "Lifts": [
         {
           "Name": "Sherwood Express",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Mechanical Hold",
+          "IsOpen": false,
           "LiftType": "High-Speed Quad",
           "WaitTime": null,
           "WaitTimeString": null,
@@ -8196,8 +8196,8 @@
     },
     {
       "Name": "Treeline Cirque",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Open to Mid-Station Only",
+      "IsOpen": false,
       "LiftType": "High-Speed Quad",
       "WaitTime": null,
       "WaitTimeString": null,
@@ -8235,8 +8235,8 @@
     },
     {
       "Name": "Sherwood Express",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Mechanical Hold",
+      "IsOpen": false,
       "LiftType": "High-Speed Quad",
       "WaitTime": null,
       "WaitTimeString": null,
@@ -8289,7 +8289,7 @@
     "SafetyReportFrench": "--",
     "LiftNotification": "--",
     "LastUpdatedLift": {
-      "Treeline Cirque": "open"
+      "Granite Chief": "open"
     },
     "OpenTerrainAcres": "5360",
     "TotalTerrainAcres": "6000",
@@ -8306,10 +8306,10 @@
     "SecondarySeasonTotalCm": "391",
     "OpenTerrainHectares": "2169",
     "TotalTerrainHectares": "2430",
-    "TotalOpenTrails": 221,
+    "TotalOpenTrails": 211,
     "TotalTrails": 296,
     "TotalTrailsMakingSnow": 0,
-    "GroomedTrails": 85,
+    "GroomedTrails": 80,
     "TotalOpenLifts": 35,
     "TotalLifts": 39,
     "TotalOpenActivities": 20,
@@ -8323,9 +8323,9 @@
     "TotalNightTrails": 0,
     "TotalOpenBeginnerTrails": 16,
     "TotalBeginnerTrails": 16,
-    "TotalOpenIntermediateTrails": 87,
+    "TotalOpenIntermediateTrails": 81,
     "TotalIntermediateTrails": 87,
-    "TotalOpenAdvancedTrails": 95,
+    "TotalOpenAdvancedTrails": 91,
     "TotalAdvancedTrails": 136,
     "TotalOpenExpertTrails": 23,
     "TotalExpertTrails": 57,
@@ -8440,6 +8440,6 @@
     }
   },
   "_inspectorOperatingStatus": "Open",
-  "scrapedAt": "2026-02-01T20:36:03.104Z",
-  "sourceLastUpdated": "2026-02-01T12:31:43-0800"
+  "scrapedAt": "2026-02-01T19:31:28.593Z",
+  "sourceLastUpdated": "2026-02-01T11:26:47-0800"
 }

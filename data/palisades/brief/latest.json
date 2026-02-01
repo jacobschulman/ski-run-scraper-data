@@ -2,7 +2,7 @@
   "resort": "palisades",
   "resortName": "Palisades Tahoe",
   "date": "2026-02-01",
-  "generated": "2026-02-01T20:36:07.432Z",
+  "generated": "2026-02-01T19:31:33.060Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,14 +23,14 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 223,
+          "today": 213,
           "yesterday": 209,
-          "delta": 14
+          "delta": 4
         },
         "groomedTrails": {
-          "today": 86,
+          "today": 81,
           "yesterday": 87,
-          "delta": -1
+          "delta": -6
         },
         "totalTrails": 301
       },
@@ -64,6 +64,11 @@
           "name": "Slot",
           "difficulty": "Expert",
           "area": "Palisades Peak"
+        },
+        {
+          "name": "Tower 16",
+          "difficulty": "Very Difficult",
+          "area": "High Camp"
         },
         {
           "name": "Beaver Bowl",
@@ -111,6 +116,61 @@
           "name": "Light Towers",
           "difficulty": "Expert",
           "area": "Palisades Peak"
+        },
+        {
+          "name": "East Gully",
+          "difficulty": "Very Difficult",
+          "area": "Sherwood Bowl"
+        },
+        {
+          "name": "Maid Marian",
+          "difficulty": "Intermediate",
+          "area": "Sherwood Bowl"
+        },
+        {
+          "name": "Nottingham's Notch",
+          "difficulty": "Intermediate",
+          "area": "Sherwood Bowl"
+        },
+        {
+          "name": "Ray's Rut",
+          "difficulty": "Intermediate",
+          "area": "Sherwood Bowl"
+        },
+        {
+          "name": "Reily's Run",
+          "difficulty": "Intermediate",
+          "area": "Sherwood Bowl"
+        },
+        {
+          "name": "Robin Hood",
+          "difficulty": "Intermediate",
+          "area": "Sherwood Bowl"
+        },
+        {
+          "name": "Sherwood Face",
+          "difficulty": "Very Difficult",
+          "area": "Sherwood Bowl"
+        },
+        {
+          "name": "Sherwood Run",
+          "difficulty": "Intermediate",
+          "area": "Sherwood Bowl"
+        },
+        {
+          "name": "South Face",
+          "difficulty": "Very Difficult",
+          "area": "Sherwood Bowl"
+        },
+        {
+          "name": "South Face Access",
+          "difficulty": "Very Difficult",
+          "area": "Sherwood Bowl"
+        },
+        {
+          "name": "West Gully",
+          "difficulty": "Very Difficult",
+          "area": "Sherwood Bowl"
         }
       ],
       "newlyGroomed": [],
@@ -200,22 +260,22 @@
       "highLiftDemand": false
     },
     "alerts": [
-      "14 new trails opened today"
+      "15 new trails opened today"
     ],
     "trends": [
-      "14 more trails open than yesterday"
+      "4 more trails open than yesterday"
     ],
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "14 New Trails Today",
-    "body": "223 of 301 trails are open with 86 groomed. Mostly Cloudy with a temperatures TBD. New terrain alert: 14 trails added to the mix.",
+    "headline": "Patrol Opened 15 More",
+    "body": "213 of 301 trails are open with 81 groomed. Mostly Cloudy with a temperatures TBD. 15 new trails are now available. Nice little expansion.",
     "debug": {
       "firedRules": [
         {
-          "id": "terrain_expanding",
+          "id": "terrain_few",
           "category": "terrain",
-          "priority": 75,
+          "priority": 60,
           "usedFor": "headline"
         },
         {
@@ -225,19 +285,19 @@
           "usedFor": "body"
         },
         {
-          "id": "terrain_expanding",
+          "id": "terrain_few",
           "category": "terrain",
-          "priority": 75,
+          "priority": 60,
           "usedFor": "body"
         }
       ],
       "totalRulesFired": 3,
       "headlineSelection": {
-        "condition": "terrain_expansion",
+        "condition": "terrain_few",
         "variationIndex": 2,
-        "totalVariations": 6,
+        "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Patrol Opened {newTrailsCount} More"
+        "previousHeadline": "Sunday Funday"
       },
       "dayOfWeek": "Sunday"
     }

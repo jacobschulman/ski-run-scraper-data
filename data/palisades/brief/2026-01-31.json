@@ -2,7 +2,7 @@
   "resort": "palisades",
   "resortName": "Palisades Tahoe",
   "date": "2026-01-31",
-  "generated": "2026-02-01T03:14:37.569Z",
+  "generated": "2026-01-31T23:30:38.650Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,9 +23,9 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 209,
+          "today": 224,
           "yesterday": 190,
-          "delta": 19
+          "delta": 34
         },
         "groomedTrails": {
           "today": 87,
@@ -91,6 +91,11 @@
           "area": "Palisades Peak"
         },
         {
+          "name": "Sun Bowl",
+          "difficulty": "Very Difficult",
+          "area": "Summit Peak"
+        },
+        {
           "name": "American River Traverse",
           "difficulty": "Very Difficult",
           "area": "Granite Peak"
@@ -119,6 +124,11 @@
           "name": "Crooks' Gulch",
           "difficulty": "Very Difficult",
           "area": "Granite Peak"
+        },
+        {
+          "name": "High Traverse",
+          "difficulty": "Very Difficult",
+          "area": "Summit Peak"
         },
         {
           "name": "High Voltage",
@@ -159,6 +169,46 @@
           "name": "Voltage Ledge",
           "difficulty": "Very Difficult",
           "area": "Granite Peak"
+        },
+        {
+          "name": "Beaver Bowl",
+          "difficulty": "Expert",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Bernie's Bowl",
+          "difficulty": "Expert",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Estelle Bowl",
+          "difficulty": "Expert",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Idiot's Delight",
+          "difficulty": "Expert",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Sherwood Creek",
+          "difficulty": "Very Difficult",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "South Beaver",
+          "difficulty": "Expert",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "S.P. Bowl",
+          "difficulty": "Very Difficult",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "The Buttress",
+          "difficulty": "Expert",
+          "area": "Summit Peak"
         }
       ],
       "newlyClosed": [
@@ -176,26 +226,6 @@
           "name": "Tower 16",
           "difficulty": "Very Difficult",
           "area": "High Camp"
-        },
-        {
-          "name": "Hot Wheels Gully",
-          "difficulty": "Very Difficult",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "Poma Rocks",
-          "difficulty": "Very Difficult",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "Pond Slope",
-          "difficulty": "Very Difficult",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "Scott Chute",
-          "difficulty": "Expert",
-          "area": "Scott/Lakeview Peak"
         }
       ],
       "newlyGroomed": [
@@ -285,25 +315,25 @@
       "highLiftDemand": false
     },
     "alerts": [
-      "25 new trails opened today",
+      "35 new trails opened today",
       "1 trail freshly groomed"
     ],
     "trends": [
-      "19 more trails open than yesterday"
+      "34 more trails open than yesterday"
     ],
     "recommendations": [
       "Fresh corduroy on Valley View - all skill levels"
     ]
   },
   "morningBrief": {
-    "headline": "Significant Terrain Release",
-    "body": "209/301 trails spinning, 87 freshly groomed. 47° and Cloudy. Ski patrol opened 25 new runs. Major expansion today. Unseasonably warm: 47° today. Snow may soften by afternoon.",
+    "headline": "Patrol Went Big Today",
+    "body": "224/301 trails spinning, 87 freshly groomed. 47° and Cloudy. MASSIVE expansion: 35 new trails opened. The floodgates are open. Unseasonably warm: 47° today. Snow may soften by afternoon.",
     "debug": {
       "firedRules": [
         {
-          "id": "terrain_major",
+          "id": "terrain_massive",
           "category": "terrain",
-          "priority": 88,
+          "priority": 95,
           "usedFor": "headline"
         },
         {
@@ -313,9 +343,9 @@
           "usedFor": "body"
         },
         {
-          "id": "terrain_major",
+          "id": "terrain_massive",
           "category": "terrain",
-          "priority": 88,
+          "priority": 95,
           "usedFor": "body"
         },
         {
@@ -327,11 +357,11 @@
       ],
       "totalRulesFired": 4,
       "headlineSelection": {
-        "condition": "terrain_major",
-        "variationIndex": 4,
-        "totalVariations": 5,
+        "condition": "terrain_massive",
+        "variationIndex": 2,
+        "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Patrol Went Big Today"
+        "previousHeadline": "Half the Mountain Just Dropped"
       },
       "dayOfWeek": "Saturday"
     }

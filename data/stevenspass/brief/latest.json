@@ -1,25 +1,24 @@
 {
   "resort": "stevenspass",
   "resortName": "Stevens Pass",
-  "date": "2026-02-01",
-  "generated": "2026-02-01T08:42:53.590Z",
+  "date": "2026-01-31",
+  "generated": "2026-01-31T18:45:12.162Z",
   "rawData": {
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 0,
-          "yesterday": 39,
-          "delta": -39
+          "today": 39,
+          "yesterday": 0,
+          "delta": 39
         },
         "groomedTrails": {
-          "today": 0,
-          "yesterday": 20,
-          "delta": -20
+          "today": 20,
+          "yesterday": 0,
+          "delta": 20
         },
         "totalTrails": 57
       },
-      "newlyOpened": [],
-      "newlyClosed": [
+      "newlyOpened": [
         {
           "name": "Promenade",
           "difficulty": "Green",
@@ -216,6 +215,7 @@
           "area": "Mill Valley"
         }
       ],
+      "newlyClosed": [],
       "newlyGroomed": [],
       "ungroomed": []
     },
@@ -225,11 +225,15 @@
   },
   "computedInsights": {
     "flags": {
-      "hasNewTrails": false,
+      "hasNewTrails": true,
       "significantGroomingIncrease": false
     },
-    "alerts": [],
-    "trends": [],
+    "alerts": [
+      "39 new trails opened today"
+    ],
+    "trends": [
+      "39 more trails open than yesterday"
+    ],
     "recommendations": []
   },
   "morningBrief": null,

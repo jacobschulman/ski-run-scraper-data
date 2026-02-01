@@ -2,7 +2,7 @@
   "resort": "deervalley",
   "resortName": "Deer Valley",
   "date": "2026-02-01",
-  "generated": "2026-02-01T08:43:00.926Z",
+  "generated": "2026-02-01T07:44:15.714Z",
   "rawData": {
     "terrain": {
       "stats": {
@@ -12,78 +12,16 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 74,
+          "today": 84,
           "yesterday": 84,
-          "delta": -10
+          "delta": 0
         },
         "totalTrails": 227
       },
       "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [
-        {
-          "name": "Fairview",
-          "difficulty": "Intermediate",
-          "area": "Little Baldy Peak"
-        }
-      ],
-      "ungroomed": [
-        {
-          "name": "Lake Shore",
-          "difficulty": "Intermediate",
-          "area": "Keetley Point"
-        },
-        {
-          "name": "Little Giant",
-          "difficulty": "Easy",
-          "area": "Keetley Point"
-        },
-        {
-          "name": "Lily (Lower)",
-          "difficulty": "Easy",
-          "area": "Flagstaff Mountain"
-        },
-        {
-          "name": "Lily (Upper)",
-          "difficulty": "Easy",
-          "area": "Flagstaff Mountain"
-        },
-        {
-          "name": "Trump",
-          "difficulty": "Easy",
-          "area": "Flagstaff Mountain"
-        },
-        {
-          "name": "Carbenite (Lower)",
-          "difficulty": "Intermediate",
-          "area": "Park Peak"
-        },
-        {
-          "name": "Golden Age",
-          "difficulty": "Easy",
-          "area": "Park Peak"
-        },
-        {
-          "name": "Humbug",
-          "difficulty": "Intermediate",
-          "area": "Park Peak"
-        },
-        {
-          "name": "Silver Hill",
-          "difficulty": "Intermediate",
-          "area": "Little Baldy Peak"
-        },
-        {
-          "name": "Rising Star",
-          "difficulty": "Intermediate",
-          "area": "Bald Eagle Mountain"
-        },
-        {
-          "name": "Roamer",
-          "difficulty": "Intermediate",
-          "area": "Bald Eagle Mountain"
-        }
-      ]
+      "newlyGroomed": [],
+      "ungroomed": []
     },
     "lifts": {
       "available": true,
@@ -102,13 +40,9 @@
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [
-      "1 trail freshly groomed"
-    ],
+    "alerts": [],
     "trends": [],
-    "recommendations": [
-      "Fresh corduroy on Fairview - all skill levels"
-    ]
+    "recommendations": []
   },
   "morningBrief": null,
   "errors": []

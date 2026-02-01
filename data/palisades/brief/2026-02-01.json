@@ -2,7 +2,7 @@
   "resort": "palisades",
   "resortName": "Palisades Tahoe",
   "date": "2026-02-01",
-  "generated": "2026-02-01T17:36:27.984Z",
+  "generated": "2026-02-01T16:48:49.134Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,9 +23,9 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 227,
+          "today": 209,
           "yesterday": 209,
-          "delta": 18
+          "delta": 0
         },
         "groomedTrails": {
           "today": 87,
@@ -34,98 +34,7 @@
         },
         "totalTrails": 301
       },
-      "newlyOpened": [
-        {
-          "name": "Sun Bowl",
-          "difficulty": "Very Difficult",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "High Traverse",
-          "difficulty": "Very Difficult",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "Beaver Bowl",
-          "difficulty": "Expert",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "Bernie's Bowl",
-          "difficulty": "Expert",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "Big Bend Bowl",
-          "difficulty": "Very Difficult",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "Big Bend Keyhole",
-          "difficulty": "Very Difficult",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "CB Chute",
-          "difficulty": "Very Difficult",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "CK Bench",
-          "difficulty": "Very Difficult",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "Estelle Bowl",
-          "difficulty": "Expert",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "Grouse Rock",
-          "difficulty": "Expert",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "Grouse Saddle",
-          "difficulty": "Expert",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "Idiot's Delight",
-          "difficulty": "Expert",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "Poma Rocks",
-          "difficulty": "Very Difficult",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "Pond Slope",
-          "difficulty": "Very Difficult",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "Sherwood Creek",
-          "difficulty": "Very Difficult",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "South Beaver",
-          "difficulty": "Expert",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "S.P. Bowl",
-          "difficulty": "Very Difficult",
-          "area": "Summit Peak"
-        },
-        {
-          "name": "The Buttress",
-          "difficulty": "Expert",
-          "area": "Summit Peak"
-        }
-      ],
+      "newlyOpened": [],
       "newlyClosed": [],
       "newlyGroomed": [],
       "ungroomed": []
@@ -203,27 +112,23 @@
     "flags": {
       "hasFreshSnow": false,
       "isPowderDay": false,
-      "hasNewTrails": true,
+      "hasNewTrails": false,
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [
-      "18 new trails opened today"
-    ],
-    "trends": [
-      "18 more trails open than yesterday"
-    ],
+    "alerts": [],
+    "trends": [],
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Big Expansion Today",
-    "body": "227 of 301 trails are open with 87 groomed. Mostly Cloudy with a temperatures TBD. Ski patrol opened 18 new runs. Major expansion today.",
+    "headline": "Weekend Finale",
+    "body": "209 of 301 trails are open with 87 groomed. Mostly Cloudy with a temperatures TBD. 209/301 trails open, 87 groomed. Mostly Cloudy.",
     "debug": {
       "firedRules": [
         {
-          "id": "terrain_major",
-          "category": "terrain",
-          "priority": 88,
+          "id": "time_sunday",
+          "category": "time",
+          "priority": 38,
           "usedFor": "headline"
         },
         {
@@ -233,19 +138,19 @@
           "usedFor": "body"
         },
         {
-          "id": "terrain_major",
-          "category": "terrain",
-          "priority": 88,
+          "id": "fallback_body",
+          "category": "weather",
+          "priority": 5,
           "usedFor": "body"
         }
       ],
       "totalRulesFired": 3,
       "headlineSelection": {
-        "condition": "terrain_major",
-        "variationIndex": 1,
+        "condition": "sunday",
+        "variationIndex": 3,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Weekend Finale"
+        "previousHeadline": "Last Chance This Week"
       },
       "dayOfWeek": "Sunday"
     }

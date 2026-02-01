@@ -2,7 +2,7 @@
   "resort": "mammoth",
   "resortName": "Mammoth Mountain",
   "date": "2026-01-31",
-  "generated": "2026-02-01T05:30:16.139Z",
+  "generated": "2026-02-01T07:44:15.726Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -150,7 +150,7 @@
         "variationIndex": 1,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Saturday at the Mountain"
+        "previousHeadline": "Weekend Warrior Day"
       },
       "dayOfWeek": "Saturday"
     }

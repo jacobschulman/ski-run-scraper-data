@@ -2,7 +2,7 @@
   "resort": "sevensprings",
   "resortName": "Seven Springs",
   "date": "2026-02-01",
-  "generated": "2026-02-01T11:33:17.705Z",
+  "generated": "2026-02-01T10:40:57.352Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -121,7 +121,7 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Bundle Up Out There",
+    "headline": "Crisp Conditions",
     "body": "Zero new inches, but who's complaining? 29\" this week means conditions are still prime. Brace yourself: 10° today. Dress like you mean it.",
     "debug": {
       "firedRules": [
@@ -147,10 +147,10 @@
       "totalRulesFired": 5,
       "headlineSelection": {
         "condition": "cold_snap",
-        "variationIndex": 0,
+        "variationIndex": 3,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Crisp Conditions"
+        "previousHeadline": null
       },
       "dayOfWeek": "Sunday"
     }

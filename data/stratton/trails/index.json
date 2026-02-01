@@ -1185,10 +1185,10 @@
       "slug": "upper-down-easter",
       "area": "Upper Mountain",
       "difficulty": "Extreme Terrain",
-      "isGroomedToday": true,
+      "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 27,
-      "currentStreak": 1,
+      "groomingPercentage": 25,
+      "currentStreak": 0,
       "longestStreak": 6
     },
     {
@@ -1357,5 +1357,5 @@
       "longestStreak": 7
     }
   ],
-  "lastUpdated": "2026-02-01T11:42:12.693Z"
+  "lastUpdated": "2026-02-01T10:49:40.040Z"
 }

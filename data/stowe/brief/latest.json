@@ -2,7 +2,7 @@
   "resort": "stowe",
   "resortName": "Stowe",
   "date": "2026-02-01",
-  "generated": "2026-02-01T11:33:17.667Z",
+  "generated": "2026-02-01T10:40:57.318Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -66,12 +66,12 @@
       ],
       "ungroomed": [
         {
-          "name": "Chin Clip Runout",
-          "difficulty": "Blue",
-          "area": "Mt. Mansfield - Gondola"
+          "name": "Home Run",
+          "difficulty": "Green",
+          "area": "Mt. Mansfield - Toll House"
         },
         {
-          "name": "Home Run",
+          "name": "Mountain Glen",
           "difficulty": "Green",
           "area": "Mt. Mansfield - Toll House"
         }
@@ -157,7 +157,7 @@
     ]
   },
   "morningBrief": {
-    "headline": "BRRRRRRRRR",
+    "headline": "Layer Up, Ski Hard",
     "body": "No fresh overnight, but 22\" in the past week is keeping things soft and fun. Arctic air has settled in. 7° means quick laps and hot cocoa breaks.",
     "debug": {
       "firedRules": [
@@ -183,10 +183,10 @@
       "totalRulesFired": 5,
       "headlineSelection": {
         "condition": "cold_snap",
-        "variationIndex": 4,
+        "variationIndex": 2,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Layer Up, Ski Hard"
+        "previousHeadline": null
       },
       "dayOfWeek": "Sunday"
     }

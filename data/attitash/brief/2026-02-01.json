@@ -2,7 +2,7 @@
   "resort": "attitash",
   "resortName": "Attitash",
   "date": "2026-02-01",
-  "generated": "2026-02-01T11:33:17.680Z",
+  "generated": "2026-02-01T10:40:57.330Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -28,9 +28,9 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 46,
+          "today": 44,
           "yesterday": 42,
-          "delta": 4
+          "delta": 2
         },
         "totalTrails": 76
       },
@@ -60,18 +60,8 @@
       ],
       "newlyGroomed": [
         {
-          "name": "Farther Out",
-          "difficulty": "Blue",
-          "area": "Attitash Peak"
-        },
-        {
           "name": "Bumper",
           "difficulty": "Blue",
-          "area": "Bear Peak"
-        },
-        {
-          "name": "Kachina Falls",
-          "difficulty": "Black",
           "area": "Bear Peak"
         }
       ],
@@ -148,19 +138,17 @@
     },
     "alerts": [
       "2 new trails opened today",
-      "3 trails freshly groomed"
+      "1 trail freshly groomed"
     ],
     "trends": [
       "Great week for snow - 19\" in last 7 days"
     ],
     "recommendations": [
-      "Fresh corduroy on Farther Out - perfect for intermediate skiers",
-      "Fresh corduroy on Bumper - perfect for intermediate skiers",
-      "Fresh corduroy on Kachina Falls - challenging for advanced skiers"
+      "Fresh corduroy on Bumper - perfect for intermediate skiers"
     ]
   },
   "morningBrief": {
-    "headline": "Base Conditions Solid",
+    "headline": "The Base Is Holding Up",
     "body": "Holding steady - that 19\" base from recent storms is doing the heavy lifting.",
     "debug": {
       "firedRules": [
@@ -180,10 +168,10 @@
       "totalRulesFired": 3,
       "headlineSelection": {
         "condition": "holding_strong",
-        "variationIndex": 1,
+        "variationIndex": 4,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "The Base Is Holding Up"
+        "previousHeadline": null
       },
       "dayOfWeek": "Sunday"
     }

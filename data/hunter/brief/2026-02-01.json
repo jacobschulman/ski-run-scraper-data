@@ -2,7 +2,7 @@
   "resort": "hunter",
   "resortName": "Hunter Mountain",
   "date": "2026-02-01",
-  "generated": "2026-02-01T11:33:17.678Z",
+  "generated": "2026-02-01T10:40:57.328Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -218,7 +218,7 @@
     ]
   },
   "morningBrief": {
-    "headline": "BRRRRRRRRR",
+    "headline": "Bundle Up Out There",
     "body": "No fresh overnight, but 23\" in the past week is keeping things soft and fun. 5 more trails opened today, expanding your options. It's cold cold cold - 9° for a high. Hand warmers are mandatory.",
     "debug": {
       "firedRules": [
@@ -250,10 +250,10 @@
       "totalRulesFired": 7,
       "headlineSelection": {
         "condition": "cold_snap",
-        "variationIndex": 4,
+        "variationIndex": 0,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Bundle Up Out There"
+        "previousHeadline": null
       },
       "dayOfWeek": "Sunday"
     }

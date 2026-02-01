@@ -2,7 +2,7 @@
   "resort": "okemo",
   "resortName": "Okemo",
   "date": "2026-02-01",
-  "generated": "2026-02-01T11:33:17.673Z",
+  "generated": "2026-02-01T10:40:57.324Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -421,7 +421,7 @@
     ]
   },
   "morningBrief": {
-    "headline": "The Map Exploded",
+    "headline": "Half the Mountain Just Dropped",
     "body": "No fresh overnight, but 19\" in the past week is keeping things soft and fun. Ski patrol went absolutely huge: 53 new runs available today. Cold day ahead: 14° high. Dress warmly.",
     "debug": {
       "firedRules": [
@@ -453,10 +453,10 @@
       "totalRulesFired": 7,
       "headlineSelection": {
         "condition": "terrain_massive",
-        "variationIndex": 4,
+        "variationIndex": 2,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Half the Mountain Just Dropped"
+        "previousHeadline": null
       },
       "dayOfWeek": "Sunday"
     }

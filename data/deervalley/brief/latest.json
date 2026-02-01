@@ -2,7 +2,7 @@
   "resort": "deervalley",
   "resortName": "Deer Valley",
   "date": "2026-02-01",
-  "generated": "2026-02-01T14:43:06.286Z",
+  "generated": "2026-02-01T13:13:17.663Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,41 +23,20 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 143,
+          "today": 141,
           "yesterday": 141,
-          "delta": 2
+          "delta": 0
         },
         "groomedTrails": {
-          "today": 76,
+          "today": 74,
           "yesterday": 84,
-          "delta": -8
+          "delta": -10
         },
         "totalTrails": 227
       },
-      "newlyOpened": [
-        {
-          "name": "Free Will",
-          "difficulty": "Advanced Intermediate",
-          "area": "Park Peak"
-        },
-        {
-          "name": "Redemption",
-          "difficulty": "Advanced Intermediate",
-          "area": "Park Peak"
-        }
-      ],
+      "newlyOpened": [],
       "newlyClosed": [],
       "newlyGroomed": [
-        {
-          "name": "Free Will",
-          "difficulty": "Advanced Intermediate",
-          "area": "Park Peak"
-        },
-        {
-          "name": "Redemption",
-          "difficulty": "Advanced Intermediate",
-          "area": "Park Peak"
-        },
         {
           "name": "Fairview",
           "difficulty": "Intermediate",
@@ -134,16 +113,27 @@
     },
     "forecast": {
       "today": {
-        "date": "2026-02-01",
-        "high_f": 40,
+        "date": "2026-01-31",
+        "high_f": null,
         "low_f": 31,
-        "high_c": 5,
-        "low_c": -1,
+        "high_c": null,
+        "low_c": 0,
         "description": "Partly Cloudy",
         "snowfall_day_inches": 0,
         "snowfall_night_inches": 0
       },
       "outlook": [
+        {
+          "date": "2026-02-01",
+          "high_f": 41,
+          "low_f": 31,
+          "high_c": 5,
+          "low_c": -1,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
         {
           "date": "2026-02-02",
           "high_f": 33,
@@ -165,26 +155,15 @@
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
           "snowfall_expected": 0
-        },
-        {
-          "date": "2026-02-04",
-          "high_f": 37,
-          "low_f": 35,
-          "high_c": 3,
-          "low_c": 2,
-          "description": "Sunny",
-          "snowfall_day_inches": 0,
-          "snowfall_night_inches": 0,
-          "snowfall_expected": 0
         }
       ],
       "tomorrow": {
-        "date": "2026-02-02",
-        "high_f": 33,
-        "low_f": 25,
-        "high_c": 1,
-        "low_c": -4,
-        "description": "Mostly Sunny",
+        "date": "2026-02-01",
+        "high_f": 41,
+        "low_f": 31,
+        "high_c": 5,
+        "low_c": -1,
+        "description": "Mostly Cloudy",
         "snowfall_day_inches": 0,
         "snowfall_night_inches": 0,
         "snowfall_expected": 0
@@ -195,26 +174,21 @@
     "flags": {
       "hasFreshSnow": false,
       "isPowderDay": false,
-      "hasNewTrails": true,
+      "hasNewTrails": false,
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
     "alerts": [
-      "2 new trails opened today",
-      "3 trails freshly groomed"
+      "1 trail freshly groomed"
     ],
-    "trends": [
-      "2 more trails open than yesterday"
-    ],
+    "trends": [],
     "recommendations": [
-      "Fresh corduroy on Free Will - all skill levels",
-      "Fresh corduroy on Redemption - all skill levels",
       "Fresh corduroy on Fairview - all skill levels"
     ]
   },
   "morningBrief": {
-    "headline": "One More Day",
-    "body": "143 trails open, 76 groomed. Partly Cloudy, high of 40°. 2 new trails opened today.",
+    "headline": "Sunday Funday",
+    "body": "141 trails open, 74 groomed. Partly Cloudy, temperatures TBD. 141/227 trails open, 74 groomed. Partly Cloudy.",
     "debug": {
       "firedRules": [
         {
@@ -230,9 +204,9 @@
           "usedFor": "body"
         },
         {
-          "id": "terrain_micro",
-          "category": "terrain",
-          "priority": 45,
+          "id": "fallback_body",
+          "category": "weather",
+          "priority": 5,
           "usedFor": "body"
         }
       ],
@@ -242,7 +216,7 @@
         "variationIndex": 0,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Sunday Funday"
+        "previousHeadline": "One More Day"
       },
       "dayOfWeek": "Sunday"
     }

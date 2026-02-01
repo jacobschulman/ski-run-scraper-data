@@ -2,7 +2,7 @@
   "resort": "northstar",
   "resortName": "Northstar",
   "date": "2026-02-01",
-  "generated": "2026-02-01T14:42:58.558Z",
+  "generated": "2026-02-01T13:13:10.768Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -36,20 +36,8 @@
       },
       "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [
-        {
-          "name": "Monument Glade",
-          "difficulty": "Black",
-          "area": "The Backside"
-        }
-      ],
-      "ungroomed": [
-        {
-          "name": "The Face",
-          "difficulty": "Blue",
-          "area": "Northwest Territory"
-        }
-      ]
+      "newlyGroomed": [],
+      "ungroomed": []
     },
     "lifts": {
       "available": false
@@ -69,10 +57,10 @@
         {
           "date": "2026-02-02T08:00:00Z",
           "high_f": 48,
-          "low_f": 32,
+          "low_f": 31,
           "high_c": 8,
-          "low_c": null,
-          "description": "Clear",
+          "low_c": -1,
+          "description": "Mostly Clear",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
           "snowfall_expected": 0
@@ -82,7 +70,7 @@
           "high_f": 50,
           "low_f": 30,
           "high_c": 10,
-          "low_c": -1,
+          "low_c": -2,
           "description": "Clear",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
@@ -90,7 +78,7 @@
         },
         {
           "date": "2026-02-04T08:00:00Z",
-          "high_f": 52,
+          "high_f": 51,
           "low_f": 31,
           "high_c": 11,
           "low_c": -1,
@@ -103,10 +91,10 @@
       "tomorrow": {
         "date": "2026-02-02T08:00:00Z",
         "high_f": 48,
-        "low_f": 32,
+        "low_f": 31,
         "high_c": 8,
-        "low_c": null,
-        "description": "Clear",
+        "low_c": -1,
+        "description": "Mostly Clear",
         "snowfall_day_inches": 0,
         "snowfall_night_inches": 0,
         "snowfall_expected": 0
@@ -120,16 +108,12 @@
       "hasNewTrails": false,
       "significantGroomingIncrease": false
     },
-    "alerts": [
-      "1 trail freshly groomed"
-    ],
+    "alerts": [],
     "trends": [],
-    "recommendations": [
-      "Fresh corduroy on Monument Glade - challenging for advanced skiers"
-    ]
+    "recommendations": []
   },
   "morningBrief": {
-    "headline": "Unseasonably Warm: 48°",
+    "headline": "Above Average Temps",
     "body": "96 trails open, 65 groomed. Mostly Cloudy, high of 48°. Warmer than usual with 48° expected. Early session recommended.",
     "debug": {
       "firedRules": [
@@ -155,10 +139,10 @@
       "totalRulesFired": 4,
       "headlineSelection": {
         "condition": "unseasonably_warm",
-        "variationIndex": 0,
+        "variationIndex": 1,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Above Average Temps"
+        "previousHeadline": null
       },
       "dayOfWeek": "Sunday"
     }

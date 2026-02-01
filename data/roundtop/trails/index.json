@@ -10,9 +10,9 @@
       "difficulty": "Black",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 15,
-      "currentStreak": 10,
-      "longestStreak": 10
+      "groomingPercentage": 14,
+      "currentStreak": 9,
+      "longestStreak": 9
     },
     {
       "name": "Bunker Hill",
@@ -32,9 +32,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 75,
-      "currentStreak": 43,
-      "longestStreak": 43
+      "groomingPercentage": 74,
+      "currentStreak": 42,
+      "longestStreak": 42
     },
     {
       "name": "Drummer Boy",
@@ -43,9 +43,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 75,
-      "currentStreak": 43,
-      "longestStreak": 43
+      "groomingPercentage": 74,
+      "currentStreak": 42,
+      "longestStreak": 42
     },
     {
       "name": "Fanny Hill",
@@ -54,9 +54,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 75,
-      "currentStreak": 43,
-      "longestStreak": 43
+      "groomingPercentage": 74,
+      "currentStreak": 42,
+      "longestStreak": 42
     },
     {
       "name": "Fife & Drum",
@@ -65,9 +65,9 @@
       "difficulty": "TerrainPark",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 75,
-      "currentStreak": 43,
-      "longestStreak": 43
+      "groomingPercentage": 74,
+      "currentStreak": 42,
+      "longestStreak": 42
     },
     {
       "name": "J-Bar Park",
@@ -76,9 +76,9 @@
       "difficulty": "TerrainPark",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 75,
-      "currentStreak": 43,
-      "longestStreak": 43
+      "groomingPercentage": 74,
+      "currentStreak": 42,
+      "longestStreak": 42
     },
     {
       "name": "Lower Exhibition",
@@ -87,9 +87,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 66,
-      "currentStreak": 43,
-      "longestStreak": 43
+      "groomingPercentage": 65,
+      "currentStreak": 42,
+      "longestStreak": 42
     },
     {
       "name": "Lower Gunbarrel",
@@ -98,9 +98,9 @@
       "difficulty": "Black",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 10,
-      "currentStreak": 7,
-      "longestStreak": 7
+      "groomingPercentage": 9,
+      "currentStreak": 6,
+      "longestStreak": 6
     },
     {
       "name": "Lower Lafayette",
@@ -109,9 +109,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 75,
-      "currentStreak": 43,
-      "longestStreak": 43
+      "groomingPercentage": 74,
+      "currentStreak": 42,
+      "longestStreak": 42
     },
     {
       "name": "Lower Ramrod",
@@ -120,9 +120,9 @@
       "difficulty": "Black",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 66,
-      "currentStreak": 43,
-      "longestStreak": 43
+      "groomingPercentage": 65,
+      "currentStreak": 42,
+      "longestStreak": 42
     },
     {
       "name": "Magic Mountain",
@@ -130,10 +130,10 @@
       "area": "Roundtop",
       "difficulty": "Green",
       "isGroomedToday": true,
-      "isOpen": true,
+      "isOpen": false,
       "groomingPercentage": 64,
-      "currentStreak": 43,
-      "longestStreak": 43
+      "currentStreak": 42,
+      "longestStreak": 42
     },
     {
       "name": "Minuteman",
@@ -142,9 +142,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 75,
-      "currentStreak": 43,
-      "longestStreak": 43
+      "groomingPercentage": 74,
+      "currentStreak": 42,
+      "longestStreak": 42
     },
     {
       "name": "Palisades Glades",
@@ -164,9 +164,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 75,
-      "currentStreak": 43,
-      "longestStreak": 43
+      "groomingPercentage": 74,
+      "currentStreak": 42,
+      "longestStreak": 42
     },
     {
       "name": "Recruit",
@@ -175,9 +175,9 @@
       "difficulty": "TerrainPark",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 13,
-      "currentStreak": 9,
-      "longestStreak": 9
+      "groomingPercentage": 12,
+      "currentStreak": 8,
+      "longestStreak": 8
     },
     {
       "name": "Susquehanna",
@@ -186,9 +186,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 75,
-      "currentStreak": 43,
-      "longestStreak": 43
+      "groomingPercentage": 74,
+      "currentStreak": 42,
+      "longestStreak": 42
     },
     {
       "name": "Upper Exhibition",
@@ -197,9 +197,9 @@
       "difficulty": "Black",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 66,
-      "currentStreak": 43,
-      "longestStreak": 43
+      "groomingPercentage": 65,
+      "currentStreak": 42,
+      "longestStreak": 42
     },
     {
       "name": "Upper Gunbarrel",
@@ -219,9 +219,9 @@
       "difficulty": "Black",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 75,
-      "currentStreak": 43,
-      "longestStreak": 43
+      "groomingPercentage": 74,
+      "currentStreak": 42,
+      "longestStreak": 42
     },
     {
       "name": "Upper Ramrod",
@@ -230,10 +230,10 @@
       "difficulty": "DoubleBlack",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 39,
-      "currentStreak": 7,
+      "groomingPercentage": 38,
+      "currentStreak": 6,
       "longestStreak": 18
     }
   ],
-  "lastUpdated": "2026-02-01T05:38:50.343Z"
+  "lastUpdated": "2026-02-01T03:23:11.905Z"
 }

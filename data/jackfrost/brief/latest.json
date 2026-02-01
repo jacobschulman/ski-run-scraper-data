@@ -1,57 +1,159 @@
 {
   "resort": "jackfrost",
   "resortName": "Jack Frost",
-  "date": "2026-02-01",
-  "generated": "2026-02-01T05:30:09.259Z",
+  "date": "2026-01-31",
+  "generated": "2026-01-31T10:38:20.689Z",
   "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 24,
+      "7day_cm": 61,
+      "season_total_inches": 51,
+      "season_total_cm": 130,
+      "conditions": {
+        "today": "Powder",
+        "yesterday": "Powder"
+      }
+    },
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 20,
+          "today": 19,
           "yesterday": 19,
-          "delta": 1
+          "delta": 0
         },
         "groomedTrails": {
-          "today": 13,
+          "today": 14,
           "yesterday": 14,
-          "delta": -1
+          "delta": 0
         },
         "totalTrails": 20
       },
-      "newlyOpened": [
-        {
-          "name": "Floyd's Folly",
-          "difficulty": "Black",
-          "area": "Jack Frost"
-        }
-      ],
+      "newlyOpened": [],
       "newlyClosed": [],
       "newlyGroomed": [],
-      "ungroomed": [
-        {
-          "name": "Challenge",
-          "difficulty": "Black",
-          "area": "Jack Frost"
-        }
-      ]
+      "ungroomed": []
     },
     "lifts": {
       "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-01-31",
+        "high_f": 6,
+        "low_f": -1,
+        "high_c": -15,
+        "low_c": -18,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-01-31T05:00:00Z",
+          "high_f": 10,
+          "low_f": -1,
+          "high_c": -12,
+          "low_c": -19,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-01T05:00:00Z",
+          "high_f": 10,
+          "low_f": 1,
+          "high_c": -13,
+          "low_c": -17,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-02T05:00:00Z",
+          "high_f": 20,
+          "low_f": 8,
+          "high_c": -7,
+          "low_c": -13,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-01-31T05:00:00Z",
+        "high_f": 10,
+        "low_f": -1,
+        "high_c": -12,
+        "low_c": -19,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
     }
   },
   "computedInsights": {
     "flags": {
-      "hasNewTrails": true,
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": false,
       "significantGroomingIncrease": false
     },
-    "alerts": [
-      "1 new trail opened today"
-    ],
+    "alerts": [],
     "trends": [
-      "1 more trail open than yesterday"
+      "Great week for snow - 24\" in last 7 days"
     ],
     "recommendations": []
   },
-  "morningBrief": null,
+  "morningBrief": {
+    "headline": "Crisp Conditions",
+    "body": "Holding steady - that 24\" base from recent storms is doing the heavy lifting. Nearly full mountain access with 19 of 20 trails spinning. Brace yourself: 6° today. Dress like you mean it.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "temp_frigid",
+          "category": "weather",
+          "priority": 73,
+          "usedFor": "headline"
+        },
+        {
+          "id": "snow_holding_strong",
+          "category": "snow",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "percent_full",
+          "category": "terrain",
+          "priority": 45,
+          "usedFor": "body"
+        },
+        {
+          "id": "temp_frigid",
+          "category": "weather",
+          "priority": 73,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 6,
+      "headlineSelection": {
+        "condition": "cold_snap",
+        "variationIndex": 3,
+        "totalVariations": 6,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Arctic Air in Place"
+      },
+      "dayOfWeek": "Saturday"
+    }
+  },
   "errors": []
 }

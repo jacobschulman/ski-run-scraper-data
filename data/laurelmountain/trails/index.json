@@ -21,9 +21,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 92,
-      "currentStreak": 27,
-      "longestStreak": 27
+      "groomingPercentage": 91,
+      "currentStreak": 26,
+      "longestStreak": 26
     },
     {
       "name": "Docs Forest Glades",
@@ -43,9 +43,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": false,
-      "groomingPercentage": 4,
-      "currentStreak": 2,
-      "longestStreak": 2
+      "groomingPercentage": 2,
+      "currentStreak": 1,
+      "longestStreak": 1
     },
     {
       "name": "Easy Way",
@@ -65,9 +65,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 14,
-      "currentStreak": 7,
-      "longestStreak": 7
+      "groomingPercentage": 12,
+      "currentStreak": 6,
+      "longestStreak": 6
     },
     {
       "name": "Innsbruck",
@@ -76,9 +76,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 90,
-      "currentStreak": 27,
-      "longestStreak": 27
+      "groomingPercentage": 89,
+      "currentStreak": 26,
+      "longestStreak": 26
     },
     {
       "name": "Last Chance",
@@ -87,9 +87,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 92,
-      "currentStreak": 27,
-      "longestStreak": 27
+      "groomingPercentage": 91,
+      "currentStreak": 26,
+      "longestStreak": 26
     },
     {
       "name": "Laurel Run",
@@ -109,9 +109,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 84,
-      "currentStreak": 29,
-      "longestStreak": 29
+      "groomingPercentage": 83,
+      "currentStreak": 28,
+      "longestStreak": 28
     },
     {
       "name": "Lower Broadway",
@@ -120,9 +120,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 92,
-      "currentStreak": 27,
-      "longestStreak": 27
+      "groomingPercentage": 91,
+      "currentStreak": 26,
+      "longestStreak": 26
     },
     {
       "name": "Lower Wildcat",
@@ -132,8 +132,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 92,
-      "currentStreak": 44,
-      "longestStreak": 44
+      "currentStreak": 43,
+      "longestStreak": 43
     },
     {
       "name": "Lynx",
@@ -142,9 +142,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 92,
-      "currentStreak": 27,
-      "longestStreak": 27
+      "groomingPercentage": 91,
+      "currentStreak": 26,
+      "longestStreak": 26
     },
     {
       "name": "Old Innsbruck",
@@ -154,8 +154,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 81,
-      "currentStreak": 27,
-      "longestStreak": 27
+      "currentStreak": 26,
+      "longestStreak": 26
     },
     {
       "name": "Ski Top",
@@ -164,9 +164,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 92,
-      "currentStreak": 27,
-      "longestStreak": 27
+      "groomingPercentage": 91,
+      "currentStreak": 26,
+      "longestStreak": 26
     },
     {
       "name": "Tame Cat",
@@ -175,9 +175,9 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 92,
-      "currentStreak": 27,
-      "longestStreak": 27
+      "groomingPercentage": 91,
+      "currentStreak": 26,
+      "longestStreak": 26
     },
     {
       "name": "The Slot",
@@ -198,8 +198,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 92,
-      "currentStreak": 44,
-      "longestStreak": 44
+      "currentStreak": 43,
+      "longestStreak": 43
     },
     {
       "name": "Upper Wildcat",
@@ -209,8 +209,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 92,
-      "currentStreak": 44,
-      "longestStreak": 44
+      "currentStreak": 43,
+      "longestStreak": 43
     },
     {
       "name": "Woodland",
@@ -219,10 +219,10 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 92,
-      "currentStreak": 27,
-      "longestStreak": 27
+      "groomingPercentage": 91,
+      "currentStreak": 26,
+      "longestStreak": 26
     }
   ],
-  "lastUpdated": "2026-02-01T05:38:50.489Z"
+  "lastUpdated": "2026-02-01T03:23:12.045Z"
 }

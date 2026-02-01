@@ -90,15 +90,10 @@
     ]
   },
   "palisades": {
-    "lastHeadline": "Major Terrain Drop: {newTrailsCount} Runs",
+    "lastHeadline": "Significant Terrain Release",
     "lastCondition": "terrain_major",
     "lastDate": "2026-01-31",
     "history": [
-      {
-        "date": "2026-01-31",
-        "condition": "terrain_major",
-        "headline": "Major Terrain Drop: {newTrailsCount} Runs"
-      },
       {
         "date": "2026-01-31",
         "condition": "terrain_major",
@@ -128,22 +123,22 @@
         "date": "2026-01-31",
         "condition": "terrain_massive",
         "headline": "Patrol Went Big Today"
+      },
+      {
+        "date": "2026-01-31",
+        "condition": "terrain_massive",
+        "headline": "The Floodgates Opened"
       }
     ]
   },
   "deervalley": {
-    "lastHeadline": "Groomers Were Busy",
+    "lastHeadline": "{groomedCount} {GroomedRunWord} Groomed Overnight",
     "lastCondition": "grooming_highlight",
     "lastDate": "2026-01-31",
     "history": [
       {
         "date": "2026-01-31",
         "condition": "grooming_highlight",
-        "headline": "Groomers Were Busy"
-      },
-      {
-        "date": "2026-01-31",
-        "condition": "grooming_highlight",
         "headline": "{groomedCount} {GroomedRunWord} Groomed Overnight"
       },
       {
@@ -170,22 +165,22 @@
         "date": "2026-01-31",
         "condition": "grooming_highlight",
         "headline": "Groomers Were Busy"
+      },
+      {
+        "date": "2026-01-31",
+        "condition": "grooming_highlight",
+        "headline": "Groomers Did Their Thing"
       }
     ]
   },
   "solitude": {
-    "lastHeadline": "Saturday Shred Day",
+    "lastHeadline": "Weekend Mode: Engaged",
     "lastCondition": "saturday",
     "lastDate": "2026-01-31",
     "history": [
       {
         "date": "2026-01-31",
         "condition": "saturday",
-        "headline": "Saturday Shred Day"
-      },
-      {
-        "date": "2026-01-31",
-        "condition": "saturday",
         "headline": "Weekend Mode: Engaged"
       },
       {
@@ -212,22 +207,22 @@
         "date": "2026-01-31",
         "condition": "saturday",
         "headline": "Saturday Shred Day"
+      },
+      {
+        "date": "2026-01-31",
+        "condition": "saturday",
+        "headline": "Saturday Session"
       }
     ]
   },
   "steamboat": {
-    "lastHeadline": "{snow24h}\" Freshened Things Up",
+    "lastHeadline": "Overnight Refresh",
     "lastCondition": "fresh_coat",
     "lastDate": "2026-01-31",
     "history": [
       {
         "date": "2026-01-31",
         "condition": "fresh_coat",
-        "headline": "{snow24h}\" Freshened Things Up"
-      },
-      {
-        "date": "2026-01-31",
-        "condition": "fresh_coat",
         "headline": "Overnight Refresh"
       },
       {
@@ -254,19 +249,19 @@
         "date": "2026-01-31",
         "condition": "fresh_coat",
         "headline": "{snow24h}\" Freshened Things Up"
+      },
+      {
+        "date": "2026-01-31",
+        "condition": "fresh_coat",
+        "headline": "Overnight Refresh"
       }
     ]
   },
   "mammoth": {
-    "lastHeadline": "Saturday Session",
+    "lastHeadline": "Saturday at the Mountain",
     "lastCondition": "saturday",
     "lastDate": "2026-01-31",
     "history": [
-      {
-        "date": "2026-01-31",
-        "condition": "saturday",
-        "headline": "Saturday Session"
-      },
       {
         "date": "2026-01-31",
         "condition": "saturday",
@@ -296,22 +291,22 @@
         "date": "2026-01-31",
         "condition": "terrain_expansion",
         "headline": "The Map Got Bigger"
+      },
+      {
+        "date": "2026-01-31",
+        "condition": "terrain_expansion",
+        "headline": "More Mountain to Explore"
       }
     ]
   },
   "junemountain": {
-    "lastHeadline": "Peak Terrain",
+    "lastHeadline": "All Systems Go",
     "lastCondition": "percent_full",
     "lastDate": "2026-01-31",
     "history": [
       {
         "date": "2026-01-31",
         "condition": "percent_full",
-        "headline": "Peak Terrain"
-      },
-      {
-        "date": "2026-01-31",
-        "condition": "percent_full",
         "headline": "All Systems Go"
       },
       {
@@ -338,22 +333,22 @@
         "date": "2026-01-31",
         "condition": "percent_full",
         "headline": "Peak Terrain"
+      },
+      {
+        "date": "2026-01-31",
+        "condition": "percent_full",
+        "headline": "All Systems Go"
       }
     ]
   },
   "crystal": {
-    "lastHeadline": "More Mountain to Explore",
+    "lastHeadline": "{newTrailsCount} New {NewTrailWord} Today",
     "lastCondition": "terrain_expansion",
     "lastDate": "2026-01-31",
     "history": [
       {
         "date": "2026-01-31",
         "condition": "terrain_expansion",
-        "headline": "More Mountain to Explore"
-      },
-      {
-        "date": "2026-01-31",
-        "condition": "terrain_expansion",
         "headline": "{newTrailsCount} New {NewTrailWord} Today"
       },
       {
@@ -380,6 +375,11 @@
         "date": "2026-01-31",
         "condition": "terrain_expansion",
         "headline": "More Mountain to Explore"
+      },
+      {
+        "date": "2026-01-31",
+        "condition": "terrain_expansion",
+        "headline": "{newTrailsCount} New {NewTrailWord} Today"
       }
     ]
   },
@@ -532,17 +532,17 @@
       {
         "date": "2026-01-31",
         "condition": "saturday",
-        "headline": "Weekend Mode: Engaged"
-      },
-      {
-        "date": "2026-01-31",
-        "condition": "saturday",
-        "headline": "Saturday Shred Day"
-      },
-      {
-        "date": "2026-01-31",
-        "condition": "saturday",
         "headline": "Weekend Warrior Day"
+      },
+      {
+        "date": "2026-01-31",
+        "condition": "grooming_massive",
+        "headline": "Corduroy Everywhere"
+      },
+      {
+        "date": "2026-01-31",
+        "condition": "grooming_massive",
+        "headline": "{groomedCount} Runs Freshly Groomed"
       },
       {
         "date": "2026-01-31",
@@ -678,19 +678,19 @@
     ]
   },
   "cypressmountain": {
-    "lastHeadline": "{newTrailsCount} New Runs Open",
-    "lastCondition": "terrain_few",
+    "lastHeadline": "Wet Weather Ahead",
+    "lastCondition": "weather_rain",
     "lastDate": "2026-01-31",
     "history": [
       {
         "date": "2026-01-31",
-        "condition": "terrain_few",
-        "headline": "{newTrailsCount} New Runs Open"
+        "condition": "weather_rain",
+        "headline": "Wet Weather Ahead"
       },
       {
         "date": "2026-01-31",
-        "condition": "terrain_few",
-        "headline": "Terrain Update"
+        "condition": "weather_rain",
+        "headline": "Rain in the Forecast"
       },
       {
         "date": "2026-01-31",
@@ -720,19 +720,19 @@
     ]
   },
   "snowbird": {
-    "lastHeadline": "Weekend Mode: Engaged",
-    "lastCondition": "saturday",
+    "lastHeadline": "Unlimited Visibility",
+    "lastCondition": "bluebird_day",
     "lastDate": "2026-01-31",
     "history": [
       {
         "date": "2026-01-31",
-        "condition": "saturday",
-        "headline": "Weekend Mode: Engaged"
+        "condition": "bluebird_day",
+        "headline": "Unlimited Visibility"
       },
       {
         "date": "2026-01-31",
-        "condition": "saturday",
-        "headline": "Saturday at the Mountain"
+        "condition": "bluebird_day",
+        "headline": "Postcard Day"
       },
       {
         "date": "2026-01-31",
@@ -920,12 +920,12 @@
       {
         "date": "2026-01-31",
         "condition": "saturday",
-        "headline": "Weekend Mode: Engaged"
+        "headline": "Weekend Warrior Day"
       },
       {
         "date": "2026-01-31",
-        "condition": "saturday",
-        "headline": "Saturday Shred Day"
+        "condition": "terrain_massive",
+        "headline": "Half the Mountain Just Dropped"
       }
     ]
   },
@@ -1014,18 +1014,13 @@
     ]
   },
   "banff": {
-    "lastHeadline": "Nearly Everything Open",
+    "lastHeadline": "The Whole Mountain Awaits",
     "lastCondition": "percent_full",
     "lastDate": "2026-01-31",
     "history": [
       {
         "date": "2026-01-31",
         "condition": "percent_full",
-        "headline": "Nearly Everything Open"
-      },
-      {
-        "date": "2026-01-31",
-        "condition": "percent_full",
         "headline": "The Whole Mountain Awaits"
       },
       {
@@ -1052,22 +1047,22 @@
         "date": "2026-01-31",
         "condition": "percent_full",
         "headline": "Nearly Everything Open"
+      },
+      {
+        "date": "2026-01-31",
+        "condition": "percent_full",
+        "headline": "The Whole Mountain Awaits"
       }
     ]
   },
   "lakelouise": {
-    "lastHeadline": "Rain at Base, Snow Up Top",
+    "lastHeadline": "Variable Conditions",
     "lastCondition": "weather_mixed",
     "lastDate": "2026-01-31",
     "history": [
       {
         "date": "2026-01-31",
         "condition": "weather_mixed",
-        "headline": "Rain at Base, Snow Up Top"
-      },
-      {
-        "date": "2026-01-31",
-        "condition": "weather_mixed",
         "headline": "Variable Conditions"
       },
       {
@@ -1094,22 +1089,22 @@
         "date": "2026-01-31",
         "condition": "weather_mixed",
         "headline": "Rain at Base, Snow Up Top"
+      },
+      {
+        "date": "2026-01-31",
+        "condition": "weather_mixed",
+        "headline": "Variable Conditions"
       }
     ]
   },
   "norquay": {
-    "lastHeadline": "Weekend Warrior Day",
+    "lastHeadline": "Saturday Session",
     "lastCondition": "saturday",
     "lastDate": "2026-01-31",
     "history": [
       {
         "date": "2026-01-31",
         "condition": "saturday",
-        "headline": "Weekend Warrior Day"
-      },
-      {
-        "date": "2026-01-31",
-        "condition": "saturday",
         "headline": "Saturday Session"
       },
       {
@@ -1136,6 +1131,11 @@
         "date": "2026-01-31",
         "condition": "saturday",
         "headline": "Weekend Warrior Day"
+      },
+      {
+        "date": "2026-01-31",
+        "condition": "saturday",
+        "headline": "Saturday Session"
       }
     ]
   }

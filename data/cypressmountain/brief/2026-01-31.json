@@ -2,7 +2,7 @@
   "resort": "cypressmountain",
   "resortName": "Cypress Mountain",
   "date": "2026-01-31",
-  "generated": "2026-02-01T05:30:16.241Z",
+  "generated": "2026-02-01T03:14:37.708Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -110,8 +110,8 @@
     "forecast": {
       "today": {
         "date": "2026-01-31",
-        "high_f": null,
-        "low_f": 38,
+        "high_f": 43,
+        "low_f": 39,
         "description": "Rain",
         "snowfall_day_inches": 0,
         "snowfall_night_inches": 0
@@ -128,12 +128,12 @@
         },
         {
           "date": "2026-02-02",
-          "high_f": 36,
-          "low_f": 36,
-          "description": "Rain Snow",
-          "snowfall_day_inches": 1,
+          "high_f": 37,
+          "low_f": 37,
+          "description": "Rain",
+          "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
-          "snowfall_expected": 1
+          "snowfall_expected": 0
         },
         {
           "date": "2026-02-03",
@@ -169,8 +169,7 @@
       "5 trails freshly groomed"
     ],
     "trends": [
-      "4 more trails open than yesterday",
-      "1\" snow expected Monday"
+      "4 more trails open than yesterday"
     ],
     "recommendations": [
       "Fresh corduroy on Fork - perfect for intermediate skiers",
@@ -179,14 +178,14 @@
     ]
   },
   "morningBrief": {
-    "headline": "5 New Runs Open",
-    "body": "37/96 trails spinning, 33 freshly groomed. Rain. 5 more trails opened today, expanding your options. Light snow possible in the forecast.",
+    "headline": "Wet Weather Ahead",
+    "body": "37/96 trails spinning, 33 freshly groomed. 43° and Rain. 5 more trails opened today, expanding your options. The mountain is getting a rinse today. Conditions will be variable from base to summit.",
     "debug": {
       "firedRules": [
         {
-          "id": "terrain_few",
-          "category": "terrain",
-          "priority": 60,
+          "id": "weather_rain",
+          "category": "weather",
+          "priority": 200,
           "usedFor": "headline"
         },
         {
@@ -202,19 +201,19 @@
           "usedFor": "body"
         },
         {
-          "id": "forecast_flurries",
+          "id": "weather_rain",
           "category": "weather",
-          "priority": 30,
+          "priority": 200,
           "usedFor": "body"
         }
       ],
       "totalRulesFired": 5,
       "headlineSelection": {
-        "condition": "terrain_few",
-        "variationIndex": 1,
-        "totalVariations": 5,
+        "condition": "weather_rain",
+        "variationIndex": 0,
+        "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Terrain Update"
+        "previousHeadline": "Rain in the Forecast"
       },
       "dayOfWeek": "Saturday"
     }

@@ -2,7 +2,7 @@
   "resort": "aspenmountain",
   "resortName": "Aspen Mountain",
   "date": "2026-01-31",
-  "generated": "2026-02-01T05:30:16.221Z",
+  "generated": "2026-02-01T03:14:37.684Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -52,9 +52,9 @@
     "forecast": {
       "today": {
         "date": "2026-01-31",
-        "high_f": null,
+        "high_f": 26,
         "low_f": 19,
-        "description": "Clear",
+        "description": "Partly Cloudy",
         "snowfall_day_inches": 0,
         "snowfall_night_inches": 0
       },
@@ -63,7 +63,7 @@
           "date": "2026-02-01",
           "high_f": 34,
           "low_f": 23,
-          "description": "Sunny",
+          "description": "Mostly Sunny",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
           "snowfall_expected": 0
@@ -72,16 +72,16 @@
           "date": "2026-02-02",
           "high_f": 30,
           "low_f": 13,
-          "description": "Partly Cloudy",
-          "snowfall_day_inches": 0,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 1,
           "snowfall_night_inches": 0,
-          "snowfall_expected": 0
+          "snowfall_expected": 1
         },
         {
           "date": "2026-02-03",
-          "high_f": 24,
+          "high_f": 25,
           "low_f": 12,
-          "description": "Partly Cloudy",
+          "description": "Sunny",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
           "snowfall_expected": 0
@@ -91,7 +91,7 @@
         "date": "2026-02-01",
         "high_f": 34,
         "low_f": 23,
-        "description": "Sunny",
+        "description": "Mostly Sunny",
         "snowfall_day_inches": 0,
         "snowfall_night_inches": 0,
         "snowfall_expected": 0
@@ -108,13 +108,14 @@
     },
     "alerts": [],
     "trends": [
-      "Steady snowfall - 8\" in last 7 days"
+      "Steady snowfall - 8\" in last 7 days",
+      "1\" snow expected Monday"
     ],
     "recommendations": []
   },
   "morningBrief": {
     "headline": "Weekend Mode: Engaged",
-    "body": "Steady snowfall with 8\" over the last week.",
+    "body": "Steady snowfall with 8\" over the last week. Light snow possible in the forecast.",
     "debug": {
       "firedRules": [
         {
@@ -128,9 +129,15 @@
           "category": "snow",
           "priority": 40,
           "usedFor": "body"
+        },
+        {
+          "id": "forecast_flurries",
+          "category": "weather",
+          "priority": 30,
+          "usedFor": "body"
         }
       ],
-      "totalRulesFired": 3,
+      "totalRulesFired": 4,
       "headlineSelection": {
         "condition": "saturday",
         "variationIndex": 2,

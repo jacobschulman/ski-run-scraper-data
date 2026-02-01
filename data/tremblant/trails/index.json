@@ -164,9 +164,9 @@
       "difficulty": "Difficult",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 78,
-      "currentStreak": 49,
-      "longestStreak": 49
+      "groomingPercentage": 77,
+      "currentStreak": 48,
+      "longestStreak": 48
     },
     {
       "name": "Archipel Bas",
@@ -198,8 +198,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 81,
-      "currentStreak": 51,
-      "longestStreak": 51
+      "currentStreak": 50,
+      "longestStreak": 50
     },
     {
       "name": "Banzaï",
@@ -220,8 +220,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 59,
-      "longestStreak": 59
+      "currentStreak": 58,
+      "longestStreak": 58
     },
     {
       "name": "Beauchemin Haut",
@@ -231,8 +231,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 59,
-      "longestStreak": 59
+      "currentStreak": 58,
+      "longestStreak": 58
     },
     {
       "name": "Boiling Kettle",
@@ -252,9 +252,9 @@
       "difficulty": "Very Difficult",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 49,
-      "currentStreak": 18,
-      "longestStreak": 18
+      "groomingPercentage": 48,
+      "currentStreak": 17,
+      "longestStreak": 17
     },
     {
       "name": "Buzz",
@@ -285,9 +285,9 @@
       "difficulty": "Extreme Terrain",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 8,
-      "currentStreak": 2,
-      "longestStreak": 2
+      "groomingPercentage": 6,
+      "currentStreak": 1,
+      "longestStreak": 1
     },
     {
       "name": "Détour",
@@ -297,8 +297,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 94,
-      "currentStreak": 59,
-      "longestStreak": 59
+      "currentStreak": 58,
+      "longestStreak": 58
     },
     {
       "name": "Devil's River",
@@ -307,9 +307,9 @@
       "difficulty": "Very Difficult",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 67,
-      "currentStreak": 40,
-      "longestStreak": 40
+      "groomingPercentage": 66,
+      "currentStreak": 39,
+      "longestStreak": 39
     },
     {
       "name": "Duncan Bas",
@@ -318,9 +318,9 @@
       "difficulty": "Difficult",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 78,
-      "currentStreak": 45,
-      "longestStreak": 45
+      "groomingPercentage": 77,
+      "currentStreak": 44,
+      "longestStreak": 44
     },
     {
       "name": "Duncan Haut",
@@ -330,8 +330,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 71,
-      "currentStreak": 45,
-      "longestStreak": 45
+      "currentStreak": 44,
+      "longestStreak": 44
     },
     {
       "name": "Dynagriffe",
@@ -363,7 +363,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 44,
-      "currentStreak": 4,
+      "currentStreak": 3,
       "longestStreak": 13
     },
     {
@@ -373,8 +373,8 @@
       "difficulty": "Extreme Terrain",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 16,
-      "currentStreak": 2,
+      "groomingPercentage": 15,
+      "currentStreak": 1,
       "longestStreak": 2
     },
     {
@@ -385,8 +385,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 92,
-      "currentStreak": 58,
-      "longestStreak": 58
+      "currentStreak": 57,
+      "longestStreak": 57
     },
     {
       "name": "Fuddle Duddle Haut",
@@ -406,9 +406,9 @@
       "difficulty": "Easy",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 83,
-      "currentStreak": 24,
-      "longestStreak": 24
+      "groomingPercentage": 82,
+      "currentStreak": 23,
+      "longestStreak": 23
     },
     {
       "name": "Gagnon Haut",
@@ -428,8 +428,8 @@
       "difficulty": "Very Difficult",
       "isGroomedToday": true,
       "isOpen": false,
-      "groomingPercentage": 67,
-      "currentStreak": 18,
+      "groomingPercentage": 66,
+      "currentStreak": 17,
       "longestStreak": 21
     },
     {
@@ -439,8 +439,8 @@
       "difficulty": "Very Difficult",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 57,
-      "currentStreak": 5,
+      "groomingPercentage": 56,
+      "currentStreak": 4,
       "longestStreak": 7
     },
     {
@@ -451,8 +451,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 71,
-      "currentStreak": 45,
-      "longestStreak": 45
+      "currentStreak": 44,
+      "longestStreak": 44
     },
     {
       "name": "Les Rapides",
@@ -484,8 +484,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 76,
-      "currentStreak": 41,
-      "longestStreak": 41
+      "currentStreak": 40,
+      "longestStreak": 40
     },
     {
       "name": "Lowell Thomas",
@@ -495,8 +495,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 68,
-      "currentStreak": 43,
-      "longestStreak": 43
+      "currentStreak": 42,
+      "longestStreak": 42
     },
     {
       "name": "LTE",
@@ -528,8 +528,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 59,
-      "longestStreak": 59
+      "currentStreak": 58,
+      "longestStreak": 58
     },
     {
       "name": "Parc Mitik",
@@ -539,8 +539,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 71,
-      "currentStreak": 44,
-      "longestStreak": 44
+      "currentStreak": 43,
+      "longestStreak": 43
     },
     {
       "name": "Rigodon",
@@ -550,8 +550,8 @@
       "isGroomedToday": true,
       "isOpen": false,
       "groomingPercentage": 94,
-      "currentStreak": 59,
-      "longestStreak": 59
+      "currentStreak": 58,
+      "longestStreak": 58
     },
     {
       "name": "Rope Tow",
@@ -561,8 +561,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 90,
-      "currentStreak": 57,
-      "longestStreak": 57
+      "currentStreak": 56,
+      "longestStreak": 56
     },
     {
       "name": "Saute-Moutons",
@@ -571,9 +571,9 @@
       "difficulty": "Very Difficult",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 10,
-      "currentStreak": 4,
-      "longestStreak": 4
+      "groomingPercentage": 8,
+      "currentStreak": 3,
+      "longestStreak": 3
     },
     {
       "name": "Short Cut",
@@ -594,8 +594,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 71,
-      "currentStreak": 45,
-      "longestStreak": 45
+      "currentStreak": 44,
+      "longestStreak": 44
     },
     {
       "name": "Supérieur",
@@ -605,8 +605,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 71,
-      "currentStreak": 18,
-      "longestStreak": 18
+      "currentStreak": 17,
+      "longestStreak": 17
     },
     {
       "name": "Taïga",
@@ -638,8 +638,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 71,
-      "currentStreak": 45,
-      "longestStreak": 45
+      "currentStreak": 44,
+      "longestStreak": 44
     },
     {
       "name": "Windigo",
@@ -659,9 +659,9 @@
       "difficulty": "Easy",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 86,
-      "currentStreak": 54,
-      "longestStreak": 54
+      "groomingPercentage": 85,
+      "currentStreak": 53,
+      "longestStreak": 53
     },
     {
       "name": "Beauvallon Haut",
@@ -671,8 +671,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 59,
-      "longestStreak": 59
+      "currentStreak": 58,
+      "longestStreak": 58
     },
     {
       "name": "Belvéd��re",
@@ -693,8 +693,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 76,
-      "currentStreak": 48,
-      "longestStreak": 48
+      "currentStreak": 47,
+      "longestStreak": 47
     },
     {
       "name": "Bon Vivant",
@@ -704,8 +704,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 63,
-      "currentStreak": 23,
-      "longestStreak": 23
+      "currentStreak": 22,
+      "longestStreak": 22
     },
     {
       "name": "Chalumeau",
@@ -715,8 +715,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 68,
-      "currentStreak": 43,
-      "longestStreak": 43
+      "currentStreak": 42,
+      "longestStreak": 42
     },
     {
       "name": "Charron",
@@ -726,8 +726,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 94,
-      "currentStreak": 59,
-      "longestStreak": 59
+      "currentStreak": 58,
+      "longestStreak": 58
     },
     {
       "name": "Curé Deslauriers",
@@ -736,9 +736,9 @@
       "difficulty": "Very Difficult",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 57,
-      "currentStreak": 36,
-      "longestStreak": 36
+      "groomingPercentage": 56,
+      "currentStreak": 35,
+      "longestStreak": 35
     },
     {
       "name": "Dernier Cri",
@@ -747,9 +747,9 @@
       "difficulty": "Very Difficult",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 70,
-      "currentStreak": 42,
-      "longestStreak": 42
+      "groomingPercentage": 69,
+      "currentStreak": 41,
+      "longestStreak": 41
     },
     {
       "name": "DeSerres",
@@ -758,9 +758,9 @@
       "difficulty": "Difficult",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 86,
-      "currentStreak": 54,
-      "longestStreak": 54
+      "groomingPercentage": 85,
+      "currentStreak": 53,
+      "longestStreak": 53
     },
     {
       "name": "Dunzee",
@@ -781,8 +781,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 90,
-      "currentStreak": 54,
-      "longestStreak": 54
+      "currentStreak": 53,
+      "longestStreak": 53
     },
     {
       "name": "Erik Guay",
@@ -791,9 +791,9 @@
       "difficulty": "Very Difficult",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 54,
-      "currentStreak": 12,
-      "longestStreak": 12
+      "groomingPercentage": 53,
+      "currentStreak": 11,
+      "longestStreak": 11
     },
     {
       "name": "Flying Mile Bas",
@@ -803,8 +803,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 71,
-      "currentStreak": 26,
-      "longestStreak": 26
+      "currentStreak": 25,
+      "longestStreak": 25
     },
     {
       "name": "Flying Mile Haut",
@@ -857,9 +857,9 @@
       "difficulty": "Very Difficult",
       "isGroomedToday": true,
       "isOpen": false,
-      "groomingPercentage": 54,
-      "currentStreak": 28,
-      "longestStreak": 28
+      "groomingPercentage": 53,
+      "currentStreak": 27,
+      "longestStreak": 27
     },
     {
       "name": "La Crête",
@@ -869,8 +869,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 59,
-      "longestStreak": 59
+      "currentStreak": 58,
+      "longestStreak": 58
     },
     {
       "name": "La Passe",
@@ -879,9 +879,9 @@
       "difficulty": "Easy",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 78,
-      "currentStreak": 41,
-      "longestStreak": 41
+      "groomingPercentage": 77,
+      "currentStreak": 40,
+      "longestStreak": 40
     },
     {
       "name": "Le P'tit Parc",
@@ -890,9 +890,9 @@
       "difficulty": "Terrain Park",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 48,
-      "currentStreak": 30,
-      "longestStreak": 30
+      "groomingPercentage": 47,
+      "currentStreak": 29,
+      "longestStreak": 29
     },
     {
       "name": "Le Plateau",
@@ -902,8 +902,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 60,
-      "currentStreak": 38,
-      "longestStreak": 38
+      "currentStreak": 37,
+      "longestStreak": 37
     },
     {
       "name": "Ligne de Pente",
@@ -912,9 +912,9 @@
       "difficulty": "Very Difficult",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 67,
-      "currentStreak": 36,
-      "longestStreak": 36
+      "groomingPercentage": 66,
+      "currentStreak": 35,
+      "longestStreak": 35
     },
     {
       "name": "McCulloch",
@@ -923,9 +923,9 @@
       "difficulty": "Very Difficult",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 62,
-      "currentStreak": 39,
-      "longestStreak": 39
+      "groomingPercentage": 61,
+      "currentStreak": 38,
+      "longestStreak": 38
     },
     {
       "name": "Mi-Chemin",
@@ -935,8 +935,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 59,
-      "longestStreak": 59
+      "currentStreak": 58,
+      "longestStreak": 58
     },
     {
       "name": "Nansen",
@@ -946,8 +946,8 @@
       "isGroomedToday": true,
       "isOpen": false,
       "groomingPercentage": 100,
-      "currentStreak": 59,
-      "longestStreak": 59
+      "currentStreak": 58,
+      "longestStreak": 58
     },
     {
       "name": "Nansen Bas",
@@ -957,8 +957,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 92,
-      "currentStreak": 41,
-      "longestStreak": 41
+      "currentStreak": 40,
+      "longestStreak": 40
     },
     {
       "name": "Nansen Haut",
@@ -968,8 +968,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 59,
-      "longestStreak": 59
+      "currentStreak": 58,
+      "longestStreak": 58
     },
     {
       "name": "Onésime",
@@ -979,8 +979,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 100,
-      "currentStreak": 59,
-      "longestStreak": 59
+      "currentStreak": 58,
+      "longestStreak": 58
     },
     {
       "name": "Panache",
@@ -990,8 +990,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 63,
-      "currentStreak": 40,
-      "longestStreak": 40
+      "currentStreak": 39,
+      "longestStreak": 39
     },
     {
       "name": "Parc Adrénaline",
@@ -1000,9 +1000,9 @@
       "difficulty": "Terrain Park",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 57,
-      "currentStreak": 36,
-      "longestStreak": 36
+      "groomingPercentage": 56,
+      "currentStreak": 35,
+      "longestStreak": 35
     },
     {
       "name": "Parc Progression",
@@ -1012,7 +1012,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 98,
-      "currentStreak": 17,
+      "currentStreak": 16,
       "longestStreak": 41
     },
     {
@@ -1022,9 +1022,9 @@
       "difficulty": "Difficult",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 41,
-      "currentStreak": 19,
-      "longestStreak": 19
+      "groomingPercentage": 40,
+      "currentStreak": 18,
+      "longestStreak": 18
     },
     {
       "name": "Roger McCarthy",
@@ -1034,8 +1034,8 @@
       "isGroomedToday": true,
       "isOpen": false,
       "groomingPercentage": 100,
-      "currentStreak": 59,
-      "longestStreak": 59
+      "currentStreak": 58,
+      "longestStreak": 58
     },
     {
       "name": "Roy Scott",
@@ -1044,9 +1044,9 @@
       "difficulty": "Easy",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 75,
-      "currentStreak": 47,
-      "longestStreak": 47
+      "groomingPercentage": 74,
+      "currentStreak": 46,
+      "longestStreak": 46
     },
     {
       "name": "Ryan Bas",
@@ -1078,8 +1078,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 68,
-      "currentStreak": 43,
-      "longestStreak": 43
+      "currentStreak": 42,
+      "longestStreak": 42
     },
     {
       "name": "St-Bernard",
@@ -1088,9 +1088,9 @@
       "difficulty": "Very Difficult",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 56,
-      "currentStreak": 35,
-      "longestStreak": 35
+      "groomingPercentage": 55,
+      "currentStreak": 34,
+      "longestStreak": 34
     },
     {
       "name": "Standard",
@@ -1100,8 +1100,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 79,
-      "currentStreak": 47,
-      "longestStreak": 47
+      "currentStreak": 46,
+      "longestStreak": 46
     },
     {
       "name": "TAM-TAM",
@@ -1111,8 +1111,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 63,
-      "currentStreak": 40,
-      "longestStreak": 40
+      "currentStreak": 39,
+      "longestStreak": 39
     },
     {
       "name": "Taschereau",
@@ -1122,8 +1122,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 90,
-      "currentStreak": 36,
-      "longestStreak": 36
+      "currentStreak": 35,
+      "longestStreak": 35
     },
     {
       "name": "Toufou",
@@ -1132,9 +1132,9 @@
       "difficulty": "Easy",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 83,
-      "currentStreak": 51,
-      "longestStreak": 51
+      "groomingPercentage": 82,
+      "currentStreak": 50,
+      "longestStreak": 50
     },
     {
       "name": "Vertige",
@@ -1143,8 +1143,8 @@
       "difficulty": "Extreme Terrain",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 14,
-      "currentStreak": 2,
+      "groomingPercentage": 13,
+      "currentStreak": 1,
       "longestStreak": 4
     },
     {
@@ -1154,9 +1154,9 @@
       "difficulty": "Easy",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 62,
-      "currentStreak": 34,
-      "longestStreak": 34
+      "groomingPercentage": 61,
+      "currentStreak": 33,
+      "longestStreak": 33
     },
     {
       "name": "Zig-Zag",
@@ -1165,8 +1165,8 @@
       "difficulty": "Extreme Terrain",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 14,
-      "currentStreak": 2,
+      "groomingPercentage": 13,
+      "currentStreak": 1,
       "longestStreak": 4
     },
     {
@@ -1176,8 +1176,8 @@
       "difficulty": "Very Difficult",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 56,
-      "currentStreak": 2,
+      "groomingPercentage": 55,
+      "currentStreak": 1,
       "longestStreak": 12
     },
     {
@@ -1198,8 +1198,8 @@
       "difficulty": "Difficult",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 59,
-      "currentStreak": 4,
+      "groomingPercentage": 58,
+      "currentStreak": 3,
       "longestStreak": 17
     },
     {
@@ -1298,8 +1298,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 71,
-      "currentStreak": 23,
-      "longestStreak": 23
+      "currentStreak": 22,
+      "longestStreak": 22
     },
     {
       "name": "L'Algonquin",
@@ -1309,8 +1309,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 71,
-      "currentStreak": 23,
-      "longestStreak": 23
+      "currentStreak": 22,
+      "longestStreak": 22
     },
     {
       "name": "La Carriole",
@@ -1320,8 +1320,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 68,
-      "currentStreak": 23,
-      "longestStreak": 23
+      "currentStreak": 22,
+      "longestStreak": 22
     },
     {
       "name": "La Garette",
@@ -1331,8 +1331,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 63,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "La Jamme",
@@ -1352,9 +1352,9 @@
       "difficulty": "Very Difficult",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 62,
-      "currentStreak": 22,
-      "longestStreak": 22
+      "groomingPercentage": 61,
+      "currentStreak": 21,
+      "longestStreak": 21
     },
     {
       "name": "Les Bouleaux",
@@ -1374,7 +1374,7 @@
       "difficulty": "Very Difficult",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 17,
+      "groomingPercentage": 18,
       "currentStreak": 0,
       "longestStreak": 4
     },
@@ -1386,8 +1386,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 71,
-      "currentStreak": 23,
-      "longestStreak": 23
+      "currentStreak": 22,
+      "longestStreak": 22
     },
     {
       "name": "Tiguidou",
@@ -1397,7 +1397,7 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 60,
-      "currentStreak": 4,
+      "currentStreak": 3,
       "longestStreak": 17
     },
     {
@@ -1408,9 +1408,9 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 71,
-      "currentStreak": 23,
-      "longestStreak": 23
+      "currentStreak": 22,
+      "longestStreak": 22
     }
   ],
-  "lastUpdated": "2026-02-01T05:39:08.600Z"
+  "lastUpdated": "2026-02-01T03:23:29.941Z"
 }

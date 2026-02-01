@@ -2,7 +2,7 @@
   "resort": "buttermilk",
   "resortName": "Buttermilk",
   "date": "2026-02-01",
-  "generated": "2026-02-01T18:49:01.984Z",
+  "generated": "2026-02-01T17:36:28.116Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,29 +23,18 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 47,
+          "today": 45,
           "yesterday": 45,
-          "delta": 2
+          "delta": 0
         },
         "groomedTrails": {
-          "today": 25,
+          "today": 23,
           "yesterday": 0,
-          "delta": 25
+          "delta": 23
         },
         "totalTrails": 52
       },
-      "newlyOpened": [
-        {
-          "name": "Spruce (Upper)",
-          "difficulty": "Green",
-          "area": "Main"
-        },
-        {
-          "name": "Super Pipe",
-          "difficulty": "TerrainPark",
-          "area": "Pipes/Parks"
-        }
-      ],
+      "newlyOpened": [],
       "newlyClosed": [],
       "newlyGroomed": [
         {
@@ -94,11 +83,6 @@
           "area": "Main"
         },
         {
-          "name": "Spruce (Upper)",
-          "difficulty": "Green",
-          "area": "Main"
-        },
-        {
           "name": "Family Cross",
           "difficulty": "TerrainPark",
           "area": "Pipes/Parks"
@@ -115,11 +99,6 @@
         },
         {
           "name": "Red's Rover",
-          "difficulty": "TerrainPark",
-          "area": "Pipes/Parks"
-        },
-        {
-          "name": "Super Pipe",
           "difficulty": "TerrainPark",
           "area": "Pipes/Parks"
         },
@@ -239,17 +218,14 @@
     "flags": {
       "hasFreshSnow": false,
       "isPowderDay": false,
-      "hasNewTrails": true,
+      "hasNewTrails": false,
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
     "alerts": [
-      "2 new trails opened today",
-      "25 trails freshly groomed"
+      "23 trails freshly groomed"
     ],
-    "trends": [
-      "2 more trails open than yesterday"
-    ],
+    "trends": [],
     "recommendations": [
       "Fresh corduroy on Baby Doe - perfect for intermediate skiers",
       "Fresh corduroy on Columbine - perfect for intermediate skiers",
@@ -257,14 +233,14 @@
     ]
   },
   "morningBrief": {
-    "headline": "Grooming Crew MVP",
-    "body": "The rundown: 47 trails open, 25 groomed. Sunny with temps around 41°. The snow cats went hard: 25 runs of fresh corduroy across Main, Pipes/Parks, and more.",
+    "headline": "Groomers Were Busy",
+    "body": "The rundown: 45 trails open, 23 groomed. Sunny with temps around 41°. The snow cats were busy. 23 trails in Main, Pipes/Parks, and more looking mint.",
     "debug": {
       "firedRules": [
         {
-          "id": "grooming_massive",
+          "id": "grooming_excellent",
           "category": "terrain",
-          "priority": 78,
+          "priority": 72,
           "usedFor": "headline"
         },
         {
@@ -274,19 +250,19 @@
           "usedFor": "body"
         },
         {
-          "id": "grooming_massive",
+          "id": "grooming_excellent",
           "category": "terrain",
-          "priority": 78,
+          "priority": 72,
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 4,
+      "totalRulesFired": 3,
       "headlineSelection": {
-        "condition": "grooming_massive",
-        "variationIndex": 3,
-        "totalVariations": 5,
+        "condition": "grooming_highlight",
+        "variationIndex": 1,
+        "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "The Groomers Delivered"
+        "previousHeadline": "{groomedCount} {GroomedRunWord} Groomed Overnight"
       },
       "dayOfWeek": "Sunday"
     }

@@ -1,6 +1,6 @@
 {
   "ResortId": "cypressmountain",
-  "Date": "2026-02-01T16:28:54Z",
+  "Date": "2026-02-01T15:21:12Z",
   "GroomingAreas": [
     {
       "Name": "Eagle Express",
@@ -165,8 +165,8 @@
       "Lifts": [
         {
           "Name": "Eagle Express",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "LiftType": "Detachable Chairlift",
           "WaitTime": null,
           "WaitTimeString": null,
@@ -474,8 +474,8 @@
       "Lifts": [
         {
           "Name": "Lions Express",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "LiftType": "Detachable Chairlift",
           "WaitTime": null,
           "WaitTimeString": null,
@@ -684,8 +684,8 @@
       "Lifts": [
         {
           "Name": "Easy Rider",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "LiftType": "Chairlift",
           "WaitTime": null,
           "WaitTimeString": null,
@@ -777,8 +777,8 @@
       "Lifts": [
         {
           "Name": "Sky Quad",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "LiftType": "Chairlift",
           "WaitTime": null,
           "WaitTimeString": null,
@@ -1021,8 +1021,8 @@
         },
         {
           "Name": "Sidewinder",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "Difficulty": "Novice",
           "IsGroomed": true,
           "GroomingStatus": "Groomed",
@@ -1087,8 +1087,8 @@
         },
         {
           "Name": "Pop Fly",
-          "Status": "Closed",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "Difficulty": "Black",
           "IsGroomed": true,
           "GroomingStatus": "Groomed",
@@ -1099,8 +1099,8 @@
         },
         {
           "Name": "Brothers Pass",
-          "Status": "Closed",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "Difficulty": "Black",
           "IsGroomed": true,
           "GroomingStatus": "Groomed",
@@ -1123,8 +1123,8 @@
         },
         {
           "Name": "Russel",
-          "Status": "Closed",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "Difficulty": "Black",
           "IsGroomed": true,
           "GroomingStatus": "Groomed",
@@ -1135,8 +1135,8 @@
         },
         {
           "Name": "Brothers Canyon West",
-          "Status": "Closed",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "Difficulty": "Blue",
           "IsGroomed": true,
           "GroomingStatus": "Groomed",
@@ -1153,8 +1153,8 @@
       "Trails": [
         {
           "Name": "Five Lakes",
-          "Status": "Closed",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "Difficulty": "Novice",
           "IsGroomed": true,
           "GroomingStatus": "Groomed",
@@ -1225,8 +1225,8 @@
         },
         {
           "Name": "4th Lake",
-          "Status": "Closed",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "Difficulty": "Novice",
           "IsGroomed": true,
           "GroomingStatus": "Groomed",
@@ -1308,8 +1308,8 @@
   "Lifts": [
     {
       "Name": "Eagle Express",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Detachable Chairlift",
       "WaitTime": null,
       "WaitTimeString": null,
@@ -1322,8 +1322,8 @@
     },
     {
       "Name": "Lions Express",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Detachable Chairlift",
       "WaitTime": null,
       "WaitTimeString": null,
@@ -1350,8 +1350,8 @@
     },
     {
       "Name": "Easy Rider",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift",
       "WaitTime": null,
       "WaitTimeString": null,
@@ -1364,8 +1364,8 @@
     },
     {
       "Name": "Sky Quad",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift",
       "WaitTime": null,
       "WaitTimeString": null,
@@ -1396,7 +1396,7 @@
   "apiProvider": "reportpal",
   "_reportpalName": "Cypress Mountain",
   "_reportpalOperations": {
-    "resortStatus": "Open",
+    "resortStatus": "Closed",
     "openTime": null,
     "closeTime": null,
     "nightOpenTime": null,

@@ -2,7 +2,7 @@
   "resort": "wilmot",
   "resortName": "Wilmot Mountain",
   "date": "2026-02-01",
-  "generated": "2026-02-01T16:48:42.388Z",
+  "generated": "2026-02-01T15:43:04.879Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -138,7 +138,7 @@
     ]
   },
   "morningBrief": {
-    "headline": "Weekend Finale",
+    "headline": "Last Chance This Week",
     "body": "23/26 trails spinning, 23 freshly groomed. 25° and Partly Cloudy. 1 new trail opened today.",
     "debug": {
       "firedRules": [
@@ -164,10 +164,10 @@
       "totalRulesFired": 3,
       "headlineSelection": {
         "condition": "sunday",
-        "variationIndex": 3,
+        "variationIndex": 4,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Last Chance This Week"
+        "previousHeadline": "Not Open Yet"
       },
       "dayOfWeek": "Sunday"
     }

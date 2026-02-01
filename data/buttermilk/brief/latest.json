@@ -2,7 +2,7 @@
   "resort": "buttermilk",
   "resortName": "Buttermilk",
   "date": "2026-02-01",
-  "generated": "2026-02-01T16:48:49.273Z",
+  "generated": "2026-02-01T15:43:11.937Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -262,7 +262,7 @@
         "variationIndex": 1,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "{groomedCount} {GroomedRunWord} Groomed Overnight"
+        "previousHeadline": "Smooth Sailing Today"
       },
       "dayOfWeek": "Sunday"
     }

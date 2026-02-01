@@ -1374,104 +1374,104 @@
     },
     {
       "Name": "Chondola",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Childrens Magic Carpet",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Adult Magic Carpet",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Village Express",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Polar Queen Express",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Apex Lift",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Lift 7",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Oak Street Lift",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Plunge Lift",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Sunshine Express",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "UTE Park",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Prospect Express",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Lynx",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Gold Hill Express",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Revelation Lift",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "North Meadows Carpet",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     }
   ],
   "ResortId": "telluride",
-  "Date": "2026-02-01T16:48:42.226Z",
+  "Date": "2026-02-01T15:43:04.675Z",
   "provider": "vail",
-  "scrapedAt": "2026-02-01T16:48:42.244Z",
-  "sourceLastUpdated": "2026-02-01T16:48:42.226Z"
+  "scrapedAt": "2026-02-01T15:43:04.691Z",
+  "sourceLastUpdated": "2026-02-01T15:43:04.675Z"
 }

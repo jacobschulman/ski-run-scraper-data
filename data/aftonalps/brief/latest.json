@@ -2,7 +2,7 @@
   "resort": "aftonalps",
   "resortName": "Afton Alps",
   "date": "2026-02-01",
-  "generated": "2026-02-01T16:48:42.391Z",
+  "generated": "2026-02-01T15:43:04.881Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -278,7 +278,7 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "MASSIVE Expansion: 32 New Runs",
+    "headline": "The Map Exploded",
     "body": "32/35 trails spinning, 0 freshly groomed. 25° and Cloudy. MASSIVE expansion: 32 new trails opened. The floodgates are open.",
     "debug": {
       "firedRules": [
@@ -304,10 +304,10 @@
       "totalRulesFired": 3,
       "headlineSelection": {
         "condition": "terrain_massive",
-        "variationIndex": 0,
+        "variationIndex": 5,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "The Map Exploded"
+        "previousHeadline": "Not Open Yet"
       },
       "dayOfWeek": "Sunday"
     }

@@ -2,7 +2,7 @@
   "resort": "cypressmountain",
   "resortName": "Cypress Mountain",
   "date": "2026-02-01",
-  "generated": "2026-02-01T16:48:49.300Z",
+  "generated": "2026-02-01T15:43:11.961Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,56 +23,19 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 32,
+          "today": 37,
           "yesterday": 37,
-          "delta": -5
+          "delta": 0
         },
         "groomedTrails": {
-          "today": 26,
+          "today": 31,
           "yesterday": 33,
-          "delta": -7
+          "delta": -2
         },
         "totalTrails": 96
       },
-      "newlyOpened": [
-        {
-          "name": "Sidewinder",
-          "difficulty": "Novice",
-          "area": "Nordic Lower Trails"
-        }
-      ],
-      "newlyClosed": [
-        {
-          "name": "Pop Fly",
-          "difficulty": "Black",
-          "area": "Nordic Ridge Trails"
-        },
-        {
-          "name": "Brothers Pass",
-          "difficulty": "Black",
-          "area": "Nordic Ridge Trails"
-        },
-        {
-          "name": "Russel",
-          "difficulty": "Black",
-          "area": "Nordic Ridge Trails"
-        },
-        {
-          "name": "Brothers Canyon West",
-          "difficulty": "Blue",
-          "area": "Nordic Ridge Trails"
-        },
-        {
-          "name": "Five Lakes",
-          "difficulty": "Novice",
-          "area": "Nordic Upper Trails"
-        },
-        {
-          "name": "4th Lake",
-          "difficulty": "Novice",
-          "area": "Nordic Upper Trails"
-        }
-      ],
+      "newlyOpened": [],
+      "newlyClosed": [],
       "newlyGroomed": [],
       "ungroomed": [
         {
@@ -150,13 +113,11 @@
     "flags": {
       "hasFreshSnow": false,
       "isPowderDay": false,
-      "hasNewTrails": true,
+      "hasNewTrails": false,
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [
-      "1 new trail opened today"
-    ],
+    "alerts": [],
     "trends": [
       "2\" snow expected Monday"
     ],
@@ -164,7 +125,7 @@
   },
   "morningBrief": {
     "headline": "Last Chance This Week",
-    "body": "32 of 96 trails are open with 26 groomed. Rain with a temperatures TBD. Light snow possible in the forecast.",
+    "body": "37 of 96 trails are open with 31 groomed. Rain with a temperatures TBD. Light snow possible in the forecast.",
     "debug": {
       "firedRules": [
         {

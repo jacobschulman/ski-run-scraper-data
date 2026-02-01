@@ -2,7 +2,7 @@
   "resort": "banff",
   "resortName": "Banff Sunshine Village",
   "date": "2026-02-01",
-  "generated": "2026-02-01T16:48:58.305Z",
+  "generated": "2026-02-01T15:43:22.178Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,14 +23,14 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 113,
+          "today": 114,
           "yesterday": 115,
-          "delta": -2
+          "delta": -1
         },
         "groomedTrails": {
-          "today": 50,
+          "today": 51,
           "yesterday": 49,
-          "delta": 1
+          "delta": 2
         },
         "totalTrails": 120
       },
@@ -38,11 +38,6 @@
       "newlyClosed": [
         {
           "name": "GE. Wildfire",
-          "difficulty": "Blue",
-          "area": "All Terrain"
-        },
-        {
-          "name": "Wa. Tincan Alley",
           "difficulty": "Blue",
           "area": "All Terrain"
         }
@@ -86,6 +81,11 @@
         {
           "name": "Wa. The Waterfall",
           "difficulty": "Black",
+          "area": "All Terrain"
+        },
+        {
+          "name": "Wa. Tincan Alley",
+          "difficulty": "Blue",
           "area": "All Terrain"
         }
       ],
@@ -143,7 +143,7 @@
       },
       "outlook": [
         {
-          "date": "2026-02-02T16:48:58.304Z",
+          "date": "2026-02-02T15:43:22.177Z",
           "high_f": 32,
           "low_f": 24.8,
           "high_c": 0,
@@ -154,7 +154,7 @@
           "snowfall_expected": 0
         },
         {
-          "date": "2026-02-03T16:48:58.304Z",
+          "date": "2026-02-03T15:43:22.177Z",
           "high_f": 33.8,
           "low_f": 24.8,
           "high_c": 1,
@@ -166,7 +166,7 @@
         }
       ],
       "tomorrow": {
-        "date": "2026-02-02T16:48:58.304Z",
+        "date": "2026-02-02T15:43:22.177Z",
         "high_f": 32,
         "low_f": 24.8,
         "high_c": 0,
@@ -186,7 +186,7 @@
       "significantGroomingIncrease": false
     },
     "alerts": [
-      "8 trails freshly groomed"
+      "9 trails freshly groomed"
     ],
     "trends": [],
     "recommendations": [
@@ -196,14 +196,14 @@
     ]
   },
   "morningBrief": {
-    "headline": "Last Chance This Week",
-    "body": "The rundown: 113 trails open, 50 groomed. Unknown with temps around 35.6°. 8 runs freshly groomed, mostly in All Terrain.",
+    "headline": "The Whole Mountain Awaits",
+    "body": "The rundown: 114 trails open, 51 groomed. Unknown with temps around 35.6°. 9 runs freshly groomed, mostly in All Terrain.",
     "debug": {
       "firedRules": [
         {
-          "id": "time_sunday",
-          "category": "time",
-          "priority": 38,
+          "id": "percent_full",
+          "category": "terrain",
+          "priority": 45,
           "usedFor": "headline"
         },
         {
@@ -219,10 +219,10 @@
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 3,
+      "totalRulesFired": 4,
       "headlineSelection": {
-        "condition": "sunday",
-        "variationIndex": 4,
+        "condition": "percent_full",
+        "variationIndex": 1,
         "totalVariations": 5,
         "usedWeekendVariation": false,
         "previousHeadline": "Nearly Everything Open"

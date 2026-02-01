@@ -1,8 +1,8 @@
 {
   "resort": "beavercreek",
   "resortName": "Beaver Creek",
-  "date": "2026-02-01",
-  "generated": "2026-02-01T07:44:07.652Z",
+  "date": "2026-01-31",
+  "generated": "2026-01-31T13:07:56.475Z",
   "rawData": {
     "terrain": {
       "stats": {
@@ -12,16 +12,15 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 30,
-          "yesterday": 32,
-          "delta": -2
+          "today": 32,
+          "yesterday": 35,
+          "delta": -3
         },
         "totalTrails": 183
       },
       "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [],
-      "ungroomed": [
+      "newlyGroomed": [
         {
           "name": "Stone Creek Meadows",
           "difficulty": "Blue",
@@ -29,6 +28,33 @@
         },
         {
           "name": "Sheephorn - Upper",
+          "difficulty": "Green",
+          "area": "Beaver Creek Upper"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Golden Eagle - Lower",
+          "difficulty": "Black",
+          "area": "Birds of Prey"
+        },
+        {
+          "name": "Golden Eagle - Upper",
+          "difficulty": "DoubleBlack",
+          "area": "Birds of Prey"
+        },
+        {
+          "name": "Middle Golden Eagle",
+          "difficulty": "DoubleBlack",
+          "area": "Birds of Prey"
+        },
+        {
+          "name": "Golden Eagle Connector",
+          "difficulty": "Black",
+          "area": "Beaver Creek Lower"
+        },
+        {
+          "name": "Powell",
           "difficulty": "Green",
           "area": "Beaver Creek Upper"
         }
@@ -43,9 +69,14 @@
       "hasNewTrails": false,
       "significantGroomingIncrease": false
     },
-    "alerts": [],
+    "alerts": [
+      "2 trails freshly groomed"
+    ],
     "trends": [],
-    "recommendations": []
+    "recommendations": [
+      "Fresh corduroy on Stone Creek Meadows - perfect for intermediate skiers",
+      "Fresh corduroy on Sheephorn - Upper - great for beginners"
+    ]
   },
   "morningBrief": null,
   "errors": []

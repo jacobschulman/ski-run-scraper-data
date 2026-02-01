@@ -1,44 +1,54 @@
 {
   "resort": "parkcity",
   "resortName": "Park City",
-  "date": "2026-02-01",
-  "generated": "2026-02-01T07:44:07.656Z",
+  "date": "2026-01-31",
+  "generated": "2026-01-31T13:07:56.479Z",
   "rawData": {
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 227,
+          "today": 226,
           "yesterday": 226,
-          "delta": 1
+          "delta": 0
         },
         "groomedTrails": {
-          "today": 79,
-          "yesterday": 77,
-          "delta": 2
+          "today": 77,
+          "yesterday": 76,
+          "delta": 1
         },
         "totalTrails": 349
       },
-      "newlyOpened": [
-        {
-          "name": "Doc's Run",
-          "difficulty": "Blue",
-          "area": "OBX/Saddleback/Sun Peak"
-        }
-      ],
+      "newlyOpened": [],
       "newlyClosed": [],
       "newlyGroomed": [
+        {
+          "name": "Tycoon",
+          "difficulty": "Black",
+          "area": "Bonanza/McConkey's/Pioneer"
+        },
+        {
+          "name": "Hidden Splendor",
+          "difficulty": "Blue",
+          "area": "Silverlode/Thaynes/Motherlode"
+        },
+        {
+          "name": "Sandman",
+          "difficulty": "Blue",
+          "area": "Day Break / Dreamscape / Dreamcatcher"
+        }
+      ],
+      "ungroomed": [
         {
           "name": "Sundog",
           "difficulty": "Black",
           "area": "Bonanza/McConkey's/Pioneer"
         },
         {
-          "name": "Doc's Run",
+          "name": "Serenity",
           "difficulty": "Blue",
-          "area": "OBX/Saddleback/Sun Peak"
+          "area": "Peak 5/9990/Tombstone"
         }
-      ],
-      "ungroomed": []
+      ]
     },
     "lifts": {
       "available": false
@@ -46,19 +56,17 @@
   },
   "computedInsights": {
     "flags": {
-      "hasNewTrails": true,
+      "hasNewTrails": false,
       "significantGroomingIncrease": false
     },
     "alerts": [
-      "1 new trail opened today",
-      "2 trails freshly groomed"
+      "3 trails freshly groomed"
     ],
-    "trends": [
-      "1 more trail open than yesterday"
-    ],
+    "trends": [],
     "recommendations": [
-      "Fresh corduroy on Sundog - challenging for advanced skiers",
-      "Fresh corduroy on Doc's Run - perfect for intermediate skiers"
+      "Fresh corduroy on Tycoon - challenging for advanced skiers",
+      "Fresh corduroy on Hidden Splendor - perfect for intermediate skiers",
+      "Fresh corduroy on Sandman - perfect for intermediate skiers"
     ]
   },
   "morningBrief": null,

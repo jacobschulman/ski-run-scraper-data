@@ -1,15 +1,15 @@
 {
   "resort": "keystone",
   "resortName": "Keystone",
-  "date": "2026-02-01",
-  "generated": "2026-02-01T07:44:07.659Z",
+  "date": "2026-01-31",
+  "generated": "2026-01-31T13:07:56.482Z",
   "rawData": {
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 99,
+          "today": 98,
           "yesterday": 98,
-          "delta": 1
+          "delta": 0
         },
         "groomedTrails": {
           "today": 50,
@@ -18,13 +18,7 @@
         },
         "totalTrails": 142
       },
-      "newlyOpened": [
-        {
-          "name": "Cat Dancer",
-          "difficulty": "Black",
-          "area": "North Peak"
-        }
-      ],
+      "newlyOpened": [],
       "newlyClosed": [],
       "newlyGroomed": [],
       "ungroomed": []
@@ -35,15 +29,11 @@
   },
   "computedInsights": {
     "flags": {
-      "hasNewTrails": true,
+      "hasNewTrails": false,
       "significantGroomingIncrease": false
     },
-    "alerts": [
-      "1 new trail opened today"
-    ],
-    "trends": [
-      "1 more trail open than yesterday"
-    ],
+    "alerts": [],
+    "trends": [],
     "recommendations": []
   },
   "morningBrief": null,

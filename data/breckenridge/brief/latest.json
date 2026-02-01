@@ -1,26 +1,148 @@
 {
   "resort": "breckenridge",
   "resortName": "Breckenridge",
-  "date": "2026-02-01",
-  "generated": "2026-02-01T07:44:07.654Z",
+  "date": "2026-01-31",
+  "generated": "2026-01-31T13:07:56.477Z",
   "rawData": {
     "terrain": {
       "stats": {
         "openTrails": {
           "today": 121,
-          "yesterday": 121,
-          "delta": 0
+          "yesterday": 103,
+          "delta": 18
         },
         "groomedTrails": {
           "today": 49,
-          "yesterday": 49,
-          "delta": 0
+          "yesterday": 42,
+          "delta": 7
         },
         "totalTrails": 193
       },
-      "newlyOpened": [],
+      "newlyOpened": [
+        {
+          "name": "Cimarron",
+          "difficulty": "Black",
+          "area": "Peak 10"
+        },
+        {
+          "name": "Corsair",
+          "difficulty": "Black",
+          "area": "Peak 10"
+        },
+        {
+          "name": "Spitfire",
+          "difficulty": "Black",
+          "area": "Peak 10"
+        },
+        {
+          "name": "Southern Cross",
+          "difficulty": "DoubleBlack",
+          "area": "Peak 8"
+        },
+        {
+          "name": "Sundown Access",
+          "difficulty": "Green",
+          "area": "Peak 9"
+        },
+        {
+          "name": "Gold King",
+          "difficulty": "Blue",
+          "area": "Peak 9"
+        },
+        {
+          "name": "Peerless",
+          "difficulty": "Black",
+          "area": "Peak 9"
+        },
+        {
+          "name": "Volunteer",
+          "difficulty": "Black",
+          "area": "Peak 9"
+        },
+        {
+          "name": "Devil's Crotch",
+          "difficulty": "DoubleBlack",
+          "area": "Peak 9"
+        },
+        {
+          "name": "Mine Shaft",
+          "difficulty": "DoubleBlack",
+          "area": "Peak 9"
+        },
+        {
+          "name": "Alpine Alley",
+          "difficulty": "Black",
+          "area": "T-Bar"
+        },
+        {
+          "name": "Brill's Thrill",
+          "difficulty": "DoubleBlack",
+          "area": "T-Bar"
+        },
+        {
+          "name": "Eagle's Nest",
+          "difficulty": "DoubleBlack",
+          "area": "T-Bar"
+        },
+        {
+          "name": "Humbug",
+          "difficulty": "DoubleBlack",
+          "area": "T-Bar"
+        },
+        {
+          "name": "Lulu",
+          "difficulty": "DoubleBlack",
+          "area": "T-Bar"
+        },
+        {
+          "name": "Mule",
+          "difficulty": "DoubleBlack",
+          "area": "T-Bar"
+        },
+        {
+          "name": "Outlaw",
+          "difficulty": "DoubleBlack",
+          "area": "T-Bar"
+        },
+        {
+          "name": "Rustler",
+          "difficulty": "DoubleBlack",
+          "area": "T-Bar"
+        }
+      ],
       "newlyClosed": [],
-      "newlyGroomed": [],
+      "newlyGroomed": [
+        {
+          "name": "Centennial",
+          "difficulty": "Black",
+          "area": "Peak 10"
+        },
+        {
+          "name": "Cimarron",
+          "difficulty": "Black",
+          "area": "Peak 10"
+        },
+        {
+          "name": "Crystal",
+          "difficulty": "Black",
+          "area": "Peak 10"
+        },
+        {
+          "name": "Doublejack",
+          "difficulty": "Black",
+          "area": "Peak 10"
+        },
+        {
+          "name": "Flapjack",
+          "difficulty": "Black",
+          "area": "Peak 10"
+        },
+        {
+          "name": "Sawmill",
+          "difficulty": "Green",
+          "area": "Peak 9"
+        }
+      ],
       "ungroomed": []
     },
     "lifts": {
@@ -29,12 +151,21 @@
   },
   "computedInsights": {
     "flags": {
-      "hasNewTrails": false,
+      "hasNewTrails": true,
       "significantGroomingIncrease": false
     },
-    "alerts": [],
-    "trends": [],
-    "recommendations": []
+    "alerts": [
+      "18 new trails opened today",
+      "6 trails freshly groomed"
+    ],
+    "trends": [
+      "18 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Centennial - challenging for advanced skiers",
+      "Fresh corduroy on Cimarron - challenging for advanced skiers",
+      "Fresh corduroy on Crystal - challenging for advanced skiers"
+    ]
   },
   "morningBrief": null,
   "errors": []

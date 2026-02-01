@@ -1,8 +1,8 @@
 {
   "resort": "crestedbutte",
   "resortName": "Crested Butte",
-  "date": "2026-02-01",
-  "generated": "2026-02-01T07:44:07.660Z",
+  "date": "2026-01-31",
+  "generated": "2026-01-31T13:07:56.484Z",
   "rawData": {
     "terrain": {
       "stats": {
@@ -20,8 +20,30 @@
       },
       "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [],
-      "ungroomed": []
+      "newlyGroomed": [
+        {
+          "name": "Breakfast Trail",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "North Pass",
+          "difficulty": "Blue",
+          "area": "Ten Peaks"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Fallaway",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Prospector",
+          "difficulty": "Blue",
+          "area": "Ten Peaks"
+        }
+      ]
     },
     "lifts": {
       "available": false
@@ -32,9 +54,14 @@
       "hasNewTrails": false,
       "significantGroomingIncrease": false
     },
-    "alerts": [],
+    "alerts": [
+      "2 trails freshly groomed"
+    ],
     "trends": [],
-    "recommendations": []
+    "recommendations": [
+      "Fresh corduroy on Breakfast Trail - perfect for intermediate skiers",
+      "Fresh corduroy on North Pass - perfect for intermediate skiers"
+    ]
   },
   "morningBrief": null,
   "errors": []

@@ -2,8 +2,8 @@
   "resort": "paolipeaks",
   "resortName": "Paoli Peaks",
   "provider": "vail",
-  "date": "2026-02-02",
-  "timestamp": "2026-02-02T05:50:45.748Z",
+  "date": "2026-02-01",
+  "timestamp": "2026-02-02T03:12:03.305Z",
   "lastUpdated": "Updated January 26, 2026 at 10:05 AM CST",
   "conditions": "Packed Powder",
   "snowfall": {
@@ -22,5 +22,75 @@
     "inches": 28,
     "cm": 71
   },
-  "forecast": null
+  "forecast": {
+    "locations": [
+      {
+        "name": "Unknown",
+        "elevation": null,
+        "today": {
+          "high_f": 23,
+          "high_c": -5,
+          "low_f": 5,
+          "low_c": -15,
+          "description": "Mostly Clear",
+          "wind": "SW",
+          "wind_speed": 4,
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0
+        },
+        "forecast_days": [
+          {
+            "date": "2026-02-01T05:00:00Z",
+            "high_f": 23,
+            "high_c": -5,
+            "low_f": 5,
+            "low_c": -15,
+            "description": "Mostly Clear",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2026-02-02T05:00:00Z",
+            "high_f": 31,
+            "high_c": -1,
+            "low_f": 18,
+            "low_c": -8,
+            "description": "Cloudy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2026-02-03T05:00:00Z",
+            "high_f": 33,
+            "high_c": null,
+            "low_f": 24,
+            "low_c": -4,
+            "description": "Cloudy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2026-02-04T05:00:00Z",
+            "high_f": 24,
+            "high_c": -4,
+            "low_f": 15,
+            "low_c": -10,
+            "description": "Mostly Clear",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2026-02-05T05:00:00Z",
+            "high_f": 25,
+            "high_c": -4,
+            "low_f": 12,
+            "low_c": -11,
+            "description": "Mostly Clear",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          }
+        ]
+      }
+    ]
+  }
 }

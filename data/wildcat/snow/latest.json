@@ -2,8 +2,8 @@
   "resort": "wildcat",
   "resortName": "Wildcat Mountain",
   "provider": "vail",
-  "date": "2026-02-02",
-  "timestamp": "2026-02-02T05:45:35.781Z",
+  "date": "2026-02-01",
+  "timestamp": "2026-02-02T03:05:56.316Z",
   "lastUpdated": "Updated February 01, 2026 at 8:19 AM EST",
   "conditions": "Powder",
   "snowfall": {
@@ -22,5 +22,75 @@
     "inches": 14,
     "cm": 35
   },
-  "forecast": null
+  "forecast": {
+    "locations": [
+      {
+        "name": "Unknown",
+        "elevation": null,
+        "today": {
+          "high_f": 18,
+          "high_c": -8,
+          "low_f": -7,
+          "low_c": -22,
+          "description": "Partly Cloudy",
+          "wind": "NNW",
+          "wind_speed": 8.24,
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0
+        },
+        "forecast_days": [
+          {
+            "date": "2026-02-01T05:00:00Z",
+            "high_f": 18,
+            "high_c": -8,
+            "low_f": -7,
+            "low_c": -22,
+            "description": "Partly Cloudy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2026-02-02T05:00:00Z",
+            "high_f": 24,
+            "high_c": -4,
+            "low_f": 4,
+            "low_c": -16,
+            "description": "Clear",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2026-02-03T05:00:00Z",
+            "high_f": 27,
+            "high_c": -3,
+            "low_f": 7,
+            "low_c": -14,
+            "description": "Mostly Clear",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2026-02-04T05:00:00Z",
+            "high_f": 24,
+            "high_c": -5,
+            "low_f": 11,
+            "low_c": -12,
+            "description": "Partly Cloudy",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          },
+          {
+            "date": "2026-02-05T05:00:00Z",
+            "high_f": 21,
+            "high_c": -7,
+            "low_f": 3,
+            "low_c": -16,
+            "description": "Clear",
+            "snowfall_day_inches": 0,
+            "snowfall_night_inches": 0
+          }
+        ]
+      }
+    ]
+  }
 }

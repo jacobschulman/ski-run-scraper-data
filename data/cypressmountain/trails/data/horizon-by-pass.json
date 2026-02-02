@@ -7,7 +7,7 @@
   "difficulty": "Blue",
   "trailType": "downhill",
   "currentStatus": {
-    "date": "2026-02-02",
+    "date": "2026-02-01",
     "isOpen": false,
     "isGroomed": false,
     "groomingStatus": null,
@@ -15,7 +15,7 @@
   },
   "stats": {
     "seasonStartDate": "2025-11-20",
-    "daysTracked": 55,
+    "daysTracked": 54,
     "daysGroomed": 17,
     "groomingPercentage": 31,
     "currentStreak": 0,
@@ -30,9 +30,9 @@
       },
       {
         "day": "Mon",
-        "percentage": 33,
+        "percentage": 38,
         "groomed": 3,
-        "total": 9
+        "total": 8
       },
       {
         "day": "Tue",
@@ -67,13 +67,6 @@
     ]
   },
   "history": [
-    {
-      "date": "2026-02-02",
-      "isOpen": false,
-      "isGroomed": false,
-      "groomingStatus": null,
-      "groomingType": "downhill"
-    },
     {
       "date": "2026-02-01",
       "isOpen": false,
@@ -453,5 +446,5 @@
       "groomingType": "downhill"
     }
   ],
-  "generated": "2026-02-02T09:09:30.788Z"
+  "generated": "2026-02-02T07:30:42.690Z"
 }

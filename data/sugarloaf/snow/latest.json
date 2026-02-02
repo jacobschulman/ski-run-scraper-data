@@ -2,7 +2,7 @@
   "resort": "sugarloaf",
   "resortName": "Sugarloaf",
   "date": "2026-02-02",
-  "timestamp": "2026-02-02T05:52:44.448Z",
+  "timestamp": "2026-02-02T10:14:15.345Z",
   "lastUpdated": "2026-02-01T20:50:01Z",
   "conditions": "Packed Powder",
   "operatingStatus": null,
@@ -40,7 +40,7 @@
   },
   "forecast": {
     "location": "Sugarloaf",
-    "issuedAt": "2026-02-01T22:46:24-0700",
+    "issuedAt": "2026-02-02T03:11:44-0700",
     "temp_high_f": 14,
     "temp_low_f": 12,
     "forecasted_snow_in": 0,
@@ -59,11 +59,11 @@
         "date": "2026-02-02",
         "skies": "Windy. Windy",
         "conditions": "Windy",
-        "temp_high_f": 15,
-        "temp_low_f": 14,
+        "temp_high_f": 16,
+        "temp_low_f": 13,
         "forecasted_snow_in": 0,
-        "wind": "NW",
-        "wind_speed_mph": 24
+        "wind": "NNW",
+        "wind_speed_mph": 23
       },
       {
         "date": "2026-02-03",
@@ -72,28 +72,28 @@
         "temp_high_f": 15,
         "temp_low_f": 12,
         "forecasted_snow_in": 0,
-        "wind": "WNW",
+        "wind": "W",
         "wind_speed_mph": 7
       },
       {
         "date": "2026-02-04",
         "skies": "Windy. Windy",
         "conditions": "Windy",
-        "temp_high_f": 11,
-        "temp_low_f": 8,
+        "temp_high_f": 12,
+        "temp_low_f": 9,
         "forecasted_snow_in": 1,
-        "wind": "WNW",
-        "wind_speed_mph": 14
+        "wind": "NW",
+        "wind_speed_mph": 13
       },
       {
         "date": "2026-02-05",
         "skies": "Windy. Windy",
         "conditions": "Windy",
-        "temp_high_f": 8,
+        "temp_high_f": 9,
         "temp_low_f": 6,
-        "forecasted_snow_in": 0,
-        "wind": "NW",
-        "wind_speed_mph": 22
+        "forecasted_snow_in": 1,
+        "wind": "WNW",
+        "wind_speed_mph": 20
       }
     ],
     "locations": [
@@ -117,8 +117,8 @@
           },
           {
             "date": "2026-02-02",
-            "high_f": 15,
-            "low_f": 14,
+            "high_f": 16,
+            "low_f": 13,
             "description": "Windy",
             "snowfall_day_inches": 0
           },
@@ -131,17 +131,17 @@
           },
           {
             "date": "2026-02-04",
-            "high_f": 11,
-            "low_f": 8,
+            "high_f": 12,
+            "low_f": 9,
             "description": "Windy",
             "snowfall_day_inches": 1
           },
           {
             "date": "2026-02-05",
-            "high_f": 8,
+            "high_f": 9,
             "low_f": 6,
             "description": "Windy",
-            "snowfall_day_inches": 0
+            "snowfall_day_inches": 1
           }
         ]
       }

@@ -1,12 +1,12 @@
 {
   "date": "2026-02-02",
-  "generated": "2026-02-02T02:56:51.291Z",
+  "generated": "2026-02-02T03:14:23.772Z",
   "superlatives": {
     "snow_overnight_max": {
-      "resort": "sevensprings",
-      "name": "Seven Springs",
-      "region": "Pennsylvania",
-      "value": 1
+      "resort": "norquay",
+      "name": "Mt Norquay",
+      "region": null,
+      "value": 0
     },
     "snow_overnight_min": {
       "resort": "norquay",
@@ -15,9 +15,9 @@
       "value": 0
     },
     "snow_24h_max": {
-      "resort": "sevensprings",
-      "name": "Seven Springs",
-      "region": "Pennsylvania",
+      "resort": "brandywine",
+      "name": "Brandywine",
+      "region": "Midwest",
       "value": 1
     },
     "snow_24h_min": {
@@ -27,16 +27,16 @@
       "value": 0
     },
     "snow_48h_max": {
-      "resort": "whistlerblackcomb",
-      "name": "Whistler Blackcomb",
+      "resort": "lakelouise",
+      "name": "Lake Louise",
       "region": "Western Canada",
-      "value": 3
+      "value": 2.4
     },
     "snow_7day_max": {
-      "resort": "sevensprings",
-      "name": "Seven Springs",
+      "resort": "bigboulder",
+      "name": "Big Boulder",
       "region": "Pennsylvania",
-      "value": 26
+      "value": 24
     },
     "snow_season_max": {
       "resort": "lakelouise",
@@ -99,10 +99,10 @@
       "value": 1
     },
     "lifts_open_count_max": {
-      "resort": "copper",
-      "name": "Copper Mountain",
-      "region": "Colorado",
-      "value": 18
+      "resort": "palisades",
+      "name": "Palisades Tahoe",
+      "region": "California",
+      "value": 29
     },
     "lifts_open_pct_max": {
       "resort": "norquay",
@@ -113,24 +113,6 @@
   },
   "rankings": {
     "snow_overnight": [
-      {
-        "resort": "keystone",
-        "name": "Keystone",
-        "region": "Colorado",
-        "value": 1
-      },
-      {
-        "resort": "hiddenvalley",
-        "name": "Hidden Valley",
-        "region": "Midwest",
-        "value": 1
-      },
-      {
-        "resort": "sevensprings",
-        "name": "Seven Springs",
-        "region": "Pennsylvania",
-        "value": 1
-      },
       {
         "resort": "vail",
         "name": "Vail",
@@ -153,6 +135,12 @@
         "resort": "parkcity",
         "name": "Park City",
         "region": "Utah",
+        "value": 0
+      },
+      {
+        "resort": "keystone",
+        "name": "Keystone",
+        "region": "Colorado",
         "value": 0
       },
       {
@@ -246,8 +234,20 @@
         "value": 0
       },
       {
+        "resort": "hiddenvalley",
+        "name": "Hidden Valley",
+        "region": "Midwest",
+        "value": 0
+      },
+      {
         "resort": "laurelmountain",
         "name": "Laurel Mountain",
+        "region": "Pennsylvania",
+        "value": 0
+      },
+      {
+        "resort": "sevensprings",
+        "name": "Seven Springs",
         "region": "Pennsylvania",
         "value": 0
       },
@@ -500,9 +500,39 @@
         "value": 1
       },
       {
+        "resort": "laurelmountain",
+        "name": "Laurel Mountain",
+        "region": "Pennsylvania",
+        "value": 1
+      },
+      {
         "resort": "sevensprings",
         "name": "Seven Springs",
         "region": "Pennsylvania",
+        "value": 1
+      },
+      {
+        "resort": "aftonalps",
+        "name": "Afton Alps",
+        "region": "Midwest",
+        "value": 1
+      },
+      {
+        "resort": "mtbrighton",
+        "name": "Mt Brighton",
+        "region": "Midwest",
+        "value": 1
+      },
+      {
+        "resort": "bostonmills",
+        "name": "Boston Mills",
+        "region": "Midwest",
+        "value": 1
+      },
+      {
+        "resort": "brandywine",
+        "name": "Brandywine",
+        "region": "Midwest",
         "value": 1
       },
       {
@@ -620,44 +650,14 @@
         "value": 0
       },
       {
-        "resort": "laurelmountain",
-        "name": "Laurel Mountain",
-        "region": "Pennsylvania",
-        "value": 0
-      },
-      {
         "resort": "wilmot",
         "name": "Wilmot Mountain",
         "region": "Midwest",
         "value": 0
       },
       {
-        "resort": "aftonalps",
-        "name": "Afton Alps",
-        "region": "Midwest",
-        "value": 0
-      },
-      {
-        "resort": "mtbrighton",
-        "name": "Mt Brighton",
-        "region": "Midwest",
-        "value": 0
-      },
-      {
         "resort": "alpinevalley",
         "name": "Alpine Valley",
-        "region": "Midwest",
-        "value": 0
-      },
-      {
-        "resort": "bostonmills",
-        "name": "Boston Mills",
-        "region": "Midwest",
-        "value": 0
-      },
-      {
-        "resort": "brandywine",
-        "name": "Brandywine",
         "region": "Midwest",
         "value": 0
       },
@@ -862,12 +862,6 @@
     ],
     "snow_48h": [
       {
-        "resort": "whistlerblackcomb",
-        "name": "Whistler Blackcomb",
-        "region": "Western Canada",
-        "value": 3
-      },
-      {
         "resort": "lakelouise",
         "name": "Lake Louise",
         "region": "Western Canada",
@@ -892,6 +886,12 @@
         "value": 1
       },
       {
+        "resort": "laurelmountain",
+        "name": "Laurel Mountain",
+        "region": "Pennsylvania",
+        "value": 1
+      },
+      {
         "resort": "sevensprings",
         "name": "Seven Springs",
         "region": "Pennsylvania",
@@ -904,9 +904,39 @@
         "value": 1
       },
       {
+        "resort": "aftonalps",
+        "name": "Afton Alps",
+        "region": "Midwest",
+        "value": 1
+      },
+      {
+        "resort": "mtbrighton",
+        "name": "Mt Brighton",
+        "region": "Midwest",
+        "value": 1
+      },
+      {
+        "resort": "bostonmills",
+        "name": "Boston Mills",
+        "region": "Midwest",
+        "value": 1
+      },
+      {
+        "resort": "brandywine",
+        "name": "Brandywine",
+        "region": "Midwest",
+        "value": 1
+      },
+      {
         "resort": "madrivermountain",
         "name": "Mad River Mountain",
         "region": "Midwest",
+        "value": 1
+      },
+      {
+        "resort": "whistlerblackcomb",
+        "name": "Whistler Blackcomb",
+        "region": "Western Canada",
         "value": 1
       },
       {
@@ -1036,38 +1066,8 @@
         "value": 0
       },
       {
-        "resort": "laurelmountain",
-        "name": "Laurel Mountain",
-        "region": "Pennsylvania",
-        "value": 0
-      },
-      {
-        "resort": "aftonalps",
-        "name": "Afton Alps",
-        "region": "Midwest",
-        "value": 0
-      },
-      {
-        "resort": "mtbrighton",
-        "name": "Mt Brighton",
-        "region": "Midwest",
-        "value": 0
-      },
-      {
         "resort": "alpinevalley",
         "name": "Alpine Valley",
-        "region": "Midwest",
-        "value": 0
-      },
-      {
-        "resort": "bostonmills",
-        "name": "Boston Mills",
-        "region": "Midwest",
-        "value": 0
-      },
-      {
-        "resort": "brandywine",
-        "name": "Brandywine",
         "region": "Midwest",
         "value": 0
       },
@@ -1236,12 +1236,6 @@
     ],
     "snow_7day": [
       {
-        "resort": "sevensprings",
-        "name": "Seven Springs",
-        "region": "Pennsylvania",
-        "value": 26
-      },
-      {
         "resort": "jackfrost",
         "name": "Jack Frost",
         "region": "Pennsylvania",
@@ -1296,16 +1290,10 @@
         "value": 19
       },
       {
-        "resort": "madrivermountain",
-        "name": "Mad River Mountain",
-        "region": "Midwest",
-        "value": 18
-      },
-      {
-        "resort": "paolipeaks",
-        "name": "Paoli Peaks",
-        "region": "Midwest",
-        "value": 18
+        "resort": "sevensprings",
+        "name": "Seven Springs",
+        "region": "Pennsylvania",
+        "value": 19
       },
       {
         "resort": "loon",
@@ -1320,40 +1308,16 @@
         "value": 17
       },
       {
-        "resort": "hiddenvalley",
-        "name": "Hidden Valley",
-        "region": "Midwest",
-        "value": 17
-      },
-      {
         "resort": "sugarloaf",
         "name": "Sugarloaf",
         "region": "New Hampshire/Maine",
         "value": 16
       },
       {
-        "resort": "laurelmountain",
-        "name": "Laurel Mountain",
-        "region": "Pennsylvania",
-        "value": 15
-      },
-      {
-        "resort": "alpinevalley",
-        "name": "Alpine Valley",
+        "resort": "madrivermountain",
+        "name": "Mad River Mountain",
         "region": "Midwest",
-        "value": 15
-      },
-      {
-        "resort": "bostonmills",
-        "name": "Boston Mills",
-        "region": "Midwest",
-        "value": 14
-      },
-      {
-        "resort": "brandywine",
-        "name": "Brandywine",
-        "region": "Midwest",
-        "value": 14
+        "value": 13
       },
       {
         "resort": "stratton",
@@ -1362,15 +1326,15 @@
         "value": 13
       },
       {
-        "resort": "roundtop",
-        "name": "Roundtop Mountain",
-        "region": "Pennsylvania",
-        "value": 11
-      },
-      {
         "resort": "whistlerblackcomb",
         "name": "Whistler Blackcomb",
         "region": "Western Canada",
+        "value": 12
+      },
+      {
+        "resort": "hiddenvalley",
+        "name": "Hidden Valley",
+        "region": "Midwest",
         "value": 11
       },
       {
@@ -1378,6 +1342,12 @@
         "name": "Steamboat",
         "region": "Colorado",
         "value": 11
+      },
+      {
+        "resort": "laurelmountain",
+        "name": "Laurel Mountain",
+        "region": "Pennsylvania",
+        "value": 10
       },
       {
         "resort": "blue",
@@ -1392,15 +1362,15 @@
         "value": 8
       },
       {
-        "resort": "whitetail",
-        "name": "Whitetail",
-        "region": "Pennsylvania",
+        "resort": "bostonmills",
+        "name": "Boston Mills",
+        "region": "Midwest",
         "value": 8
       },
       {
-        "resort": "bigsky",
-        "name": "Big Sky",
-        "region": "Wyoming/Montana",
+        "resort": "brandywine",
+        "name": "Brandywine",
+        "region": "Midwest",
         "value": 8
       },
       {
@@ -1410,21 +1380,39 @@
         "value": 8
       },
       {
+        "resort": "alpinevalley",
+        "name": "Alpine Valley",
+        "region": "Midwest",
+        "value": 7
+      },
+      {
+        "resort": "bigsky",
+        "name": "Big Sky",
+        "region": "Wyoming/Montana",
+        "value": 7
+      },
+      {
         "resort": "keystone",
         "name": "Keystone",
         "region": "Colorado",
         "value": 6
       },
       {
-        "resort": "beavercreek",
-        "name": "Beaver Creek",
-        "region": "Colorado",
-        "value": 5
-      },
-      {
         "resort": "mtbrighton",
         "name": "Mt Brighton",
         "region": "Midwest",
+        "value": 6
+      },
+      {
+        "resort": "paolipeaks",
+        "name": "Paoli Peaks",
+        "region": "Midwest",
+        "value": 6
+      },
+      {
+        "resort": "beavercreek",
+        "name": "Beaver Creek",
+        "region": "Colorado",
         "value": 5
       },
       {
@@ -1476,6 +1464,12 @@
         "value": 2
       },
       {
+        "resort": "roundtop",
+        "name": "Roundtop Mountain",
+        "region": "Pennsylvania",
+        "value": 2
+      },
+      {
         "resort": "palisades",
         "name": "Palisades Tahoe",
         "region": "California",
@@ -1506,6 +1500,12 @@
         "value": 1
       },
       {
+        "resort": "aftonalps",
+        "name": "Afton Alps",
+        "region": "Midwest",
+        "value": 1
+      },
+      {
         "resort": "deervalley",
         "name": "Deer Valley",
         "region": "Utah",
@@ -1530,9 +1530,9 @@
         "value": 0
       },
       {
-        "resort": "aftonalps",
-        "name": "Afton Alps",
-        "region": "Midwest",
+        "resort": "whitetail",
+        "name": "Whitetail",
+        "region": "Pennsylvania",
         "value": 0
       },
       {
@@ -1631,7 +1631,7 @@
         "resort": "whistlerblackcomb",
         "name": "Whistler Blackcomb",
         "region": "Western Canada",
-        "value": 201
+        "value": 202
       },
       {
         "resort": "kirkwood",
@@ -1811,7 +1811,7 @@
         "resort": "laurelmountain",
         "name": "Laurel Mountain",
         "region": "Pennsylvania",
-        "value": 72
+        "value": 73
       },
       {
         "resort": "hunter",
@@ -1847,13 +1847,13 @@
         "resort": "bostonmills",
         "name": "Boston Mills",
         "region": "Midwest",
-        "value": 42
+        "value": 43
       },
       {
         "resort": "brandywine",
         "name": "Brandywine",
         "region": "Midwest",
-        "value": 42
+        "value": 43
       },
       {
         "resort": "mountsunapee",
@@ -1865,7 +1865,7 @@
         "resort": "mtbrighton",
         "name": "Mt Brighton",
         "region": "Midwest",
-        "value": 39
+        "value": 40
       },
       {
         "resort": "madrivermountain",
@@ -1895,7 +1895,7 @@
         "resort": "aftonalps",
         "name": "Afton Alps",
         "region": "Midwest",
-        "value": 20
+        "value": 21
       },
       {
         "resort": "whitetail",
@@ -2379,19 +2379,19 @@
         "resort": "palisades",
         "name": "Palisades Tahoe",
         "region": "California",
-        "value": 215
+        "value": 224
+      },
+      {
+        "resort": "mammoth",
+        "name": "Mammoth Mountain",
+        "region": "California",
+        "value": 188
       },
       {
         "resort": "snowbird",
         "name": "Snowbird",
         "region": "Utah",
         "value": 184
-      },
-      {
-        "resort": "mammoth",
-        "name": "Mammoth Mountain",
-        "region": "California",
-        "value": 180
       },
       {
         "resort": "killington",
@@ -2810,6 +2810,12 @@
         "value": 0.985
       },
       {
+        "resort": "mammoth",
+        "name": "Mammoth Mountain",
+        "region": "California",
+        "value": 0.984
+      },
+      {
         "resort": "heavenly",
         "name": "Heavenly",
         "region": "California",
@@ -2838,12 +2844,6 @@
         "name": "Roundtop Mountain",
         "region": "Pennsylvania",
         "value": 0.952
-      },
-      {
-        "resort": "mammoth",
-        "name": "Mammoth Mountain",
-        "region": "California",
-        "value": 0.942
       },
       {
         "resort": "stowe",
@@ -3026,16 +3026,16 @@
         "value": 0.775
       },
       {
+        "resort": "palisades",
+        "name": "Palisades Tahoe",
+        "region": "California",
+        "value": 0.744
+      },
+      {
         "resort": "keystone",
         "name": "Keystone",
         "region": "Colorado",
         "value": 0.725
-      },
-      {
-        "resort": "palisades",
-        "name": "Palisades Tahoe",
-        "region": "California",
-        "value": 0.714
       },
       {
         "resort": "copper",
@@ -3648,12 +3648,6 @@
         "value": 0.6
       },
       {
-        "resort": "mammoth",
-        "name": "Mammoth Mountain",
-        "region": "California",
-        "value": 0.594
-      },
-      {
         "resort": "crystal",
         "name": "Crystal Mountain",
         "region": "Pacific Northwest",
@@ -3664,6 +3658,12 @@
         "name": "Stevens Pass",
         "region": "Pacific Northwest",
         "value": 0.588
+      },
+      {
+        "resort": "mammoth",
+        "name": "Mammoth Mountain",
+        "region": "California",
+        "value": 0.569
       },
       {
         "resort": "tremblant",
@@ -3801,7 +3801,7 @@
         "resort": "palisades",
         "name": "Palisades Tahoe",
         "region": "California",
-        "value": 0.4
+        "value": 0.384
       },
       {
         "resort": "parkcity",
@@ -3878,6 +3878,18 @@
     ],
     "lifts_open_count": [
       {
+        "resort": "palisades",
+        "name": "Palisades Tahoe",
+        "region": "California",
+        "value": 29
+      },
+      {
+        "resort": "mammoth",
+        "name": "Mammoth Mountain",
+        "region": "California",
+        "value": 24
+      },
+      {
         "resort": "copper",
         "name": "Copper Mountain",
         "region": "Colorado",
@@ -3902,10 +3914,22 @@
         "value": 10
       },
       {
+        "resort": "blue",
+        "name": "Blue Mountain",
+        "region": "Eastern Canada",
+        "value": 9
+      },
+      {
         "resort": "crystal",
         "name": "Crystal Mountain",
         "region": "Pacific Northwest",
         "value": 8
+      },
+      {
+        "resort": "junemountain",
+        "name": "June Mountain",
+        "region": "California",
+        "value": 6
       },
       {
         "resort": "norquay",
@@ -3918,6 +3942,12 @@
         "name": "Cypress Mountain",
         "region": "Western Canada",
         "value": 4
+      },
+      {
+        "resort": "snowbird",
+        "name": "Snowbird",
+        "region": "Utah",
+        "value": 1
       },
       {
         "resort": "vail",
@@ -4148,12 +4178,6 @@
         "value": 0
       },
       {
-        "resort": "palisades",
-        "name": "Palisades Tahoe",
-        "region": "California",
-        "value": 0
-      },
-      {
         "resort": "jacksonhole",
         "name": "Jackson Hole",
         "region": "Wyoming/Montana",
@@ -4168,12 +4192,6 @@
       {
         "resort": "deervalley",
         "name": "Deer Valley",
-        "region": "Utah",
-        "value": 0
-      },
-      {
-        "resort": "snowbird",
-        "name": "Snowbird",
         "region": "Utah",
         "value": 0
       },
@@ -4208,18 +4226,6 @@
         "value": 0
       },
       {
-        "resort": "mammoth",
-        "name": "Mammoth Mountain",
-        "region": "California",
-        "value": 0
-      },
-      {
-        "resort": "junemountain",
-        "name": "June Mountain",
-        "region": "California",
-        "value": 0
-      },
-      {
         "resort": "killington",
         "name": "Killington",
         "region": "Vermont",
@@ -4246,12 +4252,6 @@
       {
         "resort": "tremblant",
         "name": "Tremblant",
-        "region": "Eastern Canada",
-        "value": 0
-      },
-      {
-        "resort": "blue",
-        "name": "Blue Mountain",
         "region": "Eastern Canada",
         "value": 0
       }
@@ -4276,10 +4276,34 @@
         "value": 1
       },
       {
+        "resort": "mammoth",
+        "name": "Mammoth Mountain",
+        "region": "California",
+        "value": 0.96
+      },
+      {
+        "resort": "junemountain",
+        "name": "June Mountain",
+        "region": "California",
+        "value": 0.857
+      },
+      {
+        "resort": "blue",
+        "name": "Blue Mountain",
+        "region": "Eastern Canada",
+        "value": 0.818
+      },
+      {
         "resort": "copper",
         "name": "Copper Mountain",
         "region": "Colorado",
         "value": 0.783
+      },
+      {
+        "resort": "palisades",
+        "name": "Palisades Tahoe",
+        "region": "California",
+        "value": 0.744
       },
       {
         "resort": "crystal",
@@ -4298,6 +4322,12 @@
         "name": "Cypress Mountain",
         "region": "Western Canada",
         "value": 0.667
+      },
+      {
+        "resort": "snowbird",
+        "name": "Snowbird",
+        "region": "Utah",
+        "value": 0.071
       },
       {
         "resort": "vail",
@@ -4528,12 +4558,6 @@
         "value": 0
       },
       {
-        "resort": "palisades",
-        "name": "Palisades Tahoe",
-        "region": "California",
-        "value": 0
-      },
-      {
         "resort": "jacksonhole",
         "name": "Jackson Hole",
         "region": "Wyoming/Montana",
@@ -4548,12 +4572,6 @@
       {
         "resort": "deervalley",
         "name": "Deer Valley",
-        "region": "Utah",
-        "value": 0
-      },
-      {
-        "resort": "snowbird",
-        "name": "Snowbird",
         "region": "Utah",
         "value": 0
       },
@@ -4588,18 +4606,6 @@
         "value": 0
       },
       {
-        "resort": "mammoth",
-        "name": "Mammoth Mountain",
-        "region": "California",
-        "value": 0
-      },
-      {
-        "resort": "junemountain",
-        "name": "June Mountain",
-        "region": "California",
-        "value": 0
-      },
-      {
         "resort": "killington",
         "name": "Killington",
         "region": "Vermont",
@@ -4626,12 +4632,6 @@
       {
         "resort": "tremblant",
         "name": "Tremblant",
-        "region": "Eastern Canada",
-        "value": 0
-      },
-      {
-        "resort": "blue",
-        "name": "Blue Mountain",
         "region": "Eastern Canada",
         "value": 0
       }
@@ -4666,7 +4666,7 @@
         "base_depth": 27.78,
         "trails_open_pct": 0.69,
         "trails_groomed_pct": 0.41,
-        "snow_overnight": 0.1
+        "snow_overnight": 0
       }
     },
     "New Mexico": {
@@ -4703,7 +4703,7 @@
         "trails_open": 651,
         "trails_groomed": 252,
         "trails_total": 883,
-        "lifts_open": 0,
+        "lifts_open": 1,
         "snow_24h": 0
       },
       "averages": {
@@ -4725,15 +4725,15 @@
       "resort_count": 6,
       "resorts_reporting": 6,
       "totals": {
-        "trails_open": 758,
+        "trails_open": 775,
         "trails_groomed": 374,
         "trails_total": 865,
-        "lifts_open": 0,
+        "lifts_open": 59,
         "snow_24h": 0
       },
       "averages": {
         "base_depth": 45.5,
-        "trails_open_pct": 0.93,
+        "trails_open_pct": 0.94,
         "trails_groomed_pct": 0.48,
         "snow_overnight": 0
       }
@@ -4868,13 +4868,13 @@
         "trails_groomed": 139,
         "trails_total": 171,
         "lifts_open": 0,
-        "snow_24h": 1
+        "snow_24h": 2
       },
       "averages": {
         "base_depth": 33.33,
         "trails_open_pct": 0.95,
         "trails_groomed_pct": 0.88,
-        "snow_overnight": 0.14
+        "snow_overnight": 0
       }
     },
     "Midwest": {
@@ -4897,13 +4897,13 @@
         "trails_groomed": 97,
         "trails_total": 179,
         "lifts_open": 0,
-        "snow_24h": 1
+        "snow_24h": 5
       },
       "averages": {
         "base_depth": 31.78,
         "trails_open_pct": 0.8,
         "trails_groomed_pct": 0.53,
-        "snow_overnight": 0.11
+        "snow_overnight": 0
       }
     },
     "Western Canada": {
@@ -4941,7 +4941,7 @@
         "trails_open": 187,
         "trails_groomed": 120,
         "trails_total": 193,
-        "lifts_open": 0,
+        "lifts_open": 9,
         "snow_24h": 0
       },
       "averages": {
@@ -5000,7 +5000,7 @@
       "forecast": {
         "today": {
           "high_f": 42,
-          "low_f": 18,
+          "low_f": 15,
           "description": "Clear",
           "snow_inches": 0
         },
@@ -5008,7 +5008,7 @@
           {
             "date": "2026-02-01",
             "high_f": 42,
-            "low_f": 18,
+            "low_f": 15,
             "description": "Clear",
             "snow_inches": 0
           },
@@ -5021,15 +5021,15 @@
           },
           {
             "date": "2026-02-03",
-            "high_f": 30,
-            "low_f": 16,
-            "description": "Partly Cloudy",
+            "high_f": 33,
+            "low_f": 19,
+            "description": "Mostly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
             "high_f": 32,
-            "low_f": 15,
+            "low_f": 13,
             "description": "Mostly Clear",
             "snow_inches": 0
           },
@@ -5070,16 +5070,16 @@
       },
       "forecast": {
         "today": {
-          "high_f": 43,
-          "low_f": 19,
+          "high_f": 42,
+          "low_f": 14,
           "description": "Clear",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 43,
-            "low_f": 19,
+            "high_f": 42,
+            "low_f": 14,
             "description": "Clear",
             "snow_inches": 0
           },
@@ -5092,21 +5092,21 @@
           },
           {
             "date": "2026-02-03",
-            "high_f": 31,
-            "low_f": 16,
-            "description": "Mostly Clear",
+            "high_f": 35,
+            "low_f": 20,
+            "description": "Mostly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
             "high_f": 32,
-            "low_f": 16,
+            "low_f": 15,
             "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
-            "high_f": 43,
+            "high_f": 44,
             "low_f": 17,
             "description": "Clear",
             "snow_inches": 0
@@ -5141,37 +5141,37 @@
       },
       "forecast": {
         "today": {
-          "high_f": 39,
-          "low_f": 13,
+          "high_f": 37,
+          "low_f": 9,
           "description": "Clear",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 39,
-            "low_f": 13,
+            "high_f": 37,
+            "low_f": 9,
             "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
-            "high_f": 35,
+            "high_f": 34,
             "low_f": 15,
             "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 24,
-            "low_f": 9,
+            "high_f": 28,
+            "low_f": 12,
             "description": "Partly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
             "high_f": 28,
-            "low_f": 12,
+            "low_f": 9,
             "description": "Mostly Clear",
             "snow_inches": 0
           },
@@ -5212,17 +5212,17 @@
       },
       "forecast": {
         "today": {
-          "high_f": 47,
-          "low_f": 30,
-          "description": "Mostly Cloudy",
+          "high_f": 49,
+          "low_f": 29,
+          "description": "Partly Cloudy",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 47,
-            "low_f": 30,
-            "description": "Mostly Cloudy",
+            "high_f": 49,
+            "low_f": 29,
+            "description": "Partly Cloudy",
             "snow_inches": 0
           },
           {
@@ -5234,9 +5234,9 @@
           },
           {
             "date": "2026-02-03",
-            "high_f": 41,
-            "low_f": 25,
-            "description": "Clear",
+            "high_f": 42,
+            "low_f": 28,
+            "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
@@ -5248,8 +5248,8 @@
           },
           {
             "date": "2026-02-05",
-            "high_f": 50,
-            "low_f": 31,
+            "high_f": 49,
+            "low_f": 30,
             "description": "Clear",
             "snow_inches": 0
           }
@@ -5264,7 +5264,7 @@
       "region": "Colorado",
       "has_data": true,
       "snow": {
-        "overnight": 1,
+        "overnight": 0,
         "24h": 1,
         "48h": 2,
         "7day": 6,
@@ -5283,16 +5283,16 @@
       },
       "forecast": {
         "today": {
-          "high_f": 40,
-          "low_f": 14,
+          "high_f": 39,
+          "low_f": 11,
           "description": "Clear",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 40,
-            "low_f": 14,
+            "high_f": 39,
+            "low_f": 11,
             "description": "Clear",
             "snow_inches": 0
           },
@@ -5300,20 +5300,20 @@
             "date": "2026-02-02",
             "high_f": 36,
             "low_f": 16,
-            "description": "Mostly Clear",
+            "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 26,
-            "low_f": 11,
+            "high_f": 29,
+            "low_f": 13,
             "description": "Partly Cloudy",
-            "snow_inches": 0
+            "snow_inches": 1
           },
           {
             "date": "2026-02-04",
             "high_f": 29,
-            "low_f": 13,
+            "low_f": 10,
             "description": "Mostly Clear",
             "snow_inches": 0
           },
@@ -5325,7 +5325,7 @@
             "snow_inches": 0
           }
         ],
-        "total_snow_expected": 0
+        "total_snow_expected": 1
       },
       "lastSnowDate": "2026-02-01",
       "lastTerrainDate": "2026-02-01"
@@ -5374,16 +5374,16 @@
       "forecast": {
         "today": {
           "high_f": 40,
-          "low_f": 35,
-          "description": "Mostly Cloudy",
+          "low_f": 36,
+          "description": "Mostly Clear",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
             "high_f": 40,
-            "low_f": 35,
-            "description": "Mostly Cloudy",
+            "low_f": 36,
+            "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
@@ -5403,13 +5403,13 @@
           {
             "date": "2026-02-04",
             "high_f": 46,
-            "low_f": 42,
+            "low_f": 40,
             "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
-            "high_f": 43,
+            "high_f": 42,
             "low_f": 39,
             "description": "Clear",
             "snow_inches": 0
@@ -5444,43 +5444,43 @@
       },
       "forecast": {
         "today": {
-          "high_f": 48,
-          "low_f": 35,
-          "description": "Mostly Cloudy",
+          "high_f": 49,
+          "low_f": 34,
+          "description": "Mostly Clear",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 48,
-            "low_f": 35,
-            "description": "Mostly Cloudy",
+            "high_f": 49,
+            "low_f": 34,
+            "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
             "high_f": 48,
-            "low_f": 32,
+            "low_f": 33,
             "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
+            "high_f": 51,
+            "low_f": 33,
+            "description": "Clear",
+            "snow_inches": 0
+          },
+          {
+            "date": "2026-02-04",
             "high_f": 50,
             "low_f": 30,
             "description": "Clear",
             "snow_inches": 0
           },
           {
-            "date": "2026-02-04",
-            "high_f": 52,
-            "low_f": 31,
-            "description": "Clear",
-            "snow_inches": 0
-          },
-          {
             "date": "2026-02-05",
-            "high_f": 51,
+            "high_f": 52,
             "low_f": 31,
             "description": "Clear",
             "snow_inches": 0
@@ -5515,29 +5515,29 @@
       },
       "forecast": {
         "today": {
-          "high_f": 43,
-          "low_f": 31,
-          "description": "Partly Cloudy",
+          "high_f": 44,
+          "low_f": 33,
+          "description": "Mostly Clear",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 43,
-            "low_f": 31,
-            "description": "Partly Cloudy",
+            "high_f": 44,
+            "low_f": 33,
+            "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
             "high_f": 44,
-            "low_f": 29,
+            "low_f": 31,
             "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 50,
+            "high_f": 48,
             "low_f": 34,
             "description": "Clear",
             "snow_inches": 0
@@ -5606,7 +5606,7 @@
       "forecast": {
         "today": {
           "high_f": 7,
-          "low_f": -1,
+          "low_f": null,
           "description": "Windy",
           "snow_inches": 0
         },
@@ -5614,21 +5614,21 @@
           {
             "date": "2026-02-01",
             "high_f": 7,
-            "low_f": -1,
+            "low_f": null,
             "description": "Windy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
             "high_f": 12,
-            "low_f": 7,
+            "low_f": 8,
             "description": "Windy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
             "high_f": 13,
-            "low_f": 11,
+            "low_f": 12,
             "description": "Partly Cloudy",
             "snow_inches": 0
           },
@@ -5636,14 +5636,14 @@
             "date": "2026-02-04",
             "high_f": 11,
             "low_f": 6,
-            "description": "Cloudy",
+            "description": "Windy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
-            "high_f": 6,
+            "high_f": 7,
             "low_f": 3,
-            "description": "Mostly Cloudy",
+            "description": "Windy",
             "snow_inches": 0
           }
         ],
@@ -5677,44 +5677,44 @@
       "forecast": {
         "today": {
           "high_f": 14,
-          "low_f": -4,
-          "description": "Partly Cloudy",
+          "low_f": -6,
+          "description": "Mostly Clear",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
             "high_f": 14,
-            "low_f": -4,
-            "description": "Partly Cloudy",
+            "low_f": -6,
+            "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
             "high_f": 19,
-            "low_f": 2,
+            "low_f": 3,
             "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
             "high_f": 25,
-            "low_f": 2,
+            "low_f": 6,
             "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
-            "high_f": 20,
-            "low_f": 8,
+            "high_f": 21,
+            "low_f": 10,
             "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
             "high_f": 19,
-            "low_f": 4,
-            "description": "Mostly Clear",
+            "low_f": 3,
+            "description": "Clear",
             "snow_inches": 0
           }
         ],
@@ -5767,7 +5767,7 @@
       "forecast": {
         "today": {
           "high_f": 9,
-          "low_f": null,
+          "low_f": -1,
           "description": "Windy",
           "snow_inches": 0
         },
@@ -5775,7 +5775,7 @@
           {
             "date": "2026-02-01",
             "high_f": 9,
-            "low_f": null,
+            "low_f": -1,
             "description": "Windy",
             "snow_inches": 0
           },
@@ -5797,14 +5797,14 @@
             "date": "2026-02-04",
             "high_f": 16,
             "low_f": 10,
-            "description": "Mostly Clear",
+            "description": "Windy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
             "high_f": 15,
             "low_f": 9,
-            "description": "Mostly Clear",
+            "description": "Clear",
             "snow_inches": 0
           }
         ],
@@ -5837,45 +5837,45 @@
       },
       "forecast": {
         "today": {
-          "high_f": 23,
-          "low_f": -6,
+          "high_f": 21,
+          "low_f": -7,
           "description": "Partly Cloudy",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 23,
-            "low_f": -6,
+            "high_f": 21,
+            "low_f": -7,
             "description": "Partly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
-            "high_f": 25,
+            "high_f": 26,
             "low_f": 6,
-            "description": "Mostly Clear",
+            "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 30,
-            "low_f": 5,
-            "description": "Mostly Clear",
+            "high_f": 29,
+            "low_f": 7,
+            "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
             "high_f": 26,
-            "low_f": 10,
+            "low_f": 11,
             "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
-            "high_f": 24,
-            "low_f": 5,
-            "description": "Mostly Clear",
+            "high_f": 23,
+            "low_f": 4,
+            "description": "Clear",
             "snow_inches": 0
           }
         ],
@@ -5908,16 +5908,16 @@
       },
       "forecast": {
         "today": {
-          "high_f": 20,
-          "low_f": -6,
+          "high_f": 18,
+          "low_f": -7,
           "description": "Partly Cloudy",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 20,
-            "low_f": -6,
+            "high_f": 18,
+            "low_f": -7,
             "description": "Partly Cloudy",
             "snow_inches": 0
           },
@@ -5925,28 +5925,28 @@
             "date": "2026-02-02",
             "high_f": 24,
             "low_f": 4,
-            "description": "Mostly Clear",
+            "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 29,
-            "low_f": 6,
+            "high_f": 27,
+            "low_f": 7,
             "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
-            "high_f": 25,
+            "high_f": 24,
             "low_f": 11,
             "description": "Partly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
-            "high_f": 22,
-            "low_f": 4,
-            "description": "Mostly Clear",
+            "high_f": 21,
+            "low_f": 3,
+            "description": "Clear",
             "snow_inches": 0
           }
         ],
@@ -5979,37 +5979,37 @@
       },
       "forecast": {
         "today": {
-          "high_f": 15,
+          "high_f": 14,
           "low_f": -3,
-          "description": "Mostly Cloudy",
+          "description": "Mostly Clear",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 15,
+            "high_f": 14,
             "low_f": -3,
-            "description": "Mostly Cloudy",
+            "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
-            "high_f": 20,
-            "low_f": 3,
+            "high_f": 21,
+            "low_f": 4,
             "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
             "high_f": 25,
-            "low_f": 7,
+            "low_f": 8,
             "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
-            "high_f": 22,
-            "low_f": 9,
+            "high_f": 23,
+            "low_f": 10,
             "description": "Mostly Clear",
             "snow_inches": 0
           },
@@ -6050,44 +6050,44 @@
       },
       "forecast": {
         "today": {
-          "high_f": 18,
+          "high_f": 16,
           "low_f": null,
-          "description": "Mostly Cloudy",
+          "description": "Mostly Clear",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 18,
+            "high_f": 16,
             "low_f": null,
-            "description": "Mostly Cloudy",
+            "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
             "high_f": 23,
-            "low_f": 8,
+            "low_f": 9,
             "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
             "high_f": 27,
-            "low_f": 11,
+            "low_f": 10,
             "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
             "high_f": 24,
-            "low_f": 13,
+            "low_f": 14,
             "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
             "high_f": 22,
-            "low_f": 10,
+            "low_f": 11,
             "description": "Clear",
             "snow_inches": 0
           }
@@ -6122,22 +6122,22 @@
       "forecast": {
         "today": {
           "high_f": 21,
-          "low_f": 6,
-          "description": "Mostly Clear",
+          "low_f": 8,
+          "description": "Clear",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
             "high_f": 21,
-            "low_f": 6,
-            "description": "Mostly Clear",
+            "low_f": 8,
+            "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
             "high_f": 28,
-            "low_f": 10,
+            "low_f": 11,
             "description": "Clear",
             "snow_inches": 0
           },
@@ -6145,21 +6145,21 @@
             "date": "2026-02-03",
             "high_f": 33,
             "low_f": 17,
-            "description": "Mostly Cloudy",
+            "description": "Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
-            "high_f": 30,
-            "low_f": 19,
-            "description": "Mostly Cloudy",
+            "high_f": 28,
+            "low_f": 17,
+            "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
-            "high_f": 27,
-            "low_f": 13,
-            "description": "Mostly Clear",
+            "high_f": 26,
+            "low_f": 12,
+            "description": "Clear",
             "snow_inches": 0
           }
         ],
@@ -6176,7 +6176,7 @@
         "overnight": 0,
         "24h": 0,
         "48h": 0,
-        "7day": 11,
+        "7day": 2,
         "season": 24,
         "base_depth": 26
       },
@@ -6188,6 +6188,77 @@
         "trails_groomed_pct": 0.9,
         "lifts_open": 0,
         "lifts_total": 9,
+        "lifts_open_pct": 0
+      },
+      "forecast": {
+        "today": {
+          "high_f": 21,
+          "low_f": 9,
+          "description": "Windy",
+          "snow_inches": 0
+        },
+        "upcoming_days": [
+          {
+            "date": "2026-02-01",
+            "high_f": 21,
+            "low_f": 9,
+            "description": "Windy",
+            "snow_inches": 0
+          },
+          {
+            "date": "2026-02-02",
+            "high_f": 26,
+            "low_f": 13,
+            "description": "Clear",
+            "snow_inches": 0
+          },
+          {
+            "date": "2026-02-03",
+            "high_f": 30,
+            "low_f": 19,
+            "description": "Cloudy",
+            "snow_inches": 0
+          },
+          {
+            "date": "2026-02-04",
+            "high_f": 26,
+            "low_f": 19,
+            "description": "Mostly Clear",
+            "snow_inches": 0
+          },
+          {
+            "date": "2026-02-05",
+            "high_f": 23,
+            "low_f": 13,
+            "description": "Clear",
+            "snow_inches": 0
+          }
+        ],
+        "total_snow_expected": 0
+      },
+      "lastSnowDate": "2026-02-01",
+      "lastTerrainDate": "2026-02-01"
+    },
+    "whitetail": {
+      "name": "Whitetail",
+      "region": "Pennsylvania",
+      "has_data": true,
+      "snow": {
+        "overnight": 0,
+        "24h": 0,
+        "48h": 0,
+        "7day": 0,
+        "season": 12,
+        "base_depth": 36
+      },
+      "terrain": {
+        "trails_open": 20,
+        "trails_total": 22,
+        "trails_open_pct": 0.909,
+        "trails_groomed": 19,
+        "trails_groomed_pct": 0.95,
+        "lifts_open": 0,
+        "lifts_total": 7,
         "lifts_open_pct": 0
       },
       "forecast": {
@@ -6207,100 +6278,29 @@
           },
           {
             "date": "2026-02-02",
-            "high_f": 26,
-            "low_f": 12,
-            "description": "Clear",
-            "snow_inches": 0
-          },
-          {
-            "date": "2026-02-03",
-            "high_f": 30,
-            "low_f": 17,
-            "description": "Mostly Cloudy",
-            "snow_inches": 0
-          },
-          {
-            "date": "2026-02-04",
-            "high_f": 26,
-            "low_f": 20,
-            "description": "Mostly Cloudy",
-            "snow_inches": 0
-          },
-          {
-            "date": "2026-02-05",
-            "high_f": 24,
-            "low_f": 14,
-            "description": "Clear",
-            "snow_inches": 0
-          }
-        ],
-        "total_snow_expected": 0
-      },
-      "lastSnowDate": "2026-02-01",
-      "lastTerrainDate": "2026-02-01"
-    },
-    "whitetail": {
-      "name": "Whitetail",
-      "region": "Pennsylvania",
-      "has_data": true,
-      "snow": {
-        "overnight": 0,
-        "24h": 0,
-        "48h": 0,
-        "7day": 8,
-        "season": 12,
-        "base_depth": 36
-      },
-      "terrain": {
-        "trails_open": 20,
-        "trails_total": 22,
-        "trails_open_pct": 0.909,
-        "trails_groomed": 19,
-        "trails_groomed_pct": 0.95,
-        "lifts_open": 0,
-        "lifts_total": 7,
-        "lifts_open_pct": 0
-      },
-      "forecast": {
-        "today": {
-          "high_f": 19,
-          "low_f": 7,
-          "description": "Clear",
-          "snow_inches": 0
-        },
-        "upcoming_days": [
-          {
-            "date": "2026-02-01",
-            "high_f": 19,
-            "low_f": 7,
-            "description": "Clear",
-            "snow_inches": 0
-          },
-          {
-            "date": "2026-02-02",
-            "high_f": 28,
-            "low_f": 13,
-            "description": "Clear",
-            "snow_inches": 0
-          },
-          {
-            "date": "2026-02-03",
-            "high_f": 33,
-            "low_f": 18,
-            "description": "Mostly Cloudy",
-            "snow_inches": 0
-          },
-          {
-            "date": "2026-02-04",
             "high_f": 29,
-            "low_f": 19,
-            "description": "Mostly Cloudy",
+            "low_f": 13,
+            "description": "Clear",
+            "snow_inches": 0
+          },
+          {
+            "date": "2026-02-03",
+            "high_f": 32,
+            "low_f": 20,
+            "description": "Cloudy",
+            "snow_inches": 0
+          },
+          {
+            "date": "2026-02-04",
+            "high_f": 27,
+            "low_f": 18,
+            "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
-            "high_f": 26,
-            "low_f": 13,
+            "high_f": 25,
+            "low_f": 11,
             "description": "Clear",
             "snow_inches": 0
           }
@@ -6350,7 +6350,7 @@
           {
             "date": "2026-02-02",
             "high_f": 20,
-            "low_f": 8,
+            "low_f": 7,
             "description": "Windy",
             "snow_inches": 0
           },
@@ -6358,21 +6358,21 @@
             "date": "2026-02-03",
             "high_f": 23,
             "low_f": 13,
-            "description": "Partly Cloudy",
+            "description": "Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
-            "high_f": 20,
-            "low_f": 13,
+            "high_f": 21,
+            "low_f": 12,
             "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
-            "high_f": 18,
+            "high_f": 19,
             "low_f": 10,
-            "description": "Mostly Clear",
+            "description": "Clear",
             "snow_inches": 0
           }
         ],
@@ -6421,7 +6421,7 @@
           {
             "date": "2026-02-02",
             "high_f": 20,
-            "low_f": 8,
+            "low_f": 7,
             "description": "Windy",
             "snow_inches": 0
           },
@@ -6429,21 +6429,21 @@
             "date": "2026-02-03",
             "high_f": 23,
             "low_f": 13,
-            "description": "Partly Cloudy",
+            "description": "Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
-            "high_f": 20,
-            "low_f": 13,
+            "high_f": 21,
+            "low_f": 12,
             "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
-            "high_f": 18,
+            "high_f": 19,
             "low_f": 10,
-            "description": "Mostly Clear",
+            "description": "Clear",
             "snow_inches": 0
           }
         ],
@@ -6457,10 +6457,10 @@
       "region": "Midwest",
       "has_data": true,
       "snow": {
-        "overnight": 1,
+        "overnight": 0,
         "24h": 1,
         "48h": 1,
-        "7day": 17,
+        "7day": 11,
         "season": 79,
         "base_depth": 24
       },
@@ -6477,7 +6477,7 @@
       "forecast": {
         "today": {
           "high_f": 10,
-          "low_f": -2,
+          "low_f": null,
           "description": "Windy",
           "snow_inches": 0
         },
@@ -6485,35 +6485,35 @@
           {
             "date": "2026-02-01",
             "high_f": 10,
-            "low_f": -2,
+            "low_f": null,
             "description": "Windy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
-            "high_f": 18,
-            "low_f": 5,
-            "description": "Mostly Cloudy",
+            "high_f": 19,
+            "low_f": 4,
+            "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 24,
+            "high_f": 23,
             "low_f": 18,
-            "description": "Windy",
+            "description": "Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
-            "high_f": 21,
-            "low_f": 11,
+            "high_f": 20,
+            "low_f": 10,
             "description": "Partly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
             "high_f": 15,
-            "low_f": 8,
+            "low_f": 6,
             "description": "Windy",
             "snow_inches": 0
           }
@@ -6529,10 +6529,10 @@
       "has_data": true,
       "snow": {
         "overnight": 0,
-        "24h": 0,
-        "48h": 0,
-        "7day": 15,
-        "season": 72,
+        "24h": 1,
+        "48h": 1,
+        "7day": 10,
+        "season": 73,
         "base_depth": 30
       },
       "terrain": {
@@ -6548,48 +6548,48 @@
       "forecast": {
         "today": {
           "high_f": 11,
-          "low_f": -2,
+          "low_f": 1,
           "description": "Windy",
-          "snow_inches": 1
+          "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
             "high_f": 11,
-            "low_f": -2,
+            "low_f": 1,
             "description": "Windy",
-            "snow_inches": 1
+            "snow_inches": 0
           },
           {
             "date": "2026-02-02",
-            "high_f": 19,
-            "low_f": 6,
-            "description": "Mostly Cloudy",
+            "high_f": 20,
+            "low_f": 4,
+            "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
             "high_f": 25,
-            "low_f": 18,
+            "low_f": 19,
             "description": "Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
             "high_f": 21,
-            "low_f": 11,
+            "low_f": 10,
             "description": "Partly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
             "high_f": 16,
-            "low_f": 7,
+            "low_f": 5,
             "description": "Partly Cloudy",
             "snow_inches": 0
           }
         ],
-        "total_snow_expected": 1
+        "total_snow_expected": 0
       },
       "lastSnowDate": "2026-02-01",
       "lastTerrainDate": "2026-02-01"
@@ -6599,10 +6599,10 @@
       "region": "Pennsylvania",
       "has_data": true,
       "snow": {
-        "overnight": 1,
+        "overnight": 0,
         "24h": 1,
         "48h": 1,
-        "7day": 26,
+        "7day": 19,
         "season": 100,
         "base_depth": 24
       },
@@ -6618,24 +6618,24 @@
       },
       "forecast": {
         "today": {
-          "high_f": 10,
-          "low_f": -3,
+          "high_f": 11,
+          "low_f": null,
           "description": "Windy",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 10,
-            "low_f": -3,
+            "high_f": 11,
+            "low_f": null,
             "description": "Windy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
-            "high_f": 18,
-            "low_f": 5,
-            "description": "Mostly Cloudy",
+            "high_f": 19,
+            "low_f": 4,
+            "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
@@ -6648,15 +6648,15 @@
           {
             "date": "2026-02-04",
             "high_f": 21,
-            "low_f": 11,
+            "low_f": 10,
             "description": "Partly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
             "high_f": 15,
-            "low_f": 8,
-            "description": "Windy",
+            "low_f": 6,
+            "description": "Partly Cloudy",
             "snow_inches": 0
           }
         ],
@@ -6689,44 +6689,44 @@
       },
       "forecast": {
         "today": {
-          "high_f": 25,
-          "low_f": 5,
+          "high_f": 24,
+          "low_f": 3,
           "description": "Partly Cloudy",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 25,
-            "low_f": 5,
+            "high_f": 24,
+            "low_f": 3,
             "description": "Partly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
-            "high_f": 23,
+            "high_f": 24,
             "low_f": 17,
             "description": "Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 20,
-            "low_f": 7,
+            "high_f": 19,
+            "low_f": 6,
             "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
-            "high_f": 21,
-            "low_f": 4,
+            "high_f": 20,
+            "low_f": 3,
             "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
             "high_f": 28,
-            "low_f": 9,
+            "low_f": 8,
             "description": "Cloudy",
             "snow_inches": 0
           }
@@ -6742,10 +6742,10 @@
       "has_data": true,
       "snow": {
         "overnight": 0,
-        "24h": 0,
-        "48h": 0,
-        "7day": 0,
-        "season": 20,
+        "24h": 1,
+        "48h": 1,
+        "7day": 1,
+        "season": 21,
         "base_depth": 24
       },
       "terrain": {
@@ -6760,36 +6760,36 @@
       },
       "forecast": {
         "today": {
-          "high_f": 25,
-          "low_f": 14,
+          "high_f": 24,
+          "low_f": 15,
           "description": "Cloudy",
-          "snow_inches": 1
+          "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 25,
-            "low_f": 14,
+            "high_f": 24,
+            "low_f": 15,
             "description": "Cloudy",
-            "snow_inches": 1
+            "snow_inches": 0
           },
           {
             "date": "2026-02-02",
             "high_f": 16,
-            "low_f": 10,
-            "description": "Cloudy",
+            "low_f": 9,
+            "description": "Mostly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 14,
-            "low_f": null,
-            "description": "Clear",
+            "high_f": 12,
+            "low_f": 3,
+            "description": "Partly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
-            "high_f": 21,
+            "high_f": 19,
             "low_f": 2,
             "description": "Partly Cloudy",
             "snow_inches": 0
@@ -6797,12 +6797,12 @@
           {
             "date": "2026-02-05",
             "high_f": 33,
-            "low_f": 18,
+            "low_f": 16,
             "description": "Cloudy",
             "snow_inches": 0
           }
         ],
-        "total_snow_expected": 1
+        "total_snow_expected": 0
       },
       "lastSnowDate": "2026-02-01",
       "lastTerrainDate": "2026-02-01"
@@ -6813,10 +6813,10 @@
       "has_data": true,
       "snow": {
         "overnight": 0,
-        "24h": 0,
-        "48h": 0,
-        "7day": 5,
-        "season": 39,
+        "24h": 1,
+        "48h": 1,
+        "7day": 6,
+        "season": 40,
         "base_depth": 32
       },
       "terrain": {
@@ -6831,44 +6831,44 @@
       },
       "forecast": {
         "today": {
-          "high_f": 23,
-          "low_f": null,
+          "high_f": 21,
+          "low_f": -2,
           "description": "Clear",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 23,
-            "low_f": null,
+            "high_f": 21,
+            "low_f": -2,
             "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
-            "high_f": 23,
-            "low_f": 9,
+            "high_f": 24,
+            "low_f": 7,
             "description": "Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 22,
-            "low_f": 9,
-            "description": "Partly Cloudy",
+            "high_f": 21,
+            "low_f": 11,
+            "description": "Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
             "high_f": 18,
-            "low_f": 3,
-            "description": "Clear",
+            "low_f": 4,
+            "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
-            "high_f": 22,
-            "low_f": 8,
+            "high_f": 23,
+            "low_f": 6,
             "description": "Mostly Cloudy",
             "snow_inches": 0
           }
@@ -6886,7 +6886,7 @@
         "overnight": 0,
         "24h": 0,
         "48h": 0,
-        "7day": 15,
+        "7day": 7,
         "season": 90,
         "base_depth": 60
       },
@@ -6903,44 +6903,44 @@
       "forecast": {
         "today": {
           "high_f": 17,
-          "low_f": 2,
-          "description": "Partly Cloudy",
+          "low_f": 5,
+          "description": "Mostly Clear",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
             "high_f": 17,
+            "low_f": 5,
+            "description": "Mostly Clear",
+            "snow_inches": 0
+          },
+          {
+            "date": "2026-02-02",
+            "high_f": 22,
             "low_f": 2,
             "description": "Partly Cloudy",
             "snow_inches": 0
           },
           {
-            "date": "2026-02-02",
-            "high_f": 21,
-            "low_f": -1,
-            "description": "Mostly Cloudy",
-            "snow_inches": 0
-          },
-          {
             "date": "2026-02-03",
             "high_f": 24,
-            "low_f": 16,
+            "low_f": 14,
             "description": "Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
             "high_f": 18,
-            "low_f": 6,
-            "description": "Mostly Clear",
+            "low_f": 8,
+            "description": "Partly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
-            "high_f": 19,
+            "high_f": 20,
             "low_f": 10,
-            "description": "Mostly Cloudy",
+            "description": "Cloudy",
             "snow_inches": 0
           }
         ],
@@ -6955,10 +6955,10 @@
       "has_data": true,
       "snow": {
         "overnight": 0,
-        "24h": 0,
-        "48h": 0,
-        "7day": 14,
-        "season": 42,
+        "24h": 1,
+        "48h": 1,
+        "7day": 8,
+        "season": 43,
         "base_depth": 36
       },
       "terrain": {
@@ -6988,9 +6988,9 @@
           },
           {
             "date": "2026-02-02",
-            "high_f": 23,
-            "low_f": -3,
-            "description": "Mostly Cloudy",
+            "high_f": 24,
+            "low_f": -1,
+            "description": "Partly Cloudy",
             "snow_inches": 0
           },
           {
@@ -7002,16 +7002,16 @@
           },
           {
             "date": "2026-02-04",
-            "high_f": 20,
-            "low_f": 6,
+            "high_f": 21,
+            "low_f": 9,
             "description": "Partly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
-            "high_f": 21,
-            "low_f": 10,
-            "description": "Mostly Cloudy",
+            "high_f": 22,
+            "low_f": 9,
+            "description": "Cloudy",
             "snow_inches": 0
           }
         ],
@@ -7026,10 +7026,10 @@
       "has_data": true,
       "snow": {
         "overnight": 0,
-        "24h": 0,
-        "48h": 0,
-        "7day": 14,
-        "season": 42,
+        "24h": 1,
+        "48h": 1,
+        "7day": 8,
+        "season": 43,
         "base_depth": 36
       },
       "terrain": {
@@ -7059,9 +7059,9 @@
           },
           {
             "date": "2026-02-02",
-            "high_f": 23,
-            "low_f": -3,
-            "description": "Mostly Cloudy",
+            "high_f": 24,
+            "low_f": -1,
+            "description": "Partly Cloudy",
             "snow_inches": 0
           },
           {
@@ -7073,16 +7073,16 @@
           },
           {
             "date": "2026-02-04",
-            "high_f": 20,
-            "low_f": 6,
+            "high_f": 21,
+            "low_f": 9,
             "description": "Partly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
-            "high_f": 21,
-            "low_f": 10,
-            "description": "Mostly Cloudy",
+            "high_f": 22,
+            "low_f": 9,
+            "description": "Cloudy",
             "snow_inches": 0
           }
         ],
@@ -7099,7 +7099,7 @@
         "overnight": 0,
         "24h": 0,
         "48h": 1,
-        "7day": 18,
+        "7day": 13,
         "season": 28,
         "base_depth": 32
       },
@@ -7116,7 +7116,7 @@
       "forecast": {
         "today": {
           "high_f": 15,
-          "low_f": -2,
+          "low_f": 1,
           "description": "Clear",
           "snow_inches": 0
         },
@@ -7124,34 +7124,34 @@
           {
             "date": "2026-02-01",
             "high_f": 15,
-            "low_f": -2,
+            "low_f": 1,
             "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
-            "high_f": 23,
-            "low_f": 4,
-            "description": "Cloudy",
+            "high_f": 24,
+            "low_f": 5,
+            "description": "Mostly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
             "high_f": 25,
-            "low_f": 17,
+            "low_f": 16,
             "description": "Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
-            "high_f": 16,
-            "low_f": 7,
-            "description": "Mostly Clear",
+            "high_f": 17,
+            "low_f": 5,
+            "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
-            "high_f": 19,
+            "high_f": 18,
             "low_f": 4,
             "description": "Mostly Cloudy",
             "snow_inches": 0
@@ -7189,7 +7189,7 @@
         "overnight": 0,
         "24h": 0,
         "48h": 0,
-        "7day": 18,
+        "7day": 6,
         "season": 26,
         "base_depth": 28
       },
@@ -7206,42 +7206,42 @@
       "forecast": {
         "today": {
           "high_f": 23,
-          "low_f": 3,
-          "description": "Partly Cloudy",
+          "low_f": 5,
+          "description": "Mostly Clear",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
             "high_f": 23,
-            "low_f": 3,
-            "description": "Partly Cloudy",
+            "low_f": 5,
+            "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
-            "high_f": 30,
-            "low_f": 19,
+            "high_f": 31,
+            "low_f": 18,
             "description": "Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 34,
-            "low_f": 26,
+            "high_f": 33,
+            "low_f": 24,
             "description": "Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
-            "high_f": 25,
+            "high_f": 24,
             "low_f": 15,
-            "description": "Partly Cloudy",
+            "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
-            "high_f": 26,
+            "high_f": 25,
             "low_f": 12,
             "description": "Mostly Clear",
             "snow_inches": 0
@@ -7259,9 +7259,9 @@
       "snow": {
         "overnight": 0,
         "24h": 0,
-        "48h": 3,
-        "7day": 11,
-        "season": 201,
+        "48h": 1,
+        "7day": 12,
+        "season": 202,
         "base_depth": 76
       },
       "terrain": {
@@ -7277,48 +7277,48 @@
       "forecast": {
         "today": {
           "high_f": 32,
-          "low_f": 32,
-          "description": "Periods of snow.",
-          "snow_inches": 5
+          "low_f": 26,
+          "description": "Flurries.",
+          "snow_inches": 2
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
             "high_f": 32,
-            "low_f": 32,
-            "description": "Periods of snow.",
-            "snow_inches": 5
+            "low_f": 26,
+            "description": "Flurries.",
+            "snow_inches": 2
           },
           {
             "date": "2026-02-02",
-            "high_f": 32,
-            "low_f": 24,
-            "description": "Flurries.",
-            "snow_inches": 4
+            "high_f": 33,
+            "low_f": 26,
+            "description": "Cloudy with scattered flurries.",
+            "snow_inches": 1
           },
           {
             "date": "2026-02-03",
-            "high_f": 39,
+            "high_f": 37,
             "low_f": 32,
-            "description": "Mainly cloudy with isolated showers.",
+            "description": "Mainly cloudy with isolated wet flurries.",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
-            "high_f": 42,
+            "high_f": 44,
             "low_f": 37,
-            "description": "Cloudy with sunny periods.",
+            "description": "Mainly cloudy with isolated showers.",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
             "high_f": 48,
-            "low_f": 42,
-            "description": "Sunny with cloudy periods.",
+            "low_f": 41,
+            "description": "A mix of sun and cloud.",
             "snow_inches": 0
           }
         ],
-        "total_snow_expected": 9
+        "total_snow_expected": 3
       },
       "lastSnowDate": "2026-02-01",
       "lastTerrainDate": "2026-02-01"
@@ -7396,7 +7396,7 @@
       },
       "forecast": {
         "today": {
-          "high_f": 8,
+          "high_f": null,
           "low_f": 6,
           "description": "Windy",
           "snow_inches": 0
@@ -7404,7 +7404,7 @@
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 8,
+            "high_f": null,
             "low_f": 6,
             "description": "Windy",
             "snow_inches": 0
@@ -7412,13 +7412,13 @@
           {
             "date": "2026-02-02",
             "high_f": 15,
-            "low_f": 14,
+            "low_f": 15,
             "description": "Windy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 18,
+            "high_f": 19,
             "low_f": 14,
             "description": "Partly Cloudy",
             "snow_inches": 0
@@ -7432,8 +7432,8 @@
           },
           {
             "date": "2026-02-05",
-            "high_f": 14,
-            "low_f": 10,
+            "high_f": 13,
+            "low_f": 11,
             "description": "Partly Cloudy",
             "snow_inches": 0
           }
@@ -7456,55 +7456,55 @@
         "base_depth": 28
       },
       "terrain": {
-        "trails_open": 215,
+        "trails_open": 224,
         "trails_total": 301,
-        "trails_open_pct": 0.714,
+        "trails_open_pct": 0.744,
         "trails_groomed": 86,
-        "trails_groomed_pct": 0.4,
-        "lifts_open": 0,
+        "trails_groomed_pct": 0.384,
+        "lifts_open": 29,
         "lifts_total": 39,
-        "lifts_open_pct": 0
+        "lifts_open_pct": 0.744
       },
       "forecast": {
         "today": {
           "high_f": null,
-          "low_f": 34,
-          "description": "Mostly Cloudy",
+          "low_f": 32,
+          "description": "Mostly Clear",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
-            "date": "2026-01-31",
-            "high_f": null,
-            "low_f": 34,
-            "description": "Mostly Cloudy",
-            "snow_inches": 0
-          },
-          {
             "date": "2026-02-01",
-            "high_f": 43,
-            "low_f": 31,
-            "description": "Partly Cloudy",
+            "high_f": null,
+            "low_f": 32,
+            "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
-            "high_f": 43,
+            "high_f": 44,
             "low_f": 34,
-            "description": "Mostly Sunny",
+            "description": "Sunny",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 49,
-            "low_f": 38,
+            "high_f": 47,
+            "low_f": 37,
             "description": "Sunny",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
-            "high_f": 51,
-            "low_f": 37,
+            "high_f": 50,
+            "low_f": 36,
+            "description": "Sunny",
+            "snow_inches": 0
+          },
+          {
+            "date": "2026-02-05",
+            "high_f": 48,
+            "low_f": 36,
             "description": "Sunny",
             "snow_inches": 0
           }
@@ -7548,7 +7548,7 @@
         "overnight": 0,
         "24h": 0,
         "48h": 0,
-        "7day": 8,
+        "7day": 7,
         "season": 0,
         "base_depth": 46
       },
@@ -7564,31 +7564,31 @@
       },
       "forecast": {
         "today": {
-          "high_f": 37,
+          "high_f": null,
           "low_f": 20,
-          "description": "Cloudy",
+          "description": "Partly Cloudy",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 37,
+            "high_f": null,
             "low_f": 20,
-            "description": "Cloudy",
+            "description": "Partly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
-            "high_f": 26,
-            "low_f": 22,
+            "high_f": 27,
+            "low_f": 23,
             "description": "Mostly Sunny",
             "snow_inches": 1
           },
           {
             "date": "2026-02-03",
-            "high_f": 27,
-            "low_f": 25,
-            "description": "Mostly Cloudy",
+            "high_f": 29,
+            "low_f": 24,
+            "description": "Cloudy",
             "snow_inches": 1
           },
           {
@@ -7635,23 +7635,23 @@
       },
       "forecast": {
         "today": {
-          "high_f": 40,
+          "high_f": null,
           "low_f": 31,
-          "description": "Partly Cloudy",
+          "description": "Cloudy",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 40,
+            "high_f": null,
             "low_f": 31,
-            "description": "Partly Cloudy",
+            "description": "Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
             "high_f": 33,
-            "low_f": 25,
+            "low_f": 26,
             "description": "Mostly Sunny",
             "snow_inches": 0
           },
@@ -7665,14 +7665,14 @@
           {
             "date": "2026-02-04",
             "high_f": 37,
-            "low_f": 35,
+            "low_f": 34,
             "description": "Sunny",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
             "high_f": 43,
-            "low_f": 37,
+            "low_f": 36,
             "description": "Sunny",
             "snow_inches": 0
           }
@@ -7697,23 +7697,23 @@
       "terrain": null,
       "forecast": {
         "today": {
-          "high_f": 37,
+          "high_f": null,
           "low_f": 27,
-          "description": "Mostly Cloudy",
+          "description": "Cloudy",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 37,
+            "high_f": null,
             "low_f": 27,
-            "description": "Mostly Cloudy",
+            "description": "Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
             "high_f": 29,
-            "low_f": 23,
+            "low_f": 22,
             "description": "Mostly Sunny",
             "snow_inches": 0
           },
@@ -7727,14 +7727,14 @@
           {
             "date": "2026-02-04",
             "high_f": 35,
-            "low_f": 35,
+            "low_f": 34,
             "description": "Sunny",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
             "high_f": 40,
-            "low_f": 38,
+            "low_f": 37,
             "description": "Sunny",
             "snow_inches": 0
           }
@@ -7762,23 +7762,23 @@
         "trails_open_pct": 0.92,
         "trails_groomed": 50,
         "trails_groomed_pct": 0.272,
-        "lifts_open": 0,
+        "lifts_open": 1,
         "lifts_total": 14,
-        "lifts_open_pct": 0
+        "lifts_open_pct": 0.071
       },
       "forecast": {
         "today": {
-          "high_f": 36,
+          "high_f": null,
           "low_f": 26,
-          "description": "Partly Cloudy",
+          "description": "Cloudy",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 36,
+            "high_f": null,
             "low_f": 26,
-            "description": "Partly Cloudy",
+            "description": "Cloudy",
             "snow_inches": 0
           },
           {
@@ -7792,7 +7792,7 @@
             "date": "2026-02-03",
             "high_f": 28,
             "low_f": 27,
-            "description": "Windy",
+            "description": "Mostly Sunny",
             "snow_inches": 0
           },
           {
@@ -7805,7 +7805,7 @@
           {
             "date": "2026-02-05",
             "high_f": 39,
-            "low_f": 38,
+            "low_f": 37,
             "description": "Sunny",
             "snow_inches": 0
           }
@@ -7839,17 +7839,17 @@
       },
       "forecast": {
         "today": {
-          "high_f": 41,
+          "high_f": null,
           "low_f": 29,
-          "description": "Mostly Cloudy",
+          "description": "Cloudy",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 41,
+            "high_f": null,
             "low_f": 29,
-            "description": "Mostly Cloudy",
+            "description": "Cloudy",
             "snow_inches": 0
           },
           {
@@ -7869,7 +7869,7 @@
           {
             "date": "2026-02-04",
             "high_f": 38,
-            "low_f": 35,
+            "low_f": 34,
             "description": "Sunny",
             "snow_inches": 0
           },
@@ -7910,43 +7910,43 @@
       },
       "forecast": {
         "today": {
-          "high_f": 33,
+          "high_f": null,
           "low_f": 23,
-          "description": "Sunny",
+          "description": "Clear",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 33,
+            "high_f": null,
             "low_f": 23,
-            "description": "Sunny",
+            "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
             "high_f": 29,
-            "low_f": 13,
+            "low_f": 16,
             "description": "Mostly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 22,
+            "high_f": 23,
             "low_f": 12,
             "description": "Partly Cloudy",
             "snow_inches": 1
           },
           {
             "date": "2026-02-04",
-            "high_f": 26,
+            "high_f": 25,
             "low_f": 18,
             "description": "Sunny",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
-            "high_f": 36,
+            "high_f": 37,
             "low_f": 24,
             "description": "Sunny",
             "snow_inches": 0
@@ -7981,36 +7981,36 @@
       },
       "forecast": {
         "today": {
-          "high_f": 34,
-          "low_f": 23,
-          "description": "Sunny",
+          "high_f": null,
+          "low_f": 24,
+          "description": "Clear",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 34,
-            "low_f": 23,
-            "description": "Sunny",
+            "high_f": null,
+            "low_f": 24,
+            "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
             "high_f": 30,
-            "low_f": 13,
+            "low_f": 17,
             "description": "Mostly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 22,
-            "low_f": 12,
+            "high_f": 23,
+            "low_f": 11,
             "description": "Partly Cloudy",
-            "snow_inches": 2
+            "snow_inches": 1
           },
           {
             "date": "2026-02-04",
-            "high_f": 27,
+            "high_f": 26,
             "low_f": 17,
             "description": "Sunny",
             "snow_inches": 0
@@ -8018,12 +8018,12 @@
           {
             "date": "2026-02-05",
             "high_f": 37,
-            "low_f": 24,
+            "low_f": 23,
             "description": "Sunny",
             "snow_inches": 0
           }
         ],
-        "total_snow_expected": 2
+        "total_snow_expected": 1
       },
       "lastSnowDate": "2026-02-01",
       "lastTerrainDate": "2026-02-01"
@@ -8052,37 +8052,37 @@
       },
       "forecast": {
         "today": {
-          "high_f": 41,
-          "low_f": 24,
-          "description": "Sunny",
+          "high_f": null,
+          "low_f": 25,
+          "description": "Clear",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 41,
-            "low_f": 24,
-            "description": "Sunny",
+            "high_f": null,
+            "low_f": 25,
+            "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
             "high_f": 38,
-            "low_f": 16,
+            "low_f": 19,
             "description": "Mostly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 31,
-            "low_f": 14,
+            "high_f": 33,
+            "low_f": 15,
             "description": "Partly Cloudy",
-            "snow_inches": 0
+            "snow_inches": 1
           },
           {
             "date": "2026-02-04",
             "high_f": 32,
-            "low_f": 19,
+            "low_f": 18,
             "description": "Sunny",
             "snow_inches": 0
           },
@@ -8094,7 +8094,7 @@
             "snow_inches": 0
           }
         ],
-        "total_snow_expected": 0
+        "total_snow_expected": 1
       },
       "lastSnowDate": "2026-02-01",
       "lastTerrainDate": "2026-02-01"
@@ -8123,37 +8123,37 @@
       },
       "forecast": {
         "today": {
-          "high_f": 34,
+          "high_f": null,
           "low_f": 16,
-          "description": "Sunny",
+          "description": "Clear",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 34,
+            "high_f": null,
             "low_f": 16,
-            "description": "Sunny",
+            "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
             "high_f": 29,
-            "low_f": 7,
+            "low_f": 10,
             "description": "Partly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 20,
-            "low_f": 10,
-            "description": "Mostly Cloudy",
+            "high_f": 21,
+            "low_f": 8,
+            "description": "Windy",
             "snow_inches": 2
           },
           {
             "date": "2026-02-04",
             "high_f": 24,
-            "low_f": 12,
+            "low_f": 11,
             "description": "Sunny",
             "snow_inches": 0
           },
@@ -8194,43 +8194,43 @@
       },
       "forecast": {
         "today": {
-          "high_f": 33,
+          "high_f": null,
           "low_f": 26,
-          "description": "Sunny",
+          "description": "Mostly Clear",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 33,
+            "high_f": null,
             "low_f": 26,
-            "description": "Sunny",
+            "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
             "high_f": 29,
-            "low_f": 17,
-            "description": "Mostly Cloudy",
+            "low_f": 18,
+            "description": "Partly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 23,
-            "low_f": 16,
+            "high_f": 26,
+            "low_f": 15,
             "description": "Mostly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
-            "high_f": 26,
+            "high_f": 25,
             "low_f": 24,
             "description": "Sunny",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
-            "high_f": 35,
+            "high_f": 36,
             "low_f": 31,
             "description": "Sunny",
             "snow_inches": 0
@@ -8256,38 +8256,38 @@
       "terrain": null,
       "forecast": {
         "today": {
-          "high_f": 31,
+          "high_f": null,
           "low_f": 17,
-          "description": "Sunny",
+          "description": "Clear",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 31,
+            "high_f": null,
             "low_f": 17,
-            "description": "Sunny",
+            "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
             "high_f": 26,
             "low_f": 9,
-            "description": "Windy",
+            "description": "Partly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 18,
-            "low_f": 9,
+            "high_f": 19,
+            "low_f": 7,
             "description": "Windy",
             "snow_inches": 1
           },
           {
             "date": "2026-02-04",
             "high_f": 23,
-            "low_f": 16,
-            "description": "Mostly Sunny",
+            "low_f": 15,
+            "description": "Sunny",
             "snow_inches": 0
           },
           {
@@ -8318,17 +8318,17 @@
       "terrain": null,
       "forecast": {
         "today": {
-          "high_f": 36,
-          "low_f": 29,
-          "description": "Sunny",
+          "high_f": null,
+          "low_f": 30,
+          "description": "Mostly Clear",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 36,
-            "low_f": 29,
-            "description": "Sunny",
+            "high_f": null,
+            "low_f": 30,
+            "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
@@ -8340,21 +8340,21 @@
           },
           {
             "date": "2026-02-03",
-            "high_f": 26,
-            "low_f": 16,
-            "description": "Windy",
-            "snow_inches": 0
-          },
-          {
-            "date": "2026-02-04",
-            "high_f": 24,
-            "low_f": 24,
+            "high_f": 28,
+            "low_f": 15,
             "description": "Sunny",
             "snow_inches": 0
           },
           {
+            "date": "2026-02-04",
+            "high_f": 23,
+            "low_f": 23,
+            "description": "Mostly Sunny",
+            "snow_inches": 0
+          },
+          {
             "date": "2026-02-05",
-            "high_f": 36,
+            "high_f": 35,
             "low_f": 32,
             "description": "Sunny",
             "snow_inches": 0
@@ -8378,55 +8378,55 @@
         "base_depth": 62
       },
       "terrain": {
-        "trails_open": 180,
+        "trails_open": 188,
         "trails_total": 191,
-        "trails_open_pct": 0.942,
+        "trails_open_pct": 0.984,
         "trails_groomed": 107,
-        "trails_groomed_pct": 0.594,
-        "lifts_open": 0,
+        "trails_groomed_pct": 0.569,
+        "lifts_open": 24,
         "lifts_total": 25,
-        "lifts_open_pct": 0
+        "lifts_open_pct": 0.96
       },
       "forecast": {
         "today": {
           "high_f": null,
-          "low_f": 32,
-          "description": "Clear",
+          "low_f": 29,
+          "description": "Mostly Cloudy",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
-            "date": "2026-01-31",
-            "high_f": null,
-            "low_f": 32,
-            "description": "Clear",
-            "snow_inches": 0
-          },
-          {
             "date": "2026-02-01",
-            "high_f": 40,
+            "high_f": null,
             "low_f": 29,
-            "description": "Mostly Sunny",
+            "description": "Mostly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
             "high_f": 38,
-            "low_f": 31,
+            "low_f": 30,
             "description": "Sunny",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 43,
+            "high_f": 42,
             "low_f": 33,
             "description": "Sunny",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
-            "high_f": 44,
-            "low_f": 31,
+            "high_f": 43,
+            "low_f": 30,
+            "description": "Sunny",
+            "snow_inches": 0
+          },
+          {
+            "date": "2026-02-05",
+            "high_f": 41,
+            "low_f": 29,
             "description": "Sunny",
             "snow_inches": 0
           }
@@ -8454,50 +8454,50 @@
         "trails_open_pct": 1,
         "trails_groomed": 14,
         "trails_groomed_pct": 0.318,
-        "lifts_open": 0,
+        "lifts_open": 6,
         "lifts_total": 7,
-        "lifts_open_pct": 0
+        "lifts_open_pct": 0.857
       },
       "forecast": {
         "today": {
           "high_f": null,
-          "low_f": 33,
-          "description": "Clear",
+          "low_f": 29,
+          "description": "Mostly Cloudy",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
-            "date": "2026-01-31",
-            "high_f": null,
-            "low_f": 33,
-            "description": "Clear",
-            "snow_inches": 0
-          },
-          {
             "date": "2026-02-01",
-            "high_f": 39,
+            "high_f": null,
             "low_f": 29,
-            "description": "Partly Cloudy",
+            "description": "Mostly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
-            "high_f": 38,
+            "high_f": 37,
             "low_f": 31,
             "description": "Sunny",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 43,
-            "low_f": 35,
+            "high_f": 42,
+            "low_f": 34,
             "description": "Sunny",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
-            "high_f": 44,
-            "low_f": 32,
+            "high_f": 43,
+            "low_f": 31,
+            "description": "Sunny",
+            "snow_inches": 0
+          },
+          {
+            "date": "2026-02-05",
+            "high_f": 41,
+            "low_f": 30,
             "description": "Sunny",
             "snow_inches": 0
           }
@@ -8532,31 +8532,24 @@
       "forecast": {
         "today": {
           "high_f": null,
-          "low_f": 35,
-          "description": "Cloudy",
+          "low_f": 27,
+          "description": "Mostly Cloudy",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
-            "date": "2026-01-31",
-            "high_f": null,
-            "low_f": 35,
-            "description": "Cloudy",
-            "snow_inches": 0
-          },
-          {
             "date": "2026-02-01",
-            "high_f": 34,
+            "high_f": null,
             "low_f": 27,
-            "description": "Snow",
-            "snow_inches": 2
+            "description": "Mostly Cloudy",
+            "snow_inches": 0
           },
           {
             "date": "2026-02-02",
-            "high_f": 35,
-            "low_f": 35,
+            "high_f": 36,
+            "low_f": 36,
             "description": "Rain Snow",
-            "snow_inches": 0
+            "snow_inches": 1
           },
           {
             "date": "2026-02-03",
@@ -8568,12 +8561,19 @@
           {
             "date": "2026-02-04",
             "high_f": 49,
-            "low_f": 45,
-            "description": "Mostly Cloudy",
+            "low_f": 44,
+            "description": "Cloudy",
+            "snow_inches": 0
+          },
+          {
+            "date": "2026-02-05",
+            "high_f": 47,
+            "low_f": 39,
+            "description": "Partly Cloudy",
             "snow_inches": 0
           }
         ],
-        "total_snow_expected": 2
+        "total_snow_expected": 1
       },
       "lastSnowDate": "2026-02-01",
       "lastTerrainDate": "2026-02-01"
@@ -8602,23 +8602,23 @@
       },
       "forecast": {
         "today": {
-          "high_f": 9,
-          "low_f": 6,
+          "high_f": null,
+          "low_f": 7,
           "description": "Windy",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 9,
-            "low_f": 6,
+            "high_f": null,
+            "low_f": 7,
             "description": "Windy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
             "high_f": 13,
-            "low_f": 12,
+            "low_f": 13,
             "description": "Windy",
             "snow_inches": 0
           },
@@ -8626,25 +8626,25 @@
             "date": "2026-02-03",
             "high_f": 16,
             "low_f": 12,
-            "description": "Mostly Cloudy",
+            "description": "Partly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
             "high_f": 12,
             "low_f": 8,
-            "description": "Mostly Cloudy",
-            "snow_inches": 2
+            "description": "Windy",
+            "snow_inches": 1
           },
           {
             "date": "2026-02-05",
             "high_f": 11,
-            "low_f": 9,
-            "description": "Mostly Cloudy",
-            "snow_inches": 2
+            "low_f": 10,
+            "description": "Partly Cloudy",
+            "snow_inches": 0
           }
         ],
-        "total_snow_expected": 4
+        "total_snow_expected": 1
       },
       "lastSnowDate": "2026-02-01",
       "lastTerrainDate": "2026-02-01"
@@ -8673,30 +8673,30 @@
       },
       "forecast": {
         "today": {
-          "high_f": 6,
-          "low_f": 5,
+          "high_f": null,
+          "low_f": 6,
           "description": "Windy",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 6,
-            "low_f": 5,
+            "high_f": null,
+            "low_f": 6,
             "description": "Windy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
             "high_f": 13,
-            "low_f": 12,
+            "low_f": 13,
             "description": "Windy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
             "high_f": 16,
-            "low_f": 13,
+            "low_f": 12,
             "description": "Partly Cloudy",
             "snow_inches": 0
           },
@@ -8704,14 +8704,14 @@
             "date": "2026-02-04",
             "high_f": 12,
             "low_f": 7,
-            "description": "Cloudy",
+            "description": "Windy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
             "high_f": 9,
-            "low_f": 8,
-            "description": "Mostly Cloudy",
+            "low_f": 9,
+            "description": "Partly Cloudy",
             "snow_inches": 0
           }
         ],
@@ -8744,7 +8744,7 @@
       },
       "forecast": {
         "today": {
-          "high_f": 14,
+          "high_f": null,
           "low_f": 12,
           "description": "Windy",
           "snow_inches": 0
@@ -8752,7 +8752,7 @@
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 14,
+            "high_f": null,
             "low_f": 12,
             "description": "Windy",
             "snow_inches": 0
@@ -8760,13 +8760,13 @@
           {
             "date": "2026-02-02",
             "high_f": 15,
-            "low_f": 13,
+            "low_f": 14,
             "description": "Windy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 16,
+            "high_f": 15,
             "low_f": 12,
             "description": "Mostly Sunny",
             "snow_inches": 0
@@ -8776,17 +8776,17 @@
             "high_f": 12,
             "low_f": 8,
             "description": "Windy",
-            "snow_inches": 1
+            "snow_inches": 2
           },
           {
             "date": "2026-02-05",
             "high_f": 8,
             "low_f": 7,
             "description": "Windy",
-            "snow_inches": 0
+            "snow_inches": 1
           }
         ],
-        "total_snow_expected": 1
+        "total_snow_expected": 3
       },
       "lastSnowDate": "2026-02-01",
       "lastTerrainDate": "2026-02-01"
@@ -8815,7 +8815,7 @@
       },
       "forecast": {
         "today": {
-          "high_f": 16,
+          "high_f": null,
           "low_f": 10,
           "description": "Windy",
           "snow_inches": 0
@@ -8823,7 +8823,7 @@
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 16,
+            "high_f": null,
             "low_f": 10,
             "description": "Windy",
             "snow_inches": 0
@@ -8831,7 +8831,7 @@
           {
             "date": "2026-02-02",
             "high_f": 16,
-            "low_f": 13,
+            "low_f": 14,
             "description": "Windy",
             "snow_inches": 0
           },
@@ -8845,14 +8845,14 @@
           {
             "date": "2026-02-04",
             "high_f": 16,
-            "low_f": 10,
+            "low_f": 9,
             "description": "Windy",
             "snow_inches": 1
           },
           {
             "date": "2026-02-05",
-            "high_f": 13,
-            "low_f": 9,
+            "high_f": 12,
+            "low_f": 10,
             "description": "Windy",
             "snow_inches": 0
           }
@@ -8886,23 +8886,23 @@
       },
       "forecast": {
         "today": {
-          "high_f": 15,
+          "high_f": null,
           "low_f": 5,
-          "description": "Mostly Cloudy",
+          "description": "Partly Cloudy",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 15,
+            "high_f": null,
             "low_f": 5,
-            "description": "Mostly Cloudy",
+            "description": "Partly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
             "high_f": 18,
-            "low_f": 9,
+            "low_f": 10,
             "description": "Sunny",
             "snow_inches": 0
           },
@@ -8910,7 +8910,7 @@
             "date": "2026-02-03",
             "high_f": 25,
             "low_f": 11,
-            "description": "Mostly Sunny",
+            "description": "Partly Cloudy",
             "snow_inches": 0
           },
           {
@@ -8922,9 +8922,9 @@
           },
           {
             "date": "2026-02-05",
-            "high_f": 17,
+            "high_f": 16,
             "low_f": 5,
-            "description": "Mostly Cloudy",
+            "description": "Partly Cloudy",
             "snow_inches": 0
           }
         ],
@@ -8957,29 +8957,29 @@
       },
       "forecast": {
         "today": {
-          "high_f": 15,
+          "high_f": null,
           "low_f": 9,
-          "description": "Sunny",
+          "description": "Clear",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 15,
+            "high_f": null,
             "low_f": 9,
-            "description": "Sunny",
+            "description": "Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
-            "high_f": 19,
-            "low_f": 14,
+            "high_f": 21,
+            "low_f": 13,
             "description": "Sunny",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 19,
+            "high_f": 18,
             "low_f": 13,
             "description": "Cloudy",
             "snow_inches": 1
@@ -8987,15 +8987,15 @@
           {
             "date": "2026-02-04",
             "high_f": 16,
-            "low_f": 7,
+            "low_f": 5,
             "description": "Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
             "high_f": 11,
-            "low_f": 6,
-            "description": "Partly Cloudy",
+            "low_f": 7,
+            "description": "Mostly Cloudy",
             "snow_inches": 0
           }
         ],
@@ -9022,49 +9022,49 @@
         "trails_open_pct": 0.969,
         "trails_groomed": 49,
         "trails_groomed_pct": 0.79,
-        "lifts_open": 0,
+        "lifts_open": 9,
         "lifts_total": 11,
-        "lifts_open_pct": 0
+        "lifts_open_pct": 0.818
       },
       "forecast": {
         "today": {
-          "high_f": 16,
-          "low_f": 13,
-          "description": "Mostly Sunny",
+          "high_f": null,
+          "low_f": 12,
+          "description": "Mostly Clear",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
             "date": "2026-02-01",
-            "high_f": 16,
-            "low_f": 13,
-            "description": "Mostly Sunny",
+            "high_f": null,
+            "low_f": 12,
+            "description": "Mostly Clear",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
             "high_f": 23,
-            "low_f": 18,
+            "low_f": 19,
             "description": "Mostly Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 19,
-            "low_f": 11,
+            "high_f": 20,
+            "low_f": 12,
             "description": "Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
             "high_f": 15,
-            "low_f": 13,
-            "description": "Mostly Cloudy",
+            "low_f": 12,
+            "description": "Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-05",
-            "high_f": 18,
+            "high_f": 19,
             "low_f": 17,
             "description": "Cloudy",
             "snow_inches": 0
@@ -9091,35 +9091,28 @@
       "forecast": {
         "today": {
           "high_f": null,
-          "low_f": 30,
+          "low_f": 27,
           "description": "Cloudy",
           "snow_inches": 1
         },
         "upcoming_days": [
           {
-            "date": "2026-01-31",
+            "date": "2026-02-01",
             "high_f": null,
-            "low_f": 30,
+            "low_f": 27,
             "description": "Cloudy",
             "snow_inches": 1
           },
           {
-            "date": "2026-02-01",
-            "high_f": 32,
-            "low_f": 27,
-            "description": "Cloudy",
-            "snow_inches": 0
-          },
-          {
             "date": "2026-02-02",
             "high_f": 28,
-            "low_f": 27,
+            "low_f": 28,
             "description": "Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-03",
-            "high_f": 31,
+            "high_f": 34,
             "low_f": 31,
             "description": "Cloudy",
             "snow_inches": 0
@@ -9127,8 +9120,15 @@
           {
             "date": "2026-02-04",
             "high_f": 36,
-            "low_f": 34,
+            "low_f": 35,
             "description": "Cloudy",
+            "snow_inches": 0
+          },
+          {
+            "date": "2026-02-05",
+            "high_f": 38,
+            "low_f": 34,
+            "description": "Partly Cloudy",
             "snow_inches": 0
           }
         ],
@@ -9162,48 +9162,48 @@
       "forecast": {
         "today": {
           "high_f": null,
-          "low_f": 39,
+          "low_f": 35,
           "description": "Rain",
           "snow_inches": 0
         },
         "upcoming_days": [
           {
-            "date": "2026-01-31",
-            "high_f": null,
-            "low_f": 39,
-            "description": "Rain",
-            "snow_inches": 0
-          },
-          {
             "date": "2026-02-01",
-            "high_f": 38,
+            "high_f": null,
             "low_f": 35,
             "description": "Rain",
             "snow_inches": 0
           },
           {
             "date": "2026-02-02",
-            "high_f": 36,
+            "high_f": 37,
             "low_f": 37,
             "description": "Rain Snow",
-            "snow_inches": 2
+            "snow_inches": 4
           },
           {
             "date": "2026-02-03",
-            "high_f": 45,
-            "low_f": 45,
+            "high_f": 47,
+            "low_f": 46,
             "description": "Cloudy",
             "snow_inches": 0
           },
           {
             "date": "2026-02-04",
-            "high_f": 48,
-            "low_f": 46,
+            "high_f": 49,
+            "low_f": 47,
             "description": "Cloudy",
+            "snow_inches": 0
+          },
+          {
+            "date": "2026-02-05",
+            "high_f": 52,
+            "low_f": 42,
+            "description": "Mostly Sunny",
             "snow_inches": 0
           }
         ],
-        "total_snow_expected": 2
+        "total_snow_expected": 4
       },
       "lastSnowDate": "2026-02-01",
       "lastTerrainDate": "2026-02-01"
@@ -9382,11 +9382,11 @@
   "totals": {
     "resorts_total": 70,
     "resorts_reporting": 67,
-    "trails_open": 5594,
+    "trails_open": 5611,
     "trails_total": 7025,
     "trails_groomed": 2710,
-    "lifts_open": 71,
-    "snow_24h_sum": 3
+    "lifts_open": 140,
+    "snow_24h_sum": 8
   },
   "coverage": {
     "with_snow_data": [

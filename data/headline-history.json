@@ -1,17 +1,12 @@
 {
   "stratton": {
-    "lastHeadline": "Arctic Air in Place",
+    "lastHeadline": "BRRRRRRRRR",
     "lastCondition": "cold_snap",
     "lastDate": "2026-02-01",
     "history": [
       {
         "date": "2026-02-01",
         "condition": "cold_snap",
-        "headline": "Arctic Air in Place"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "cold_snap",
         "headline": "BRRRRRRRRR"
       },
       {
@@ -38,19 +33,19 @@
         "date": "2026-02-01",
         "condition": "cold_snap",
         "headline": "Arctic Air in Place"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "cold_snap",
+        "headline": "BRRRRRRRRR"
       }
     ]
   },
   "palisades": {
-    "lastHeadline": "{newTrailsCount} New {NewTrailWord} Today",
-    "lastCondition": "terrain_expansion",
+    "lastHeadline": "{newTrailsCount} New Options",
+    "lastCondition": "terrain_major",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "terrain_expansion",
-        "headline": "{newTrailsCount} New {NewTrailWord} Today"
-      },
       {
         "date": "2026-02-01",
         "condition": "terrain_major",
@@ -80,22 +75,22 @@
         "date": "2026-02-01",
         "condition": "sunday",
         "headline": "Sunday Funday"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "terrain_major",
+        "headline": "Big Expansion Today"
       }
     ]
   },
   "deervalley": {
-    "lastHeadline": "Terrain Update",
+    "lastHeadline": "Patrol Opened {newTrailsCount} More",
     "lastCondition": "terrain_few",
     "lastDate": "2026-02-01",
     "history": [
       {
         "date": "2026-02-01",
         "condition": "terrain_few",
-        "headline": "Terrain Update"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "terrain_few",
         "headline": "Patrol Opened {newTrailsCount} More"
       },
       {
@@ -122,52 +117,15 @@
         "date": "2026-02-01",
         "condition": "terrain_few",
         "headline": "Terrain Update"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "terrain_few",
+        "headline": "A Few More Options Today"
       }
     ]
   },
   "solitude": {
-    "lastHeadline": "Weekend Finale",
-    "lastCondition": "sunday",
-    "lastDate": "2026-02-01",
-    "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Weekend Finale"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Sunday Skiing"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Weekend Finale"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Sunday Skiing"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Weekend Finale"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Sunday Skiing"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Weekend Finale"
-      }
-    ]
-  },
-  "steamboat": {
     "lastHeadline": "Sunday Skiing",
     "lastCondition": "sunday",
     "lastDate": "2026-02-01",
@@ -180,7 +138,7 @@
       {
         "date": "2026-02-01",
         "condition": "sunday",
-        "headline": "One More Day"
+        "headline": "Weekend Finale"
       },
       {
         "date": "2026-02-01",
@@ -190,7 +148,7 @@
       {
         "date": "2026-02-01",
         "condition": "sunday",
-        "headline": "One More Day"
+        "headline": "Weekend Finale"
       },
       {
         "date": "2026-02-01",
@@ -200,7 +158,7 @@
       {
         "date": "2026-02-01",
         "condition": "sunday",
-        "headline": "One More Day"
+        "headline": "Weekend Finale"
       },
       {
         "date": "2026-02-01",
@@ -209,16 +167,53 @@
       }
     ]
   },
-  "mammoth": {
-    "lastHeadline": "Sunday Funday",
+  "steamboat": {
+    "lastHeadline": "One More Day",
     "lastCondition": "sunday",
     "lastDate": "2026-02-01",
     "history": [
       {
         "date": "2026-02-01",
         "condition": "sunday",
-        "headline": "Sunday Funday"
+        "headline": "One More Day"
       },
+      {
+        "date": "2026-02-01",
+        "condition": "sunday",
+        "headline": "Sunday Skiing"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "sunday",
+        "headline": "One More Day"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "sunday",
+        "headline": "Sunday Skiing"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "sunday",
+        "headline": "One More Day"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "sunday",
+        "headline": "Sunday Skiing"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "sunday",
+        "headline": "One More Day"
+      }
+    ]
+  },
+  "mammoth": {
+    "lastHeadline": "Fresh Terrain Unlocked",
+    "lastCondition": "terrain_expansion",
+    "lastDate": "2026-02-01",
+    "history": [
       {
         "date": "2026-02-01",
         "condition": "terrain_expansion",
@@ -248,22 +243,22 @@
         "date": "2026-02-01",
         "condition": "terrain_expansion",
         "headline": "More Mountain to Explore"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "terrain_expansion",
+        "headline": "Fresh Terrain Unlocked"
       }
     ]
   },
   "junemountain": {
-    "lastHeadline": "All Systems Go",
+    "lastHeadline": "Peak Terrain",
     "lastCondition": "percent_full",
     "lastDate": "2026-02-01",
     "history": [
       {
         "date": "2026-02-01",
         "condition": "percent_full",
-        "headline": "All Systems Go"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "percent_full",
         "headline": "Peak Terrain"
       },
       {
@@ -290,22 +285,22 @@
         "date": "2026-02-01",
         "condition": "percent_full",
         "headline": "All Systems Go"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "percent_full",
+        "headline": "Peak Terrain"
       }
     ]
   },
   "crystal": {
-    "lastHeadline": "Sunday Skiing",
+    "lastHeadline": "One More Day",
     "lastCondition": "sunday",
     "lastDate": "2026-02-01",
     "history": [
       {
         "date": "2026-02-01",
         "condition": "sunday",
-        "headline": "Sunday Skiing"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
         "headline": "One More Day"
       },
       {
@@ -332,22 +327,22 @@
         "date": "2026-02-01",
         "condition": "sunday",
         "headline": "Sunday Skiing"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "sunday",
+        "headline": "One More Day"
       }
     ]
   },
   "sugarbush": {
-    "lastHeadline": "Arctic Air in Place",
+    "lastHeadline": "BRRRRRRRRR",
     "lastCondition": "cold_snap",
     "lastDate": "2026-02-01",
     "history": [
       {
         "date": "2026-02-01",
         "condition": "cold_snap",
-        "headline": "Arctic Air in Place"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "cold_snap",
         "headline": "BRRRRRRRRR"
       },
       {
@@ -374,22 +369,22 @@
         "date": "2026-02-01",
         "condition": "cold_snap",
         "headline": "Arctic Air in Place"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "cold_snap",
+        "headline": "BRRRRRRRRR"
       }
     ]
   },
   "tremblant": {
-    "lastHeadline": "Clear Skies, Cold Temps",
+    "lastHeadline": "Bluebird Day",
     "lastCondition": "bluebird_day",
     "lastDate": "2026-02-01",
     "history": [
       {
         "date": "2026-02-01",
         "condition": "bluebird_day",
-        "headline": "Clear Skies, Cold Temps"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "bluebird_day",
         "headline": "Bluebird Day"
       },
       {
@@ -416,22 +411,22 @@
         "date": "2026-02-01",
         "condition": "bluebird_day",
         "headline": "Clear Skies, Cold Temps"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "bluebird_day",
+        "headline": "Bluebird Day"
       }
     ]
   },
   "blue": {
-    "lastHeadline": "Not a Cloud in Sight",
+    "lastHeadline": "Unlimited Visibility",
     "lastCondition": "bluebird_day",
     "lastDate": "2026-02-01",
     "history": [
       {
         "date": "2026-02-01",
         "condition": "bluebird_day",
-        "headline": "Not a Cloud in Sight"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "bluebird_day",
         "headline": "Unlimited Visibility"
       },
       {
@@ -458,6 +453,11 @@
         "date": "2026-02-01",
         "condition": "bluebird_day",
         "headline": "Not a Cloud in Sight"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "bluebird_day",
+        "headline": "Unlimited Visibility"
       }
     ]
   },
@@ -494,12 +494,12 @@
       {
         "date": "2026-02-01",
         "condition": "terrain_major",
-        "headline": "Patrol Won't Quit"
+        "headline": "Significant Terrain Release"
       },
       {
         "date": "2026-02-01",
-        "condition": "terrain_major",
-        "headline": "Big Expansion Today"
+        "condition": "terrain_massive",
+        "headline": "Patrol Went Big Today"
       }
     ]
   },
@@ -834,8 +834,8 @@
       },
       {
         "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Weekend Finale"
+        "condition": "terrain_major",
+        "headline": "Significant Terrain Release"
       }
     ]
   },
@@ -866,13 +866,13 @@
       },
       {
         "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Weekend Finale"
+        "condition": "terrain_massive",
+        "headline": "Patrol Went Big Today"
       },
       {
         "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Sunday Skiing"
+        "condition": "terrain_massive",
+        "headline": "Half the Mountain Just Dropped"
       },
       {
         "date": "2026-02-01",
@@ -966,18 +966,13 @@
     ]
   },
   "lakelouise": {
-    "lastHeadline": "Mother Nature Can't Decide",
+    "lastHeadline": "Transition Day",
     "lastCondition": "weather_mixed",
     "lastDate": "2026-02-01",
     "history": [
       {
         "date": "2026-02-01",
         "condition": "weather_mixed",
-        "headline": "Mother Nature Can't Decide"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "weather_mixed",
         "headline": "Transition Day"
       },
       {
@@ -1004,19 +999,19 @@
         "date": "2026-02-01",
         "condition": "weather_mixed",
         "headline": "Mother Nature Can't Decide"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "weather_mixed",
+        "headline": "Transition Day"
       }
     ]
   },
   "banff": {
-    "lastHeadline": "Weekend Finale",
+    "lastHeadline": "Sunday Skiing",
     "lastCondition": "sunday",
     "lastDate": "2026-02-01",
     "history": [
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
-        "headline": "Weekend Finale"
-      },
       {
         "date": "2026-02-01",
         "condition": "sunday",
@@ -1046,22 +1041,22 @@
         "date": "2026-02-01",
         "condition": "percent_full",
         "headline": "The Whole Mountain Awaits"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "percent_full",
+        "headline": "Nearly Everything Open"
       }
     ]
   },
   "norquay": {
-    "lastHeadline": "One More Day",
+    "lastHeadline": "Sunday Funday",
     "lastCondition": "sunday",
     "lastDate": "2026-02-01",
     "history": [
       {
         "date": "2026-02-01",
         "condition": "sunday",
-        "headline": "One More Day"
-      },
-      {
-        "date": "2026-02-01",
-        "condition": "sunday",
         "headline": "Sunday Funday"
       },
       {
@@ -1088,6 +1083,11 @@
         "date": "2026-02-01",
         "condition": "sunday",
         "headline": "One More Day"
+      },
+      {
+        "date": "2026-02-01",
+        "condition": "sunday",
+        "headline": "Sunday Funday"
       }
     ]
   },

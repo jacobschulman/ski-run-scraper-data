@@ -2,7 +2,7 @@
   "resort": "laurelmountain",
   "resortName": "Laurel Mountain",
   "date": "2026-02-03",
-  "generated": "2026-02-03T06:03:26.974Z",
+  "generated": "2026-02-03T11:46:28.736Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,62 +23,226 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 0,
+          "today": 19,
           "yesterday": 0,
-          "delta": 0
+          "delta": 19
         },
         "groomedTrails": {
-          "today": 0,
+          "today": 17,
           "yesterday": 0,
-          "delta": 0
+          "delta": 17
         },
         "totalTrails": 19
       },
-      "newlyOpened": [],
+      "newlyOpened": [
+        {
+          "name": "Deer Path",
+          "difficulty": "Green",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "Docs Forest Glades",
+          "difficulty": "DoubleBlack",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "Dream Highway",
+          "difficulty": "Blue",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "Easy Way",
+          "difficulty": "Blue",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "Heagan's Cut",
+          "difficulty": "Blue",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "Innsbruck",
+          "difficulty": "Green",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "Last Chance",
+          "difficulty": "Green",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "Laurel Run",
+          "difficulty": "Black",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "Lincoln Highway",
+          "difficulty": "Blue",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "Lower Broadway",
+          "difficulty": "Green",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "Lower Wildcat",
+          "difficulty": "DoubleBlack",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "Lynx",
+          "difficulty": "Green",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "Old Innsbruck",
+          "difficulty": "Green",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "Ski Top",
+          "difficulty": "Green",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "Tame Cat",
+          "difficulty": "Green",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "The Slot",
+          "difficulty": "Blue",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "Upper Broadway",
+          "difficulty": "Blue",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "Upper Wildcat",
+          "difficulty": "Black",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "Woodland",
+          "difficulty": "Green",
+          "area": "Laurel Mountain"
+        }
+      ],
       "newlyClosed": [],
       "newlyGroomed": [],
       "ungroomed": []
     },
     "lifts": {
       "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-02-03",
+        "high_f": 23,
+        "low_f": 17,
+        "high_c": -5,
+        "low_c": -8,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-02-04T05:00:00Z",
+          "high_f": 18,
+          "low_f": 8,
+          "high_c": -8,
+          "low_c": -14,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-05T05:00:00Z",
+          "high_f": 16,
+          "low_f": 5,
+          "high_c": -9,
+          "low_c": -15,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-06T05:00:00Z",
+          "high_f": 22,
+          "low_f": 12,
+          "high_c": -6,
+          "low_c": -11,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-02-04T05:00:00Z",
+        "high_f": 18,
+        "low_f": 8,
+        "high_c": -8,
+        "low_c": -14,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
     }
   },
   "computedInsights": {
     "flags": {
       "hasFreshSnow": false,
       "isPowderDay": false,
-      "hasNewTrails": false,
+      "hasNewTrails": true,
       "significantGroomingIncrease": false
     },
-    "alerts": [],
-    "trends": [],
+    "alerts": [
+      "19 new trails opened today"
+    ],
+    "trends": [
+      "19 more trails open than yesterday"
+    ],
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Not Open Yet",
-    "body": "No trails open yet. Current forecast: Variable conditions.",
+    "headline": "Major Terrain Drop: 19 Runs",
+    "body": "19/19 trails spinning, 17 freshly groomed. 23° and Cloudy. Big expansion: 19 new trails opened up. More room to roam.",
     "debug": {
       "firedRules": [
         {
-          "id": "resort_closed",
+          "id": "terrain_major",
           "category": "terrain",
-          "priority": 95,
+          "priority": 88,
           "usedFor": "headline"
         },
         {
-          "id": "resort_closed",
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_major",
           "category": "terrain",
-          "priority": 95,
+          "priority": 88,
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 2,
+      "totalRulesFired": 4,
       "headlineSelection": {
-        "condition": "resort_closed",
-        "variationIndex": 1,
-        "totalVariations": 6,
+        "condition": "terrain_major",
+        "variationIndex": 0,
+        "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": null
+        "previousHeadline": "The Wait Continues"
       },
       "dayOfWeek": "Tuesday"
     }

@@ -2,7 +2,7 @@
   "resort": "steamboat",
   "resortName": "Steamboat",
   "date": "2026-02-03",
-  "generated": "2026-02-03T09:56:21.003Z",
+  "generated": "2026-02-03T11:46:37.557Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -123,7 +123,7 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Midweek Bliss",
+    "headline": "Quiet Days on the Hill",
     "body": "Steady snowfall with 9\" over the last week.",
     "debug": {
       "firedRules": [
@@ -143,10 +143,10 @@
       "totalRulesFired": 3,
       "headlineSelection": {
         "condition": "midweek_mellow",
-        "variationIndex": 2,
+        "variationIndex": 0,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Your Morning Mountain Brief"
+        "previousHeadline": "Midweek Mountain Report"
       },
       "dayOfWeek": "Tuesday"
     }

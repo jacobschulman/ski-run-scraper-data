@@ -2,7 +2,7 @@
   "resort": "stratton",
   "resortName": "Stratton",
   "date": "2026-02-03",
-  "generated": "2026-02-03T09:56:20.979Z",
+  "generated": "2026-02-03T11:46:37.533Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -28,16 +28,27 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 66,
+          "today": 64,
           "yesterday": 66,
-          "delta": 0
+          "delta": -2
         },
         "totalTrails": 123
       },
       "newlyOpened": [],
       "newlyClosed": [],
       "newlyGroomed": [],
-      "ungroomed": []
+      "ungroomed": [
+        {
+          "name": "Upper Grizzly Bear",
+          "difficulty": "Extreme Terrain",
+          "area": "Upper Mountain"
+        },
+        {
+          "name": "Upper Standard",
+          "difficulty": "Expert",
+          "area": "Upper Mountain"
+        }
+      ]
     },
     "lifts": {
       "available": true,
@@ -122,7 +133,7 @@
   },
   "morningBrief": {
     "headline": "Beat the Weekend Rush",
-    "body": "123 trails open, 66 groomed. Clear, temperatures TBD. Peak terrain status: almost everything is available today. 123/123 trails open, 66 groomed. Clear.",
+    "body": "123 trails open, 64 groomed. Clear, temperatures TBD. Peak terrain status: almost everything is available today. 123/123 trails open, 64 groomed. Clear.",
     "debug": {
       "firedRules": [
         {

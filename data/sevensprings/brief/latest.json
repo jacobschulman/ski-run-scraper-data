@@ -2,7 +2,7 @@
   "resort": "sevensprings",
   "resortName": "Seven Springs",
   "date": "2026-02-03",
-  "generated": "2026-02-03T06:03:26.975Z",
+  "generated": "2026-02-03T11:46:28.738Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -28,19 +28,83 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 38,
+          "today": 39,
           "yesterday": 38,
-          "delta": 0
+          "delta": 1
         },
         "totalTrails": 52
       },
       "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [],
+      "newlyGroomed": [
+        {
+          "name": "Tyrol",
+          "difficulty": "Blue",
+          "area": "Front Face"
+        }
+      ],
       "ungroomed": []
     },
     "lifts": {
       "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-02-03",
+        "high_f": 23,
+        "low_f": 17,
+        "high_c": -5,
+        "low_c": -8,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-02-04T05:00:00Z",
+          "high_f": 18,
+          "low_f": 8,
+          "high_c": -8,
+          "low_c": -14,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-05T05:00:00Z",
+          "high_f": 15,
+          "low_f": 6,
+          "high_c": -10,
+          "low_c": -15,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-06T05:00:00Z",
+          "high_f": 21,
+          "low_f": 12,
+          "high_c": -6,
+          "low_c": -11,
+          "description": "Snow & Wind",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-02-04T05:00:00Z",
+        "high_f": 18,
+        "low_f": 8,
+        "high_c": -8,
+        "low_c": -14,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
     }
   },
   "computedInsights": {
@@ -50,14 +114,18 @@
       "hasNewTrails": false,
       "significantGroomingIncrease": false
     },
-    "alerts": [],
+    "alerts": [
+      "1 trail freshly groomed"
+    ],
     "trends": [
       "Steady snowfall - 10\" in last 7 days"
     ],
-    "recommendations": []
+    "recommendations": [
+      "Fresh corduroy on Tyrol - perfect for intermediate skiers"
+    ]
   },
   "morningBrief": {
-    "headline": "Fresh Coat on the Mountain",
+    "headline": "Overnight Refresh",
     "body": "A light refresh of 1\" overnight makes the groomers smoother.",
     "debug": {
       "firedRules": [
@@ -77,10 +145,10 @@
       "totalRulesFired": 4,
       "headlineSelection": {
         "condition": "fresh_coat",
-        "variationIndex": 0,
+        "variationIndex": 3,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": null
+        "previousHeadline": "The Mountain Got a Touch-Up"
       },
       "dayOfWeek": "Tuesday"
     }

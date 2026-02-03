@@ -1,5 +1,5 @@
 {
-  "Date": "2026-02-02T22:59:53.4835348-07:00",
+  "Date": "2026-02-03T04:42:23.1535102-07:00",
   "ResortId": 25,
   "GroomingAreas": [
     {
@@ -400,6 +400,6 @@
   "ErrorDetails": null,
   "IsSuccessful": true,
   "provider": "vail",
-  "scrapedAt": "2026-02-03T06:00:56.191Z",
-  "sourceLastUpdated": "2026-02-02T22:59:53.4835348-07:00"
+  "scrapedAt": "2026-02-03T11:43:24.355Z",
+  "sourceLastUpdated": "2026-02-03T04:42:23.1535102-07:00"
 }

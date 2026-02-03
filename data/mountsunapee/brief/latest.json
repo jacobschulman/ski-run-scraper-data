@@ -2,7 +2,7 @@
   "resort": "mountsunapee",
   "resortName": "Mount Sunapee",
   "date": "2026-02-03",
-  "generated": "2026-02-03T15:03:06.689Z",
+  "generated": "2026-02-03T13:26:51.023Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,9 +23,9 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 60,
+          "today": 63,
           "yesterday": 64,
-          "delta": -4
+          "delta": -1
         },
         "groomedTrails": {
           "today": 42,
@@ -37,24 +37,9 @@
       "newlyOpened": [],
       "newlyClosed": [
         {
-          "name": "Goosebumps",
-          "difficulty": "Black",
-          "area": "North Peak"
-        },
-        {
           "name": "Lynx",
           "difficulty": "Black",
           "area": "North Peak"
-        },
-        {
-          "name": "Outer Ridge",
-          "difficulty": "Blue",
-          "area": "Summit"
-        },
-        {
-          "name": "Ridge Glades",
-          "difficulty": "Black",
-          "area": "Summit"
         }
       ],
       "newlyGroomed": [],
@@ -134,8 +119,8 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Not a Cloud in Sight",
-    "body": "60/66 trails spinning, 42 freshly groomed. 26° and Clear. Picture-perfect day: sunny skies, 26° temps, not a cloud to block the view.",
+    "headline": "Picture-Perfect Conditions",
+    "body": "63/66 trails spinning, 42 freshly groomed. 26° and Clear. Peak terrain status: almost everything is available today. Picture-perfect day: sunny skies, 26° temps, not a cloud to block the view.",
     "debug": {
       "firedRules": [
         {
@@ -151,19 +136,25 @@
           "usedFor": "body"
         },
         {
+          "id": "percent_full",
+          "category": "terrain",
+          "priority": 45,
+          "usedFor": "body"
+        },
+        {
           "id": "weather_bluebird",
           "category": "weather",
           "priority": 70,
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 4,
+      "totalRulesFired": 5,
       "headlineSelection": {
         "condition": "bluebird_day",
         "variationIndex": 2,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Picture-Perfect Conditions"
+        "previousHeadline": "Not a Cloud in Sight"
       },
       "dayOfWeek": "Tuesday"
     }

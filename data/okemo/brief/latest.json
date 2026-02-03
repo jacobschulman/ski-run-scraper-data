@@ -1,8 +1,8 @@
 {
   "resort": "okemo",
   "resortName": "Okemo",
-  "date": "2026-02-03",
-  "generated": "2026-02-03T06:03:26.946Z",
+  "date": "2026-02-02",
+  "generated": "2026-02-02T15:55:15.035Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,62 +23,123 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 119,
-          "yesterday": 117,
-          "delta": 2
+          "today": 117,
+          "yesterday": 118,
+          "delta": -1
         },
         "groomedTrails": {
-          "today": 83,
-          "yesterday": 81,
-          "delta": 2
+          "today": 81,
+          "yesterday": 84,
+          "delta": -3
         },
         "totalTrails": 129
       },
-      "newlyOpened": [
+      "newlyOpened": [],
+      "newlyClosed": [
         {
-          "name": "Chute",
-          "difficulty": "Blue",
-          "area": "Main Face"
-        },
-        {
-          "name": "Lower Chief",
-          "difficulty": "Blue",
+          "name": "Progression Park",
+          "difficulty": "TerrainPark",
           "area": "Main Face"
         }
       ],
-      "newlyClosed": [],
       "newlyGroomed": [],
-      "ungroomed": []
+      "ungroomed": [
+        {
+          "name": "Upper Limelight",
+          "difficulty": "Black",
+          "area": "Jackson Gore"
+        },
+        {
+          "name": "White Lightning",
+          "difficulty": "Black",
+          "area": "Jackson Gore"
+        }
+      ]
     },
     "lifts": {
       "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-02-02",
+        "high_f": 19,
+        "low_f": 3,
+        "high_c": -7,
+        "low_c": -16,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-02-03T05:00:00Z",
+          "high_f": 25,
+          "low_f": 6,
+          "high_c": -4,
+          "low_c": -15,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-04T05:00:00Z",
+          "high_f": 21,
+          "low_f": 9,
+          "high_c": -6,
+          "low_c": -13,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-05T05:00:00Z",
+          "high_f": 19,
+          "low_f": 4,
+          "high_c": -7,
+          "low_c": -16,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-02-03T05:00:00Z",
+        "high_f": 25,
+        "low_f": 6,
+        "high_c": -4,
+        "low_c": -15,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
     }
   },
   "computedInsights": {
     "flags": {
       "hasFreshSnow": false,
       "isPowderDay": false,
-      "hasNewTrails": true,
+      "hasNewTrails": false,
       "significantGroomingIncrease": false
     },
-    "alerts": [
-      "2 new trails opened today"
-    ],
+    "alerts": [],
     "trends": [
-      "Steady snowfall - 7\" in last 7 days",
-      "2 more trails open than yesterday"
+      "Steady snowfall - 7\" in last 7 days"
     ],
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Quiet Days on the Hill",
-    "body": "Steady snowfall with 7\" over the last week. 2 new trails opened today.",
+    "headline": "Unlimited Visibility",
+    "body": "Steady snowfall with 7\" over the last week. Clear skies and 19° means stunning views and firm snow. Layer up.",
     "debug": {
       "firedRules": [
         {
-          "id": "time_midweek_mellow",
-          "category": "time",
-          "priority": 45,
+          "id": "weather_bluebird",
+          "category": "weather",
+          "priority": 70,
           "usedFor": "headline"
         },
         {
@@ -88,21 +149,21 @@
           "usedFor": "body"
         },
         {
-          "id": "terrain_micro",
-          "category": "terrain",
-          "priority": 45,
+          "id": "weather_bluebird",
+          "category": "weather",
+          "priority": 70,
           "usedFor": "body"
         }
       ],
       "totalRulesFired": 4,
       "headlineSelection": {
-        "condition": "midweek_mellow",
-        "variationIndex": 1,
-        "totalVariations": 5,
+        "condition": "bluebird_day",
+        "variationIndex": 4,
+        "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": null
+        "previousHeadline": "Postcard Day"
       },
-      "dayOfWeek": "Tuesday"
+      "dayOfWeek": "Monday"
     }
   },
   "errors": []

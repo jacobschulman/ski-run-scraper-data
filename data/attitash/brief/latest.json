@@ -1,8 +1,8 @@
 {
   "resort": "attitash",
   "resortName": "Attitash",
-  "date": "2026-02-03",
-  "generated": "2026-02-03T06:03:26.953Z",
+  "date": "2026-02-02",
+  "generated": "2026-02-02T15:55:15.043Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -11,8 +11,8 @@
       "24hour_cm": 0,
       "48hour_inches": 0,
       "48hour_cm": 0,
-      "7day_inches": 1,
-      "7day_cm": 3,
+      "7day_inches": 7,
+      "7day_cm": 19,
       "season_total_inches": 57,
       "season_total_cm": 146,
       "conditions": {
@@ -23,40 +23,58 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 61,
-          "yesterday": 62,
-          "delta": -1
+          "today": 62,
+          "yesterday": 67,
+          "delta": -5
         },
         "groomedTrails": {
           "today": 45,
-          "yesterday": 45,
-          "delta": 0
+          "yesterday": 48,
+          "delta": -3
         },
         "totalTrails": 76
       },
       "newlyOpened": [
+        {
+          "name": "Trillium",
+          "difficulty": "Blue",
+          "area": "Bear Peak"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Ammonoosuc",
+          "difficulty": "Black",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Councilor's Run",
+          "difficulty": "Green",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Idiot's Option",
+          "difficulty": "Black",
+          "area": "Attitash Peak"
+        },
+        {
+          "name": "Middle Highway",
+          "difficulty": "Blue",
+          "area": "Attitash Peak"
+        },
         {
           "name": "Spillway",
           "difficulty": "Black",
           "area": "Attitash Peak"
         },
         {
-          "name": "Moonbeam",
-          "difficulty": "Green",
-          "area": "Bear Peak"
-        },
-        {
-          "name": "Quiver",
-          "difficulty": "Black",
-          "area": "Bear Peak"
+          "name": "Upper Highway",
+          "difficulty": "Blue",
+          "area": "Attitash Peak"
         }
       ],
-      "newlyClosed": [
-        {
-          "name": "Ptarmigan Park",
-          "difficulty": "TerrainPark",
-          "area": "Attitash Peak"
-        },
+      "newlyGroomed": [],
+      "ungroomed": [
         {
           "name": "Arcade",
           "difficulty": "TerrainPark",
@@ -66,18 +84,69 @@
           "name": "Kachina Falls",
           "difficulty": "Black",
           "area": "Bear Peak"
-        },
-        {
-          "name": "Mythmaker",
-          "difficulty": "Black",
-          "area": "Bear Peak"
         }
-      ],
-      "newlyGroomed": [],
-      "ungroomed": []
+      ]
     },
     "lifts": {
       "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-02-02",
+        "high_f": 26,
+        "low_f": 6,
+        "high_c": -3,
+        "low_c": -15,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-02-03T05:00:00Z",
+          "high_f": 29,
+          "low_f": 7,
+          "high_c": -2,
+          "low_c": -14,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-04T05:00:00Z",
+          "high_f": 25,
+          "low_f": 11,
+          "high_c": -4,
+          "low_c": -12,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-05T05:00:00Z",
+          "high_f": 23,
+          "low_f": 4,
+          "high_c": -5,
+          "low_c": -16,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-02-03T05:00:00Z",
+        "high_f": 29,
+        "low_f": 7,
+        "high_c": -2,
+        "low_c": -14,
+        "description": "Mostly Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
     }
   },
   "computedInsights": {
@@ -88,44 +157,46 @@
       "significantGroomingIncrease": false
     },
     "alerts": [
-      "3 new trails opened today"
+      "1 new trail opened today"
     ],
-    "trends": [],
+    "trends": [
+      "Steady snowfall - 7\" in last 7 days"
+    ],
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Fewer Crowds, More Turns",
-    "body": "61/76 trails spinning, 45 freshly groomed. Variable conditions. 61/76 trails open, 45 groomed. Variable conditions.",
+    "headline": "Postcard Day",
+    "body": "Steady snowfall with 7\" over the last week. Picture-perfect day: sunny skies, 26° temps, not a cloud to block the view.",
     "debug": {
       "firedRules": [
         {
-          "id": "time_midweek_mellow",
-          "category": "time",
-          "priority": 45,
+          "id": "weather_bluebird",
+          "category": "weather",
+          "priority": 70,
           "usedFor": "headline"
         },
         {
-          "id": "fallback_headline",
+          "id": "snow_week_total",
           "category": "snow",
-          "priority": 10,
+          "priority": 40,
           "usedFor": "body"
         },
         {
-          "id": "fallback_body",
+          "id": "weather_bluebird",
           "category": "weather",
-          "priority": 5,
+          "priority": 70,
           "usedFor": "body"
         }
       ],
       "totalRulesFired": 3,
       "headlineSelection": {
-        "condition": "midweek_mellow",
-        "variationIndex": 3,
-        "totalVariations": 5,
+        "condition": "bluebird_day",
+        "variationIndex": 4,
+        "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": null
+        "previousHeadline": "Picture-Perfect Conditions"
       },
-      "dayOfWeek": "Tuesday"
+      "dayOfWeek": "Monday"
     }
   },
   "errors": []

@@ -1,8 +1,8 @@
 {
   "resort": "bigboulder",
   "resortName": "Big Boulder",
-  "date": "2026-02-03",
-  "generated": "2026-02-03T06:03:26.970Z",
+  "date": "2026-02-02",
+  "generated": "2026-02-02T15:55:15.063Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -11,8 +11,8 @@
       "24hour_cm": 0,
       "48hour_inches": 0,
       "48hour_cm": 0,
-      "7day_inches": 0,
-      "7day_cm": 0,
+      "7day_inches": 24,
+      "7day_cm": 61,
       "season_total_inches": 51,
       "season_total_cm": 130,
       "conditions": {
@@ -41,6 +41,64 @@
     },
     "lifts": {
       "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-02-02",
+        "high_f": 21,
+        "low_f": 8,
+        "high_c": -7,
+        "low_c": -14,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-02-03T05:00:00Z",
+          "high_f": 23,
+          "low_f": 14,
+          "high_c": -5,
+          "low_c": -10,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-04T05:00:00Z",
+          "high_f": 20,
+          "low_f": 13,
+          "high_c": -7,
+          "low_c": -11,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-05T05:00:00Z",
+          "high_f": 18,
+          "low_f": 11,
+          "high_c": -8,
+          "low_c": -12,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-02-03T05:00:00Z",
+        "high_f": 23,
+        "low_f": 14,
+        "high_c": -5,
+        "low_c": -10,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
     }
   },
   "computedInsights": {
@@ -51,42 +109,44 @@
       "significantGroomingIncrease": false
     },
     "alerts": [],
-    "trends": [],
+    "trends": [
+      "Great week for snow - 24\" in last 7 days"
+    ],
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Fewer Crowds, More Turns",
-    "body": "15 trails open, 15 groomed. Variable conditions, temperatures TBD. 15/17 trails open, 15 groomed. Variable conditions.",
+    "headline": "Still Soft Out There",
+    "body": "The 24\" from this week is still skiing great. No new snow needed (yet). Windy conditions expected. Upper lifts may have holds or delays.",
     "debug": {
       "firedRules": [
         {
-          "id": "time_midweek_mellow",
-          "category": "time",
-          "priority": 45,
+          "id": "snow_holding_strong",
+          "category": "snow",
+          "priority": 60,
           "usedFor": "headline"
         },
         {
-          "id": "fallback_headline",
+          "id": "snow_holding_strong",
           "category": "snow",
-          "priority": 10,
+          "priority": 60,
           "usedFor": "body"
         },
         {
-          "id": "fallback_body",
+          "id": "weather_windy",
           "category": "weather",
-          "priority": 5,
+          "priority": 45,
           "usedFor": "body"
         }
       ],
       "totalRulesFired": 3,
       "headlineSelection": {
-        "condition": "midweek_mellow",
-        "variationIndex": 3,
-        "totalVariations": 5,
+        "condition": "holding_strong",
+        "variationIndex": 4,
+        "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": null
+        "previousHeadline": "The Base Is Holding Up"
       },
-      "dayOfWeek": "Tuesday"
+      "dayOfWeek": "Monday"
     }
   },
   "errors": []

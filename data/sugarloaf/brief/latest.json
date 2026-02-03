@@ -1,8 +1,8 @@
 {
   "resort": "sugarloaf",
   "resortName": "Sugarloaf",
-  "date": "2026-02-03",
-  "generated": "2026-02-03T06:03:34.914Z",
+  "date": "2026-02-02",
+  "generated": "2026-02-03T04:53:29.237Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -24,25 +24,148 @@
       "stats": {
         "openTrails": {
           "today": 148,
-          "yesterday": 148,
-          "delta": 0
+          "yesterday": 147,
+          "delta": 1
         },
         "groomedTrails": {
           "today": 52,
-          "yesterday": 52,
-          "delta": 0
+          "yesterday": 71,
+          "delta": -19
         },
         "totalTrails": 176
       },
-      "newlyOpened": [],
+      "newlyOpened": [
+        {
+          "name": "Sidewinder",
+          "difficulty": "Black",
+          "area": "SuperQuad"
+        }
+      ],
       "newlyClosed": [],
-      "newlyGroomed": [],
-      "ungroomed": []
+      "newlyGroomed": [
+        {
+          "name": "Sidewinder",
+          "difficulty": "Black",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Jill Poke",
+          "difficulty": "Blue",
+          "area": "Whiffletree"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Tote Road X-Cut",
+          "difficulty": "Blue",
+          "area": "Double Runner"
+        },
+        {
+          "name": "Candy Side",
+          "difficulty": "Blue",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Gin Pole",
+          "difficulty": "Blue",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Hayburner",
+          "difficulty": "Black",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Lower Skidder",
+          "difficulty": "Double Black",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Pinch",
+          "difficulty": "Blue",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Upper Competition Hill",
+          "difficulty": "Black",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Spurline",
+          "difficulty": "Blue",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Upper Skidder",
+          "difficulty": "Double Black",
+          "area": "SuperQuad"
+        },
+        {
+          "name": "Gondola Line",
+          "difficulty": "Blue",
+          "area": "Skyline"
+        },
+        {
+          "name": "Midstation X-Cut",
+          "difficulty": "Blue",
+          "area": "Skyline"
+        },
+        {
+          "name": "Spillway X-Cut",
+          "difficulty": "Black",
+          "area": "Skyline"
+        },
+        {
+          "name": "Upper Gondola Line",
+          "difficulty": "Double Black",
+          "area": "Skyline"
+        },
+        {
+          "name": "Cross Haul",
+          "difficulty": "Novice",
+          "area": "Whiffletree"
+        },
+        {
+          "name": "Lombard X-Cut",
+          "difficulty": "Blue",
+          "area": "Whiffletree"
+        },
+        {
+          "name": "Flume",
+          "difficulty": "Black",
+          "area": "King Pine"
+        },
+        {
+          "name": "Good Chance X-Cut",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Lower Scoot",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Lower West Mountain",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        },
+        {
+          "name": "Upper West Mountain",
+          "difficulty": "Blue",
+          "area": "West Mountain"
+        },
+        {
+          "name": "WMXCut",
+          "difficulty": "Novice",
+          "area": "West Mountain"
+        }
+      ]
     },
     "lifts": {
       "available": true,
       "yesterday": {
-        "date": "2026-02-02",
+        "date": "2026-02-01",
         "avgWaitTime": 0,
         "maxWaitTime": 0,
         "totalLiftsTracked": 15,
@@ -61,7 +184,7 @@
       "outlook": [
         {
           "date": "2026-02-03",
-          "high_f": 16,
+          "high_f": 15,
           "low_f": 11,
           "description": "Mostly Sunny",
           "snowfall_day_inches": 0,
@@ -80,7 +203,7 @@
         {
           "date": "2026-02-05",
           "high_f": 9,
-          "low_f": 5,
+          "low_f": 7,
           "description": "Windy",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
@@ -89,7 +212,7 @@
       ],
       "tomorrow": {
         "date": "2026-02-03",
-        "high_f": 16,
+        "high_f": 15,
         "low_f": 11,
         "description": "Mostly Sunny",
         "snowfall_day_inches": 0,
@@ -102,25 +225,32 @@
     "flags": {
       "hasFreshSnow": false,
       "isPowderDay": false,
-      "hasNewTrails": false,
+      "hasNewTrails": true,
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [],
+    "alerts": [
+      "1 new trail opened today",
+      "2 trails freshly groomed"
+    ],
     "trends": [
+      "1 more trail open than yesterday",
       "1\" snow expected Wednesday"
     ],
-    "recommendations": []
+    "recommendations": [
+      "Fresh corduroy on Sidewinder - challenging for advanced skiers",
+      "Fresh corduroy on Jill Poke - perfect for intermediate skiers"
+    ]
   },
   "morningBrief": {
-    "headline": "Midweek Bliss",
-    "body": "148/176 trails spinning, 52 freshly groomed. Windy. Light snow possible in the forecast.",
+    "headline": "Your Morning Mountain Brief",
+    "body": "148 trails open, 52 groomed. Windy, temperatures TBD. 1 new trail opened today. Light snow possible in the forecast.",
     "debug": {
       "firedRules": [
         {
-          "id": "time_midweek_mellow",
-          "category": "time",
-          "priority": 45,
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
           "usedFor": "headline"
         },
         {
@@ -130,21 +260,27 @@
           "usedFor": "body"
         },
         {
+          "id": "terrain_micro",
+          "category": "terrain",
+          "priority": 45,
+          "usedFor": "body"
+        },
+        {
           "id": "forecast_flurries",
           "category": "weather",
           "priority": 30,
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 5,
+      "totalRulesFired": 4,
       "headlineSelection": {
-        "condition": "midweek_mellow",
-        "variationIndex": 2,
-        "totalVariations": 5,
+        "condition": "fallback",
+        "variationIndex": 0,
+        "totalVariations": 7,
         "usedWeekendVariation": false,
-        "previousHeadline": "Beat the Weekend Rush"
+        "previousHeadline": "Today's Conditions"
       },
-      "dayOfWeek": "Tuesday"
+      "dayOfWeek": "Monday"
     }
   },
   "errors": []

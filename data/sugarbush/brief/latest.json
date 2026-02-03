@@ -1,8 +1,8 @@
 {
   "resort": "sugarbush",
   "resortName": "Sugarbush",
-  "date": "2026-02-03",
-  "generated": "2026-02-03T06:03:34.828Z",
+  "date": "2026-02-02",
+  "generated": "2026-02-03T04:53:29.148Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -24,25 +24,98 @@
       "stats": {
         "openTrails": {
           "today": 113,
-          "yesterday": 113,
-          "delta": 0
+          "yesterday": 110,
+          "delta": 3
         },
         "groomedTrails": {
           "today": 44,
-          "yesterday": 44,
-          "delta": 0
+          "yesterday": 48,
+          "delta": -4
         },
         "totalTrails": 142
       },
-      "newlyOpened": [],
+      "newlyOpened": [
+        {
+          "name": "Racer's Edge",
+          "difficulty": "Intermediate",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "Brambles",
+          "difficulty": "Intermediate",
+          "area": "Inverness Peak"
+        },
+        {
+          "name": "Inverness",
+          "difficulty": "Intermediate",
+          "area": "Inverness Peak"
+        }
+      ],
       "newlyClosed": [],
-      "newlyGroomed": [],
-      "ungroomed": []
+      "newlyGroomed": [
+        {
+          "name": "Birch Run",
+          "difficulty": "Intermediate",
+          "area": "North Lynx Peak"
+        },
+        {
+          "name": "Northway",
+          "difficulty": "Easy",
+          "area": "Mt. Ellen"
+        },
+        {
+          "name": "Which Way",
+          "difficulty": "Intermediate",
+          "area": "Mt. Ellen"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Lower Organgrinder",
+          "difficulty": "Difficult",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "Lower Snowball",
+          "difficulty": "Intermediate",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "Racer's Edge",
+          "difficulty": "Intermediate",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "Spring Road",
+          "difficulty": "Intermediate",
+          "area": "Gadd Peak"
+        },
+        {
+          "name": "Sleeper Chutes",
+          "difficulty": "Difficult",
+          "area": "North Lynx Peak"
+        },
+        {
+          "name": "Waterfall",
+          "difficulty": "Difficult",
+          "area": "North Lynx Peak"
+        },
+        {
+          "name": "Cruiser",
+          "difficulty": "Intermediate",
+          "area": "Mt. Ellen"
+        },
+        {
+          "name": "The Cliffs",
+          "difficulty": "Difficult",
+          "area": "Mt. Ellen"
+        }
+      ]
     },
     "lifts": {
       "available": true,
       "yesterday": {
-        "date": "2026-02-02",
+        "date": "2026-02-01",
         "avgWaitTime": 0,
         "maxWaitTime": 0,
         "totalLiftsTracked": 16,
@@ -85,9 +158,9 @@
         },
         {
           "date": "2026-02-05",
-          "high_f": 9,
+          "high_f": 10,
           "low_f": 9,
-          "high_c": -13,
+          "high_c": -12,
           "low_c": -13,
           "description": "Mostly Cloudy",
           "snowfall_day_inches": 0,
@@ -112,23 +185,32 @@
     "flags": {
       "hasFreshSnow": false,
       "isPowderDay": false,
-      "hasNewTrails": false,
+      "hasNewTrails": true,
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [],
-    "trends": [],
-    "recommendations": []
+    "alerts": [
+      "3 new trails opened today",
+      "3 trails freshly groomed"
+    ],
+    "trends": [
+      "3 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Birch Run - all skill levels",
+      "Fresh corduroy on Northway - all skill levels",
+      "Fresh corduroy on Which Way - all skill levels"
+    ]
   },
   "morningBrief": {
-    "headline": "Quiet Days on the Hill",
-    "body": "113/142 trails spinning, 44 freshly groomed. Windy. Windy conditions expected. Upper lifts may have holds or delays.",
+    "headline": "Patrol Opened 3 More",
+    "body": "113 trails open, 44 groomed. Windy, temperatures TBD. Ski patrol opened 3 additional trails. A few more choices today. Windy conditions expected. Upper lifts may have holds or delays.",
     "debug": {
       "firedRules": [
         {
-          "id": "time_midweek_mellow",
-          "category": "time",
-          "priority": 45,
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
           "usedFor": "headline"
         },
         {
@@ -138,21 +220,27 @@
           "usedFor": "body"
         },
         {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
           "id": "weather_windy",
           "category": "weather",
           "priority": 45,
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 4,
+      "totalRulesFired": 3,
       "headlineSelection": {
-        "condition": "midweek_mellow",
-        "variationIndex": 1,
+        "condition": "terrain_few",
+        "variationIndex": 2,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Patrol Opened {newTrailsCount} More"
+        "previousHeadline": "Terrain Update"
       },
-      "dayOfWeek": "Tuesday"
+      "dayOfWeek": "Monday"
     }
   },
   "errors": []

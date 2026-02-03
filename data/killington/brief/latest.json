@@ -1,8 +1,8 @@
 {
   "resort": "killington",
   "resortName": "Killington",
-  "date": "2026-02-03",
-  "generated": "2026-02-03T06:03:34.911Z",
+  "date": "2026-02-02",
+  "generated": "2026-02-03T04:53:29.234Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -24,25 +24,68 @@
       "stats": {
         "openTrails": {
           "today": 177,
-          "yesterday": 177,
-          "delta": 0
+          "yesterday": 173,
+          "delta": 4
         },
         "groomedTrails": {
           "today": 95,
-          "yesterday": 95,
-          "delta": 0
+          "yesterday": 90,
+          "delta": 5
         },
         "totalTrails": 222
       },
-      "newlyOpened": [],
-      "newlyClosed": [],
-      "newlyGroomed": [],
+      "newlyOpened": [
+        {
+          "name": "Dream Maker",
+          "difficulty": "Blue",
+          "area": "Skye Peak"
+        },
+        {
+          "name": "Shorty",
+          "difficulty": "Blue",
+          "area": "Bear Mountain"
+        },
+        {
+          "name": "Superpipe Trail",
+          "difficulty": "Blue",
+          "area": "Bear Mountain"
+        },
+        {
+          "name": "Grizzly",
+          "difficulty": "Blue",
+          "area": "Skye Peak"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Vertigo - Headwall",
+          "difficulty": "Double Black",
+          "area": "Skye Peak"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Dream Maker",
+          "difficulty": "Blue",
+          "area": "Skye Peak"
+        },
+        {
+          "name": "Superpipe Trail",
+          "difficulty": "Blue",
+          "area": "Bear Mountain"
+        },
+        {
+          "name": "Grizzly",
+          "difficulty": "Blue",
+          "area": "Skye Peak"
+        }
+      ],
       "ungroomed": []
     },
     "lifts": {
       "available": true,
       "yesterday": {
-        "date": "2026-02-02",
+        "date": "2026-02-01",
         "avgWaitTime": 0,
         "maxWaitTime": 0,
         "totalLiftsTracked": 19,
@@ -62,7 +105,7 @@
         {
           "date": "2026-02-03",
           "high_f": 16,
-          "low_f": 9,
+          "low_f": 8,
           "description": "Partly Cloudy",
           "snowfall_day_inches": 1,
           "snowfall_night_inches": 0,
@@ -72,7 +115,7 @@
           "date": "2026-02-04",
           "high_f": 12,
           "low_f": 9,
-          "description": "Partly Cloudy",
+          "description": "Windy",
           "snowfall_day_inches": 1,
           "snowfall_night_inches": 0,
           "snowfall_expected": 1
@@ -90,7 +133,7 @@
       "tomorrow": {
         "date": "2026-02-03",
         "high_f": 16,
-        "low_f": 9,
+        "low_f": 8,
         "description": "Partly Cloudy",
         "snowfall_day_inches": 1,
         "snowfall_night_inches": 0,
@@ -102,25 +145,33 @@
     "flags": {
       "hasFreshSnow": false,
       "isPowderDay": false,
-      "hasNewTrails": false,
+      "hasNewTrails": true,
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [],
+    "alerts": [
+      "4 new trails opened today",
+      "3 trails freshly groomed"
+    ],
     "trends": [
+      "4 more trails open than yesterday",
       "1\" snow expected Tuesday"
     ],
-    "recommendations": []
+    "recommendations": [
+      "Fresh corduroy on Dream Maker - perfect for intermediate skiers",
+      "Fresh corduroy on Superpipe Trail - perfect for intermediate skiers",
+      "Fresh corduroy on Grizzly - perfect for intermediate skiers"
+    ]
   },
   "morningBrief": {
-    "headline": "Midweek Bliss",
-    "body": "177 trails open, 95 groomed. Clear, temperatures TBD. Light snow possible in the forecast.",
+    "headline": "4 New Runs Open",
+    "body": "177 of 222 trails are open with 95 groomed. Clear with a temperatures TBD. 4 new trails are now available. Nice little expansion. Light snow possible in the forecast.",
     "debug": {
       "firedRules": [
         {
-          "id": "time_midweek_mellow",
-          "category": "time",
-          "priority": 45,
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
           "usedFor": "headline"
         },
         {
@@ -130,21 +181,27 @@
           "usedFor": "body"
         },
         {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
           "id": "forecast_flurries",
           "category": "weather",
           "priority": 30,
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 4,
+      "totalRulesFired": 3,
       "headlineSelection": {
-        "condition": "midweek_mellow",
+        "condition": "terrain_few",
         "variationIndex": 1,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Midweek Mountain Report"
+        "previousHeadline": "Patrol Opened {newTrailsCount} More"
       },
-      "dayOfWeek": "Tuesday"
+      "dayOfWeek": "Monday"
     }
   },
   "errors": []

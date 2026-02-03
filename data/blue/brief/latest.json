@@ -1,8 +1,8 @@
 {
   "resort": "blue",
   "resortName": "Blue Mountain",
-  "date": "2026-02-03",
-  "generated": "2026-02-03T06:03:34.837Z",
+  "date": "2026-02-02",
+  "generated": "2026-02-03T04:53:29.157Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -34,15 +34,27 @@
         },
         "totalTrails": 64
       },
-      "newlyOpened": [],
-      "newlyClosed": [],
+      "newlyOpened": [
+        {
+          "name": "Calamity Lane",
+          "difficulty": "Extreme Terrain",
+          "area": "Valley"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Burner",
+          "difficulty": "Moderately Difficult",
+          "area": "Valley"
+        }
+      ],
       "newlyGroomed": [],
       "ungroomed": []
     },
     "lifts": {
       "available": true,
       "yesterday": {
-        "date": "2026-02-02",
+        "date": "2026-02-01",
         "avgWaitTime": 0,
         "maxWaitTime": 0,
         "totalLiftsTracked": 11,
@@ -75,7 +87,7 @@
         {
           "date": "2026-02-04",
           "high_f": 14,
-          "low_f": 11,
+          "low_f": 10,
           "high_c": -10,
           "low_c": -12,
           "description": "Cloudy",
@@ -112,22 +124,24 @@
     "flags": {
       "hasFreshSnow": false,
       "isPowderDay": false,
-      "hasNewTrails": false,
+      "hasNewTrails": true,
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [],
+    "alerts": [
+      "1 new trail opened today"
+    ],
     "trends": [],
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Midweek Mountain Report",
-    "body": "62/64 trails spinning, 49 freshly groomed. Cloudy. The whole mountain is basically open. Go explore. 62/64 trails open, 49 groomed. Cloudy.",
+    "headline": "All Systems Go",
+    "body": "62 trails open, 49 groomed. Cloudy, temperatures TBD. Nearly full mountain access with 62 of 64 trails spinning. 62/64 trails open, 49 groomed. Cloudy.",
     "debug": {
       "firedRules": [
         {
-          "id": "time_midweek_mellow",
-          "category": "time",
+          "id": "percent_full",
+          "category": "terrain",
           "priority": 45,
           "usedFor": "headline"
         },
@@ -150,15 +164,15 @@
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 4,
+      "totalRulesFired": 3,
       "headlineSelection": {
-        "condition": "midweek_mellow",
-        "variationIndex": 0,
+        "condition": "percent_full",
+        "variationIndex": 3,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "All Systems Go"
+        "previousHeadline": "Peak Terrain"
       },
-      "dayOfWeek": "Tuesday"
+      "dayOfWeek": "Monday"
     }
   },
   "errors": []

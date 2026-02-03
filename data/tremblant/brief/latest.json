@@ -1,8 +1,8 @@
 {
   "resort": "tremblant",
   "resortName": "Tremblant",
-  "date": "2026-02-03",
-  "generated": "2026-02-03T06:03:34.832Z",
+  "date": "2026-02-02",
+  "generated": "2026-02-03T04:53:29.153Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -24,25 +24,54 @@
       "stats": {
         "openTrails": {
           "today": 126,
-          "yesterday": 126,
-          "delta": 0
+          "yesterday": 125,
+          "delta": 1
         },
         "groomedTrails": {
           "today": 72,
-          "yesterday": 72,
-          "delta": 0
+          "yesterday": 71,
+          "delta": 1
         },
         "totalTrails": 129
       },
-      "newlyOpened": [],
-      "newlyClosed": [],
-      "newlyGroomed": [],
-      "ungroomed": []
+      "newlyOpened": [
+        {
+          "name": "Kandahar",
+          "difficulty": "Very Difficult",
+          "area": "South Side"
+        },
+        {
+          "name": "Roger McCarthy",
+          "difficulty": "Difficult",
+          "area": "South Side"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "La Carriole",
+          "difficulty": "Easy",
+          "area": "Versant Soleil"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "La Griffe",
+          "difficulty": "Very Difficult",
+          "area": "North Side"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Flying Mile Haut",
+          "difficulty": "Extreme Terrain",
+          "area": "South Side"
+        }
+      ]
     },
     "lifts": {
       "available": true,
       "yesterday": {
-        "date": "2026-02-02",
+        "date": "2026-02-01",
         "avgWaitTime": 0,
         "maxWaitTime": 0,
         "totalLiftsTracked": 14,
@@ -64,13 +93,13 @@
         {
           "date": "2026-02-03",
           "high_f": 18,
-          "low_f": 13,
+          "low_f": 14,
           "high_c": -8,
-          "low_c": -11,
+          "low_c": -10,
           "description": "Cloudy",
           "snowfall_day_inches": 0,
-          "snowfall_night_inches": 1,
-          "snowfall_expected": 1
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
         },
         {
           "date": "2026-02-04",
@@ -78,17 +107,17 @@
           "low_f": 5,
           "high_c": -9,
           "low_c": -15,
-          "description": "Cloudy",
+          "description": "Mostly Cloudy",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
           "snowfall_expected": 0
         },
         {
           "date": "2026-02-05",
-          "high_f": 9,
-          "low_f": 5,
-          "high_c": -13,
-          "low_c": -15,
+          "high_f": 10,
+          "low_f": 7,
+          "high_c": -12,
+          "low_c": -14,
           "description": "Mostly Cloudy",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
@@ -98,13 +127,13 @@
       "tomorrow": {
         "date": "2026-02-03",
         "high_f": 18,
-        "low_f": 13,
+        "low_f": 14,
         "high_c": -8,
-        "low_c": -11,
+        "low_c": -10,
         "description": "Cloudy",
         "snowfall_day_inches": 0,
-        "snowfall_night_inches": 1,
-        "snowfall_expected": 1
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
       }
     }
   },
@@ -112,25 +141,30 @@
     "flags": {
       "hasFreshSnow": false,
       "isPowderDay": false,
-      "hasNewTrails": false,
+      "hasNewTrails": true,
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [],
+    "alerts": [
+      "2 new trails opened today",
+      "1 trail freshly groomed"
+    ],
     "trends": [
       "Steady snowfall - 6\" in last 7 days",
-      "1\" snow expected Tuesday"
+      "1 more trail open than yesterday"
     ],
-    "recommendations": []
+    "recommendations": [
+      "Fresh corduroy on La Griffe - all skill levels"
+    ]
   },
   "morningBrief": {
-    "headline": "Midweek Mountain Report",
-    "body": "Steady snowfall with 6\" over the last week. Nearly full mountain access with 126 of 129 trails spinning. Light snow possible in the forecast.",
+    "headline": "All Systems Go",
+    "body": "Steady snowfall with 6\" over the last week. 2 new trails opened today.",
     "debug": {
       "firedRules": [
         {
-          "id": "time_midweek_mellow",
-          "category": "time",
+          "id": "percent_full",
+          "category": "terrain",
           "priority": 45,
           "usedFor": "headline"
         },
@@ -141,27 +175,21 @@
           "usedFor": "body"
         },
         {
-          "id": "percent_full",
+          "id": "terrain_micro",
           "category": "terrain",
           "priority": 45,
           "usedFor": "body"
-        },
-        {
-          "id": "forecast_flurries",
-          "category": "weather",
-          "priority": 30,
-          "usedFor": "body"
         }
       ],
-      "totalRulesFired": 5,
+      "totalRulesFired": 4,
       "headlineSelection": {
-        "condition": "midweek_mellow",
-        "variationIndex": 0,
+        "condition": "percent_full",
+        "variationIndex": 3,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "All Systems Go"
+        "previousHeadline": "Bluebird Day"
       },
-      "dayOfWeek": "Tuesday"
+      "dayOfWeek": "Monday"
     }
   },
   "errors": []

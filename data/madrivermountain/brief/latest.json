@@ -1,8 +1,8 @@
 {
   "resort": "madrivermountain",
   "resortName": "Mad River Mountain",
-  "date": "2026-02-03",
-  "generated": "2026-02-03T06:03:26.986Z",
+  "date": "2026-02-02",
+  "generated": "2026-02-02T15:55:15.083Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -11,8 +11,8 @@
       "24hour_cm": 0,
       "48hour_inches": 0,
       "48hour_cm": 0,
-      "7day_inches": 3,
-      "7day_cm": 7,
+      "7day_inches": 13,
+      "7day_cm": 33,
       "season_total_inches": 28,
       "season_total_cm": 71,
       "conditions": {
@@ -41,6 +41,64 @@
     },
     "lifts": {
       "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-02-02",
+        "high_f": 25,
+        "low_f": 6,
+        "high_c": -4,
+        "low_c": -15,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-02-03T05:00:00Z",
+          "high_f": 25,
+          "low_f": 18,
+          "high_c": -4,
+          "low_c": -8,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-04T05:00:00Z",
+          "high_f": 17,
+          "low_f": 5,
+          "high_c": -9,
+          "low_c": -15,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-05T05:00:00Z",
+          "high_f": 18,
+          "low_f": 4,
+          "high_c": -8,
+          "low_c": -16,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-02-03T05:00:00Z",
+        "high_f": 25,
+        "low_f": 18,
+        "high_c": -4,
+        "low_c": -8,
+        "description": "Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
     }
   },
   "computedInsights": {
@@ -51,42 +109,38 @@
       "significantGroomingIncrease": false
     },
     "alerts": [],
-    "trends": [],
+    "trends": [
+      "Great week for snow - 13\" in last 7 days"
+    ],
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Fewer Crowds, More Turns",
-    "body": "The rundown: 18 trails open, 18 groomed. Variable conditions with temps around temps TBD. 18/20 trails open, 18 groomed. Variable conditions.",
+    "headline": "Still Soft Out There",
+    "body": "Holding steady - that 13\" base from recent storms is doing the heavy lifting.",
     "debug": {
       "firedRules": [
         {
-          "id": "time_midweek_mellow",
-          "category": "time",
-          "priority": 45,
+          "id": "snow_holding_strong",
+          "category": "snow",
+          "priority": 60,
           "usedFor": "headline"
         },
         {
-          "id": "fallback_headline",
+          "id": "snow_holding_strong",
           "category": "snow",
-          "priority": 10,
-          "usedFor": "body"
-        },
-        {
-          "id": "fallback_body",
-          "category": "weather",
-          "priority": 5,
+          "priority": 60,
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 3,
+      "totalRulesFired": 2,
       "headlineSelection": {
-        "condition": "midweek_mellow",
-        "variationIndex": 3,
-        "totalVariations": 5,
+        "condition": "holding_strong",
+        "variationIndex": 4,
+        "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": null
+        "previousHeadline": "Recent Snow Still Skiing Well"
       },
-      "dayOfWeek": "Tuesday"
+      "dayOfWeek": "Monday"
     }
   },
   "errors": []

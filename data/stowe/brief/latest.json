@@ -1,8 +1,8 @@
 {
   "resort": "stowe",
   "resortName": "Stowe",
-  "date": "2026-02-03",
-  "generated": "2026-02-03T06:03:26.941Z",
+  "date": "2026-02-02",
+  "generated": "2026-02-02T15:55:15.032Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -11,8 +11,8 @@
       "24hour_cm": 0,
       "48hour_inches": 0,
       "48hour_cm": 0,
-      "7day_inches": 6,
-      "7day_cm": 15,
+      "7day_inches": 12,
+      "7day_cm": 30,
       "season_total_inches": 218,
       "season_total_cm": 553,
       "conditions": {
@@ -24,71 +24,251 @@
       "stats": {
         "openTrails": {
           "today": 122,
-          "yesterday": 122,
-          "delta": 0
+          "yesterday": 120,
+          "delta": 2
         },
         "groomedTrails": {
           "today": 62,
-          "yesterday": 62,
-          "delta": 0
+          "yesterday": 82,
+          "delta": -20
         },
         "totalTrails": 128
       },
-      "newlyOpened": [],
+      "newlyOpened": [
+        {
+          "name": "Lower Goat",
+          "difficulty": "DoubleBlack",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Upper Starr",
+          "difficulty": "DoubleBlack",
+          "area": "Mt. Mansfield - FourRunner"
+        }
+      ],
       "newlyClosed": [],
       "newlyGroomed": [],
-      "ungroomed": []
+      "ungroomed": [
+        {
+          "name": "Chapel Lane",
+          "difficulty": "Green",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Christiana",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Duck Walk",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Hayride",
+          "difficulty": "Black",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Hayride Loop",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Houghton's",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Lookout Loop",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Lower Hayride",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Lower Lookout",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Maiden Lane",
+          "difficulty": "Black",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Midway",
+          "difficulty": "Black",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Upper Hayride",
+          "difficulty": "Black",
+          "area": "Mt. Mansfield - FourRunner"
+        },
+        {
+          "name": "Switchback",
+          "difficulty": "Blue",
+          "area": "Mt. Mansfield - Gondola"
+        },
+        {
+          "name": "Lower Toll Road",
+          "difficulty": "Green",
+          "area": "Mt. Mansfield - Toll House"
+        },
+        {
+          "name": "Mountain Glen",
+          "difficulty": "Green",
+          "area": "Mt. Mansfield - Toll House"
+        },
+        {
+          "name": "Stowe Derby Trail",
+          "difficulty": "Green",
+          "area": "Mt. Mansfield - Toll House"
+        },
+        {
+          "name": "Tollhouse",
+          "difficulty": "Green",
+          "area": "Mt. Mansfield - Toll House"
+        },
+        {
+          "name": "Townhouse",
+          "difficulty": "Green",
+          "area": "Mt. Mansfield - Toll House"
+        },
+        {
+          "name": "Lower West Run",
+          "difficulty": "Blue",
+          "area": "Spruce Peak"
+        },
+        {
+          "name": "Upper Smugglers",
+          "difficulty": "Black",
+          "area": "Spruce Peak"
+        }
+      ]
     },
     "lifts": {
       "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-02-02",
+        "high_f": 13,
+        "low_f": 8,
+        "high_c": -11,
+        "low_c": -14,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-02-03T05:00:00Z",
+          "high_f": 13,
+          "low_f": 11,
+          "high_c": -11,
+          "low_c": -12,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-04T05:00:00Z",
+          "high_f": 11,
+          "low_f": 6,
+          "high_c": -12,
+          "low_c": -15,
+          "description": "Windy",
+          "snowfall_day_inches": 1,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 1
+        },
+        {
+          "date": "2026-02-05T05:00:00Z",
+          "high_f": 7,
+          "low_f": 3,
+          "high_c": -14,
+          "low_c": -17,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-02-03T05:00:00Z",
+        "high_f": 13,
+        "low_f": 11,
+        "high_c": -11,
+        "low_c": -12,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
     }
   },
   "computedInsights": {
     "flags": {
       "hasFreshSnow": false,
       "isPowderDay": false,
-      "hasNewTrails": false,
+      "hasNewTrails": true,
       "significantGroomingIncrease": false
     },
-    "alerts": [],
+    "alerts": [
+      "2 new trails opened today"
+    ],
     "trends": [
-      "Steady snowfall - 6\" in last 7 days"
+      "Great week for snow - 12\" in last 7 days",
+      "2 more trails open than yesterday",
+      "1\" snow expected Wednesday"
     ],
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Fewer Crowds, More Turns",
-    "body": "Steady snowfall with 6\" over the last week. Peak terrain status: almost everything is available today.",
+    "headline": "Still Soft Out There",
+    "body": "Holding steady - that 12\" base from recent storms is doing the heavy lifting. 2 new trails opened today. Light snow possible in the forecast.",
     "debug": {
       "firedRules": [
         {
-          "id": "time_midweek_mellow",
-          "category": "time",
-          "priority": 45,
+          "id": "snow_holding_strong",
+          "category": "snow",
+          "priority": 60,
           "usedFor": "headline"
         },
         {
-          "id": "snow_week_total",
+          "id": "snow_holding_strong",
           "category": "snow",
-          "priority": 40,
+          "priority": 60,
           "usedFor": "body"
         },
         {
-          "id": "percent_full",
+          "id": "terrain_micro",
           "category": "terrain",
           "priority": 45,
           "usedFor": "body"
+        },
+        {
+          "id": "forecast_flurries",
+          "category": "weather",
+          "priority": 30,
+          "usedFor": "body"
         }
       ],
-      "totalRulesFired": 4,
+      "totalRulesFired": 7,
       "headlineSelection": {
-        "condition": "midweek_mellow",
-        "variationIndex": 3,
-        "totalVariations": 5,
+        "condition": "holding_strong",
+        "variationIndex": 4,
+        "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": null
+        "previousHeadline": "Base Conditions Solid"
       },
-      "dayOfWeek": "Tuesday"
+      "dayOfWeek": "Monday"
     }
   },
   "errors": []

@@ -1,8 +1,8 @@
 {
   "resort": "mountsnow",
   "resortName": "Mount Snow",
-  "date": "2026-02-03",
-  "generated": "2026-02-03T06:03:26.949Z",
+  "date": "2026-02-02",
+  "generated": "2026-02-02T15:55:15.038Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -11,21 +11,21 @@
       "24hour_cm": 0,
       "48hour_inches": 0,
       "48hour_cm": 0,
-      "7day_inches": 1,
-      "7day_cm": 2,
+      "7day_inches": 4,
+      "7day_cm": 10,
       "season_total_inches": 88,
       "season_total_cm": 223,
       "conditions": {
         "today": "Snow Groomed",
-        "yesterday": "Snow Groomed"
+        "yesterday": null
       }
     },
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 81,
+          "today": 80,
           "yesterday": 80,
-          "delta": 1
+          "delta": 0
         },
         "groomedTrails": {
           "today": 48,
@@ -34,45 +34,93 @@
         },
         "totalTrails": 86
       },
-      "newlyOpened": [
-        {
-          "name": "Under Pressure",
-          "difficulty": "Blue",
-          "area": "Main Face"
-        }
-      ],
+      "newlyOpened": [],
       "newlyClosed": [],
       "newlyGroomed": [],
       "ungroomed": []
     },
     "lifts": {
       "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-02-02",
+        "high_f": 16,
+        "low_f": 12,
+        "high_c": -9,
+        "low_c": -11,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-02-03T05:00:00Z",
+          "high_f": 16,
+          "low_f": 13,
+          "high_c": -9,
+          "low_c": -11,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-04T05:00:00Z",
+          "high_f": 12,
+          "low_f": 7,
+          "high_c": -11,
+          "low_c": -14,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-05T05:00:00Z",
+          "high_f": 11,
+          "low_f": 8,
+          "high_c": -12,
+          "low_c": -14,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-02-03T05:00:00Z",
+        "high_f": 16,
+        "low_f": 13,
+        "high_c": -9,
+        "low_c": -11,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
     }
   },
   "computedInsights": {
     "flags": {
       "hasFreshSnow": false,
       "isPowderDay": false,
-      "hasNewTrails": true,
+      "hasNewTrails": false,
       "significantGroomingIncrease": false
     },
-    "alerts": [
-      "1 new trail opened today"
-    ],
-    "trends": [
-      "1 more trail open than yesterday"
-    ],
+    "alerts": [],
+    "trends": [],
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Quiet Days on the Hill",
-    "body": "81 of 86 trails are open with 48 groomed. Variable conditions with a temperatures TBD. 1 new trail opened today.",
+    "headline": "Today's Conditions",
+    "body": "80 trails open, 48 groomed. Windy, high of 16°. Cold day ahead: 16° high. Dress warmly.",
     "debug": {
       "firedRules": [
         {
-          "id": "time_midweek_mellow",
-          "category": "time",
-          "priority": 45,
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
           "usedFor": "headline"
         },
         {
@@ -82,21 +130,21 @@
           "usedFor": "body"
         },
         {
-          "id": "terrain_micro",
-          "category": "terrain",
-          "priority": 45,
+          "id": "temp_cold",
+          "category": "weather",
+          "priority": 55,
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 3,
+      "totalRulesFired": 4,
       "headlineSelection": {
-        "condition": "midweek_mellow",
-        "variationIndex": 1,
-        "totalVariations": 5,
+        "condition": "fallback",
+        "variationIndex": 0,
+        "totalVariations": 7,
         "usedWeekendVariation": false,
-        "previousHeadline": null
+        "previousHeadline": "Your Morning Mountain Brief"
       },
-      "dayOfWeek": "Tuesday"
+      "dayOfWeek": "Monday"
     }
   },
   "errors": []

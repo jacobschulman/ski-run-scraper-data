@@ -402,14 +402,14 @@
     ]
   },
   "stratton": {
-    "lastHeadline": "Fewer Crowds, More Turns",
-    "lastCondition": "midweek_mellow",
+    "lastHeadline": "Bluebird Day",
+    "lastCondition": "bluebird_day",
     "lastDate": "2026-02-03",
     "history": [
       {
         "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Fewer Crowds, More Turns"
+        "condition": "bluebird_day",
+        "headline": "Bluebird Day"
       },
       {
         "date": "2026-02-03",
@@ -696,14 +696,14 @@
     ]
   },
   "crystal": {
-    "lastHeadline": "The Mountain Got a Touch-Up",
-    "lastCondition": "fresh_coat",
+    "lastHeadline": "Fresh Snow, Fresh Vibes",
+    "lastCondition": "snow_solid",
     "lastDate": "2026-02-03",
     "history": [
       {
         "date": "2026-02-03",
-        "condition": "fresh_coat",
-        "headline": "The Mountain Got a Touch-Up"
+        "condition": "snow_solid",
+        "headline": "Fresh Snow, Fresh Vibes"
       },
       {
         "date": "2026-02-03",
@@ -906,19 +906,19 @@
     ]
   },
   "sugarloaf": {
-    "lastHeadline": "Smooth Sailing Today",
-    "lastCondition": "grooming_highlight",
+    "lastHeadline": "Postcard Day",
+    "lastCondition": "bluebird_day",
     "lastDate": "2026-02-03",
     "history": [
       {
         "date": "2026-02-03",
-        "condition": "grooming_highlight",
-        "headline": "Smooth Sailing Today"
+        "condition": "bluebird_day",
+        "headline": "Postcard Day"
       },
       {
         "date": "2026-02-03",
-        "condition": "grooming_highlight",
-        "headline": "{groomedCount} {GroomedRunWord} Groomed Overnight"
+        "condition": "bluebird_day",
+        "headline": "Clear Skies, Cold Temps"
       },
       {
         "date": "2026-02-03",
@@ -948,19 +948,19 @@
     ]
   },
   "sundayriver": {
-    "lastHeadline": "The Base Is Holding Up",
-    "lastCondition": "holding_strong",
+    "lastHeadline": "Picture-Perfect Conditions",
+    "lastCondition": "bluebird_day",
     "lastDate": "2026-02-03",
     "history": [
       {
         "date": "2026-02-03",
-        "condition": "holding_strong",
-        "headline": "The Base Is Holding Up"
+        "condition": "bluebird_day",
+        "headline": "Picture-Perfect Conditions"
       },
       {
         "date": "2026-02-03",
-        "condition": "holding_strong",
-        "headline": "Still Soft Out There"
+        "condition": "bluebird_day",
+        "headline": "Clear Skies, Cold Temps"
       },
       {
         "date": "2026-02-03",
@@ -990,19 +990,19 @@
     ]
   },
   "loon": {
-    "lastHeadline": "Midweek Bliss",
-    "lastCondition": "midweek_mellow",
+    "lastHeadline": "Picture-Perfect Conditions",
+    "lastCondition": "bluebird_day",
     "lastDate": "2026-02-03",
     "history": [
       {
         "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Midweek Bliss"
+        "condition": "bluebird_day",
+        "headline": "Picture-Perfect Conditions"
       },
       {
         "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Fewer Crowds, More Turns"
+        "condition": "bluebird_day",
+        "headline": "Clear Skies, Cold Temps"
       },
       {
         "date": "2026-02-03",
@@ -1032,19 +1032,19 @@
     ]
   },
   "cypressmountain": {
-    "lastHeadline": "Fewer Crowds, More Turns",
-    "lastCondition": "midweek_mellow",
+    "lastHeadline": "Mild Day Ahead",
+    "lastCondition": "unseasonably_warm",
     "lastDate": "2026-02-03",
     "history": [
       {
         "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Fewer Crowds, More Turns"
+        "condition": "unseasonably_warm",
+        "headline": "Mild Day Ahead"
       },
       {
         "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Midweek Bliss"
+        "condition": "unseasonably_warm",
+        "headline": "Soft Snow Alert"
       },
       {
         "date": "2026-02-03",
@@ -1158,19 +1158,19 @@
     ]
   },
   "killington": {
-    "lastHeadline": "Midweek Bliss",
-    "lastCondition": "midweek_mellow",
+    "lastHeadline": "Snow in the Forecast",
+    "lastCondition": "snow_coming",
     "lastDate": "2026-02-03",
     "history": [
       {
         "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Midweek Bliss"
+        "condition": "snow_coming",
+        "headline": "Snow in the Forecast"
       },
       {
         "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Quiet Days on the Hill"
+        "condition": "snow_coming",
+        "headline": "The Forecast Looks Promising"
       },
       {
         "date": "2026-02-03",
@@ -1242,19 +1242,19 @@
     ]
   },
   "aspenhighlands": {
-    "lastHeadline": "The Floodgates Opened",
-    "lastCondition": "terrain_massive",
+    "lastHeadline": "Fresh Terrain Unlocked",
+    "lastCondition": "terrain_expansion",
     "lastDate": "2026-02-03",
     "history": [
       {
         "date": "2026-02-03",
-        "condition": "terrain_massive",
-        "headline": "The Floodgates Opened"
+        "condition": "terrain_expansion",
+        "headline": "Fresh Terrain Unlocked"
       },
       {
         "date": "2026-02-03",
-        "condition": "terrain_massive",
-        "headline": "MASSIVE Expansion: {newTrailsCount} New Runs"
+        "condition": "terrain_expansion",
+        "headline": "More Mountain to Explore"
       },
       {
         "date": "2026-02-03",
@@ -1368,18 +1368,13 @@
     ]
   },
   "banff": {
-    "lastHeadline": "Patrol Opened {newTrailsCount} More",
+    "lastHeadline": "Terrain Update",
     "lastCondition": "terrain_few",
     "lastDate": "2026-02-03",
     "history": [
       {
         "date": "2026-02-03",
         "condition": "terrain_few",
-        "headline": "Patrol Opened {newTrailsCount} More"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "terrain_few",
         "headline": "Terrain Update"
       },
       {
@@ -1405,23 +1400,23 @@
       {
         "date": "2026-02-03",
         "condition": "terrain_few",
-        "headline": "{newTrailsCount} New Runs Open"
+        "headline": "Patrol Opened {newTrailsCount} More"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "terrain_few",
+        "headline": "Terrain Update"
       }
     ]
   },
   "lakelouise": {
-    "lastHeadline": "Variable Conditions",
+    "lastHeadline": "Rain at Base, Snow Up Top",
     "lastCondition": "weather_mixed",
     "lastDate": "2026-02-03",
     "history": [
       {
         "date": "2026-02-03",
         "condition": "weather_mixed",
-        "headline": "Variable Conditions"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "weather_mixed",
         "headline": "Rain at Base, Snow Up Top"
       },
       {
@@ -1448,21 +1443,21 @@
         "date": "2026-02-03",
         "condition": "weather_mixed",
         "headline": "Variable Conditions"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "weather_mixed",
+        "headline": "Rain at Base, Snow Up Top"
       }
     ]
   },
   "norquay": {
-    "lastHeadline": "Warm for Winter",
-    "lastCondition": "unseasonably_warm",
+    "lastHeadline": "Midweek Bliss",
+    "lastCondition": "midweek_mellow",
     "lastDate": "2026-02-03",
     "history": [
       {
         "date": "2026-02-03",
-        "condition": "unseasonably_warm",
-        "headline": "Warm for Winter"
-      },
-      {
-        "date": "2026-02-03",
         "condition": "midweek_mellow",
         "headline": "Midweek Bliss"
       },
@@ -1490,6 +1485,11 @@
         "date": "2026-02-03",
         "condition": "midweek_mellow",
         "headline": "Quiet Days on the Hill"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Midweek Bliss"
       }
     ]
   },

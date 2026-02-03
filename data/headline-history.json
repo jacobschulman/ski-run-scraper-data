@@ -1013,13 +1013,18 @@
     ]
   },
   "banff": {
-    "lastHeadline": "Fresh Layer in Place",
+    "lastHeadline": "The Mountain Got a Touch-Up",
     "lastCondition": "fresh_coat",
     "lastDate": "2026-02-03",
     "history": [
       {
         "date": "2026-02-03",
         "condition": "fresh_coat",
+        "headline": "The Mountain Got a Touch-Up"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "fresh_coat",
         "headline": "Fresh Layer in Place"
       },
       {
@@ -1046,22 +1051,22 @@
         "date": "2026-02-02",
         "condition": "fresh_coat",
         "headline": "Overnight Refresh"
-      },
-      {
-        "date": "2026-02-02",
-        "condition": "fresh_coat",
-        "headline": "The Mountain Got a Touch-Up"
       }
     ]
   },
   "lakelouise": {
-    "lastHeadline": "Rain at Base, Snow Up Top",
+    "lastHeadline": "Variable Conditions",
     "lastCondition": "weather_mixed",
     "lastDate": "2026-02-03",
     "history": [
       {
         "date": "2026-02-03",
         "condition": "weather_mixed",
+        "headline": "Variable Conditions"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "weather_mixed",
         "headline": "Rain at Base, Snow Up Top"
       },
       {
@@ -1088,19 +1093,19 @@
         "date": "2026-02-02",
         "condition": "weather_mixed",
         "headline": "Variable Conditions"
-      },
-      {
-        "date": "2026-02-02",
-        "condition": "weather_mixed",
-        "headline": "Mother Nature Can't Decide"
       }
     ]
   },
   "norquay": {
-    "lastHeadline": "Midweek Bliss",
+    "lastHeadline": "Quiet Days on the Hill",
     "lastCondition": "midweek_mellow",
     "lastDate": "2026-02-03",
     "history": [
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Quiet Days on the Hill"
+      },
       {
         "date": "2026-02-03",
         "condition": "midweek_mellow",
@@ -1130,11 +1135,6 @@
         "date": "2026-02-02",
         "condition": "fallback",
         "headline": "Mountain Conditions Update"
-      },
-      {
-        "date": "2026-02-02",
-        "condition": "fallback",
-        "headline": "Today's Conditions"
       }
     ]
   },

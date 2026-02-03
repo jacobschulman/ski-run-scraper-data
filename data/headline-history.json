@@ -402,15 +402,10 @@
     ]
   },
   "stratton": {
-    "lastHeadline": "Postcard Day",
+    "lastHeadline": "Bluebird Day",
     "lastCondition": "bluebird_day",
     "lastDate": "2026-02-03",
     "history": [
-      {
-        "date": "2026-02-03",
-        "condition": "bluebird_day",
-        "headline": "Postcard Day"
-      },
       {
         "date": "2026-02-03",
         "condition": "bluebird_day",
@@ -440,19 +435,19 @@
         "date": "2026-02-03",
         "condition": "midweek_mellow",
         "headline": "Beat the Weekend Rush"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Fewer Crowds, More Turns"
       }
     ]
   },
   "palisades": {
-    "lastHeadline": "{newTrailsCount} New Runs Open",
-    "lastCondition": "terrain_few",
+    "lastHeadline": "Fresh Terrain Unlocked",
+    "lastCondition": "terrain_expansion",
     "lastDate": "2026-02-03",
     "history": [
-      {
-        "date": "2026-02-03",
-        "condition": "terrain_few",
-        "headline": "{newTrailsCount} New Runs Open"
-      },
       {
         "date": "2026-02-03",
         "condition": "terrain_expansion",
@@ -482,94 +477,15 @@
         "date": "2026-02-03",
         "condition": "midweek_mellow",
         "headline": "Midweek Bliss"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Fewer Crowds, More Turns"
       }
     ]
   },
   "deervalley": {
-    "lastHeadline": "Midweek Bliss",
-    "lastCondition": "midweek_mellow",
-    "lastDate": "2026-02-03",
-    "history": [
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Midweek Bliss"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Quiet Days on the Hill"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Midweek Bliss"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Quiet Days on the Hill"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Midweek Bliss"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Quiet Days on the Hill"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Midweek Bliss"
-      }
-    ]
-  },
-  "solitude": {
-    "lastHeadline": "Fewer Crowds, More Turns",
-    "lastCondition": "midweek_mellow",
-    "lastDate": "2026-02-03",
-    "history": [
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Fewer Crowds, More Turns"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Beat the Weekend Rush"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Fewer Crowds, More Turns"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Beat the Weekend Rush"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Fewer Crowds, More Turns"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Beat the Weekend Rush"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Fewer Crowds, More Turns"
-      }
-    ]
-  },
-  "steamboat": {
     "lastHeadline": "Quiet Days on the Hill",
     "lastCondition": "midweek_mellow",
     "lastDate": "2026-02-03",
@@ -582,7 +498,7 @@
       {
         "date": "2026-02-03",
         "condition": "midweek_mellow",
-        "headline": "Midweek Mountain Report"
+        "headline": "Midweek Bliss"
       },
       {
         "date": "2026-02-03",
@@ -592,7 +508,7 @@
       {
         "date": "2026-02-03",
         "condition": "midweek_mellow",
-        "headline": "Midweek Mountain Report"
+        "headline": "Midweek Bliss"
       },
       {
         "date": "2026-02-03",
@@ -602,7 +518,7 @@
       {
         "date": "2026-02-03",
         "condition": "midweek_mellow",
-        "headline": "Midweek Mountain Report"
+        "headline": "Midweek Bliss"
       },
       {
         "date": "2026-02-03",
@@ -611,175 +527,7 @@
       }
     ]
   },
-  "mammoth": {
-    "lastHeadline": "{newTrailsCount} New {NewTrailWord} Today",
-    "lastCondition": "terrain_expansion",
-    "lastDate": "2026-02-03",
-    "history": [
-      {
-        "date": "2026-02-03",
-        "condition": "terrain_expansion",
-        "headline": "{newTrailsCount} New {NewTrailWord} Today"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "terrain_expansion",
-        "headline": "New Runs Now Open"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "terrain_expansion",
-        "headline": "{newTrailsCount} New {NewTrailWord} Today"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "terrain_expansion",
-        "headline": "New Runs Now Open"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "terrain_expansion",
-        "headline": "The Map Got Bigger"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Beat the Weekend Rush"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Fewer Crowds, More Turns"
-      }
-    ]
-  },
-  "junemountain": {
-    "lastHeadline": "Fewer Crowds, More Turns",
-    "lastCondition": "midweek_mellow",
-    "lastDate": "2026-02-03",
-    "history": [
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Fewer Crowds, More Turns"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Beat the Weekend Rush"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Fewer Crowds, More Turns"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Beat the Weekend Rush"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Fewer Crowds, More Turns"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Beat the Weekend Rush"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Fewer Crowds, More Turns"
-      }
-    ]
-  },
-  "crystal": {
-    "lastHeadline": "{snow24h}\" Freshened Things Up",
-    "lastCondition": "snow_solid",
-    "lastDate": "2026-02-03",
-    "history": [
-      {
-        "date": "2026-02-03",
-        "condition": "snow_solid",
-        "headline": "{snow24h}\" Freshened Things Up"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "snow_solid",
-        "headline": "Fresh Snow, Fresh Vibes"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "fresh_coat",
-        "headline": "Fresh Layer in Place"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "fresh_coat",
-        "headline": "The Mountain Got a Touch-Up"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "fresh_coat",
-        "headline": "Fresh Layer in Place"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "fresh_coat",
-        "headline": "The Mountain Got a Touch-Up"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "fresh_coat",
-        "headline": "Fresh Layer in Place"
-      }
-    ]
-  },
-  "sugarbush": {
-    "lastHeadline": "Fewer Crowds, More Turns",
-    "lastCondition": "midweek_mellow",
-    "lastDate": "2026-02-03",
-    "history": [
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Fewer Crowds, More Turns"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Midweek Bliss"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Fewer Crowds, More Turns"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Midweek Bliss"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Fewer Crowds, More Turns"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Midweek Bliss"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Fewer Crowds, More Turns"
-      }
-    ]
-  },
-  "tremblant": {
+  "solitude": {
     "lastHeadline": "Beat the Weekend Rush",
     "lastCondition": "midweek_mellow",
     "lastDate": "2026-02-03",
@@ -821,7 +569,217 @@
       }
     ]
   },
-  "blue": {
+  "steamboat": {
+    "lastHeadline": "Midweek Mountain Report",
+    "lastCondition": "midweek_mellow",
+    "lastDate": "2026-02-03",
+    "history": [
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Midweek Mountain Report"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Quiet Days on the Hill"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Midweek Mountain Report"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Quiet Days on the Hill"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Midweek Mountain Report"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Quiet Days on the Hill"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Midweek Mountain Report"
+      }
+    ]
+  },
+  "mammoth": {
+    "lastHeadline": "New Runs Now Open",
+    "lastCondition": "terrain_expansion",
+    "lastDate": "2026-02-03",
+    "history": [
+      {
+        "date": "2026-02-03",
+        "condition": "terrain_expansion",
+        "headline": "New Runs Now Open"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "terrain_expansion",
+        "headline": "{newTrailsCount} New {NewTrailWord} Today"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "terrain_expansion",
+        "headline": "New Runs Now Open"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "terrain_expansion",
+        "headline": "The Map Got Bigger"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Beat the Weekend Rush"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Fewer Crowds, More Turns"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Beat the Weekend Rush"
+      }
+    ]
+  },
+  "junemountain": {
+    "lastHeadline": "Beat the Weekend Rush",
+    "lastCondition": "midweek_mellow",
+    "lastDate": "2026-02-03",
+    "history": [
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Beat the Weekend Rush"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Fewer Crowds, More Turns"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Beat the Weekend Rush"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Fewer Crowds, More Turns"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Beat the Weekend Rush"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Fewer Crowds, More Turns"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Beat the Weekend Rush"
+      }
+    ]
+  },
+  "crystal": {
+    "lastHeadline": "Fresh Snow, Fresh Vibes",
+    "lastCondition": "snow_solid",
+    "lastDate": "2026-02-03",
+    "history": [
+      {
+        "date": "2026-02-03",
+        "condition": "snow_solid",
+        "headline": "Fresh Snow, Fresh Vibes"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "fresh_coat",
+        "headline": "Fresh Layer in Place"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "fresh_coat",
+        "headline": "The Mountain Got a Touch-Up"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "fresh_coat",
+        "headline": "Fresh Layer in Place"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "fresh_coat",
+        "headline": "The Mountain Got a Touch-Up"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "fresh_coat",
+        "headline": "Fresh Layer in Place"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "fresh_coat",
+        "headline": "The Mountain Got a Touch-Up"
+      }
+    ]
+  },
+  "sugarbush": {
+    "lastHeadline": "Midweek Bliss",
+    "lastCondition": "midweek_mellow",
+    "lastDate": "2026-02-03",
+    "history": [
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Midweek Bliss"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Fewer Crowds, More Turns"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Midweek Bliss"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Fewer Crowds, More Turns"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Midweek Bliss"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Fewer Crowds, More Turns"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Midweek Bliss"
+      }
+    ]
+  },
+  "tremblant": {
     "lastHeadline": "Fewer Crowds, More Turns",
     "lastCondition": "midweek_mellow",
     "lastDate": "2026-02-03",
@@ -834,6 +792,43 @@
       {
         "date": "2026-02-03",
         "condition": "midweek_mellow",
+        "headline": "Beat the Weekend Rush"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Fewer Crowds, More Turns"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Beat the Weekend Rush"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Fewer Crowds, More Turns"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Beat the Weekend Rush"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Fewer Crowds, More Turns"
+      }
+    ]
+  },
+  "blue": {
+    "lastHeadline": "Midweek Bliss",
+    "lastCondition": "midweek_mellow",
+    "lastDate": "2026-02-03",
+    "history": [
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
         "headline": "Midweek Bliss"
       },
       {
@@ -860,6 +855,11 @@
         "date": "2026-02-03",
         "condition": "midweek_mellow",
         "headline": "Fewer Crowds, More Turns"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Midweek Bliss"
       }
     ]
   },
@@ -918,17 +918,17 @@
       {
         "date": "2026-02-03",
         "condition": "bluebird_day",
-        "headline": "Unlimited Visibility"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "bluebird_day",
-        "headline": "Postcard Day"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "bluebird_day",
         "headline": "Clear Skies, Cold Temps"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "grooming_highlight",
+        "headline": "Smooth Sailing Today"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "grooming_highlight",
+        "headline": "{groomedCount} {GroomedRunWord} Groomed Overnight"
       },
       {
         "date": "2026-02-03",
@@ -964,13 +964,13 @@
       },
       {
         "date": "2026-02-03",
-        "condition": "bluebird_day",
-        "headline": "Picture-Perfect Conditions"
+        "condition": "holding_strong",
+        "headline": "The Base Is Holding Up"
       },
       {
         "date": "2026-02-03",
-        "condition": "bluebird_day",
-        "headline": "Clear Skies, Cold Temps"
+        "condition": "holding_strong",
+        "headline": "Still Soft Out There"
       },
       {
         "date": "2026-02-03",
@@ -1006,13 +1006,13 @@
       },
       {
         "date": "2026-02-03",
-        "condition": "bluebird_day",
-        "headline": "Picture-Perfect Conditions"
+        "condition": "midweek_mellow",
+        "headline": "Midweek Bliss"
       },
       {
         "date": "2026-02-03",
-        "condition": "bluebird_day",
-        "headline": "Clear Skies, Cold Temps"
+        "condition": "midweek_mellow",
+        "headline": "Fewer Crowds, More Turns"
       },
       {
         "date": "2026-02-03",
@@ -1048,13 +1048,13 @@
       },
       {
         "date": "2026-02-03",
-        "condition": "unseasonably_warm",
-        "headline": "Mild Day Ahead"
+        "condition": "midweek_mellow",
+        "headline": "Fewer Crowds, More Turns"
       },
       {
         "date": "2026-02-03",
-        "condition": "unseasonably_warm",
-        "headline": "Soft Snow Alert"
+        "condition": "midweek_mellow",
+        "headline": "Midweek Bliss"
       },
       {
         "date": "2026-02-03",
@@ -1170,17 +1170,17 @@
       {
         "date": "2026-02-03",
         "condition": "snow_coming",
-        "headline": "Fresh Snow on the Way"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "snow_coming",
-        "headline": "Snow in the Forecast"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "snow_coming",
         "headline": "The Forecast Looks Promising"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Midweek Bliss"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "midweek_mellow",
+        "headline": "Quiet Days on the Hill"
       },
       {
         "date": "2026-02-03",
@@ -1242,20 +1242,10 @@
     ]
   },
   "aspenhighlands": {
-    "lastHeadline": "Fewer Crowds, More Turns",
-    "lastCondition": "midweek_mellow",
+    "lastHeadline": "Fresh Terrain Unlocked",
+    "lastCondition": "terrain_expansion",
     "lastDate": "2026-02-03",
     "history": [
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Fewer Crowds, More Turns"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Beat the Weekend Rush"
-      },
       {
         "date": "2026-02-03",
         "condition": "terrain_expansion",
@@ -1265,6 +1255,16 @@
         "date": "2026-02-03",
         "condition": "terrain_expansion",
         "headline": "More Mountain to Explore"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "terrain_massive",
+        "headline": "The Floodgates Opened"
+      },
+      {
+        "date": "2026-02-03",
+        "condition": "terrain_massive",
+        "headline": "MASSIVE Expansion: {newTrailsCount} New Runs"
       },
       {
         "date": "2026-02-03",

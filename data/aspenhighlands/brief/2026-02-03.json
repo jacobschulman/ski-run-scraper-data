@@ -2,7 +2,7 @@
   "resort": "aspenhighlands",
   "resortName": "Aspen Highlands",
   "date": "2026-02-03",
-  "generated": "2026-02-03T22:38:23.535Z",
+  "generated": "2026-02-03T21:42:44.121Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,9 +23,9 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 63,
+          "today": 75,
           "yesterday": 62,
-          "delta": 1
+          "delta": 13
         },
         "groomedTrails": {
           "today": 15,
@@ -35,6 +35,66 @@
         "totalTrails": 126
       },
       "newlyOpened": [
+        {
+          "name": "A+",
+          "difficulty": "DoubleBlack",
+          "area": "Steeplechase"
+        },
+        {
+          "name": "Boomerang",
+          "difficulty": "Black",
+          "area": "Steeplechase"
+        },
+        {
+          "name": "Fran's Love",
+          "difficulty": "DoubleBlack",
+          "area": "Steeplechase"
+        },
+        {
+          "name": "Garmisch",
+          "difficulty": "DoubleBlack",
+          "area": "Steeplechase"
+        },
+        {
+          "name": "GLE",
+          "difficulty": "DoubleBlack",
+          "area": "Steeplechase"
+        },
+        {
+          "name": "Grand Reverse",
+          "difficulty": "Black",
+          "area": "Steeplechase"
+        },
+        {
+          "name": "Hot Ridge",
+          "difficulty": "DoubleBlack",
+          "area": "Steeplechase"
+        },
+        {
+          "name": "Kessler's",
+          "difficulty": "DoubleBlack",
+          "area": "Steeplechase"
+        },
+        {
+          "name": "Log Jam Gully",
+          "difficulty": "DoubleBlack",
+          "area": "Steeplechase"
+        },
+        {
+          "name": "Snyder's Ridge",
+          "difficulty": "DoubleBlack",
+          "area": "Steeplechase"
+        },
+        {
+          "name": "Soddbuster",
+          "difficulty": "DoubleBlack",
+          "area": "Steeplechase"
+        },
+        {
+          "name": "St. Moritz",
+          "difficulty": "DoubleBlack",
+          "area": "Steeplechase"
+        },
         {
           "name": "Aspen Highlands (Lower)",
           "difficulty": "Blue",
@@ -180,11 +240,11 @@
       "highLiftDemand": false
     },
     "alerts": [
-      "1 new trail opened today",
+      "13 new trails opened today",
       "4 trails freshly groomed"
     ],
     "trends": [
-      "1 more trail open than yesterday"
+      "13 more trails open than yesterday"
     ],
     "recommendations": [
       "Fresh corduroy on Apple Strudel - perfect for intermediate skiers",
@@ -193,14 +253,14 @@
     ]
   },
   "morningBrief": {
-    "headline": "Fewer Crowds, More Turns",
-    "body": "63 trails open, 15 groomed. Windy, high of 21°. 1 new trail opened today. Windy conditions expected. Upper lifts may have holds or delays.",
+    "headline": "Fresh Terrain Unlocked",
+    "body": "75 trails open, 15 groomed. Windy, high of 21°. Ski patrol has been busy - 13 additional trails are now open. Windy conditions expected. Upper lifts may have holds or delays.",
     "debug": {
       "firedRules": [
         {
-          "id": "time_midweek_mellow",
-          "category": "time",
-          "priority": 45,
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
           "usedFor": "headline"
         },
         {
@@ -210,9 +270,9 @@
           "usedFor": "body"
         },
         {
-          "id": "terrain_micro",
+          "id": "terrain_expanding",
           "category": "terrain",
-          "priority": 45,
+          "priority": 75,
           "usedFor": "body"
         },
         {
@@ -224,11 +284,11 @@
       ],
       "totalRulesFired": 4,
       "headlineSelection": {
-        "condition": "midweek_mellow",
+        "condition": "terrain_expansion",
         "variationIndex": 3,
-        "totalVariations": 5,
+        "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Beat the Weekend Rush"
+        "previousHeadline": "More Mountain to Explore"
       },
       "dayOfWeek": "Tuesday"
     }

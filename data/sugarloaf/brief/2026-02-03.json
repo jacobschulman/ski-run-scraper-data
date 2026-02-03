@@ -2,7 +2,7 @@
   "resort": "sugarloaf",
   "resortName": "Sugarloaf",
   "date": "2026-02-03",
-  "generated": "2026-02-03T21:42:44.139Z",
+  "generated": "2026-02-03T19:08:35.302Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -11,8 +11,8 @@
       "24hour_cm": 0,
       "48hour_inches": 0,
       "48hour_cm": 0,
-      "7day_inches": 0,
-      "7day_cm": 0,
+      "7day_inches": 2,
+      "7day_cm": 5,
       "season_total_inches": 87,
       "season_total_cm": 221,
       "conditions": {
@@ -160,18 +160,27 @@
     },
     "forecast": {
       "today": {
-        "date": "2026-02-03",
-        "high_f": 16,
-        "low_f": 11,
-        "description": "Mostly Sunny",
-        "snowfall_day_inches": 1,
+        "date": "2026-02-02",
+        "high_f": null,
+        "low_f": 14,
+        "description": "Windy",
+        "snowfall_day_inches": 0,
         "snowfall_night_inches": 0
       },
       "outlook": [
         {
+          "date": "2026-02-03",
+          "high_f": 16,
+          "low_f": 11,
+          "description": "Mostly Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
           "date": "2026-02-04",
           "high_f": 11,
-          "low_f": 7,
+          "low_f": 10,
           "description": "Windy",
           "snowfall_day_inches": 1,
           "snowfall_night_inches": 0,
@@ -179,31 +188,22 @@
         },
         {
           "date": "2026-02-05",
-          "high_f": 7,
-          "low_f": 7,
+          "high_f": 9,
+          "low_f": 5,
           "description": "Windy",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
           "snowfall_expected": 0
-        },
-        {
-          "date": "2026-02-06",
-          "high_f": 12,
-          "low_f": 8,
-          "description": "Mostly Cloudy",
-          "snowfall_day_inches": 1,
-          "snowfall_night_inches": 0,
-          "snowfall_expected": 1
         }
       ],
       "tomorrow": {
-        "date": "2026-02-04",
-        "high_f": 11,
-        "low_f": 7,
-        "description": "Windy",
-        "snowfall_day_inches": 1,
+        "date": "2026-02-03",
+        "high_f": 16,
+        "low_f": 11,
+        "description": "Mostly Sunny",
+        "snowfall_day_inches": 0,
         "snowfall_night_inches": 0,
-        "snowfall_expected": 1
+        "snowfall_expected": 0
       }
     }
   },
@@ -229,14 +229,14 @@
     ]
   },
   "morningBrief": {
-    "headline": "Postcard Day",
-    "body": "146/176 trails spinning, 56 freshly groomed. 16° and Mostly Sunny. The grooming crew went hard: 12 trails of fresh corduroy in SuperQuad, Skyline, and more. Picture-perfect day: sunny skies, 16° temps, not a cloud to block the view.",
+    "headline": "Smooth Sailing Today",
+    "body": "146/176 trails spinning, 56 freshly groomed. Windy. The grooming crew went hard: 12 trails of fresh corduroy in SuperQuad, Skyline, and more. Light snow possible in the forecast.",
     "debug": {
       "firedRules": [
         {
-          "id": "weather_bluebird",
-          "category": "weather",
-          "priority": 70,
+          "id": "grooming_good",
+          "category": "terrain",
+          "priority": 68,
           "usedFor": "headline"
         },
         {
@@ -252,19 +252,19 @@
           "usedFor": "body"
         },
         {
-          "id": "weather_bluebird",
+          "id": "forecast_flurries",
           "category": "weather",
-          "priority": 70,
+          "priority": 30,
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 6,
+      "totalRulesFired": 5,
       "headlineSelection": {
-        "condition": "bluebird_day",
-        "variationIndex": 4,
+        "condition": "grooming_highlight",
+        "variationIndex": 2,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Clear Skies, Cold Temps"
+        "previousHeadline": "{groomedCount} {GroomedRunWord} Groomed Overnight"
       },
       "dayOfWeek": "Tuesday"
     }

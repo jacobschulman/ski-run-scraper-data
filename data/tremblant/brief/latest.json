@@ -2,7 +2,7 @@
   "resort": "tremblant",
   "resortName": "Tremblant",
   "date": "2026-02-03",
-  "generated": "2026-02-03T21:42:44.041Z",
+  "generated": "2026-02-03T19:08:35.211Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -11,8 +11,8 @@
       "24hour_cm": 0,
       "48hour_inches": 0,
       "48hour_cm": 0,
-      "7day_inches": 4,
-      "7day_cm": 9,
+      "7day_inches": 6,
+      "7day_cm": 15,
       "season_total_inches": 146,
       "season_total_cm": 371,
       "conditions": {
@@ -99,19 +99,30 @@
     },
     "forecast": {
       "today": {
-        "date": "2026-02-03",
-        "high_f": 18,
-        "low_f": 13,
-        "high_c": -8,
+        "date": "2026-02-02",
+        "high_f": null,
+        "low_f": 14,
+        "high_c": null,
         "low_c": -10,
-        "description": "Cloudy",
+        "description": "Partly Cloudy",
         "snowfall_day_inches": 0,
         "snowfall_night_inches": 0
       },
       "outlook": [
         {
+          "date": "2026-02-03",
+          "high_f": 18,
+          "low_f": 13,
+          "high_c": -8,
+          "low_c": -11,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 1,
+          "snowfall_expected": 1
+        },
+        {
           "date": "2026-02-04",
-          "high_f": 15,
+          "high_f": 16,
           "low_f": 5,
           "high_c": -9,
           "low_c": -15,
@@ -122,37 +133,26 @@
         },
         {
           "date": "2026-02-05",
-          "high_f": 11,
-          "low_f": 6,
-          "high_c": -12,
-          "low_c": -14,
+          "high_f": 9,
+          "low_f": 5,
+          "high_c": -13,
+          "low_c": -15,
           "description": "Mostly Cloudy",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
           "snowfall_expected": 0
-        },
-        {
-          "date": "2026-02-06",
-          "high_f": 13,
-          "low_f": -2,
-          "high_c": -10,
-          "low_c": -19,
-          "description": "Cloudy",
-          "snowfall_day_inches": 0,
-          "snowfall_night_inches": 1,
-          "snowfall_expected": 1
         }
       ],
       "tomorrow": {
-        "date": "2026-02-04",
-        "high_f": 15,
-        "low_f": 5,
-        "high_c": -9,
-        "low_c": -15,
+        "date": "2026-02-03",
+        "high_f": 18,
+        "low_f": 13,
+        "high_c": -8,
+        "low_c": -11,
         "description": "Cloudy",
         "snowfall_day_inches": 0,
-        "snowfall_night_inches": 0,
-        "snowfall_expected": 0
+        "snowfall_night_inches": 1,
+        "snowfall_expected": 1
       }
     }
   },
@@ -169,16 +169,17 @@
       "1 trail freshly groomed"
     ],
     "trends": [
+      "Steady snowfall - 6\" in last 7 days",
       "1 more trail open than yesterday",
-      "1\" snow expected Friday"
+      "1\" snow expected Tuesday"
     ],
     "recommendations": [
       "Fresh corduroy on Cascades - all skill levels"
     ]
   },
   "morningBrief": {
-    "headline": "Fewer Crowds, More Turns",
-    "body": "The rundown: 127 trails open, 67 groomed. Cloudy with temps around 18°. 1 new trail opened today. Light snow possible in the forecast.",
+    "headline": "Beat the Weekend Rush",
+    "body": "Steady snowfall with 6\" over the last week. 1 new trail opened today. Light snow possible in the forecast.",
     "debug": {
       "firedRules": [
         {
@@ -188,9 +189,9 @@
           "usedFor": "headline"
         },
         {
-          "id": "fallback_headline",
+          "id": "snow_week_total",
           "category": "snow",
-          "priority": 10,
+          "priority": 40,
           "usedFor": "body"
         },
         {
@@ -212,7 +213,7 @@
         "variationIndex": 3,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Beat the Weekend Rush"
+        "previousHeadline": "Fewer Crowds, More Turns"
       },
       "dayOfWeek": "Tuesday"
     }

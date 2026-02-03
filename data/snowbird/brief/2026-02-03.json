@@ -2,7 +2,7 @@
   "resort": "snowbird",
   "resortName": "Snowbird",
   "date": "2026-02-03",
-  "generated": "2026-02-03T21:42:44.118Z",
+  "generated": "2026-02-03T19:08:35.281Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -51,18 +51,27 @@
     },
     "forecast": {
       "today": {
-        "date": "2026-02-03",
-        "high_f": 28,
-        "low_f": 25,
-        "description": "Windy",
+        "date": "2026-02-02",
+        "high_f": null,
+        "low_f": 22,
+        "description": "Clear",
         "snowfall_day_inches": 0,
         "snowfall_night_inches": 0
       },
       "outlook": [
         {
+          "date": "2026-02-03",
+          "high_f": 28,
+          "low_f": 26,
+          "description": "Windy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
           "date": "2026-02-04",
           "high_f": 35,
-          "low_f": 32,
+          "low_f": 35,
           "description": "Sunny",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
@@ -76,22 +85,13 @@
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
           "snowfall_expected": 0
-        },
-        {
-          "date": "2026-02-06",
-          "high_f": 35,
-          "low_f": 29,
-          "description": "Partly Cloudy",
-          "snowfall_day_inches": 0,
-          "snowfall_night_inches": 0,
-          "snowfall_expected": 0
         }
       ],
       "tomorrow": {
-        "date": "2026-02-04",
-        "high_f": 35,
-        "low_f": 32,
-        "description": "Sunny",
+        "date": "2026-02-03",
+        "high_f": 28,
+        "low_f": 26,
+        "description": "Windy",
         "snowfall_day_inches": 0,
         "snowfall_night_inches": 0,
         "snowfall_expected": 0
@@ -112,7 +112,7 @@
   },
   "morningBrief": {
     "headline": "Quiet Days on the Hill",
-    "body": "185 of 200 trails are open with 50 groomed. Windy with a high of 28°F. Windy conditions expected. Upper lifts may have holds or delays.",
+    "body": "185 of 200 trails are open with 50 groomed. Clear with a temperatures TBD. 185/200 trails open, 50 groomed. Clear.",
     "debug": {
       "firedRules": [
         {
@@ -128,13 +128,13 @@
           "usedFor": "body"
         },
         {
-          "id": "weather_windy",
+          "id": "fallback_body",
           "category": "weather",
-          "priority": 45,
+          "priority": 5,
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 4,
+      "totalRulesFired": 3,
       "headlineSelection": {
         "condition": "midweek_mellow",
         "variationIndex": 0,

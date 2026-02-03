@@ -1581,33 +1581,33 @@
       "slug": "superstar-headwall",
       "area": "Skye Peak",
       "difficulty": "Black",
-      "isGroomedToday": true,
+      "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 95,
-      "currentStreak": 24,
-      "longestStreak": 24
+      "groomingPercentage": 93,
+      "currentStreak": 0,
+      "longestStreak": 23
     },
     {
       "name": "Superstar - Lower",
       "slug": "superstar-lower",
       "area": "Skye Peak",
       "difficulty": "Black",
-      "isGroomedToday": true,
+      "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 100,
-      "currentStreak": 24,
-      "longestStreak": 24
+      "groomingPercentage": 98,
+      "currentStreak": 0,
+      "longestStreak": 23
     },
     {
       "name": "Superstar - Middle",
       "slug": "superstar-middle",
       "area": "Skye Peak",
       "difficulty": "Black",
-      "isGroomedToday": true,
+      "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 100,
-      "currentStreak": 24,
-      "longestStreak": 24
+      "groomingPercentage": 98,
+      "currentStreak": 0,
+      "longestStreak": 23
     },
     {
       "name": "The Stairs",
@@ -2391,5 +2391,5 @@
       "longestStreak": 13
     }
   ],
-  "lastUpdated": "2026-02-03T21:51:46.423Z"
+  "lastUpdated": "2026-02-03T19:19:43.730Z"
 }

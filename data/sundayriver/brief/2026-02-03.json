@@ -2,7 +2,7 @@
   "resort": "sundayriver",
   "resortName": "Sunday River",
   "date": "2026-02-03",
-  "generated": "2026-02-03T21:42:44.143Z",
+  "generated": "2026-02-03T19:08:35.305Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -11,8 +11,8 @@
       "24hour_cm": 0,
       "48hour_inches": 0,
       "48hour_cm": 0,
-      "7day_inches": 0,
-      "7day_cm": 0,
+      "7day_inches": 22,
+      "7day_cm": 56,
       "season_total_inches": 81,
       "season_total_cm": 206,
       "conditions": {
@@ -84,47 +84,47 @@
     },
     "forecast": {
       "today": {
-        "date": "2026-02-03",
-        "high_f": 21,
+        "date": "2026-02-02",
+        "high_f": null,
         "low_f": 15,
-        "description": "Sunny",
+        "description": "Windy",
         "snowfall_day_inches": 0,
         "snowfall_night_inches": 0
       },
       "outlook": [
         {
+          "date": "2026-02-03",
+          "high_f": 21,
+          "low_f": 15,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
           "date": "2026-02-04",
           "high_f": 16,
           "low_f": 10,
           "description": "Windy",
-          "snowfall_day_inches": 0,
+          "snowfall_day_inches": 1,
           "snowfall_night_inches": 0,
-          "snowfall_expected": 0
+          "snowfall_expected": 1
         },
         {
           "date": "2026-02-05",
-          "high_f": 13,
-          "low_f": 8,
+          "high_f": 12,
+          "low_f": 7,
           "description": "Windy",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
           "snowfall_expected": 0
-        },
-        {
-          "date": "2026-02-06",
-          "high_f": 13,
-          "low_f": 10,
-          "description": "Mostly Cloudy",
-          "snowfall_day_inches": 1,
-          "snowfall_night_inches": 0,
-          "snowfall_expected": 1
         }
       ],
       "tomorrow": {
-        "date": "2026-02-04",
-        "high_f": 16,
-        "low_f": 10,
-        "description": "Windy",
+        "date": "2026-02-03",
+        "high_f": 21,
+        "low_f": 15,
+        "description": "Sunny",
         "snowfall_day_inches": 0,
         "snowfall_night_inches": 0,
         "snowfall_expected": 0
@@ -144,8 +144,9 @@
       "2 trails freshly groomed"
     ],
     "trends": [
+      "Great week for snow - 22\" in last 7 days",
       "2 more trails open than yesterday",
-      "1\" snow expected Friday"
+      "1\" snow expected Wednesday"
     ],
     "recommendations": [
       "Fresh corduroy on Village Trail - all skill levels",
@@ -153,20 +154,20 @@
     ]
   },
   "morningBrief": {
-    "headline": "Picture-Perfect Conditions",
-    "body": "140 of 144 trails are open with 82 groomed. Sunny with a high of 21°F. 3 new trails opened today. Clear skies and 21° means stunning views and firm snow. Layer up.",
+    "headline": "The Base Is Holding Up",
+    "body": "Zero new inches, but who's complaining? 22\" this week means conditions are still prime. 3 new trails opened today. Light snow possible in the forecast.",
     "debug": {
       "firedRules": [
         {
-          "id": "weather_bluebird",
-          "category": "weather",
-          "priority": 70,
+          "id": "snow_holding_strong",
+          "category": "snow",
+          "priority": 60,
           "usedFor": "headline"
         },
         {
-          "id": "fallback_headline",
+          "id": "snow_holding_strong",
           "category": "snow",
-          "priority": 10,
+          "priority": 60,
           "usedFor": "body"
         },
         {
@@ -176,19 +177,19 @@
           "usedFor": "body"
         },
         {
-          "id": "weather_bluebird",
+          "id": "forecast_flurries",
           "category": "weather",
-          "priority": 70,
+          "priority": 30,
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 6,
+      "totalRulesFired": 7,
       "headlineSelection": {
-        "condition": "bluebird_day",
-        "variationIndex": 1,
+        "condition": "holding_strong",
+        "variationIndex": 4,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Clear Skies, Cold Temps"
+        "previousHeadline": "Still Soft Out There"
       },
       "dayOfWeek": "Tuesday"
     }

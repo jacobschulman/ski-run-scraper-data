@@ -2,7 +2,7 @@
   "resort": "copper",
   "resortName": "Copper Mountain",
   "date": "2026-02-03",
-  "generated": "2026-02-03T21:42:44.129Z",
+  "generated": "2026-02-03T19:08:35.292Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -99,18 +99,27 @@
     },
     "forecast": {
       "today": {
-        "date": "2026-02-03",
-        "high_f": 19,
+        "date": "2026-02-02",
+        "high_f": null,
         "low_f": 9,
-        "description": "Windy",
-        "snowfall_day_inches": 2,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
         "snowfall_night_inches": 0
       },
       "outlook": [
         {
+          "date": "2026-02-03",
+          "high_f": 21,
+          "low_f": 11,
+          "description": "Windy",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        },
+        {
           "date": "2026-02-04",
-          "high_f": 28,
-          "low_f": 16,
+          "high_f": 29,
+          "low_f": 14,
           "description": "Sunny",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
@@ -118,17 +127,8 @@
         },
         {
           "date": "2026-02-05",
-          "high_f": 36,
+          "high_f": 37,
           "low_f": 19,
-          "description": "Sunny",
-          "snowfall_day_inches": 0,
-          "snowfall_night_inches": 0,
-          "snowfall_expected": 0
-        },
-        {
-          "date": "2026-02-06",
-          "high_f": 38,
-          "low_f": 17,
           "description": "Sunny",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
@@ -136,13 +136,13 @@
         }
       ],
       "tomorrow": {
-        "date": "2026-02-04",
-        "high_f": 28,
-        "low_f": 16,
-        "description": "Sunny",
-        "snowfall_day_inches": 0,
+        "date": "2026-02-03",
+        "high_f": 21,
+        "low_f": 11,
+        "description": "Windy",
+        "snowfall_day_inches": 2,
         "snowfall_night_inches": 0,
-        "snowfall_expected": 0
+        "snowfall_expected": 2
       }
     }
   },
@@ -157,14 +157,16 @@
     "alerts": [
       "1 trail freshly groomed"
     ],
-    "trends": [],
+    "trends": [
+      "2\" snow expected Tuesday"
+    ],
     "recommendations": [
       "Fresh corduroy on Collage (U) - perfect for intermediate skiers"
     ]
   },
   "morningBrief": {
     "headline": "Quiet Days on the Hill",
-    "body": "The rundown: 126 trails open, 44 groomed. Windy with temps around 19°. Cold day ahead: 19° high. Dress warmly.",
+    "body": "The rundown: 126 trails open, 44 groomed. Clear with temps around temps TBD. Light snow possible in the forecast.",
     "debug": {
       "firedRules": [
         {
@@ -180,13 +182,13 @@
           "usedFor": "body"
         },
         {
-          "id": "temp_cold",
+          "id": "forecast_flurries",
           "category": "weather",
-          "priority": 55,
+          "priority": 30,
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 5,
+      "totalRulesFired": 4,
       "headlineSelection": {
         "condition": "midweek_mellow",
         "variationIndex": 1,

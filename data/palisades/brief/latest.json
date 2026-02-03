@@ -1,8 +1,8 @@
 {
   "resort": "palisades",
   "resortName": "Palisades Tahoe",
-  "date": "2026-02-03",
-  "generated": "2026-02-03T09:56:20.987Z",
+  "date": "2026-02-02",
+  "generated": "2026-02-03T07:50:41.335Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -24,25 +24,88 @@
       "stats": {
         "openTrails": {
           "today": 224,
-          "yesterday": 224,
-          "delta": 0
+          "yesterday": 215,
+          "delta": 9
         },
         "groomedTrails": {
           "today": 84,
-          "yesterday": 84,
-          "delta": 0
+          "yesterday": 86,
+          "delta": -2
         },
         "totalTrails": 301
       },
-      "newlyOpened": [],
-      "newlyClosed": [],
+      "newlyOpened": [
+        {
+          "name": "Backside Exit",
+          "difficulty": "Very Difficult",
+          "area": "Granite Peak"
+        },
+        {
+          "name": "Carnell's",
+          "difficulty": "Very Difficult",
+          "area": "Granite Peak"
+        },
+        {
+          "name": "Magoos",
+          "difficulty": "Very Difficult",
+          "area": "Granite Peak"
+        },
+        {
+          "name": "Paradise Alley",
+          "difficulty": "Very Difficult",
+          "area": "Granite Peak"
+        },
+        {
+          "name": "Punch Bowl",
+          "difficulty": "Very Difficult",
+          "area": "Granite Peak"
+        },
+        {
+          "name": "Snag Ledge",
+          "difficulty": "Very Difficult",
+          "area": "Granite Peak"
+        },
+        {
+          "name": "White Pine Ledge",
+          "difficulty": "Very Difficult",
+          "area": "Granite Peak"
+        },
+        {
+          "name": "Poma Rocks",
+          "difficulty": "Very Difficult",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Pond Slope",
+          "difficulty": "Very Difficult",
+          "area": "Summit Peak"
+        }
+      ],
+      "newlyClosed": [
+        {
+          "name": "Slot",
+          "difficulty": "Expert",
+          "area": "Palisades Peak"
+        }
+      ],
       "newlyGroomed": [],
-      "ungroomed": []
+      "ungroomed": [
+        {
+          "name": "Wolverine Bowl",
+          "difficulty": "Very Difficult",
+          "area": "Summit Peak"
+        },
+        {
+          "name": "Wolverine Saddle",
+          "difficulty": "Very Difficult",
+          "area": "Summit Peak"
+        }
+      ]
     },
     "lifts": {
       "available": true,
       "yesterday": {
-        "date": "2026-02-02",
+        "date": "2026-02-01",
         "avgWaitTime": 0,
         "maxWaitTime": 0,
         "totalLiftsTracked": 39,
@@ -89,7 +152,7 @@
           "low_f": 35,
           "high_c": 9,
           "low_c": 2,
-          "description": "Sunny",
+          "description": "Mostly Sunny",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
           "snowfall_expected": 0
@@ -112,23 +175,27 @@
     "flags": {
       "hasFreshSnow": false,
       "isPowderDay": false,
-      "hasNewTrails": false,
+      "hasNewTrails": true,
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [],
-    "trends": [],
+    "alerts": [
+      "9 new trails opened today"
+    ],
+    "trends": [
+      "9 more trails open than yesterday"
+    ],
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Midweek Mountain Report",
-    "body": "224/301 trails spinning, 84 freshly groomed. Clear. 224/301 trails open, 84 groomed. Clear.",
+    "headline": "New Runs Now Open",
+    "body": "The rundown: 224 trails open, 84 groomed. Clear with temps around temps TBD. Ski patrol has been busy - 9 additional trails are now open.",
     "debug": {
       "firedRules": [
         {
-          "id": "time_midweek_mellow",
-          "category": "time",
-          "priority": 45,
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
           "usedFor": "headline"
         },
         {
@@ -138,21 +205,21 @@
           "usedFor": "body"
         },
         {
-          "id": "fallback_body",
-          "category": "weather",
-          "priority": 5,
+          "id": "terrain_expanding",
+          "category": "terrain",
+          "priority": 75,
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 3,
+      "totalRulesFired": 2,
       "headlineSelection": {
-        "condition": "midweek_mellow",
-        "variationIndex": 0,
-        "totalVariations": 5,
+        "condition": "terrain_expansion",
+        "variationIndex": 1,
+        "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "New Runs Now Open"
+        "previousHeadline": "{newTrailsCount} New {NewTrailWord} Today"
       },
-      "dayOfWeek": "Tuesday"
+      "dayOfWeek": "Monday"
     }
   },
   "errors": []

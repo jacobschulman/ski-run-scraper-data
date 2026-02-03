@@ -1,8 +1,8 @@
 {
   "resort": "mammoth",
   "resortName": "Mammoth Mountain",
-  "date": "2026-02-03",
-  "generated": "2026-02-03T09:56:21.008Z",
+  "date": "2026-02-02",
+  "generated": "2026-02-03T07:50:41.352Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -42,7 +42,7 @@
     "lifts": {
       "available": true,
       "yesterday": {
-        "date": "2026-02-02",
+        "date": "2026-02-01",
         "avgWaitTime": 0,
         "maxWaitTime": 0,
         "totalLiftsTracked": 25,
@@ -63,7 +63,7 @@
       "outlook": [
         {
           "date": "2026-02-03",
-          "high_f": 43,
+          "high_f": 42,
           "low_f": 32,
           "high_c": 6,
           "low_c": 0,
@@ -85,8 +85,8 @@
         },
         {
           "date": "2026-02-05",
-          "high_f": 40,
-          "low_f": 28,
+          "high_f": 41,
+          "low_f": 29,
           "high_c": 5,
           "low_c": -2,
           "description": "Mostly Sunny",
@@ -97,7 +97,7 @@
       ],
       "tomorrow": {
         "date": "2026-02-03",
-        "high_f": 43,
+        "high_f": 42,
         "low_f": 32,
         "high_c": 6,
         "low_c": 0,
@@ -121,14 +121,14 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Fewer Crowds, More Turns",
-    "body": "180 trails open, 107 groomed. Clear, temperatures TBD. 180/191 trails open, 107 groomed. Clear.",
+    "headline": "The Rundown",
+    "body": "180 of 191 trails are open with 107 groomed. Clear with a temperatures TBD. 180/191 trails open, 107 groomed. Clear.",
     "debug": {
       "firedRules": [
         {
-          "id": "time_midweek_mellow",
-          "category": "time",
-          "priority": 45,
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
           "usedFor": "headline"
         },
         {
@@ -144,15 +144,15 @@
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 3,
+      "totalRulesFired": 2,
       "headlineSelection": {
-        "condition": "midweek_mellow",
-        "variationIndex": 3,
-        "totalVariations": 5,
+        "condition": "fallback",
+        "variationIndex": 5,
+        "totalVariations": 7,
         "usedWeekendVariation": false,
-        "previousHeadline": "The Rundown"
+        "previousHeadline": "Today at {resortName}"
       },
-      "dayOfWeek": "Tuesday"
+      "dayOfWeek": "Monday"
     }
   },
   "errors": []

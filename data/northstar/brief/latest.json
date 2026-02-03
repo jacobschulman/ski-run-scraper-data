@@ -1,8 +1,8 @@
 {
   "resort": "northstar",
   "resortName": "Northstar",
-  "date": "2026-02-03",
-  "generated": "2026-02-03T09:56:13.629Z",
+  "date": "2026-02-02",
+  "generated": "2026-02-02T17:48:31.947Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -24,95 +24,144 @@
       "stats": {
         "openTrails": {
           "today": 98,
-          "yesterday": 98,
-          "delta": 0
+          "yesterday": 96,
+          "delta": 2
         },
         "groomedTrails": {
           "today": 50,
-          "yesterday": 50,
-          "delta": 0
+          "yesterday": 65,
+          "delta": -15
         },
         "totalTrails": 103
       },
-      "newlyOpened": [],
+      "newlyOpened": [
+        {
+          "name": "Cat's Face",
+          "difficulty": "Blue",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "Polaris",
+          "difficulty": "Black",
+          "area": "The Backside"
+        }
+      ],
       "newlyClosed": [],
       "newlyGroomed": [],
-      "ungroomed": []
+      "ungroomed": [
+        {
+          "name": "Bear Crawl",
+          "difficulty": "Blue",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "Dutchman",
+          "difficulty": "Blue",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "Flying Squirrel",
+          "difficulty": "Blue",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "Powder Bowl",
+          "difficulty": "Blue",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "Upper Jibboom",
+          "difficulty": "Blue",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "Crosscut",
+          "difficulty": "Black",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "Spring Board",
+          "difficulty": "Black",
+          "area": "Mt. Pluto"
+        },
+        {
+          "name": "Bobcat Bowl",
+          "difficulty": "Blue",
+          "area": "Northwest Territory"
+        },
+        {
+          "name": "Christmas Tree",
+          "difficulty": "Blue",
+          "area": "Northwest Territory"
+        },
+        {
+          "name": "Cowboy Pass",
+          "difficulty": "Blue",
+          "area": "Northwest Territory"
+        },
+        {
+          "name": "Northern Lights",
+          "difficulty": "Blue",
+          "area": "Northwest Territory"
+        },
+        {
+          "name": "The Gully",
+          "difficulty": "Blue",
+          "area": "Northwest Territory"
+        },
+        {
+          "name": "Follow Me",
+          "difficulty": "Black",
+          "area": "The Backside"
+        },
+        {
+          "name": "Iron Horse",
+          "difficulty": "Black",
+          "area": "The Backside"
+        },
+        {
+          "name": "Monument Glade",
+          "difficulty": "Black",
+          "area": "The Backside"
+        },
+        {
+          "name": "The Woods",
+          "difficulty": "Blue",
+          "area": "Village at Northstar"
+        }
+      ]
     },
     "lifts": {
-      "available": true,
-      "yesterday": {
-        "date": "2026-02-02",
-        "avgWaitTime": 2.6,
-        "maxWaitTime": 6,
-        "totalLiftsTracked": 19,
-        "busiest": [
-          {
-            "name": "Tahoe Zephyr Express",
-            "avgWait": 4.3,
-            "peakWait": 5,
-            "type": "Six Pack",
-            "mountain": "Northwest Territory"
-          },
-          {
-            "name": "Big Springs Express Gondola",
-            "avgWait": 3.3,
-            "peakWait": 6,
-            "type": "Gondola",
-            "mountain": "Village at Northstar"
-          },
-          {
-            "name": "Highlands Gondola",
-            "avgWait": 3,
-            "peakWait": 4,
-            "type": "Gondola",
-            "mountain": "Northwest Territory"
-          },
-          {
-            "name": "Backside Express",
-            "avgWait": 2.5,
-            "peakWait": 4,
-            "type": "Quad",
-            "mountain": "The Backside"
-          },
-          {
-            "name": "Vista Express",
-            "avgWait": 2.3,
-            "peakWait": 4,
-            "type": "Quad",
-            "mountain": "Terrain Parks"
-          }
-        ]
-      }
+      "available": false
     },
     "forecast": {
       "today": {
-        "date": "2026-02-03",
-        "high_f": 51,
-        "low_f": 34,
-        "high_c": 11,
-        "low_c": 1,
+        "date": "2026-02-02",
+        "high_f": 48,
+        "low_f": 30,
+        "high_c": 8,
+        "low_c": -1,
         "description": "Clear",
         "snowfall_day_inches": 0,
         "snowfall_night_inches": 0
       },
       "outlook": [
         {
-          "date": "2026-02-04T08:00:00Z",
+          "date": "2026-02-03T08:00:00Z",
           "high_f": 51,
-          "low_f": 32,
-          "high_c": 11,
-          "low_c": null,
+          "low_f": 34,
+          "high_c": 10,
+          "low_c": 1,
           "description": "Clear",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
           "snowfall_expected": 0
         },
         {
-          "date": "2026-02-05T08:00:00Z",
-          "high_f": 52,
+          "date": "2026-02-04T08:00:00Z",
+          "high_f": 50,
           "low_f": 30,
-          "high_c": 11,
+          "high_c": 10,
           "low_c": -1,
           "description": "Clear",
           "snowfall_day_inches": 0,
@@ -120,23 +169,23 @@
           "snowfall_expected": 0
         },
         {
-          "date": "2026-02-06T08:00:00Z",
-          "high_f": 49,
-          "low_f": 33,
-          "high_c": 9,
-          "low_c": 1,
-          "description": "Mostly Cloudy",
+          "date": "2026-02-05T08:00:00Z",
+          "high_f": 51,
+          "low_f": 31,
+          "high_c": 10,
+          "low_c": -1,
+          "description": "Clear",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
           "snowfall_expected": 0
         }
       ],
       "tomorrow": {
-        "date": "2026-02-04T08:00:00Z",
+        "date": "2026-02-03T08:00:00Z",
         "high_f": 51,
-        "low_f": 32,
-        "high_c": 11,
-        "low_c": null,
+        "low_f": 34,
+        "high_c": 10,
+        "low_c": 1,
         "description": "Clear",
         "snowfall_day_inches": 0,
         "snowfall_night_inches": 0,
@@ -148,17 +197,20 @@
     "flags": {
       "hasFreshSnow": false,
       "isPowderDay": false,
-      "hasNewTrails": false,
-      "significantGroomingIncrease": false,
-      "highLiftDemand": false
+      "hasNewTrails": true,
+      "significantGroomingIncrease": false
     },
-    "alerts": [],
-    "trends": [],
+    "alerts": [
+      "2 new trails opened today"
+    ],
+    "trends": [
+      "2 more trails open than yesterday"
+    ],
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Mild Day Ahead",
-    "body": "The rundown: 98 trails open, 50 groomed. Clear with temps around 51°. Peak terrain status: almost everything is available today. Lift lines were mellow yesterday. Expect a similar vibe today.",
+    "headline": "Unseasonably Warm: 48°",
+    "body": "98 of 103 trails are open with 50 groomed. Clear with a high of 48°F. 2 new trails opened today. Above average temps (48°) will soften things up. Hit it early.",
     "debug": {
       "firedRules": [
         {
@@ -174,27 +226,27 @@
           "usedFor": "body"
         },
         {
-          "id": "percent_full",
+          "id": "terrain_micro",
           "category": "terrain",
           "priority": 45,
           "usedFor": "body"
         },
         {
-          "id": "lift_mellow",
-          "category": "lifts",
-          "priority": 50,
+          "id": "temp_unseasonably_warm",
+          "category": "weather",
+          "priority": 55,
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 5,
+      "totalRulesFired": 4,
       "headlineSelection": {
         "condition": "unseasonably_warm",
-        "variationIndex": 2,
+        "variationIndex": 0,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Unseasonably Warm: {tempHigh}°"
+        "previousHeadline": null
       },
-      "dayOfWeek": "Tuesday"
+      "dayOfWeek": "Monday"
     }
   },
   "errors": []

@@ -1,8 +1,8 @@
 {
   "resort": "crystal",
   "resortName": "Crystal Mountain",
-  "date": "2026-02-03",
-  "generated": "2026-02-03T09:56:21.015Z",
+  "date": "2026-02-02",
+  "generated": "2026-02-03T07:50:41.360Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -24,25 +24,78 @@
       "stats": {
         "openTrails": {
           "today": 32,
-          "yesterday": 32,
-          "delta": 0
+          "yesterday": 39,
+          "delta": -7
         },
         "groomedTrails": {
           "today": 21,
-          "yesterday": 21,
-          "delta": 0
+          "yesterday": 23,
+          "delta": -2
         },
         "totalTrails": 86
       },
       "newlyOpened": [],
-      "newlyClosed": [],
-      "newlyGroomed": [],
-      "ungroomed": []
+      "newlyClosed": [
+        {
+          "name": "Campbell Basin",
+          "difficulty": "Very Difficult",
+          "area": "High Campbell"
+        },
+        {
+          "name": "Powder Bowl",
+          "difficulty": "Very Difficult",
+          "area": "High Campbell"
+        },
+        {
+          "name": "The Throne",
+          "difficulty": "Very Difficult",
+          "area": "High Campbell"
+        },
+        {
+          "name": "A-Basin",
+          "difficulty": "Very Difficult",
+          "area": "South"
+        },
+        {
+          "name": "Silver Basin",
+          "difficulty": "Very Difficult",
+          "area": "South"
+        },
+        {
+          "name": "Silver King",
+          "difficulty": "Very Difficult",
+          "area": "South"
+        },
+        {
+          "name": "Three Way Peak",
+          "difficulty": "Very Difficult",
+          "area": "South"
+        }
+      ],
+      "newlyGroomed": [
+        {
+          "name": "Lower Magoo",
+          "difficulty": "Intermediate",
+          "area": "Lower Mountain"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Blazing Elk",
+          "difficulty": "Difficult",
+          "area": "Frontside"
+        },
+        {
+          "name": "Gandy's Run",
+          "difficulty": "Intermediate",
+          "area": "Frontside"
+        }
+      ]
     },
     "lifts": {
       "available": true,
       "yesterday": {
-        "date": "2026-02-02",
+        "date": "2026-02-01",
         "avgWaitTime": 0,
         "maxWaitTime": 0,
         "totalLiftsTracked": 11,
@@ -74,7 +127,7 @@
         },
         {
           "date": "2026-02-04",
-          "high_f": 49,
+          "high_f": 50,
           "low_f": 45,
           "high_c": 10,
           "low_c": 7,
@@ -89,7 +142,7 @@
           "low_f": 41,
           "high_c": 9,
           "low_c": 5,
-          "description": "Mostly Sunny",
+          "description": "Sunny",
           "snowfall_day_inches": 0,
           "snowfall_night_inches": 0,
           "snowfall_expected": 0
@@ -116,13 +169,17 @@
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [],
+    "alerts": [
+      "1 trail freshly groomed"
+    ],
     "trends": [],
-    "recommendations": []
+    "recommendations": [
+      "Fresh corduroy on Lower Magoo - all skill levels"
+    ]
   },
   "morningBrief": {
-    "headline": "Fresh Layer in Place",
-    "body": "2\" fell while you were sleeping. The bumps are softer, groomers are primo.",
+    "headline": "Overnight Refresh",
+    "body": "The mountain got a nice 2\" touch-up. Expect improved conditions.",
     "debug": {
       "firedRules": [
         {
@@ -138,15 +195,15 @@
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 3,
+      "totalRulesFired": 2,
       "headlineSelection": {
         "condition": "fresh_coat",
-        "variationIndex": 4,
+        "variationIndex": 3,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Overnight Refresh"
+        "previousHeadline": "The Mountain Got a Touch-Up"
       },
-      "dayOfWeek": "Tuesday"
+      "dayOfWeek": "Monday"
     }
   },
   "errors": []

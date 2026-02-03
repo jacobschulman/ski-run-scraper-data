@@ -2,7 +2,7 @@
   "resort": "sugarbush",
   "resortName": "Sugarbush",
   "date": "2026-02-03",
-  "generated": "2026-02-03T07:04:04.771Z",
+  "generated": "2026-02-03T06:03:34.828Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -121,7 +121,7 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Fewer Crowds, More Turns",
+    "headline": "Quiet Days on the Hill",
     "body": "113/142 trails spinning, 44 freshly groomed. Windy. Windy conditions expected. Upper lifts may have holds or delays.",
     "debug": {
       "firedRules": [
@@ -147,10 +147,10 @@
       "totalRulesFired": 4,
       "headlineSelection": {
         "condition": "midweek_mellow",
-        "variationIndex": 2,
+        "variationIndex": 1,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Quiet Days on the Hill"
+        "previousHeadline": "Patrol Opened {newTrailsCount} More"
       },
       "dayOfWeek": "Tuesday"
     }

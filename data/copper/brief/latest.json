@@ -1,49 +1,261 @@
 {
   "resort": "copper",
   "resortName": "Copper Mountain",
-  "date": "2026-02-03",
-  "generated": "2026-02-03T07:04:04.828Z",
+  "date": "2026-02-02",
+  "generated": "2026-02-03T06:03:34.906Z",
   "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 0,
+      "7day_cm": 0,
+      "season_total_inches": 0,
+      "season_total_cm": 0,
+      "conditions": {
+        "today": "Packed Powder",
+        "yesterday": "Machine Groomed"
+      }
+    },
     "terrain": {
       "stats": {
         "openTrails": {
           "today": 133,
-          "yesterday": 133,
-          "delta": 0
+          "yesterday": 132,
+          "delta": 1
         },
         "groomedTrails": {
           "today": 44,
-          "yesterday": 44,
-          "delta": 0
+          "yesterday": 60,
+          "delta": -16
         },
         "totalTrails": 202
       },
-      "newlyOpened": [],
+      "newlyOpened": [
+        {
+          "name": "Far East",
+          "difficulty": "Black",
+          "area": "East"
+        }
+      ],
       "newlyClosed": [],
-      "newlyGroomed": [],
-      "ungroomed": []
+      "newlyGroomed": [
+        {
+          "name": "Home Run",
+          "difficulty": "Blue",
+          "area": "East"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Hallelujah Ridge",
+          "difficulty": "Black",
+          "area": "Spaulding & Resolution"
+        },
+        {
+          "name": "Spaulding Ridge",
+          "difficulty": "Black",
+          "area": "Spaulding & Resolution"
+        },
+        {
+          "name": "Oh No (L)",
+          "difficulty": "Blue",
+          "area": "East"
+        },
+        {
+          "name": "Clear Cut",
+          "difficulty": "Blue",
+          "area": "West"
+        },
+        {
+          "name": "Easy Feelin'",
+          "difficulty": "easiest",
+          "area": "West"
+        },
+        {
+          "name": "Fairway",
+          "difficulty": "easiest",
+          "area": "West"
+        },
+        {
+          "name": "Lyman Lane",
+          "difficulty": "easiest",
+          "area": "West"
+        },
+        {
+          "name": "Prospector",
+          "difficulty": "easiest",
+          "area": "West"
+        },
+        {
+          "name": "Roundabout (U)",
+          "difficulty": "easiest",
+          "area": "West"
+        },
+        {
+          "name": "Scooter",
+          "difficulty": "easiest",
+          "area": "West"
+        },
+        {
+          "name": "Timber Road",
+          "difficulty": "easiest",
+          "area": "West"
+        },
+        {
+          "name": "Bittersweet (L)",
+          "difficulty": "Blue",
+          "area": "Center"
+        },
+        {
+          "name": "Collage (L)",
+          "difficulty": "Blue",
+          "area": "Center"
+        },
+        {
+          "name": "Collage (U)",
+          "difficulty": "Blue",
+          "area": "Center"
+        },
+        {
+          "name": "Coppertone",
+          "difficulty": "easiest",
+          "area": "Center"
+        },
+        {
+          "name": "Leap Frog (U)",
+          "difficulty": "easiest",
+          "area": "Center"
+        },
+        {
+          "name": "See and Ski",
+          "difficulty": "easiest",
+          "area": "Center"
+        }
+      ]
     },
     "lifts": {
       "available": true,
       "yesterday": {
-        "date": "2026-02-02",
+        "date": "2026-02-01",
         "avgWaitTime": 0,
         "maxWaitTime": 0,
         "totalLiftsTracked": 23,
         "busiest": []
       }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-02-02",
+        "high_f": null,
+        "low_f": 9,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-02-03",
+          "high_f": 21,
+          "low_f": 11,
+          "description": "Windy",
+          "snowfall_day_inches": 2,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 2
+        },
+        {
+          "date": "2026-02-04",
+          "high_f": 29,
+          "low_f": 14,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-05",
+          "high_f": 37,
+          "low_f": 19,
+          "description": "Sunny",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-02-03",
+        "high_f": 21,
+        "low_f": 11,
+        "description": "Windy",
+        "snowfall_day_inches": 2,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 2
+      }
     }
   },
   "computedInsights": {
     "flags": {
-      "hasNewTrails": false,
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [],
-    "trends": [],
-    "recommendations": []
+    "alerts": [
+      "1 new trail opened today",
+      "1 trail freshly groomed"
+    ],
+    "trends": [
+      "1 more trail open than yesterday",
+      "2\" snow expected Tuesday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Home Run - perfect for intermediate skiers"
+    ]
   },
-  "morningBrief": null,
+  "morningBrief": {
+    "headline": "Today's Conditions",
+    "body": "133/202 trails spinning, 44 freshly groomed. Clear. 1 new trail opened today. Light snow possible in the forecast.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_micro",
+          "category": "terrain",
+          "priority": 45,
+          "usedFor": "body"
+        },
+        {
+          "id": "forecast_flurries",
+          "category": "weather",
+          "priority": 30,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "fallback",
+        "variationIndex": 1,
+        "totalVariations": 7,
+        "usedWeekendVariation": false,
+        "previousHeadline": "Mountain Conditions Update"
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
   "errors": []
 }

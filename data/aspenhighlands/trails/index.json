@@ -340,9 +340,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 85,
-      "currentStreak": 16,
-      "longestStreak": 16
+      "groomingPercentage": 84,
+      "currentStreak": 15,
+      "longestStreak": 15
     },
     {
       "name": "Jerome Bowl",
@@ -362,8 +362,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 82,
-      "currentStreak": 8,
+      "groomingPercentage": 81,
+      "currentStreak": 7,
       "longestStreak": 9
     },
     {
@@ -373,7 +373,7 @@
       "difficulty": "Black",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 18,
+      "groomingPercentage": 19,
       "currentStreak": 0,
       "longestStreak": 2
     },
@@ -418,8 +418,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 88,
-      "currentStreak": 18,
-      "longestStreak": 18
+      "currentStreak": 17,
+      "longestStreak": 17
     },
     {
       "name": "Upper Jerome",
@@ -429,8 +429,8 @@
       "isGroomedToday": true,
       "isOpen": true,
       "groomingPercentage": 88,
-      "currentStreak": 18,
-      "longestStreak": 18
+      "currentStreak": 17,
+      "longestStreak": 17
     },
     {
       "name": "Apple Strudel",
@@ -439,7 +439,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 52,
+      "groomingPercentage": 53,
       "currentStreak": 0,
       "longestStreak": 7
     },
@@ -450,9 +450,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 58,
-      "currentStreak": 5,
-      "longestStreak": 5
+      "groomingPercentage": 56,
+      "currentStreak": 4,
+      "longestStreak": 4
     },
     {
       "name": "Memory Lane",
@@ -505,8 +505,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 85,
-      "currentStreak": 5,
+      "groomingPercentage": 84,
+      "currentStreak": 4,
       "longestStreak": 12
     },
     {
@@ -516,8 +516,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 79,
-      "currentStreak": 5,
+      "groomingPercentage": 78,
+      "currentStreak": 4,
       "longestStreak": 9
     },
     {
@@ -527,8 +527,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 79,
-      "currentStreak": 5,
+      "groomingPercentage": 78,
+      "currentStreak": 4,
       "longestStreak": 8
     },
     {
@@ -538,8 +538,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 52,
-      "currentStreak": 2,
+      "groomingPercentage": 50,
+      "currentStreak": 1,
       "longestStreak": 4
     },
     {
@@ -549,8 +549,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 64,
-      "currentStreak": 5,
+      "groomingPercentage": 63,
+      "currentStreak": 4,
       "longestStreak": 5
     },
     {
@@ -626,8 +626,8 @@
       "difficulty": "Black",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 45,
-      "currentStreak": 2,
+      "groomingPercentage": 44,
+      "currentStreak": 1,
       "longestStreak": 3
     },
     {
@@ -956,8 +956,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 18,
-      "currentStreak": 2,
+      "groomingPercentage": 16,
+      "currentStreak": 1,
       "longestStreak": 2
     },
     {
@@ -978,7 +978,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 33,
+      "groomingPercentage": 34,
       "currentStreak": 0,
       "longestStreak": 2
     },
@@ -1055,7 +1055,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 33,
+      "groomingPercentage": 34,
       "currentStreak": 0,
       "longestStreak": 2
     },
@@ -1077,7 +1077,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 18,
+      "groomingPercentage": 19,
       "currentStreak": 0,
       "longestStreak": 1
     },
@@ -1088,7 +1088,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 33,
+      "groomingPercentage": 34,
       "currentStreak": 0,
       "longestStreak": 2
     },
@@ -1143,9 +1143,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 76,
-      "currentStreak": 11,
-      "longestStreak": 11
+      "groomingPercentage": 75,
+      "currentStreak": 10,
+      "longestStreak": 10
     },
     {
       "name": "Deane's",
@@ -1165,7 +1165,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 12,
+      "groomingPercentage": 13,
       "currentStreak": 0,
       "longestStreak": 1
     },
@@ -1198,8 +1198,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 45,
-      "currentStreak": 2,
+      "groomingPercentage": 44,
+      "currentStreak": 1,
       "longestStreak": 4
     },
     {
@@ -1209,8 +1209,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 33,
-      "currentStreak": 2,
+      "groomingPercentage": 31,
+      "currentStreak": 1,
       "longestStreak": 3
     },
     {
@@ -1220,9 +1220,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 73,
-      "currentStreak": 16,
-      "longestStreak": 16
+      "groomingPercentage": 72,
+      "currentStreak": 15,
+      "longestStreak": 15
     },
     {
       "name": "I-70",
@@ -1253,7 +1253,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 24,
+      "groomingPercentage": 25,
       "currentStreak": 0,
       "longestStreak": 1
     },
@@ -1275,8 +1275,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 45,
-      "currentStreak": 2,
+      "groomingPercentage": 44,
+      "currentStreak": 1,
       "longestStreak": 5
     },
     {
@@ -1308,8 +1308,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 58,
-      "currentStreak": 4,
+      "groomingPercentage": 56,
+      "currentStreak": 3,
       "longestStreak": 7
     },
     {
@@ -1330,9 +1330,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 58,
-      "currentStreak": 5,
-      "longestStreak": 5
+      "groomingPercentage": 56,
+      "currentStreak": 4,
+      "longestStreak": 4
     },
     {
       "name": "The Wall",
@@ -1363,8 +1363,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 27,
-      "currentStreak": 2,
+      "groomingPercentage": 25,
+      "currentStreak": 1,
       "longestStreak": 2
     },
     {
@@ -1385,10 +1385,10 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 52,
+      "groomingPercentage": 53,
       "currentStreak": 0,
       "longestStreak": 5
     }
   ],
-  "lastUpdated": "2026-02-03T07:17:14.768Z"
+  "lastUpdated": "2026-02-03T06:15:11.086Z"
 }

@@ -1,8 +1,8 @@
 {
   "resort": "lakelouise",
   "resortName": "Lake Louise",
-  "date": "2026-02-03",
-  "generated": "2026-02-03T07:04:21.636Z",
+  "date": "2026-02-02",
+  "generated": "2026-02-03T06:03:44.398Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0.8,
@@ -29,22 +29,53 @@
         },
         "groomedTrails": {
           "today": 32,
-          "yesterday": 32,
-          "delta": 0
+          "yesterday": 38,
+          "delta": -6
         },
         "totalTrails": 170
       },
       "newlyOpened": [],
       "newlyClosed": [],
       "newlyGroomed": [],
-      "ungroomed": []
+      "ungroomed": [
+        {
+          "name": "Men's Downhill",
+          "difficulty": "Black",
+          "area": "Front Side"
+        },
+        {
+          "name": "Jerry's Jungle",
+          "difficulty": "Green",
+          "area": "Front Side"
+        },
+        {
+          "name": "Bunchberry",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        },
+        {
+          "name": "Charlie's Choice",
+          "difficulty": "Blue",
+          "area": "Front Side"
+        },
+        {
+          "name": "Larch Poma",
+          "difficulty": "Blue",
+          "area": "Larch"
+        },
+        {
+          "name": "Merlin",
+          "difficulty": "Blue",
+          "area": "Richardson's Ridge"
+        }
+      ]
     },
     "lifts": {
       "available": false
     },
     "forecast": {
       "today": {
-        "date": "2026-02-03",
+        "date": "2026-02-02",
         "high_f": 32,
         "low_f": 32,
         "high_c": 0,
@@ -55,7 +86,7 @@
       },
       "outlook": [
         {
-          "date": "2026-02-04T07:04:21.635Z",
+          "date": "2026-02-04T06:03:44.397Z",
           "high_f": 32,
           "low_f": 32,
           "high_c": 0,
@@ -66,7 +97,7 @@
           "snowfall_expected": 0
         },
         {
-          "date": "2026-02-05T07:04:21.635Z",
+          "date": "2026-02-05T06:03:44.397Z",
           "high_f": 32,
           "low_f": 32,
           "high_c": 0,
@@ -77,7 +108,7 @@
           "snowfall_expected": 0
         },
         {
-          "date": "2026-02-06T07:04:21.635Z",
+          "date": "2026-02-06T06:03:44.397Z",
           "high_f": 32,
           "low_f": 32,
           "high_c": 0,
@@ -89,7 +120,7 @@
         }
       ],
       "tomorrow": {
-        "date": "2026-02-04T07:04:21.635Z",
+        "date": "2026-02-04T06:03:44.397Z",
         "high_f": 32,
         "low_f": 32,
         "high_c": 0,
@@ -113,8 +144,8 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Rain at Base, Snow Up Top",
-    "body": "170 of 170 trails are open with 32 groomed. Cloud/Sun/Mixed with a high of 32°F. Nearly full mountain access with 170 of 170 trails spinning. Mixed precipitation expected. Rain at base, snow up top. Dress in layers.",
+    "headline": "Variable Conditions",
+    "body": "170 trails open, 32 groomed. Cloud/Sun/Mixed, high of 32°. Peak terrain status: almost everything is available today. It's going to be a mixed bag today. Expect rain below and snow above.",
     "debug": {
       "firedRules": [
         {
@@ -142,15 +173,15 @@
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 4,
+      "totalRulesFired": 3,
       "headlineSelection": {
         "condition": "weather_mixed",
-        "variationIndex": 1,
+        "variationIndex": 2,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Variable Conditions"
+        "previousHeadline": "Mother Nature Can't Decide"
       },
-      "dayOfWeek": "Tuesday"
+      "dayOfWeek": "Monday"
     }
   },
   "errors": []

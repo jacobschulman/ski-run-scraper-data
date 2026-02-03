@@ -10,8 +10,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 42,
-      "currentStreak": 3,
+      "groomingPercentage": 41,
+      "currentStreak": 2,
       "longestStreak": 6
     },
     {
@@ -21,8 +21,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 24,
-      "currentStreak": 2,
+      "groomingPercentage": 22,
+      "currentStreak": 1,
       "longestStreak": 2
     },
     {
@@ -32,8 +32,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 67,
-      "currentStreak": 3,
+      "groomingPercentage": 66,
+      "currentStreak": 2,
       "longestStreak": 6
     },
     {
@@ -54,8 +54,8 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 45,
-      "currentStreak": 3,
+      "groomingPercentage": 44,
+      "currentStreak": 2,
       "longestStreak": 6
     },
     {
@@ -65,8 +65,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 67,
-      "currentStreak": 3,
+      "groomingPercentage": 66,
+      "currentStreak": 2,
       "longestStreak": 6
     },
     {
@@ -87,8 +87,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 67,
-      "currentStreak": 3,
+      "groomingPercentage": 66,
+      "currentStreak": 2,
       "longestStreak": 6
     },
     {
@@ -98,9 +98,9 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 12,
-      "currentStreak": 2,
-      "longestStreak": 2
+      "groomingPercentage": 9,
+      "currentStreak": 1,
+      "longestStreak": 1
     },
     {
       "name": "Northeast Passage",
@@ -120,8 +120,8 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 64,
-      "currentStreak": 3,
+      "groomingPercentage": 63,
+      "currentStreak": 2,
       "longestStreak": 6
     },
     {
@@ -131,8 +131,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 52,
-      "currentStreak": 3,
+      "groomingPercentage": 50,
+      "currentStreak": 2,
       "longestStreak": 6
     },
     {
@@ -142,7 +142,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 42,
+      "groomingPercentage": 44,
       "currentStreak": 0,
       "longestStreak": 6
     },
@@ -175,7 +175,7 @@
       "difficulty": "TerrainPark",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 15,
+      "groomingPercentage": 16,
       "currentStreak": 0,
       "longestStreak": 2
     },
@@ -197,9 +197,9 @@
       "difficulty": "TerrainPark",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 24,
-      "currentStreak": 3,
-      "longestStreak": 3
+      "groomingPercentage": 22,
+      "currentStreak": 2,
+      "longestStreak": 2
     },
     {
       "name": "Mini Pipe",
@@ -208,9 +208,9 @@
       "difficulty": "TerrainPark",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 24,
-      "currentStreak": 3,
-      "longestStreak": 3
+      "groomingPercentage": 22,
+      "currentStreak": 2,
+      "longestStreak": 2
     },
     {
       "name": "Panda Park",
@@ -230,9 +230,9 @@
       "difficulty": "TerrainPark",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 24,
-      "currentStreak": 3,
-      "longestStreak": 3
+      "groomingPercentage": 22,
+      "currentStreak": 2,
+      "longestStreak": 2
     },
     {
       "name": "Spruce Face",
@@ -263,9 +263,9 @@
       "difficulty": "TerrainPark",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 21,
-      "currentStreak": 3,
-      "longestStreak": 3
+      "groomingPercentage": 19,
+      "currentStreak": 2,
+      "longestStreak": 2
     },
     {
       "name": "Tiehack Snow Cross",
@@ -285,9 +285,9 @@
       "difficulty": "TerrainPark",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 24,
-      "currentStreak": 3,
-      "longestStreak": 3
+      "groomingPercentage": 22,
+      "currentStreak": 2,
+      "longestStreak": 2
     },
     {
       "name": "Buckskin",
@@ -296,7 +296,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 21,
+      "groomingPercentage": 22,
       "currentStreak": 0,
       "longestStreak": 4
     },
@@ -307,8 +307,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 67,
-      "currentStreak": 3,
+      "groomingPercentage": 66,
+      "currentStreak": 2,
       "longestStreak": 6
     },
     {
@@ -318,7 +318,7 @@
       "difficulty": "Black",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 12,
+      "groomingPercentage": 13,
       "currentStreak": 0,
       "longestStreak": 1
     },
@@ -329,7 +329,7 @@
       "difficulty": "Black",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 52,
+      "groomingPercentage": 53,
       "currentStreak": 0,
       "longestStreak": 6
     },
@@ -340,7 +340,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 18,
+      "groomingPercentage": 19,
       "currentStreak": 0,
       "longestStreak": 5
     },
@@ -362,7 +362,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 21,
+      "groomingPercentage": 22,
       "currentStreak": 0,
       "longestStreak": 2
     },
@@ -373,7 +373,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 12,
+      "groomingPercentage": 13,
       "currentStreak": 0,
       "longestStreak": 2
     },
@@ -384,7 +384,7 @@
       "difficulty": "Black",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 24,
+      "groomingPercentage": 25,
       "currentStreak": 0,
       "longestStreak": 6
     },
@@ -395,7 +395,7 @@
       "difficulty": "Black",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 15,
+      "groomingPercentage": 16,
       "currentStreak": 0,
       "longestStreak": 3
     },
@@ -406,7 +406,7 @@
       "difficulty": "Blue",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 36,
+      "groomingPercentage": 38,
       "currentStreak": 0,
       "longestStreak": 4
     },
@@ -417,7 +417,7 @@
       "difficulty": "Black",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 30,
+      "groomingPercentage": 31,
       "currentStreak": 0,
       "longestStreak": 5
     },
@@ -472,8 +472,8 @@
       "difficulty": "Blue",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 42,
-      "currentStreak": 3,
+      "groomingPercentage": 41,
+      "currentStreak": 2,
       "longestStreak": 6
     },
     {
@@ -483,7 +483,7 @@
       "difficulty": "Green",
       "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 21,
+      "groomingPercentage": 22,
       "currentStreak": 0,
       "longestStreak": 5
     },
@@ -505,8 +505,8 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 55,
-      "currentStreak": 3,
+      "groomingPercentage": 53,
+      "currentStreak": 2,
       "longestStreak": 6
     },
     {
@@ -549,8 +549,8 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 52,
-      "currentStreak": 3,
+      "groomingPercentage": 50,
+      "currentStreak": 2,
       "longestStreak": 6
     },
     {
@@ -560,10 +560,10 @@
       "difficulty": "Green",
       "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 52,
-      "currentStreak": 3,
+      "groomingPercentage": 50,
+      "currentStreak": 2,
       "longestStreak": 6
     }
   ],
-  "lastUpdated": "2026-02-03T07:17:15.070Z"
+  "lastUpdated": "2026-02-03T06:15:11.382Z"
 }

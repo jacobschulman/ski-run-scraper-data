@@ -1,15 +1,31 @@
 {
   "resort": "breckenridge",
   "resortName": "Breckenridge",
-  "date": "2026-02-03",
-  "generated": "2026-02-03T07:03:56.846Z",
+  "date": "2026-02-02",
+  "generated": "2026-02-02T17:48:31.932Z",
   "rawData": {
+    "snow": {
+      "overnight_inches": 0,
+      "overnight_cm": 0,
+      "24hour_inches": 0,
+      "24hour_cm": 0,
+      "48hour_inches": 0,
+      "48hour_cm": 0,
+      "7day_inches": 2,
+      "7day_cm": 5,
+      "season_total_inches": 80,
+      "season_total_cm": 203,
+      "conditions": {
+        "today": "Variable",
+        "yesterday": "Variable"
+      }
+    },
     "terrain": {
       "stats": {
         "openTrails": {
           "today": 123,
-          "yesterday": 123,
-          "delta": 0
+          "yesterday": 119,
+          "delta": 4
         },
         "groomedTrails": {
           "today": 49,
@@ -18,7 +34,28 @@
         },
         "totalTrails": 193
       },
-      "newlyOpened": [],
+      "newlyOpened": [
+        {
+          "name": "Double Barrel",
+          "difficulty": "Black",
+          "area": "Back Bowls"
+        },
+        {
+          "name": "Way Out",
+          "difficulty": "Black",
+          "area": "Back Bowls"
+        },
+        {
+          "name": "The Burn",
+          "difficulty": "Black",
+          "area": "Peak 10"
+        },
+        {
+          "name": "American",
+          "difficulty": "TerrainPark",
+          "area": "Peak 9"
+        }
+      ],
       "newlyClosed": [],
       "newlyGroomed": [],
       "ungroomed": []
@@ -26,60 +63,164 @@
     "lifts": {
       "available": true,
       "yesterday": {
-        "date": "2026-02-02",
-        "avgWaitTime": 3.5,
-        "maxWaitTime": 28,
+        "date": "2026-02-01",
+        "avgWaitTime": 2.9,
+        "maxWaitTime": 6,
         "totalLiftsTracked": 35,
         "busiest": [
           {
+            "name": "Beaver Run SuperChair",
+            "avgWait": 6,
+            "peakWait": 6,
+            "type": "quad",
+            "mountain": "Peak 9"
+          },
+          {
+            "name": "Five SuperChair",
+            "avgWait": 5,
+            "peakWait": 5,
+            "type": "quad",
+            "mountain": "Peak 8"
+          },
+          {
+            "name": "Rip's Ride",
+            "avgWait": 4,
+            "peakWait": 4,
+            "type": "quad",
+            "mountain": "Peak 8"
+          },
+          {
             "name": "Mercury SuperChair",
-            "avgWait": 6.8,
-            "peakWait": 28,
-            "type": "Quad",
+            "avgWait": 4,
+            "peakWait": 4,
+            "type": "quad",
             "mountain": "Peak 9"
           },
           {
             "name": "Quicksilver SuperChair",
-            "avgWait": 6.8,
-            "peakWait": 11,
-            "type": "Six Pack",
+            "avgWait": 4,
+            "peakWait": 4,
+            "type": "six",
             "mountain": "Peak 9"
-          },
-          {
-            "name": "Beaver Run SuperChair",
-            "avgWait": 6.2,
-            "peakWait": 11,
-            "type": "Quad",
-            "mountain": "Peak 9"
-          },
-          {
-            "name": "E-Chair",
-            "avgWait": 5.3,
-            "peakWait": 6,
-            "type": "Double",
-            "mountain": "Peak 9"
-          },
-          {
-            "name": "Rip's Ride",
-            "avgWait": 3.7,
-            "peakWait": 7,
-            "type": "Quad",
-            "mountain": "Peak 8"
           }
         ]
+      }
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-02-02",
+        "high_f": 34,
+        "low_f": 12,
+        "high_c": 1,
+        "low_c": -11,
+        "description": "Clear",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-02-03T07:00:00Z",
+          "high_f": 27,
+          "low_f": 12,
+          "high_c": -3,
+          "low_c": -12,
+          "description": "Mostly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-04T07:00:00Z",
+          "high_f": 30,
+          "low_f": 13,
+          "high_c": -1,
+          "low_c": -11,
+          "description": "Mostly Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-05T07:00:00Z",
+          "high_f": 40,
+          "low_f": 15,
+          "high_c": 4,
+          "low_c": -10,
+          "description": "Clear",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-02-03T07:00:00Z",
+        "high_f": 27,
+        "low_f": 12,
+        "high_c": -3,
+        "low_c": -12,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
       }
     }
   },
   "computedInsights": {
     "flags": {
-      "hasNewTrails": false,
+      "hasFreshSnow": false,
+      "isPowderDay": false,
+      "hasNewTrails": true,
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [],
-    "trends": [],
+    "alerts": [
+      "4 new trails opened today"
+    ],
+    "trends": [
+      "4 more trails open than yesterday"
+    ],
     "recommendations": []
   },
-  "morningBrief": null,
+  "morningBrief": {
+    "headline": "Patrol Opened 4 More",
+    "body": "123/193 trails spinning, 49 freshly groomed. 34° and Clear. 4 more trails opened today, expanding your options. Lift lines were mellow yesterday. Expect a similar vibe today.",
+    "debug": {
+      "firedRules": [
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "headline"
+        },
+        {
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
+          "usedFor": "body"
+        },
+        {
+          "id": "terrain_few",
+          "category": "terrain",
+          "priority": 60,
+          "usedFor": "body"
+        },
+        {
+          "id": "lift_mellow",
+          "category": "lifts",
+          "priority": 50,
+          "usedFor": "body"
+        }
+      ],
+      "totalRulesFired": 3,
+      "headlineSelection": {
+        "condition": "terrain_few",
+        "variationIndex": 2,
+        "totalVariations": 5,
+        "usedWeekendVariation": false,
+        "previousHeadline": null
+      },
+      "dayOfWeek": "Monday"
+    }
+  },
   "errors": []
 }

@@ -1,10 +1,10 @@
 {
   "ResortId": "banff",
-  "Date": "2026-02-03T07:04:21.588Z",
+  "Date": "2026-02-03T06:03:44.276Z",
   "provider": "canadian-big3",
   "apiProvider": "hybrid-skibanff-intermaps",
-  "scrapedAt": "2026-02-03T07:04:21.588Z",
-  "date": "2026-02-03",
+  "scrapedAt": "2026-02-03T06:03:44.276Z",
+  "date": "2026-02-02",
   "Lifts": [
     {
       "Name": "Magic Carpet 2",

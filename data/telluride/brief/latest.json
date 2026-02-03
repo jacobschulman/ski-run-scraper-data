@@ -1,27 +1,120 @@
 {
   "resort": "telluride",
   "resortName": "Telluride",
-  "date": "2026-02-03",
-  "generated": "2026-02-03T07:03:56.856Z",
+  "date": "2026-02-02",
+  "generated": "2026-02-02T17:48:31.958Z",
   "rawData": {
     "terrain": {
       "stats": {
         "openTrails": {
           "today": 129,
-          "yesterday": 129,
-          "delta": 0
+          "yesterday": 127,
+          "delta": 2
         },
         "groomedTrails": {
           "today": 46,
-          "yesterday": 46,
-          "delta": 0
+          "yesterday": 54,
+          "delta": -8
         },
         "totalTrails": 157
       },
-      "newlyOpened": [],
+      "newlyOpened": [
+        {
+          "name": "North Chute",
+          "difficulty": "",
+          "area": "Lift 7"
+        },
+        {
+          "name": "Lookout – Upper",
+          "difficulty": "Blue",
+          "area": "Plunge Lift"
+        }
+      ],
       "newlyClosed": [],
-      "newlyGroomed": [],
-      "ungroomed": []
+      "newlyGroomed": [
+        {
+          "name": "Lookout – Upper",
+          "difficulty": "Blue",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Marmot",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Lower Galloping Goose (Middle)",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Magnolia",
+          "difficulty": "Blue",
+          "area": "Prospect Express"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Lower Ophir Loop",
+          "difficulty": "Blue",
+          "area": "Polar Queen Express"
+        },
+        {
+          "name": "Last Chance",
+          "difficulty": "Blue",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Bushwacker – Lower",
+          "difficulty": "",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Plunge",
+          "difficulty": "",
+          "area": "Plunge Lift"
+        },
+        {
+          "name": "Lower Galloping Goose (Upper)",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Enchanted Forest",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Bridges",
+          "difficulty": "Green",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "Sundance",
+          "difficulty": "Blue",
+          "area": "Sunshine Express"
+        },
+        {
+          "name": "May Girl",
+          "difficulty": "Green",
+          "area": "Prospect Express"
+        },
+        {
+          "name": "Sandia",
+          "difficulty": "Blue",
+          "area": "Prospect Express"
+        },
+        {
+          "name": "See Forever – Upper",
+          "difficulty": "Blue",
+          "area": "Revelation Lift"
+        },
+        {
+          "name": "Majestic",
+          "difficulty": "",
+          "area": "Revelation Lift"
+        }
+      ]
     },
     "lifts": {
       "available": false
@@ -29,12 +122,21 @@
   },
   "computedInsights": {
     "flags": {
-      "hasNewTrails": false,
+      "hasNewTrails": true,
       "significantGroomingIncrease": false
     },
-    "alerts": [],
-    "trends": [],
-    "recommendations": []
+    "alerts": [
+      "2 new trails opened today",
+      "4 trails freshly groomed"
+    ],
+    "trends": [
+      "2 more trails open than yesterday"
+    ],
+    "recommendations": [
+      "Fresh corduroy on Lookout – Upper - perfect for intermediate skiers",
+      "Fresh corduroy on Marmot - perfect for intermediate skiers",
+      "Fresh corduroy on Lower Galloping Goose (Middle) - great for beginners"
+    ]
   },
   "morningBrief": null,
   "errors": []

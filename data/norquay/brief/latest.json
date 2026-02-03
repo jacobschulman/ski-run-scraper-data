@@ -1,8 +1,8 @@
 {
   "resort": "norquay",
   "resortName": "Mt Norquay",
-  "date": "2026-02-03",
-  "generated": "2026-02-03T07:04:28.391Z",
+  "date": "2026-02-02",
+  "generated": "2026-02-03T06:03:53.183Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -44,7 +44,7 @@
     },
     "forecast": {
       "today": {
-        "date": "2026-02-03",
+        "date": "2026-02-02",
         "high_f": 35.6,
         "low_f": 35.6,
         "high_c": 2,
@@ -68,14 +68,14 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Midweek Bliss",
-    "body": "72 trails open, 30 groomed. Unknown, high of 35.6°. 72/81 trails open, 30 groomed. 35.6° and Unknown.",
+    "headline": "Mountain Conditions Update",
+    "body": "72/81 trails spinning, 30 freshly groomed. 35.6° and Unknown. 72/81 trails open, 30 groomed. 35.6° and Unknown.",
     "debug": {
       "firedRules": [
         {
-          "id": "time_midweek_mellow",
-          "category": "time",
-          "priority": 45,
+          "id": "fallback_headline",
+          "category": "snow",
+          "priority": 10,
           "usedFor": "headline"
         },
         {
@@ -91,15 +91,15 @@
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 3,
+      "totalRulesFired": 2,
       "headlineSelection": {
-        "condition": "midweek_mellow",
-        "variationIndex": 2,
-        "totalVariations": 5,
+        "condition": "fallback",
+        "variationIndex": 1,
+        "totalVariations": 7,
         "usedWeekendVariation": false,
-        "previousHeadline": "Mountain Conditions Update"
+        "previousHeadline": "Today's Conditions"
       },
-      "dayOfWeek": "Tuesday"
+      "dayOfWeek": "Monday"
     }
   },
   "errors": []

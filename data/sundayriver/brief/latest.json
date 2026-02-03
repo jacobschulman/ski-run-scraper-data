@@ -2,7 +2,7 @@
   "resort": "sundayriver",
   "resortName": "Sunday River",
   "date": "2026-02-03",
-  "generated": "2026-02-03T13:26:59.732Z",
+  "generated": "2026-02-03T11:46:37.666Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -28,21 +28,15 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 80,
+          "today": 79,
           "yesterday": 79,
-          "delta": 1
+          "delta": 0
         },
         "totalTrails": 144
       },
       "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [
-        {
-          "name": "Polaris",
-          "difficulty": "novice",
-          "area": "NORTH PEAK"
-        }
-      ],
+      "newlyGroomed": [],
       "ungroomed": []
     },
     "lifts": {
@@ -112,16 +106,12 @@
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [
-      "1 trail freshly groomed"
-    ],
+    "alerts": [],
     "trends": [
       "Great week for snow - 22\" in last 7 days",
       "1\" snow expected Wednesday"
     ],
-    "recommendations": [
-      "Fresh corduroy on Polaris - all skill levels"
-    ]
+    "recommendations": []
   },
   "morningBrief": {
     "headline": "The Base Is Holding Up",

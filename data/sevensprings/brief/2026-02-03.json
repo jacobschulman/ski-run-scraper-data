@@ -2,7 +2,7 @@
   "resort": "sevensprings",
   "resortName": "Seven Springs",
   "date": "2026-02-03",
-  "generated": "2026-02-03T13:26:51.046Z",
+  "generated": "2026-02-03T11:46:28.738Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -125,7 +125,7 @@
     ]
   },
   "morningBrief": {
-    "headline": "The Mountain Got a Touch-Up",
+    "headline": "Overnight Refresh",
     "body": "A light refresh of 1\" overnight makes the groomers smoother.",
     "debug": {
       "firedRules": [
@@ -148,7 +148,7 @@
         "variationIndex": 3,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Overnight Refresh"
+        "previousHeadline": "The Mountain Got a Touch-Up"
       },
       "dayOfWeek": "Tuesday"
     }

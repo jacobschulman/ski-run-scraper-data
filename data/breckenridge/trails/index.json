@@ -580,10 +580,10 @@
       "slug": "reverie",
       "area": "Peak 6",
       "difficulty": "Blue",
-      "isGroomedToday": true,
+      "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 15,
-      "currentStreak": 1,
+      "groomingPercentage": 14,
+      "currentStreak": 0,
       "longestStreak": 11
     },
     {
@@ -2116,5 +2116,5 @@
       "longestStreak": 0
     }
   ],
-  "lastUpdated": "2026-02-03T13:40:06.649Z"
+  "lastUpdated": "2026-02-03T11:58:35.874Z"
 }

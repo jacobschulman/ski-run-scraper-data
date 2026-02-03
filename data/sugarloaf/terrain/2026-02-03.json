@@ -1,6 +1,6 @@
 {
   "ResortId": "sugarloaf",
-  "Date": "2026-02-03T12:27:21Z",
+  "Date": "2026-02-03T11:25:10Z",
   "GroomingAreas": [
     {
       "Name": "Base Area",
@@ -118,8 +118,8 @@
         },
         {
           "Name": "Lower Narrow Gauge",
-          "Status": "Event",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "Difficulty": "Novice",
           "IsGroomed": true,
           "GroomingStatus": "Groomed",
@@ -142,8 +142,8 @@
         },
         {
           "Name": "Middle Narrow Gauge",
-          "Status": "Event",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "Difficulty": "Blue",
           "IsGroomed": true,
           "GroomingStatus": "Groomed",
@@ -788,8 +788,8 @@
         },
         {
           "Name": "Upper Narrow Gauge",
-          "Status": "Event",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "Difficulty": "Black",
           "IsGroomed": true,
           "GroomingStatus": "Groomed",

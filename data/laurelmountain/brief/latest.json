@@ -2,7 +2,7 @@
   "resort": "laurelmountain",
   "resortName": "Laurel Mountain",
   "date": "2026-02-03",
-  "generated": "2026-02-03T13:26:51.043Z",
+  "generated": "2026-02-03T11:46:28.736Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,14 +23,14 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 16,
+          "today": 19,
           "yesterday": 0,
-          "delta": 16
+          "delta": 19
         },
         "groomedTrails": {
-          "today": 14,
+          "today": 17,
           "yesterday": 0,
-          "delta": 14
+          "delta": 17
         },
         "totalTrails": 19
       },
@@ -61,6 +61,11 @@
           "area": "Laurel Mountain"
         },
         {
+          "name": "Innsbruck",
+          "difficulty": "Green",
+          "area": "Laurel Mountain"
+        },
+        {
           "name": "Last Chance",
           "difficulty": "Green",
           "area": "Laurel Mountain"
@@ -68,6 +73,11 @@
         {
           "name": "Laurel Run",
           "difficulty": "Black",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "Lincoln Highway",
+          "difficulty": "Blue",
           "area": "Laurel Mountain"
         },
         {
@@ -82,6 +92,11 @@
         },
         {
           "name": "Lynx",
+          "difficulty": "Green",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "Old Innsbruck",
           "difficulty": "Green",
           "area": "Laurel Mountain"
         },
@@ -190,16 +205,16 @@
       "significantGroomingIncrease": false
     },
     "alerts": [
-      "16 new trails opened today"
+      "19 new trails opened today"
     ],
     "trends": [
-      "16 more trails open than yesterday"
+      "19 more trails open than yesterday"
     ],
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Big Expansion Today",
-    "body": "16/19 trails spinning, 14 freshly groomed. 23° and Cloudy. Big expansion: 16 new trails opened up. More room to roam.",
+    "headline": "Major Terrain Drop: 19 Runs",
+    "body": "19/19 trails spinning, 17 freshly groomed. 23° and Cloudy. Big expansion: 19 new trails opened up. More room to roam.",
     "debug": {
       "firedRules": [
         {
@@ -221,13 +236,13 @@
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 3,
+      "totalRulesFired": 4,
       "headlineSelection": {
         "condition": "terrain_major",
         "variationIndex": 0,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Major Terrain Drop: {newTrailsCount} Runs"
+        "previousHeadline": "The Wait Continues"
       },
       "dayOfWeek": "Tuesday"
     }

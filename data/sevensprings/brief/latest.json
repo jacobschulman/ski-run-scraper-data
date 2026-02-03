@@ -2,7 +2,7 @@
   "resort": "sevensprings",
   "resortName": "Seven Springs",
   "date": "2026-02-03",
-  "generated": "2026-02-03T11:46:28.738Z",
+  "generated": "2026-02-03T10:55:36.689Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -28,21 +28,15 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 39,
+          "today": 38,
           "yesterday": 38,
-          "delta": 1
+          "delta": 0
         },
         "totalTrails": 52
       },
       "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [
-        {
-          "name": "Tyrol",
-          "difficulty": "Blue",
-          "area": "Front Face"
-        }
-      ],
+      "newlyGroomed": [],
       "ungroomed": []
     },
     "lifts": {
@@ -114,18 +108,14 @@
       "hasNewTrails": false,
       "significantGroomingIncrease": false
     },
-    "alerts": [
-      "1 trail freshly groomed"
-    ],
+    "alerts": [],
     "trends": [
       "Steady snowfall - 10\" in last 7 days"
     ],
-    "recommendations": [
-      "Fresh corduroy on Tyrol - perfect for intermediate skiers"
-    ]
+    "recommendations": []
   },
   "morningBrief": {
-    "headline": "Overnight Refresh",
+    "headline": "The Mountain Got a Touch-Up",
     "body": "A light refresh of 1\" overnight makes the groomers smoother.",
     "debug": {
       "firedRules": [
@@ -148,7 +138,7 @@
         "variationIndex": 3,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "The Mountain Got a Touch-Up"
+        "previousHeadline": "Fresh Coat on the Mountain"
       },
       "dayOfWeek": "Tuesday"
     }

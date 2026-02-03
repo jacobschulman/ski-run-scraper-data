@@ -2,7 +2,7 @@
   "resort": "killington",
   "resortName": "Killington",
   "date": "2026-02-03",
-  "generated": "2026-02-03T11:46:37.659Z",
+  "generated": "2026-02-03T10:55:43.681Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -28,26 +28,15 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 97,
+          "today": 95,
           "yesterday": 95,
-          "delta": 2
+          "delta": 0
         },
         "totalTrails": 222
       },
       "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [
-        {
-          "name": "Great Bear - Lower",
-          "difficulty": "Black",
-          "area": "Snowdon"
-        },
-        {
-          "name": "Great Bear - Upper",
-          "difficulty": "Blue",
-          "area": "Snowdon"
-        }
-      ],
+      "newlyGroomed": [],
       "ungroomed": []
     },
     "lifts": {
@@ -117,20 +106,15 @@
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [
-      "2 trails freshly groomed"
-    ],
+    "alerts": [],
     "trends": [
       "1\" snow expected Tuesday"
     ],
-    "recommendations": [
-      "Fresh corduroy on Great Bear - Lower - challenging for advanced skiers",
-      "Fresh corduroy on Great Bear - Upper - perfect for intermediate skiers"
-    ]
+    "recommendations": []
   },
   "morningBrief": {
     "headline": "Midweek Bliss",
-    "body": "177 trails open, 97 groomed. Clear, temperatures TBD. Light snow possible in the forecast.",
+    "body": "177 trails open, 95 groomed. Clear, temperatures TBD. Light snow possible in the forecast.",
     "debug": {
       "firedRules": [
         {

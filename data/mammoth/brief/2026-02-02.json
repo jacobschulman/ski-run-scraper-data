@@ -2,7 +2,7 @@
   "resort": "mammoth",
   "resortName": "Mammoth Mountain",
   "date": "2026-02-02",
-  "generated": "2026-02-03T06:03:34.817Z",
+  "generated": "2026-02-03T07:50:41.352Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -150,7 +150,7 @@
         "variationIndex": 5,
         "totalVariations": 7,
         "usedWeekendVariation": false,
-        "previousHeadline": "Your Daily Ski Report"
+        "previousHeadline": "Today at {resortName}"
       },
       "dayOfWeek": "Monday"
     }

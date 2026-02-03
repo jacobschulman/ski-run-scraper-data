@@ -2,14 +2,14 @@
   "resort": "telluride",
   "resortName": "Telluride",
   "date": "2026-02-03",
-  "generated": "2026-02-03T16:02:19.573Z",
+  "generated": "2026-02-03T15:03:06.745Z",
   "rawData": {
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 131,
+          "today": 129,
           "yesterday": 129,
-          "delta": 2
+          "delta": 0
         },
         "groomedTrails": {
           "today": 53,
@@ -18,18 +18,7 @@
         },
         "totalTrails": 157
       },
-      "newlyOpened": [
-        {
-          "name": "Sheridan Headwall",
-          "difficulty": "Blue",
-          "area": "Village Express"
-        },
-        {
-          "name": "Dihedral Face",
-          "difficulty": "",
-          "area": "Prospect Express (Hike-To Terrain)"
-        }
-      ],
+      "newlyOpened": [],
       "newlyClosed": [],
       "newlyGroomed": [
         {
@@ -107,16 +96,13 @@
   },
   "computedInsights": {
     "flags": {
-      "hasNewTrails": true,
+      "hasNewTrails": false,
       "significantGroomingIncrease": false
     },
     "alerts": [
-      "2 new trails opened today",
       "10 trails freshly groomed"
     ],
-    "trends": [
-      "2 more trails open than yesterday"
-    ],
+    "trends": [],
     "recommendations": [
       "Fresh corduroy on Telluride Trail – Upper (above Easy Out) - perfect for intermediate skiers",
       "Fresh corduroy on Last Chance - perfect for intermediate skiers",

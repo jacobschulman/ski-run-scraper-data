@@ -111,8 +111,8 @@
         },
         {
           "Name": "Sheridan Headwall",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "Difficulty": "Blue",
           "IsGroomed": false,
           "GroomingStatus": null
@@ -1061,8 +1061,8 @@
         },
         {
           "Name": "Dihedral Face",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "Difficulty": "",
           "IsGroomed": false,
           "GroomingStatus": null
@@ -1374,32 +1374,32 @@
     },
     {
       "Name": "Chondola",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Childrens Magic Carpet",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Adult Magic Carpet",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Village Express",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Polar Queen Express",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
@@ -1410,26 +1410,26 @@
     },
     {
       "Name": "Lift 7",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Oak Street Lift",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Plunge Lift",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Sunshine Express",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
@@ -1464,14 +1464,14 @@
     },
     {
       "Name": "North Meadows Carpet",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     }
   ],
   "ResortId": "telluride",
-  "Date": "2026-02-03T16:02:19.391Z",
+  "Date": "2026-02-03T15:03:06.487Z",
   "provider": "vail",
-  "scrapedAt": "2026-02-03T16:02:19.408Z",
-  "sourceLastUpdated": "2026-02-03T16:02:19.391Z"
+  "scrapedAt": "2026-02-03T15:03:06.504Z",
+  "sourceLastUpdated": "2026-02-03T15:03:06.487Z"
 }

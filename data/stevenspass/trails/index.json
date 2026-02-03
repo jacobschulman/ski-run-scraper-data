@@ -481,11 +481,11 @@
       "slug": "tye-creek",
       "area": "Cowboy Mountain",
       "difficulty": "Green",
-      "isGroomedToday": false,
+      "isGroomedToday": true,
       "isOpen": false,
-      "groomingPercentage": 14,
-      "currentStreak": 0,
-      "longestStreak": 1
+      "groomingPercentage": 17,
+      "currentStreak": 2,
+      "longestStreak": 2
     },
     {
       "name": "Walls Street",
@@ -631,5 +631,5 @@
       "longestStreak": 12
     }
   ],
-  "lastUpdated": "2026-02-03T16:13:25.539Z"
+  "lastUpdated": "2026-02-03T15:12:18.142Z"
 }

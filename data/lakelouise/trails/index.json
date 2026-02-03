@@ -1559,11 +1559,11 @@
       "slug": "lookout",
       "area": "Larch",
       "difficulty": "Green",
-      "isGroomedToday": true,
+      "isGroomedToday": false,
       "isOpen": true,
-      "groomingPercentage": 100,
-      "currentStreak": 20,
-      "longestStreak": 20
+      "groomingPercentage": 96,
+      "currentStreak": 0,
+      "longestStreak": 19
     },
     {
       "name": "Lookout Chutes",
@@ -1885,5 +1885,5 @@
       "longestStreak": 0
     }
   ],
-  "lastUpdated": "2026-02-03T16:13:47.041Z"
+  "lastUpdated": "2026-02-03T15:12:40.484Z"
 }

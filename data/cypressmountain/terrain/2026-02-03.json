@@ -1,6 +1,6 @@
 {
   "ResortId": "cypressmountain",
-  "Date": "2026-02-03T15:53:14Z",
+  "Date": "2026-02-03T03:56:41Z",
   "GroomingAreas": [
     {
       "Name": "Eagle Express",
@@ -43,8 +43,8 @@
         },
         {
           "Name": "Lower Fork",
-          "Status": "Closed",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "Difficulty": "Blue",
           "IsGroomed": false,
           "GroomingStatus": null,
@@ -529,8 +529,8 @@
         },
         {
           "Name": "3 Bears",
-          "Status": "Closed",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "Difficulty": "Blue",
           "IsGroomed": false,
           "GroomingStatus": null,
@@ -796,8 +796,8 @@
       "Trails": [
         {
           "Name": "Shuttle",
-          "Status": "Closed",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "Difficulty": "Novice",
           "IsGroomed": false,
           "GroomingStatus": null,
@@ -820,8 +820,8 @@
         },
         {
           "Name": "Hut Run",
-          "Status": "Closed",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "Difficulty": "Blue",
           "IsGroomed": false,
           "GroomingStatus": null,

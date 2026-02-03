@@ -2,7 +2,7 @@
   "resort": "kirkwood",
   "resortName": "Kirkwood",
   "date": "2026-02-03",
-  "generated": "2026-02-03T13:26:50.998Z",
+  "generated": "2026-02-03T16:02:19.556Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -194,7 +194,7 @@
         "variationIndex": 3,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Unseasonably Warm: {tempHigh}°"
+        "previousHeadline": "Mild Day Ahead"
       },
       "dayOfWeek": "Tuesday"
     }

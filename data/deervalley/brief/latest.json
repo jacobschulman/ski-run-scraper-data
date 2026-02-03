@@ -2,7 +2,7 @@
   "resort": "deervalley",
   "resortName": "Deer Valley",
   "date": "2026-02-03",
-  "generated": "2026-02-03T13:26:59.614Z",
+  "generated": "2026-02-03T16:02:27.773Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -28,9 +28,9 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 68,
+          "today": 67,
           "yesterday": 75,
-          "delta": -7
+          "delta": -8
         },
         "totalTrails": 227
       },
@@ -49,6 +49,11 @@
         }
       ],
       "ungroomed": [
+        {
+          "name": "Keno",
+          "difficulty": "Intermediate",
+          "area": "Bald Mountain"
+        },
         {
           "name": "All Right",
           "difficulty": "Intermediate",
@@ -184,7 +189,7 @@
   },
   "morningBrief": {
     "headline": "Quiet Days on the Hill",
-    "body": "The rundown: 148 trails open, 68 groomed. Clear with temps around temps TBD. 148/227 trails open, 68 groomed. Clear.",
+    "body": "The rundown: 148 trails open, 67 groomed. Clear with temps around temps TBD. 148/227 trails open, 67 groomed. Clear.",
     "debug": {
       "firedRules": [
         {

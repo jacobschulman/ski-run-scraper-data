@@ -1,6 +1,6 @@
 {
   "ResortId": "bigsky",
-  "Date": "2026-02-04T19:15:17Z",
+  "Date": "2026-02-04T18:00:02Z",
   "GroomingAreas": [
     {
       "Name": "Cascade Area",
@@ -210,8 +210,8 @@
         },
         {
           "Name": "Cache Trees",
-          "Status": "Closed",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "Difficulty": "Double Black",
           "IsGroomed": false,
           "GroomingStatus": null,
@@ -222,8 +222,8 @@
         },
         {
           "Name": "Little Gullies",
-          "Status": "Closed",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "Difficulty": "Double Black",
           "IsGroomed": false,
           "GroomingStatus": null,
@@ -258,8 +258,8 @@
         },
         {
           "Name": "LRT Traverse",
-          "Status": "Closed",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "Difficulty": "Double Black",
           "IsGroomed": false,
           "GroomingStatus": null,
@@ -294,8 +294,8 @@
         },
         {
           "Name": "Upper Pinnacles",
-          "Status": "Closed",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "Difficulty": "Double Black",
           "IsGroomed": false,
           "GroomingStatus": null,
@@ -306,8 +306,8 @@
         },
         {
           "Name": "Zucchini Patch",
-          "Status": "Closed",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "Difficulty": "Double Black",
           "IsGroomed": false,
           "GroomingStatus": null,

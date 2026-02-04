@@ -1,6 +1,6 @@
 {
   "ResortId": "sugarloaf",
-  "Date": "2026-02-04T19:08:40Z",
+  "Date": "2026-02-04T17:22:11Z",
   "GroomingAreas": [
     {
       "Name": "Base Area",
@@ -1737,8 +1737,8 @@
       "Lifts": [
         {
           "Name": "Timberline",
-          "Status": "On Hold",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "LiftType": "Chairlift",
           "WaitTime": null,
           "WaitTimeString": null,
@@ -2574,8 +2574,8 @@
     },
     {
       "Name": "Timberline",
-      "Status": "On Hold",
-      "IsOpen": false,
+      "Status": "Open",
+      "IsOpen": true,
       "LiftType": "Chairlift",
       "WaitTime": null,
       "WaitTimeString": null,

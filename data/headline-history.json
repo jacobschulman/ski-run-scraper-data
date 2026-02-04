@@ -504,10 +504,20 @@
     ]
   },
   "palisades": {
-    "lastHeadline": "Major Terrain Drop: {newTrailsCount} Runs",
+    "lastHeadline": "{newTrailsCount} New Options",
     "lastCondition": "terrain_major",
     "lastDate": "2026-02-04",
     "history": [
+      {
+        "date": "2026-02-04",
+        "condition": "terrain_major",
+        "headline": "{newTrailsCount} New Options"
+      },
+      {
+        "date": "2026-02-04",
+        "condition": "terrain_major",
+        "headline": "Significant Terrain Release"
+      },
       {
         "date": "2026-02-04",
         "condition": "terrain_major",
@@ -522,16 +532,6 @@
         "date": "2026-02-04",
         "condition": "terrain_major",
         "headline": "Major Terrain Drop: {newTrailsCount} Runs"
-      },
-      {
-        "date": "2026-02-04",
-        "condition": "midweek_mellow",
-        "headline": "Fewer Crowds, More Turns"
-      },
-      {
-        "date": "2026-02-04",
-        "condition": "midweek_mellow",
-        "headline": "Beat the Weekend Rush"
       },
       {
         "date": "2026-02-04",
@@ -693,13 +693,13 @@
       },
       {
         "date": "2026-02-04",
-        "condition": "midweek_mellow",
-        "headline": "Fewer Crowds, More Turns"
+        "condition": "terrain_expansion",
+        "headline": "New Runs Now Open"
       },
       {
         "date": "2026-02-04",
-        "condition": "midweek_mellow",
-        "headline": "Midweek Bliss"
+        "condition": "terrain_expansion",
+        "headline": "Terrain Expanding"
       },
       {
         "date": "2026-02-04",
@@ -1176,29 +1176,29 @@
     ]
   },
   "copper": {
-    "lastHeadline": "Quiet Days on the Hill",
-    "lastCondition": "midweek_mellow",
+    "lastHeadline": "More Variety Today",
+    "lastCondition": "terrain_few",
     "lastDate": "2026-02-04",
     "history": [
       {
         "date": "2026-02-04",
-        "condition": "midweek_mellow",
-        "headline": "Quiet Days on the Hill"
+        "condition": "terrain_few",
+        "headline": "More Variety Today"
       },
       {
         "date": "2026-02-04",
-        "condition": "midweek_mellow",
-        "headline": "Midweek Mountain Report"
+        "condition": "terrain_few",
+        "headline": "Terrain Update"
       },
       {
         "date": "2026-02-04",
-        "condition": "midweek_mellow",
-        "headline": "Quiet Days on the Hill"
+        "condition": "terrain_few",
+        "headline": "More Variety Today"
       },
       {
         "date": "2026-02-04",
-        "condition": "midweek_mellow",
-        "headline": "Midweek Mountain Report"
+        "condition": "terrain_few",
+        "headline": "Terrain Update"
       },
       {
         "date": "2026-02-04",
@@ -1465,7 +1465,7 @@
       {
         "date": "2026-02-04",
         "condition": "grooming_highlight",
-        "headline": "{groomedCount} {GroomedRunWord} Groomed Overnight"
+        "headline": "The Corduroy Is Calling"
       }
     ]
   },
@@ -1523,23 +1523,23 @@
       },
       {
         "date": "2026-02-04",
-        "condition": "midweek_mellow",
-        "headline": "Midweek Mountain Report"
+        "condition": "unseasonably_warm",
+        "headline": "Warm for Winter"
       },
       {
         "date": "2026-02-04",
-        "condition": "midweek_mellow",
-        "headline": "Quiet Days on the Hill"
+        "condition": "unseasonably_warm",
+        "headline": "Above Average Temps"
       },
       {
         "date": "2026-02-04",
-        "condition": "midweek_mellow",
-        "headline": "Midweek Mountain Report"
+        "condition": "unseasonably_warm",
+        "headline": "Warm for Winter"
       },
       {
         "date": "2026-02-04",
-        "condition": "midweek_mellow",
-        "headline": "Quiet Days on the Hill"
+        "condition": "unseasonably_warm",
+        "headline": "Above Average Temps"
       },
       {
         "date": "2026-02-04",

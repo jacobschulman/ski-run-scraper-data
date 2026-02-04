@@ -1,6 +1,6 @@
 {
   "date": "2026-02-04",
-  "generated": "2026-02-04T13:40:11.856Z",
+  "generated": "2026-02-04T16:12:47.117Z",
   "superlatives": {
     "snow_overnight_max": {
       "resort": "norquay",
@@ -54,7 +54,7 @@
       "resort": "banff",
       "name": "Banff Sunshine Village",
       "region": "Western Canada",
-      "value": 82.7
+      "value": 83.5
     },
     "base_depth_min": {
       "resort": "revelstoke",
@@ -66,7 +66,7 @@
       "resort": "bigsky",
       "name": "Big Sky",
       "region": "Wyoming/Montana",
-      "value": 269
+      "value": 267
     },
     "trails_open_count_min": {
       "resort": "snowcreek",
@@ -99,10 +99,10 @@
       "value": 1
     },
     "lifts_open_count_max": {
-      "resort": "copper",
-      "name": "Copper Mountain",
-      "region": "Colorado",
-      "value": 19
+      "resort": "bigsky",
+      "name": "Big Sky",
+      "region": "Wyoming/Montana",
+      "value": 30
     },
     "lifts_open_pct_max": {
       "resort": "norquay",
@@ -1446,6 +1446,12 @@
         "value": 2
       },
       {
+        "resort": "banff",
+        "name": "Banff Sunshine Village",
+        "region": "Western Canada",
+        "value": 1.2
+      },
+      {
         "resort": "parkcity",
         "name": "Park City",
         "region": "Utah",
@@ -1522,12 +1528,6 @@
         "name": "Buttermilk",
         "region": "Colorado",
         "value": 1
-      },
-      {
-        "resort": "banff",
-        "name": "Banff Sunshine Village",
-        "region": "Western Canada",
-        "value": 0.8
       },
       {
         "resort": "crestedbutte",
@@ -2077,7 +2077,7 @@
         "resort": "banff",
         "name": "Banff Sunshine Village",
         "region": "Western Canada",
-        "value": 82.7
+        "value": 83.5
       },
       {
         "resort": "whistlerblackcomb",
@@ -2469,7 +2469,7 @@
         "resort": "bigsky",
         "name": "Big Sky",
         "region": "Wyoming/Montana",
-        "value": 269
+        "value": 267
       },
       {
         "resort": "whistlerblackcomb",
@@ -2505,7 +2505,7 @@
         "resort": "killington",
         "name": "Killington",
         "region": "Vermont",
-        "value": 175
+        "value": 174
       },
       {
         "resort": "lakelouise",
@@ -2526,16 +2526,16 @@
         "value": 163
       },
       {
-        "resort": "deervalley",
-        "name": "Deer Valley",
-        "region": "Utah",
-        "value": 147
-      },
-      {
         "resort": "sugarloaf",
         "name": "Sugarloaf",
         "region": "New Hampshire/Maine",
         "value": 146
+      },
+      {
+        "resort": "deervalley",
+        "name": "Deer Valley",
+        "region": "Utah",
+        "value": 144
       },
       {
         "resort": "sundayriver",
@@ -2580,16 +2580,16 @@
         "value": 121
       },
       {
-        "resort": "okemo",
-        "name": "Okemo",
-        "region": "Vermont",
-        "value": 121
-      },
-      {
         "resort": "jacksonhole",
         "name": "Jackson Hole",
         "region": "Wyoming/Montana",
-        "value": 117
+        "value": 119
+      },
+      {
+        "resort": "okemo",
+        "name": "Okemo",
+        "region": "Vermont",
+        "value": 118
       },
       {
         "resort": "aspenmountain",
@@ -2601,7 +2601,7 @@
         "resort": "banff",
         "name": "Banff Sunshine Village",
         "region": "Western Canada",
-        "value": 115
+        "value": 114
       },
       {
         "resort": "sugarbush",
@@ -2626,6 +2626,12 @@
         "name": "Kirkwood",
         "region": "California",
         "value": 110
+      },
+      {
+        "resort": "aspenhighlands",
+        "name": "Aspen Highlands",
+        "region": "Colorado",
+        "value": 105
       },
       {
         "resort": "keystone",
@@ -2661,7 +2667,7 @@
         "resort": "mountsnow",
         "name": "Mount Snow",
         "region": "Vermont",
-        "value": 81
+        "value": 79
       },
       {
         "resort": "norquay",
@@ -2670,9 +2676,9 @@
         "value": 72
       },
       {
-        "resort": "aspenhighlands",
-        "name": "Aspen Highlands",
-        "region": "Colorado",
+        "resort": "attitash",
+        "name": "Attitash",
+        "region": "New Hampshire/Maine",
         "value": 64
       },
       {
@@ -2685,19 +2691,13 @@
         "resort": "hunter",
         "name": "Hunter Mountain",
         "region": "New York",
-        "value": 61
-      },
-      {
-        "resort": "attitash",
-        "name": "Attitash",
-        "region": "New Hampshire/Maine",
-        "value": 60
+        "value": 59
       },
       {
         "resort": "mountsunapee",
         "name": "Mount Sunapee",
         "region": "New Hampshire/Maine",
-        "value": 60
+        "value": 59
       },
       {
         "resort": "sevensprings",
@@ -2727,13 +2727,13 @@
         "resort": "crystal",
         "name": "Crystal Mountain",
         "region": "Pacific Northwest",
-        "value": 32
+        "value": 31
       },
       {
         "resort": "hiddenvalley",
         "name": "Hidden Valley",
         "region": "Midwest",
-        "value": 31
+        "value": 30
       },
       {
         "resort": "cypressmountain",
@@ -2746,6 +2746,12 @@
         "name": "Crotched Mountain",
         "region": "New Hampshire/Maine",
         "value": 24
+      },
+      {
+        "resort": "wilmot",
+        "name": "Wilmot Mountain",
+        "region": "Midwest",
+        "value": 23
       },
       {
         "resort": "liberty",
@@ -2769,6 +2775,12 @@
         "resort": "jackfrost",
         "name": "Jack Frost",
         "region": "Pennsylvania",
+        "value": 20
+      },
+      {
+        "resort": "mtbrighton",
+        "name": "Mt Brighton",
+        "region": "Midwest",
         "value": 20
       },
       {
@@ -2802,32 +2814,20 @@
         "value": 9
       },
       {
+        "resort": "bostonmills",
+        "name": "Boston Mills",
+        "region": "Midwest",
+        "value": 6
+      },
+      {
         "resort": "stevenspass",
         "name": "Stevens Pass",
         "region": "Pacific Northwest",
         "value": 0
       },
       {
-        "resort": "wilmot",
-        "name": "Wilmot Mountain",
-        "region": "Midwest",
-        "value": 0
-      },
-      {
         "resort": "aftonalps",
         "name": "Afton Alps",
-        "region": "Midwest",
-        "value": 0
-      },
-      {
-        "resort": "mtbrighton",
-        "name": "Mt Brighton",
-        "region": "Midwest",
-        "value": 0
-      },
-      {
-        "resort": "bostonmills",
-        "name": "Boston Mills",
         "region": "Midwest",
         "value": 0
       },
@@ -2855,12 +2855,6 @@
         "resort": "jackfrost",
         "name": "Jack Frost",
         "region": "Pennsylvania",
-        "value": 1
-      },
-      {
-        "resort": "hiddenvalley",
-        "name": "Hidden Valley",
-        "region": "Midwest",
         "value": 1
       },
       {
@@ -2924,10 +2918,10 @@
         "value": 0.972
       },
       {
-        "resort": "banff",
-        "name": "Banff Sunshine Village",
-        "region": "Western Canada",
-        "value": 0.958
+        "resort": "hiddenvalley",
+        "name": "Hidden Valley",
+        "region": "Midwest",
+        "value": 0.968
       },
       {
         "resort": "roundtop",
@@ -2942,16 +2936,16 @@
         "value": 0.951
       },
       {
+        "resort": "banff",
+        "name": "Banff Sunshine Village",
+        "region": "Western Canada",
+        "value": 0.95
+      },
+      {
         "resort": "stowe",
         "name": "Stowe",
         "region": "Vermont",
         "value": 0.945
-      },
-      {
-        "resort": "mountsnow",
-        "name": "Mount Snow",
-        "region": "Vermont",
-        "value": 0.942
       },
       {
         "resort": "sevensprings",
@@ -2966,12 +2960,6 @@
         "value": 0.942
       },
       {
-        "resort": "okemo",
-        "name": "Okemo",
-        "region": "Vermont",
-        "value": 0.938
-      },
-      {
         "resort": "snowbird",
         "name": "Snowbird",
         "region": "Utah",
@@ -2984,10 +2972,16 @@
         "value": 0.923
       },
       {
-        "resort": "mountsunapee",
-        "name": "Mount Sunapee",
-        "region": "New Hampshire/Maine",
-        "value": 0.909
+        "resort": "mountsnow",
+        "name": "Mount Snow",
+        "region": "Vermont",
+        "value": 0.919
+      },
+      {
+        "resort": "okemo",
+        "name": "Okemo",
+        "region": "Vermont",
+        "value": 0.915
       },
       {
         "resort": "whitetail",
@@ -3014,6 +3008,12 @@
         "value": 0.895
       },
       {
+        "resort": "mountsunapee",
+        "name": "Mount Sunapee",
+        "region": "New Hampshire/Maine",
+        "value": 0.894
+      },
+      {
         "resort": "norquay",
         "name": "Mt Norquay",
         "region": null,
@@ -3026,16 +3026,22 @@
         "value": 0.888
       },
       {
+        "resort": "wilmot",
+        "name": "Wilmot Mountain",
+        "region": "Midwest",
+        "value": 0.885
+      },
+      {
         "resort": "bigboulder",
         "name": "Big Boulder",
         "region": "Pennsylvania",
         "value": 0.882
       },
       {
-        "resort": "hunter",
-        "name": "Hunter Mountain",
-        "region": "New York",
-        "value": 0.859
+        "resort": "bostonmills",
+        "name": "Boston Mills",
+        "region": "Midwest",
+        "value": 0.857
       },
       {
         "resort": "wildcat",
@@ -3056,16 +3062,40 @@
         "value": 0.845
       },
       {
+        "resort": "attitash",
+        "name": "Attitash",
+        "region": "New Hampshire/Maine",
+        "value": 0.842
+      },
+      {
         "resort": "bigsky",
         "name": "Big Sky",
         "region": "Wyoming/Montana",
-        "value": 0.843
+        "value": 0.837
+      },
+      {
+        "resort": "aspenhighlands",
+        "name": "Aspen Highlands",
+        "region": "Colorado",
+        "value": 0.833
+      },
+      {
+        "resort": "hunter",
+        "name": "Hunter Mountain",
+        "region": "New York",
+        "value": 0.831
       },
       {
         "resort": "sugarloaf",
         "name": "Sugarloaf",
         "region": "New Hampshire/Maine",
         "value": 0.83
+      },
+      {
+        "resort": "jacksonhole",
+        "name": "Jackson Hole",
+        "region": "Wyoming/Montana",
+        "value": 0.821
       },
       {
         "resort": "aspenmountain",
@@ -3080,16 +3110,10 @@
         "value": 0.807
       },
       {
-        "resort": "jacksonhole",
-        "name": "Jackson Hole",
-        "region": "Wyoming/Montana",
-        "value": 0.807
-      },
-      {
-        "resort": "attitash",
-        "name": "Attitash",
-        "region": "New Hampshire/Maine",
-        "value": 0.789
+        "resort": "mtbrighton",
+        "name": "Mt Brighton",
+        "region": "Midwest",
+        "value": 0.8
       },
       {
         "resort": "sugarbush",
@@ -3101,7 +3125,7 @@
         "resort": "killington",
         "name": "Killington",
         "region": "Vermont",
-        "value": 0.788
+        "value": 0.784
       },
       {
         "resort": "palisades",
@@ -3122,16 +3146,16 @@
         "value": 0.665
       },
       {
-        "resort": "deervalley",
-        "name": "Deer Valley",
-        "region": "Utah",
-        "value": 0.648
-      },
-      {
         "resort": "parkcity",
         "name": "Park City",
         "region": "Utah",
         "value": 0.642
+      },
+      {
+        "resort": "deervalley",
+        "name": "Deer Valley",
+        "region": "Utah",
+        "value": 0.634
       },
       {
         "resort": "breckenridge",
@@ -3158,12 +3182,6 @@
         "value": 0.599
       },
       {
-        "resort": "aspenhighlands",
-        "name": "Aspen Highlands",
-        "region": "Colorado",
-        "value": 0.508
-      },
-      {
         "resort": "beavercreek",
         "name": "Beaver Creek",
         "region": "Colorado",
@@ -3173,7 +3191,7 @@
         "resort": "crystal",
         "name": "Crystal Mountain",
         "region": "Pacific Northwest",
-        "value": 0.372
+        "value": 0.36
       },
       {
         "resort": "cypressmountain",
@@ -3188,26 +3206,8 @@
         "value": 0
       },
       {
-        "resort": "wilmot",
-        "name": "Wilmot Mountain",
-        "region": "Midwest",
-        "value": 0
-      },
-      {
         "resort": "aftonalps",
         "name": "Afton Alps",
-        "region": "Midwest",
-        "value": 0
-      },
-      {
-        "resort": "mtbrighton",
-        "name": "Mt Brighton",
-        "region": "Midwest",
-        "value": 0
-      },
-      {
-        "resort": "bostonmills",
-        "name": "Boston Mills",
         "region": "Midwest",
         "value": 0
       },
@@ -3238,22 +3238,22 @@
         "value": 107
       },
       {
+        "resort": "vail",
+        "name": "Vail",
+        "region": "Colorado",
+        "value": 93
+      },
+      {
         "resort": "killington",
         "name": "Killington",
         "region": "Vermont",
-        "value": 94
+        "value": 92
       },
       {
         "resort": "okemo",
         "name": "Okemo",
         "region": "Vermont",
-        "value": 86
-      },
-      {
-        "resort": "vail",
-        "name": "Vail",
-        "region": "Colorado",
-        "value": 85
+        "value": 84
       },
       {
         "resort": "palisades",
@@ -3289,7 +3289,7 @@
         "resort": "deervalley",
         "name": "Deer Valley",
         "region": "Utah",
-        "value": 70
+        "value": 69
       },
       {
         "resort": "loon",
@@ -3301,7 +3301,7 @@
         "resort": "steamboat",
         "name": "Steamboat",
         "region": "Colorado",
-        "value": 68
+        "value": 66
       },
       {
         "resort": "stowe",
@@ -3313,7 +3313,7 @@
         "resort": "sugarloaf",
         "name": "Sugarloaf",
         "region": "New Hampshire/Maine",
-        "value": 60
+        "value": 59
       },
       {
         "resort": "heavenly",
@@ -3322,22 +3322,16 @@
         "value": 57
       },
       {
-        "resort": "hunter",
-        "name": "Hunter Mountain",
-        "region": "New York",
-        "value": 54
-      },
-      {
         "resort": "telluride",
         "name": "Telluride",
         "region": "Colorado",
         "value": 53
       },
       {
-        "resort": "snowbird",
-        "name": "Snowbird",
-        "region": "Utah",
-        "value": 50
+        "resort": "hunter",
+        "name": "Hunter Mountain",
+        "region": "New York",
+        "value": 52
       },
       {
         "resort": "blue",
@@ -3358,10 +3352,10 @@
         "value": 49
       },
       {
-        "resort": "northstar",
-        "name": "Northstar",
-        "region": "California",
-        "value": 48
+        "resort": "snowbird",
+        "name": "Snowbird",
+        "region": "Utah",
+        "value": 49
       },
       {
         "resort": "mountsnow",
@@ -3370,16 +3364,28 @@
         "value": 48
       },
       {
+        "resort": "bigsky",
+        "name": "Big Sky",
+        "region": "Wyoming/Montana",
+        "value": 47
+      },
+      {
+        "resort": "attitash",
+        "name": "Attitash",
+        "region": "New Hampshire/Maine",
+        "value": 46
+      },
+      {
         "resort": "sugarbush",
         "name": "Sugarbush",
         "region": "Vermont",
         "value": 46
       },
       {
-        "resort": "attitash",
-        "name": "Attitash",
-        "region": "New Hampshire/Maine",
-        "value": 45
+        "resort": "banff",
+        "name": "Banff Sunshine Village",
+        "region": "Western Canada",
+        "value": 46
       },
       {
         "resort": "jacksonhole",
@@ -3394,6 +3400,12 @@
         "value": 45
       },
       {
+        "resort": "northstar",
+        "name": "Northstar",
+        "region": "California",
+        "value": 44
+      },
+      {
         "resort": "solitude",
         "name": "Solitude",
         "region": "Utah",
@@ -3406,16 +3418,10 @@
         "value": 43
       },
       {
-        "resort": "banff",
-        "name": "Banff Sunshine Village",
-        "region": "Western Canada",
-        "value": 43
-      },
-      {
         "resort": "mountsunapee",
         "name": "Mount Sunapee",
         "region": "New Hampshire/Maine",
-        "value": 42
+        "value": 41
       },
       {
         "resort": "crestedbutte",
@@ -3448,6 +3454,12 @@
         "value": 30
       },
       {
+        "resort": "buttermilk",
+        "name": "Buttermilk",
+        "region": "Colorado",
+        "value": 26
+      },
+      {
         "resort": "cypressmountain",
         "name": "Cypress Mountain",
         "region": "Western Canada",
@@ -3460,10 +3472,10 @@
         "value": 24
       },
       {
-        "resort": "buttermilk",
-        "name": "Buttermilk",
-        "region": "Colorado",
-        "value": 24
+        "resort": "wilmot",
+        "name": "Wilmot Mountain",
+        "region": "Midwest",
+        "value": 23
       },
       {
         "resort": "aspenmountain",
@@ -3481,6 +3493,12 @@
         "resort": "liberty",
         "name": "Liberty Mountain",
         "region": "Pennsylvania",
+        "value": 20
+      },
+      {
+        "resort": "mtbrighton",
+        "name": "Mt Brighton",
+        "region": "Midwest",
         "value": 20
       },
       {
@@ -3526,12 +3544,6 @@
         "value": 15
       },
       {
-        "resort": "aspenhighlands",
-        "name": "Aspen Highlands",
-        "region": "Colorado",
-        "value": 15
-      },
-      {
         "resort": "junemountain",
         "name": "June Mountain",
         "region": "California",
@@ -3542,6 +3554,12 @@
         "name": "Jack Frost",
         "region": "Pennsylvania",
         "value": 13
+      },
+      {
+        "resort": "aspenhighlands",
+        "name": "Aspen Highlands",
+        "region": "Colorado",
+        "value": 9
       },
       {
         "resort": "alpinevalley",
@@ -3556,32 +3574,14 @@
         "value": 8
       },
       {
-        "resort": "bigsky",
-        "name": "Big Sky",
-        "region": "Wyoming/Montana",
-        "value": 3
-      },
-      {
         "resort": "stevenspass",
         "name": "Stevens Pass",
         "region": "Pacific Northwest",
         "value": 0
       },
       {
-        "resort": "wilmot",
-        "name": "Wilmot Mountain",
-        "region": "Midwest",
-        "value": 0
-      },
-      {
         "resort": "aftonalps",
         "name": "Afton Alps",
-        "region": "Midwest",
-        "value": 0
-      },
-      {
-        "resort": "mtbrighton",
-        "name": "Mt Brighton",
         "region": "Midwest",
         "value": 0
       },
@@ -3615,6 +3615,18 @@
         "resort": "bigboulder",
         "name": "Big Boulder",
         "region": "Pennsylvania",
+        "value": 1
+      },
+      {
+        "resort": "wilmot",
+        "name": "Wilmot Mountain",
+        "region": "Midwest",
+        "value": 1
+      },
+      {
+        "resort": "mtbrighton",
+        "name": "Mt Brighton",
+        "region": "Midwest",
         "value": 1
       },
       {
@@ -3654,22 +3666,28 @@
         "value": 0.889
       },
       {
-        "resort": "hunter",
-        "name": "Hunter Mountain",
-        "region": "New York",
-        "value": 0.885
-      },
-      {
         "resort": "laurelmountain",
         "name": "Laurel Mountain",
         "region": "Pennsylvania",
         "value": 0.882
       },
       {
+        "resort": "hunter",
+        "name": "Hunter Mountain",
+        "region": "New York",
+        "value": 0.881
+      },
+      {
         "resort": "loon",
         "name": "Loon Mountain",
         "region": "New Hampshire/Maine",
         "value": 0.812
+      },
+      {
+        "resort": "hiddenvalley",
+        "name": "Hidden Valley",
+        "region": "Midwest",
+        "value": 0.8
       },
       {
         "resort": "blue",
@@ -3690,34 +3708,28 @@
         "value": 0.776
       },
       {
-        "resort": "hiddenvalley",
-        "name": "Hidden Valley",
-        "region": "Midwest",
-        "value": 0.774
-      },
-      {
         "resort": "attitash",
         "name": "Attitash",
         "region": "New Hampshire/Maine",
-        "value": 0.75
+        "value": 0.719
       },
       {
         "resort": "okemo",
         "name": "Okemo",
         "region": "Vermont",
-        "value": 0.711
+        "value": 0.712
       },
       {
         "resort": "mountsunapee",
         "name": "Mount Sunapee",
         "region": "New Hampshire/Maine",
-        "value": 0.7
+        "value": 0.695
       },
       {
         "resort": "crystal",
         "name": "Crystal Mountain",
         "region": "Pacific Northwest",
-        "value": 0.656
+        "value": 0.677
       },
       {
         "resort": "jackfrost",
@@ -3726,16 +3738,16 @@
         "value": 0.65
       },
       {
+        "resort": "mountsnow",
+        "name": "Mount Snow",
+        "region": "Vermont",
+        "value": 0.608
+      },
+      {
         "resort": "mammoth",
         "name": "Mammoth Mountain",
         "region": "California",
         "value": 0.594
-      },
-      {
-        "resort": "mountsnow",
-        "name": "Mount Snow",
-        "region": "Vermont",
-        "value": 0.593
       },
       {
         "resort": "sundayriver",
@@ -3756,6 +3768,18 @@
         "value": 0.577
       },
       {
+        "resort": "vail",
+        "name": "Vail",
+        "region": "Colorado",
+        "value": 0.56
+      },
+      {
+        "resort": "buttermilk",
+        "name": "Buttermilk",
+        "region": "Colorado",
+        "value": 0.553
+      },
+      {
         "resort": "stowe",
         "name": "Stowe",
         "region": "Vermont",
@@ -3765,7 +3789,7 @@
         "resort": "killington",
         "name": "Killington",
         "region": "Vermont",
-        "value": 0.537
+        "value": 0.529
       },
       {
         "resort": "heavenly",
@@ -3774,28 +3798,10 @@
         "value": 0.514
       },
       {
-        "resort": "vail",
-        "name": "Vail",
-        "region": "Colorado",
-        "value": 0.512
-      },
-      {
-        "resort": "buttermilk",
-        "name": "Buttermilk",
-        "region": "Colorado",
-        "value": 0.511
-      },
-      {
         "resort": "whistlerblackcomb",
         "name": "Whistler Blackcomb",
         "region": "Western Canada",
         "value": 0.5
-      },
-      {
-        "resort": "northstar",
-        "name": "Northstar",
-        "region": "California",
-        "value": 0.49
       },
       {
         "resort": "keystone",
@@ -3807,7 +3813,7 @@
         "resort": "deervalley",
         "name": "Deer Valley",
         "region": "Utah",
-        "value": 0.476
+        "value": 0.479
       },
       {
         "resort": "solitude",
@@ -3816,16 +3822,16 @@
         "value": 0.463
       },
       {
+        "resort": "northstar",
+        "name": "Northstar",
+        "region": "California",
+        "value": 0.449
+      },
+      {
         "resort": "wildcat",
         "name": "Wildcat Mountain",
         "region": "New Hampshire/Maine",
         "value": 0.439
-      },
-      {
-        "resort": "steamboat",
-        "name": "Steamboat",
-        "region": "Colorado",
-        "value": 0.417
       },
       {
         "resort": "norquay",
@@ -3840,10 +3846,22 @@
         "value": 0.411
       },
       {
+        "resort": "steamboat",
+        "name": "Steamboat",
+        "region": "Colorado",
+        "value": 0.405
+      },
+      {
         "resort": "sugarloaf",
         "name": "Sugarloaf",
         "region": "New Hampshire/Maine",
-        "value": 0.411
+        "value": 0.404
+      },
+      {
+        "resort": "banff",
+        "name": "Banff Sunshine Village",
+        "region": "Western Canada",
+        "value": 0.404
       },
       {
         "resort": "breckenridge",
@@ -3864,22 +3882,16 @@
         "value": 0.391
       },
       {
-        "resort": "jacksonhole",
-        "name": "Jackson Hole",
-        "region": "Wyoming/Montana",
-        "value": 0.385
-      },
-      {
         "resort": "palisades",
         "name": "Palisades Tahoe",
         "region": "California",
         "value": 0.378
       },
       {
-        "resort": "banff",
-        "name": "Banff Sunshine Village",
-        "region": "Western Canada",
-        "value": 0.374
+        "resort": "jacksonhole",
+        "name": "Jackson Hole",
+        "region": "Wyoming/Montana",
+        "value": 0.378
       },
       {
         "resort": "copper",
@@ -3915,13 +3927,7 @@
         "resort": "snowbird",
         "name": "Snowbird",
         "region": "Utah",
-        "value": 0.27
-      },
-      {
-        "resort": "aspenhighlands",
-        "name": "Aspen Highlands",
-        "region": "Colorado",
-        "value": 0.234
+        "value": 0.265
       },
       {
         "resort": "aspenmountain",
@@ -3939,7 +3945,13 @@
         "resort": "bigsky",
         "name": "Big Sky",
         "region": "Wyoming/Montana",
-        "value": 0.011
+        "value": 0.176
+      },
+      {
+        "resort": "aspenhighlands",
+        "name": "Aspen Highlands",
+        "region": "Colorado",
+        "value": 0.086
       },
       {
         "resort": "stevenspass",
@@ -3948,20 +3960,8 @@
         "value": 0
       },
       {
-        "resort": "wilmot",
-        "name": "Wilmot Mountain",
-        "region": "Midwest",
-        "value": 0
-      },
-      {
         "resort": "aftonalps",
         "name": "Afton Alps",
-        "region": "Midwest",
-        "value": 0
-      },
-      {
-        "resort": "mtbrighton",
-        "name": "Mt Brighton",
         "region": "Midwest",
         "value": 0
       },
@@ -3986,10 +3986,52 @@
     ],
     "lifts_open_count": [
       {
+        "resort": "bigsky",
+        "name": "Big Sky",
+        "region": "Wyoming/Montana",
+        "value": 30
+      },
+      {
         "resort": "copper",
         "name": "Copper Mountain",
         "region": "Colorado",
         "value": 19
+      },
+      {
+        "resort": "killington",
+        "name": "Killington",
+        "region": "Vermont",
+        "value": 15
+      },
+      {
+        "resort": "snowbird",
+        "name": "Snowbird",
+        "region": "Utah",
+        "value": 14
+      },
+      {
+        "resort": "jacksonhole",
+        "name": "Jackson Hole",
+        "region": "Wyoming/Montana",
+        "value": 13
+      },
+      {
+        "resort": "sugarbush",
+        "name": "Sugarbush",
+        "region": "Vermont",
+        "value": 13
+      },
+      {
+        "resort": "sundayriver",
+        "name": "Sunday River",
+        "region": "New Hampshire/Maine",
+        "value": 13
+      },
+      {
+        "resort": "tremblant",
+        "name": "Tremblant",
+        "region": "Eastern Canada",
+        "value": 13
       },
       {
         "resort": "lakelouise",
@@ -4004,10 +4046,28 @@
         "value": 12
       },
       {
+        "resort": "blue",
+        "name": "Blue Mountain",
+        "region": "Eastern Canada",
+        "value": 11
+      },
+      {
+        "resort": "sugarloaf",
+        "name": "Sugarloaf",
+        "region": "New Hampshire/Maine",
+        "value": 10
+      },
+      {
         "resort": "loon",
         "name": "Loon Mountain",
         "region": "New Hampshire/Maine",
         "value": 10
+      },
+      {
+        "resort": "stratton",
+        "name": "Stratton",
+        "region": "Vermont",
+        "value": 8
       },
       {
         "resort": "crystal",
@@ -4016,10 +4076,22 @@
         "value": 8
       },
       {
+        "resort": "steamboat",
+        "name": "Steamboat",
+        "region": "Colorado",
+        "value": 7
+      },
+      {
         "resort": "norquay",
         "name": "Mt Norquay",
         "region": null,
         "value": 6
+      },
+      {
+        "resort": "solitude",
+        "name": "Solitude",
+        "region": "Utah",
+        "value": 4
       },
       {
         "resort": "cypressmountain",
@@ -4028,15 +4100,15 @@
         "value": 4
       },
       {
-        "resort": "sugarbush",
-        "name": "Sugarbush",
-        "region": "Vermont",
+        "resort": "deervalley",
+        "name": "Deer Valley",
+        "region": "Utah",
         "value": 1
       },
       {
-        "resort": "tremblant",
-        "name": "Tremblant",
-        "region": "Eastern Canada",
+        "resort": "mammoth",
+        "name": "Mammoth Mountain",
+        "region": "California",
         "value": 1
       },
       {
@@ -4262,45 +4334,9 @@
         "value": 0
       },
       {
-        "resort": "stratton",
-        "name": "Stratton",
-        "region": "Vermont",
-        "value": 0
-      },
-      {
         "resort": "palisades",
         "name": "Palisades Tahoe",
         "region": "California",
-        "value": 0
-      },
-      {
-        "resort": "jacksonhole",
-        "name": "Jackson Hole",
-        "region": "Wyoming/Montana",
-        "value": 0
-      },
-      {
-        "resort": "bigsky",
-        "name": "Big Sky",
-        "region": "Wyoming/Montana",
-        "value": 0
-      },
-      {
-        "resort": "deervalley",
-        "name": "Deer Valley",
-        "region": "Utah",
-        "value": 0
-      },
-      {
-        "resort": "snowbird",
-        "name": "Snowbird",
-        "region": "Utah",
-        "value": 0
-      },
-      {
-        "resort": "solitude",
-        "name": "Solitude",
-        "region": "Utah",
         "value": 0
       },
       {
@@ -4322,49 +4358,31 @@
         "value": 0
       },
       {
-        "resort": "steamboat",
-        "name": "Steamboat",
-        "region": "Colorado",
-        "value": 0
-      },
-      {
-        "resort": "mammoth",
-        "name": "Mammoth Mountain",
-        "region": "California",
-        "value": 0
-      },
-      {
         "resort": "junemountain",
         "name": "June Mountain",
         "region": "California",
         "value": 0
+      }
+    ],
+    "lifts_open_pct": [
+      {
+        "resort": "jacksonhole",
+        "name": "Jackson Hole",
+        "region": "Wyoming/Montana",
+        "value": 1
       },
       {
-        "resort": "killington",
-        "name": "Killington",
-        "region": "Vermont",
-        "value": 0
-      },
-      {
-        "resort": "sugarloaf",
-        "name": "Sugarloaf",
-        "region": "New Hampshire/Maine",
-        "value": 0
-      },
-      {
-        "resort": "sundayriver",
-        "name": "Sunday River",
-        "region": "New Hampshire/Maine",
-        "value": 0
+        "resort": "snowbird",
+        "name": "Snowbird",
+        "region": "Utah",
+        "value": 1
       },
       {
         "resort": "blue",
         "name": "Blue Mountain",
         "region": "Eastern Canada",
-        "value": 0
-      }
-    ],
-    "lifts_open_pct": [
+        "value": 1
+      },
       {
         "resort": "banff",
         "name": "Banff Sunshine Village",
@@ -4384,10 +4402,34 @@
         "value": 1
       },
       {
+        "resort": "tremblant",
+        "name": "Tremblant",
+        "region": "Eastern Canada",
+        "value": 0.929
+      },
+      {
         "resort": "copper",
         "name": "Copper Mountain",
         "region": "Colorado",
         "value": 0.826
+      },
+      {
+        "resort": "sugarbush",
+        "name": "Sugarbush",
+        "region": "Vermont",
+        "value": 0.813
+      },
+      {
+        "resort": "killington",
+        "name": "Killington",
+        "region": "Vermont",
+        "value": 0.789
+      },
+      {
+        "resort": "bigsky",
+        "name": "Big Sky",
+        "region": "Wyoming/Montana",
+        "value": 0.75
       },
       {
         "resort": "crystal",
@@ -4402,22 +4444,52 @@
         "value": 0.714
       },
       {
+        "resort": "sundayriver",
+        "name": "Sunday River",
+        "region": "New Hampshire/Maine",
+        "value": 0.684
+      },
+      {
+        "resort": "sugarloaf",
+        "name": "Sugarloaf",
+        "region": "New Hampshire/Maine",
+        "value": 0.667
+      },
+      {
         "resort": "cypressmountain",
         "name": "Cypress Mountain",
         "region": "Western Canada",
         "value": 0.667
       },
       {
-        "resort": "tremblant",
-        "name": "Tremblant",
-        "region": "Eastern Canada",
-        "value": 0.071
+        "resort": "stratton",
+        "name": "Stratton",
+        "region": "Vermont",
+        "value": 0.571
       },
       {
-        "resort": "sugarbush",
-        "name": "Sugarbush",
-        "region": "Vermont",
-        "value": 0.063
+        "resort": "solitude",
+        "name": "Solitude",
+        "region": "Utah",
+        "value": 0.4
+      },
+      {
+        "resort": "steamboat",
+        "name": "Steamboat",
+        "region": "Colorado",
+        "value": 0.292
+      },
+      {
+        "resort": "mammoth",
+        "name": "Mammoth Mountain",
+        "region": "California",
+        "value": 0.04
+      },
+      {
+        "resort": "deervalley",
+        "name": "Deer Valley",
+        "region": "Utah",
+        "value": 0.031
       },
       {
         "resort": "vail",
@@ -4642,45 +4714,9 @@
         "value": 0
       },
       {
-        "resort": "stratton",
-        "name": "Stratton",
-        "region": "Vermont",
-        "value": 0
-      },
-      {
         "resort": "palisades",
         "name": "Palisades Tahoe",
         "region": "California",
-        "value": 0
-      },
-      {
-        "resort": "jacksonhole",
-        "name": "Jackson Hole",
-        "region": "Wyoming/Montana",
-        "value": 0
-      },
-      {
-        "resort": "bigsky",
-        "name": "Big Sky",
-        "region": "Wyoming/Montana",
-        "value": 0
-      },
-      {
-        "resort": "deervalley",
-        "name": "Deer Valley",
-        "region": "Utah",
-        "value": 0
-      },
-      {
-        "resort": "snowbird",
-        "name": "Snowbird",
-        "region": "Utah",
-        "value": 0
-      },
-      {
-        "resort": "solitude",
-        "name": "Solitude",
-        "region": "Utah",
         "value": 0
       },
       {
@@ -4702,45 +4738,9 @@
         "value": 0
       },
       {
-        "resort": "steamboat",
-        "name": "Steamboat",
-        "region": "Colorado",
-        "value": 0
-      },
-      {
-        "resort": "mammoth",
-        "name": "Mammoth Mountain",
-        "region": "California",
-        "value": 0
-      },
-      {
         "resort": "junemountain",
         "name": "June Mountain",
         "region": "California",
-        "value": 0
-      },
-      {
-        "resort": "killington",
-        "name": "Killington",
-        "region": "Vermont",
-        "value": 0
-      },
-      {
-        "resort": "sugarloaf",
-        "name": "Sugarloaf",
-        "region": "New Hampshire/Maine",
-        "value": 0
-      },
-      {
-        "resort": "sundayriver",
-        "name": "Sunday River",
-        "region": "New Hampshire/Maine",
-        "value": 0
-      },
-      {
-        "resort": "blue",
-        "name": "Blue Mountain",
-        "region": "Eastern Canada",
         "value": 0
       }
     ]
@@ -4764,15 +4764,15 @@
       "resort_count": 12,
       "resorts_reporting": 12,
       "totals": {
-        "trails_open": 1236,
-        "trails_groomed": 480,
+        "trails_open": 1277,
+        "trails_groomed": 482,
         "trails_total": 1832,
-        "lifts_open": 19,
+        "lifts_open": 26,
         "snow_24h": 0
       },
       "averages": {
         "base_depth": 27.9,
-        "trails_open_pct": 0.69,
+        "trails_open_pct": 0.72,
         "trails_groomed_pct": 0.38,
         "snow_overnight": 0
       }
@@ -4808,15 +4808,15 @@
       "resort_count": 5,
       "resorts_reporting": 5,
       "totals": {
-        "trails_open": 651,
-        "trails_groomed": 241,
+        "trails_open": 648,
+        "trails_groomed": 239,
         "trails_total": 883,
-        "lifts_open": 0,
+        "lifts_open": 19,
         "snow_24h": 0
       },
       "averages": {
         "base_depth": 44,
-        "trails_open_pct": 0.78,
+        "trails_open_pct": 0.77,
         "trails_groomed_pct": 0.39,
         "snow_overnight": 0
       }
@@ -4834,15 +4834,15 @@
       "resorts_reporting": 6,
       "totals": {
         "trails_open": 765,
-        "trails_groomed": 353,
+        "trails_groomed": 349,
         "trails_total": 865,
-        "lifts_open": 0,
+        "lifts_open": 1,
         "snow_24h": 0
       },
       "averages": {
         "base_depth": 44.83,
         "trails_open_pct": 0.93,
-        "trails_groomed_pct": 0.45,
+        "trails_groomed_pct": 0.44,
         "snow_overnight": 0
       }
     },
@@ -4854,7 +4854,7 @@
       "resort_count": 2,
       "resorts_reporting": 2,
       "totals": {
-        "trails_open": 32,
+        "trails_open": 31,
         "trails_groomed": 21,
         "trails_total": 143,
         "lifts_open": 8,
@@ -4862,8 +4862,8 @@
       },
       "averages": {
         "base_depth": 38,
-        "trails_open_pct": 0.19,
-        "trails_groomed_pct": 0.33,
+        "trails_open_pct": 0.18,
+        "trails_groomed_pct": 0.34,
         "snow_overnight": 0
       }
     },
@@ -4876,15 +4876,15 @@
       "resorts_reporting": 2,
       "totals": {
         "trails_open": 386,
-        "trails_groomed": 48,
+        "trails_groomed": 92,
         "trails_total": 464,
-        "lifts_open": 0,
+        "lifts_open": 43,
         "snow_24h": 0
       },
       "averages": {
         "base_depth": 46.5,
         "trails_open_pct": 0.83,
-        "trails_groomed_pct": 0.2,
+        "trails_groomed_pct": 0.28,
         "snow_overnight": 0
       }
     },
@@ -4900,15 +4900,15 @@
       "resort_count": 6,
       "resorts_reporting": 6,
       "totals": {
-        "trails_open": 733,
-        "trails_groomed": 410,
+        "trails_open": 727,
+        "trails_groomed": 406,
         "trails_total": 830,
-        "lifts_open": 1,
+        "lifts_open": 36,
         "snow_24h": 0
       },
       "averages": {
         "base_depth": 28.33,
-        "trails_open_pct": 0.9,
+        "trails_open_pct": 0.89,
         "trails_groomed_pct": 0.56,
         "snow_overnight": 0
       }
@@ -4926,10 +4926,10 @@
       "resort_count": 7,
       "resorts_reporting": 7,
       "totals": {
-        "trails_open": 556,
-        "trails_groomed": 335,
+        "trails_open": 559,
+        "trails_groomed": 334,
         "trails_total": 621,
-        "lifts_open": 10,
+        "lifts_open": 33,
         "snow_24h": 0
       },
       "averages": {
@@ -4946,16 +4946,16 @@
       "resort_count": 1,
       "resorts_reporting": 1,
       "totals": {
-        "trails_open": 61,
-        "trails_groomed": 54,
+        "trails_open": 59,
+        "trails_groomed": 52,
         "trails_total": 71,
         "lifts_open": 0,
         "snow_24h": 0
       },
       "averages": {
         "base_depth": 61,
-        "trails_open_pct": 0.86,
-        "trails_groomed_pct": 0.89,
+        "trails_open_pct": 0.83,
+        "trails_groomed_pct": 0.88,
         "snow_overnight": 0
       }
     },
@@ -5001,16 +5001,16 @@
       "resort_count": 10,
       "resorts_reporting": 10,
       "totals": {
-        "trails_open": 67,
-        "trails_groomed": 58,
+        "trails_open": 115,
+        "trails_groomed": 101,
         "trails_total": 179,
         "lifts_open": 0,
         "snow_24h": 2
       },
       "averages": {
         "base_depth": 31.78,
-        "trails_open_pct": 0.35,
-        "trails_groomed_pct": 0.36,
+        "trails_open_pct": 0.6,
+        "trails_groomed_pct": 0.56,
         "snow_overnight": 0
       }
     },
@@ -5025,16 +5025,16 @@
       "resort_count": 5,
       "resorts_reporting": 5,
       "totals": {
-        "trails_open": 560,
-        "trails_groomed": 226,
+        "trails_open": 559,
+        "trails_groomed": 229,
         "trails_total": 691,
         "lifts_open": 29,
         "snow_24h": 0
       },
       "averages": {
-        "base_depth": 69.68,
-        "trails_open_pct": 0.77,
-        "trails_groomed_pct": 0.49,
+        "base_depth": 69.88,
+        "trails_open_pct": 0.76,
+        "trails_groomed_pct": 0.5,
         "snow_overnight": 0
       }
     },
@@ -5049,7 +5049,7 @@
         "trails_open": 191,
         "trails_groomed": 124,
         "trails_total": 193,
-        "lifts_open": 1,
+        "lifts_open": 24,
         "snow_24h": 0
       },
       "averages": {
@@ -5099,8 +5099,8 @@
         "trails_open": 166,
         "trails_total": 277,
         "trails_open_pct": 0.599,
-        "trails_groomed": 85,
-        "trails_groomed_pct": 0.512,
+        "trails_groomed": 93,
+        "trails_groomed_pct": 0.56,
         "lifts_open": 0,
         "lifts_total": 33,
         "lifts_open_pct": 0
@@ -5596,8 +5596,8 @@
         "trails_open": 98,
         "trails_total": 103,
         "trails_open_pct": 0.951,
-        "trails_groomed": 48,
-        "trails_groomed_pct": 0.49,
+        "trails_groomed": 44,
+        "trails_groomed_pct": 0.449,
         "lifts_open": 0,
         "lifts_total": 19,
         "lifts_open_pct": 0
@@ -5877,11 +5877,11 @@
         "base_depth": 18
       },
       "terrain": {
-        "trails_open": 121,
+        "trails_open": 118,
         "trails_total": 129,
-        "trails_open_pct": 0.938,
-        "trails_groomed": 86,
-        "trails_groomed_pct": 0.711,
+        "trails_open_pct": 0.915,
+        "trails_groomed": 84,
+        "trails_groomed_pct": 0.712,
         "lifts_open": 0,
         "lifts_total": 21,
         "lifts_open_pct": 0
@@ -5948,11 +5948,11 @@
         "base_depth": 30
       },
       "terrain": {
-        "trails_open": 81,
+        "trails_open": 79,
         "trails_total": 86,
-        "trails_open_pct": 0.942,
+        "trails_open_pct": 0.919,
         "trails_groomed": 48,
-        "trails_groomed_pct": 0.593,
+        "trails_groomed_pct": 0.608,
         "lifts_open": 0,
         "lifts_total": 18,
         "lifts_open_pct": 0
@@ -6019,11 +6019,11 @@
         "base_depth": 61
       },
       "terrain": {
-        "trails_open": 61,
+        "trails_open": 59,
         "trails_total": 71,
-        "trails_open_pct": 0.859,
-        "trails_groomed": 54,
-        "trails_groomed_pct": 0.885,
+        "trails_open_pct": 0.831,
+        "trails_groomed": 52,
+        "trails_groomed_pct": 0.881,
         "lifts_open": 0,
         "lifts_total": 12,
         "lifts_open_pct": 0
@@ -6090,11 +6090,11 @@
         "base_depth": 0
       },
       "terrain": {
-        "trails_open": 60,
+        "trails_open": 64,
         "trails_total": 76,
-        "trails_open_pct": 0.789,
-        "trails_groomed": 45,
-        "trails_groomed_pct": 0.75,
+        "trails_open_pct": 0.842,
+        "trails_groomed": 46,
+        "trails_groomed_pct": 0.719,
         "lifts_open": 0,
         "lifts_total": 8,
         "lifts_open_pct": 0
@@ -6232,11 +6232,11 @@
         "base_depth": 12
       },
       "terrain": {
-        "trails_open": 60,
+        "trails_open": 59,
         "trails_total": 66,
-        "trails_open_pct": 0.909,
-        "trails_groomed": 42,
-        "trails_groomed_pct": 0.7,
+        "trails_open_pct": 0.894,
+        "trails_groomed": 41,
+        "trails_groomed_pct": 0.695,
         "lifts_open": 0,
         "lifts_total": 8,
         "lifts_open_pct": 0
@@ -6729,11 +6729,11 @@
         "base_depth": 24
       },
       "terrain": {
-        "trails_open": 31,
+        "trails_open": 30,
         "trails_total": 31,
-        "trails_open_pct": 1,
+        "trails_open_pct": 0.968,
         "trails_groomed": 24,
-        "trails_groomed_pct": 0.774,
+        "trails_groomed_pct": 0.8,
         "lifts_open": 0,
         "lifts_total": 6,
         "lifts_open_pct": 0
@@ -6942,11 +6942,11 @@
         "base_depth": 14
       },
       "terrain": {
-        "trails_open": 0,
+        "trails_open": 23,
         "trails_total": 26,
-        "trails_open_pct": 0,
-        "trails_groomed": 0,
-        "trails_groomed_pct": 0,
+        "trails_open_pct": 0.885,
+        "trails_groomed": 23,
+        "trails_groomed_pct": 1,
         "lifts_open": 0,
         "lifts_total": 12,
         "lifts_open_pct": 0
@@ -7084,11 +7084,11 @@
         "base_depth": 32
       },
       "terrain": {
-        "trails_open": 0,
+        "trails_open": 20,
         "trails_total": 25,
-        "trails_open_pct": 0,
-        "trails_groomed": 0,
-        "trails_groomed_pct": 0,
+        "trails_open_pct": 0.8,
+        "trails_groomed": 20,
+        "trails_groomed_pct": 1,
         "lifts_open": 0,
         "lifts_total": 12,
         "lifts_open_pct": 0
@@ -7226,9 +7226,9 @@
         "base_depth": 36
       },
       "terrain": {
-        "trails_open": 0,
+        "trails_open": 6,
         "trails_total": 7,
-        "trails_open_pct": 0,
+        "trails_open_pct": 0.857,
         "trails_groomed": 0,
         "trails_groomed_pct": 0,
         "lifts_open": 0,
@@ -7654,9 +7654,9 @@
         "trails_open_pct": 1,
         "trails_groomed": 71,
         "trails_groomed_pct": 0.577,
-        "lifts_open": 0,
+        "lifts_open": 8,
         "lifts_total": 14,
-        "lifts_open_pct": 0
+        "lifts_open_pct": 0.571
       },
       "forecast": {
         "today": {
@@ -7791,14 +7791,14 @@
         "base_depth": 47
       },
       "terrain": {
-        "trails_open": 117,
+        "trails_open": 119,
         "trails_total": 145,
-        "trails_open_pct": 0.807,
+        "trails_open_pct": 0.821,
         "trails_groomed": 45,
-        "trails_groomed_pct": 0.385,
-        "lifts_open": 0,
+        "trails_groomed_pct": 0.378,
+        "lifts_open": 13,
         "lifts_total": 13,
-        "lifts_open_pct": 0
+        "lifts_open_pct": 1
       },
       "forecast": null,
       "lastSnowDate": "2026-02-04",
@@ -7817,14 +7817,14 @@
         "base_depth": 46
       },
       "terrain": {
-        "trails_open": 269,
+        "trails_open": 267,
         "trails_total": 319,
-        "trails_open_pct": 0.843,
-        "trails_groomed": 3,
-        "trails_groomed_pct": 0.011,
-        "lifts_open": 0,
+        "trails_open_pct": 0.837,
+        "trails_groomed": 47,
+        "trails_groomed_pct": 0.176,
+        "lifts_open": 30,
         "lifts_total": 40,
-        "lifts_open_pct": 0
+        "lifts_open_pct": 0.75
       },
       "forecast": {
         "today": {
@@ -7888,14 +7888,14 @@
         "base_depth": 30
       },
       "terrain": {
-        "trails_open": 147,
+        "trails_open": 144,
         "trails_total": 227,
-        "trails_open_pct": 0.648,
-        "trails_groomed": 70,
-        "trails_groomed_pct": 0.476,
-        "lifts_open": 0,
+        "trails_open_pct": 0.634,
+        "trails_groomed": 69,
+        "trails_groomed_pct": 0.479,
+        "lifts_open": 1,
         "lifts_total": 32,
-        "lifts_open_pct": 0
+        "lifts_open_pct": 0.031
       },
       "forecast": {
         "today": {
@@ -8024,11 +8024,11 @@
         "trails_open": 185,
         "trails_total": 200,
         "trails_open_pct": 0.925,
-        "trails_groomed": 50,
-        "trails_groomed_pct": 0.27,
-        "lifts_open": 0,
+        "trails_groomed": 49,
+        "trails_groomed_pct": 0.265,
+        "lifts_open": 14,
         "lifts_total": 14,
-        "lifts_open_pct": 0
+        "lifts_open_pct": 1
       },
       "forecast": {
         "today": {
@@ -8097,9 +8097,9 @@
         "trails_open_pct": 0.888,
         "trails_groomed": 44,
         "trails_groomed_pct": 0.463,
-        "lifts_open": 0,
+        "lifts_open": 4,
         "lifts_total": 10,
-        "lifts_open_pct": 0
+        "lifts_open_pct": 0.4
       },
       "forecast": {
         "today": {
@@ -8163,11 +8163,11 @@
         "base_depth": 34
       },
       "terrain": {
-        "trails_open": 64,
+        "trails_open": 105,
         "trails_total": 126,
-        "trails_open_pct": 0.508,
-        "trails_groomed": 15,
-        "trails_groomed_pct": 0.234,
+        "trails_open_pct": 0.833,
+        "trails_groomed": 9,
+        "trails_groomed_pct": 0.086,
         "lifts_open": 0,
         "lifts_total": 0,
         "lifts_open_pct": 0
@@ -8308,8 +8308,8 @@
         "trails_open": 47,
         "trails_total": 52,
         "trails_open_pct": 0.904,
-        "trails_groomed": 24,
-        "trails_groomed_pct": 0.511,
+        "trails_groomed": 26,
+        "trails_groomed_pct": 0.553,
         "lifts_open": 0,
         "lifts_total": 0,
         "lifts_open_pct": 0
@@ -8450,11 +8450,11 @@
         "trails_open": 163,
         "trails_total": 193,
         "trails_open_pct": 0.845,
-        "trails_groomed": 68,
-        "trails_groomed_pct": 0.417,
-        "lifts_open": 0,
+        "trails_groomed": 66,
+        "trails_groomed_pct": 0.405,
+        "lifts_open": 7,
         "lifts_total": 24,
-        "lifts_open_pct": 0
+        "lifts_open_pct": 0.292
       },
       "forecast": {
         "today": {
@@ -8647,9 +8647,9 @@
         "trails_open_pct": 0.942,
         "trails_groomed": 107,
         "trails_groomed_pct": 0.594,
-        "lifts_open": 0,
+        "lifts_open": 1,
         "lifts_total": 25,
-        "lifts_open_pct": 0
+        "lifts_open_pct": 0.04
       },
       "forecast": {
         "today": {
@@ -8784,11 +8784,11 @@
         "base_depth": 20
       },
       "terrain": {
-        "trails_open": 32,
+        "trails_open": 31,
         "trails_total": 86,
-        "trails_open_pct": 0.372,
+        "trails_open_pct": 0.36,
         "trails_groomed": 21,
-        "trails_groomed_pct": 0.656,
+        "trails_groomed_pct": 0.677,
         "lifts_open": 8,
         "lifts_total": 11,
         "lifts_open_pct": 0.727
@@ -8855,14 +8855,14 @@
         "base_depth": 30
       },
       "terrain": {
-        "trails_open": 175,
+        "trails_open": 174,
         "trails_total": 222,
-        "trails_open_pct": 0.788,
-        "trails_groomed": 94,
-        "trails_groomed_pct": 0.537,
-        "lifts_open": 0,
+        "trails_open_pct": 0.784,
+        "trails_groomed": 92,
+        "trails_groomed_pct": 0.529,
+        "lifts_open": 15,
         "lifts_total": 19,
-        "lifts_open_pct": 0
+        "lifts_open_pct": 0.789
       },
       "forecast": {
         "today": {
@@ -8931,9 +8931,9 @@
         "trails_open_pct": 0.789,
         "trails_groomed": 46,
         "trails_groomed_pct": 0.411,
-        "lifts_open": 1,
+        "lifts_open": 13,
         "lifts_total": 16,
-        "lifts_open_pct": 0.063
+        "lifts_open_pct": 0.813
       },
       "forecast": {
         "today": {
@@ -9000,11 +9000,11 @@
         "trails_open": 146,
         "trails_total": 176,
         "trails_open_pct": 0.83,
-        "trails_groomed": 60,
-        "trails_groomed_pct": 0.411,
-        "lifts_open": 0,
+        "trails_groomed": 59,
+        "trails_groomed_pct": 0.404,
+        "lifts_open": 10,
         "lifts_total": 15,
-        "lifts_open_pct": 0
+        "lifts_open_pct": 0.667
       },
       "forecast": {
         "today": {
@@ -9073,9 +9073,9 @@
         "trails_open_pct": 0.972,
         "trails_groomed": 82,
         "trails_groomed_pct": 0.586,
-        "lifts_open": 0,
+        "lifts_open": 13,
         "lifts_total": 19,
-        "lifts_open_pct": 0
+        "lifts_open_pct": 0.684
       },
       "forecast": {
         "today": {
@@ -9215,9 +9215,9 @@
         "trails_open_pct": 0.992,
         "trails_groomed": 74,
         "trails_groomed_pct": 0.578,
-        "lifts_open": 1,
+        "lifts_open": 13,
         "lifts_total": 14,
-        "lifts_open_pct": 0.071
+        "lifts_open_pct": 0.929
       },
       "forecast": {
         "today": {
@@ -9286,9 +9286,9 @@
         "trails_open_pct": 0.984,
         "trails_groomed": 50,
         "trails_groomed_pct": 0.794,
-        "lifts_open": 0,
+        "lifts_open": 11,
         "lifts_total": 11,
-        "lifts_open_pct": 0
+        "lifts_open_pct": 1
       },
       "forecast": {
         "today": {
@@ -9480,16 +9480,16 @@
         "overnight": 0,
         "24h": 0,
         "48h": 0,
-        "7day": 0.8,
+        "7day": 1.2,
         "season": 0,
-        "base_depth": 82.7
+        "base_depth": 83.5
       },
       "terrain": {
-        "trails_open": 115,
+        "trails_open": 114,
         "trails_total": 120,
-        "trails_open_pct": 0.958,
-        "trails_groomed": 43,
-        "trails_groomed_pct": 0.374,
+        "trails_open_pct": 0.95,
+        "trails_groomed": 46,
+        "trails_groomed_pct": 0.404,
         "lifts_open": 12,
         "lifts_total": 12,
         "lifts_open_pct": 1
@@ -9512,7 +9512,7 @@
           {
             "date": "2026-02-05",
             "high_f": 42.8,
-            "low_f": 23,
+            "low_f": 24.8,
             "description": null,
             "snow_inches": 0
           },
@@ -9631,8 +9631,8 @@
       },
       "forecast": {
         "today": {
-          "high_f": 41,
-          "low_f": 41,
+          "high_f": 39.2,
+          "low_f": 39.2,
           "description": null,
           "snow_inches": 0
         },
@@ -9646,10 +9646,10 @@
   "totals": {
     "resorts_total": 70,
     "resorts_reporting": 67,
-    "trails_open": 5471,
+    "trails_open": 5550,
     "trails_total": 7024,
-    "trails_groomed": 2518,
-    "lifts_open": 74,
+    "trails_groomed": 2597,
+    "lifts_open": 225,
     "snow_24h_sum": 6
   },
   "coverage": {

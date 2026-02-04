@@ -2,7 +2,7 @@
   "resort": "crestedbutte",
   "resortName": "Crested Butte",
   "date": "2026-02-04",
-  "generated": "2026-02-04T13:30:31.508Z",
+  "generated": "2026-02-04T16:02:33.250Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -36,8 +36,30 @@
       },
       "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [],
-      "ungroomed": []
+      "newlyGroomed": [
+        {
+          "name": "Fallaway",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Upper Treasury",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        }
+      ],
+      "ungroomed": [
+        {
+          "name": "Conundrum",
+          "difficulty": "Blue",
+          "area": "Back Side"
+        },
+        {
+          "name": "Upper Roller Coaster",
+          "difficulty": "Green",
+          "area": "Front Side"
+        }
+      ]
     },
     "lifts": {
       "available": true,
@@ -152,9 +174,14 @@
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [],
+    "alerts": [
+      "2 trails freshly groomed"
+    ],
     "trends": [],
-    "recommendations": []
+    "recommendations": [
+      "Fresh corduroy on Fallaway - perfect for intermediate skiers",
+      "Fresh corduroy on Upper Treasury - perfect for intermediate skiers"
+    ]
   },
   "morningBrief": {
     "headline": "Fewer Crowds, More Turns",
@@ -186,7 +213,7 @@
         "variationIndex": 3,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Postcard Day"
+        "previousHeadline": "Beat the Weekend Rush"
       },
       "dayOfWeek": "Wednesday"
     }

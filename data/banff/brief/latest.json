@@ -2,7 +2,7 @@
   "resort": "banff",
   "resortName": "Banff Sunshine Village",
   "date": "2026-02-04",
-  "generated": "2026-02-04T17:58:26.338Z",
+  "generated": "2026-02-04T17:06:35.942Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -11,8 +11,8 @@
       "24hour_cm": 0,
       "48hour_inches": 0,
       "48hour_cm": 0,
-      "7day_inches": 1.2,
-      "7day_cm": 3,
+      "7day_inches": 0,
+      "7day_cm": 0,
       "season_total_inches": 0,
       "season_total_cm": 0,
       "conditions": {
@@ -23,9 +23,9 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 117,
+          "today": 115,
           "yesterday": 115,
-          "delta": 2
+          "delta": 0
         },
         "groomedTrails": {
           "today": 47,
@@ -34,18 +34,7 @@
         },
         "totalTrails": 120
       },
-      "newlyOpened": [
-        {
-          "name": "GE. Eagle Glades",
-          "difficulty": "DoubleBlack",
-          "area": "All Terrain"
-        },
-        {
-          "name": "UM. Delirium Dive",
-          "difficulty": "DoubleBlack",
-          "area": "All Terrain"
-        }
-      ],
+      "newlyOpened": [],
       "newlyClosed": [],
       "newlyGroomed": [
         {
@@ -178,7 +167,7 @@
       },
       "outlook": [
         {
-          "date": "2026-02-05T17:58:26.337Z",
+          "date": "2026-02-05T17:06:35.941Z",
           "high_f": 42.8,
           "low_f": 24.8,
           "high_c": 6,
@@ -189,7 +178,7 @@
           "snowfall_expected": 0
         },
         {
-          "date": "2026-02-06T17:58:26.337Z",
+          "date": "2026-02-06T17:06:35.941Z",
           "high_f": 42.8,
           "low_f": 21.2,
           "high_c": 6,
@@ -201,7 +190,7 @@
         }
       ],
       "tomorrow": {
-        "date": "2026-02-05T17:58:26.337Z",
+        "date": "2026-02-05T17:06:35.941Z",
         "high_f": 42.8,
         "low_f": 24.8,
         "high_c": 6,
@@ -217,16 +206,13 @@
     "flags": {
       "hasFreshSnow": false,
       "isPowderDay": false,
-      "hasNewTrails": true,
+      "hasNewTrails": false,
       "significantGroomingIncrease": false
     },
     "alerts": [
-      "2 new trails opened today",
       "13 trails freshly groomed"
     ],
-    "trends": [
-      "2 more trails open than yesterday"
-    ],
+    "trends": [],
     "recommendations": [
       "Fresh corduroy on JW. Goat Chicken Gully - challenging for advanced skiers",
       "Fresh corduroy on GE. Sergie's Shortcut - perfect for intermediate skiers",
@@ -235,7 +221,7 @@
   },
   "morningBrief": {
     "headline": "The Corduroy Is Calling",
-    "body": "117/120 trails spinning, 47 freshly groomed. 39.2° and Unknown. Smooth operators: 13 runs got the full treatment overnight.",
+    "body": "115/120 trails spinning, 47 freshly groomed. 39.2° and Unknown. Smooth operators: 13 runs got the full treatment overnight.",
     "debug": {
       "firedRules": [
         {
@@ -257,7 +243,7 @@
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 5,
+      "totalRulesFired": 4,
       "headlineSelection": {
         "condition": "grooming_highlight",
         "variationIndex": 4,

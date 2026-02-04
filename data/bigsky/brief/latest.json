@@ -2,7 +2,7 @@
   "resort": "bigsky",
   "resortName": "Big Sky",
   "date": "2026-02-04",
-  "generated": "2026-02-04T17:58:16.421Z",
+  "generated": "2026-02-04T17:06:28.639Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,9 +23,9 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 268,
+          "today": 267,
           "yesterday": 269,
-          "delta": -1
+          "delta": -2
         },
         "groomedTrails": {
           "today": 47,
@@ -39,11 +39,6 @@
           "name": "AZ Chutes",
           "difficulty": "high exposure",
           "area": "Challenger Area"
-        },
-        {
-          "name": "Horseshoe Bowl",
-          "difficulty": "Double Black",
-          "area": "Lone Tree Area"
         }
       ],
       "newlyClosed": [
@@ -355,7 +350,7 @@
       "highLiftDemand": false
     },
     "alerts": [
-      "2 new trails opened today",
+      "1 new trail opened today",
       "44 trails freshly groomed"
     ],
     "trends": [

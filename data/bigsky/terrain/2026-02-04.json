@@ -1,6 +1,6 @@
 {
   "ResortId": "bigsky",
-  "Date": "2026-02-04T17:35:19Z",
+  "Date": "2026-02-04T19:15:17Z",
   "GroomingAreas": [
     {
       "Name": "Cascade Area",
@@ -57,8 +57,8 @@
       "Lifts": [
         {
           "Name": "Cascade 3",
-          "Status": "Scheduled",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "LiftType": "Chairlift",
           "WaitTime": null,
           "WaitTimeString": null,
@@ -71,8 +71,8 @@
         },
         {
           "Name": "Little Thunder 2",
-          "Status": "Scheduled",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "LiftType": "Chairlift",
           "WaitTime": null,
           "WaitTimeString": null,
@@ -210,8 +210,8 @@
         },
         {
           "Name": "Cache Trees",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "Difficulty": "Double Black",
           "IsGroomed": false,
           "GroomingStatus": null,
@@ -222,8 +222,8 @@
         },
         {
           "Name": "Little Gullies",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "Difficulty": "Double Black",
           "IsGroomed": false,
           "GroomingStatus": null,
@@ -258,8 +258,8 @@
         },
         {
           "Name": "LRT Traverse",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "Difficulty": "Double Black",
           "IsGroomed": false,
           "GroomingStatus": null,
@@ -294,8 +294,8 @@
         },
         {
           "Name": "Upper Pinnacles",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "Difficulty": "Double Black",
           "IsGroomed": false,
           "GroomingStatus": null,
@@ -306,8 +306,8 @@
         },
         {
           "Name": "Zucchini Patch",
-          "Status": "Open",
-          "IsOpen": true,
+          "Status": "Closed",
+          "IsOpen": false,
           "Difficulty": "Double Black",
           "IsGroomed": false,
           "GroomingStatus": null,
@@ -4547,8 +4547,8 @@
   "Lifts": [
     {
       "Name": "Cascade 3",
-      "Status": "Scheduled",
-      "IsOpen": false,
+      "Status": "Open",
+      "IsOpen": true,
       "LiftType": "Chairlift",
       "WaitTime": null,
       "WaitTimeString": null,
@@ -4561,8 +4561,8 @@
     },
     {
       "Name": "Little Thunder 2",
-      "Status": "Scheduled",
-      "IsOpen": false,
+      "Status": "Open",
+      "IsOpen": true,
       "LiftType": "Chairlift",
       "WaitTime": null,
       "WaitTimeString": null,

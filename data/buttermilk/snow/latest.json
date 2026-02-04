@@ -1,9 +1,9 @@
 {
   "resort": "buttermilk",
   "resortName": "Buttermilk",
-  "date": "2026-02-04",
-  "timestamp": "2026-02-04T09:08:28.371Z",
-  "lastUpdated": "01:55 AM Feb 04, 2026",
+  "date": "2026-02-03",
+  "timestamp": "2026-02-04T05:26:27.770Z",
+  "lastUpdated": "10:17 AM Feb 03, 2026",
   "conditions": "Open",
   "operatingStatus": "Open",
   "snowfall": {
@@ -38,11 +38,11 @@
     "base": null,
     "midMountain": null,
     "summit": null,
-    "lastUpdated": "01:55 AM Feb 04, 2026"
+    "lastUpdated": "10:17 AM Feb 03, 2026"
   },
   "forecast": {
     "location": "Buttermilk",
-    "issuedAt": "2026-02-04T02:04:18-0700",
+    "issuedAt": "2026-02-03T22:19:18-0700",
     "temp_high_f": 30,
     "temp_low_f": 17,
     "forecasted_snow_in": 0,
@@ -82,17 +82,17 @@
         "skies": "Sunny. Partly Cloudy",
         "conditions": "Sunny",
         "temp_high_f": 45,
-        "temp_low_f": 24,
+        "temp_low_f": 25,
         "forecasted_snow_in": 0,
-        "wind": "W",
+        "wind": "WSW",
         "wind_speed_mph": 3
       },
       {
         "date": "2026-02-07",
-        "skies": "Mostly Sunny. Mostly Clear",
-        "conditions": "Mostly Sunny",
+        "skies": "Partly Cloudy. Mostly Clear",
+        "conditions": "Partly Cloudy",
         "temp_high_f": 39,
-        "temp_low_f": 21,
+        "temp_low_f": 22,
         "forecasted_snow_in": 0,
         "wind": "WNW",
         "wind_speed_mph": 4
@@ -134,15 +134,15 @@
           {
             "date": "2026-02-06",
             "high_f": 45,
-            "low_f": 24,
+            "low_f": 25,
             "description": "Sunny",
             "snowfall_day_inches": 0
           },
           {
             "date": "2026-02-07",
             "high_f": 39,
-            "low_f": 21,
-            "description": "Mostly Sunny",
+            "low_f": 22,
+            "description": "Partly Cloudy",
             "snowfall_day_inches": 0
           }
         ]

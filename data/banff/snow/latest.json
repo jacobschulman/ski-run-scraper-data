@@ -2,8 +2,8 @@
   "resort": "banff",
   "resortName": "Banff Sunshine Village",
   "date": "2026-02-04",
-  "timestamp": "2026-02-04T10:56:01.298Z",
-  "lastUpdated": "2026-02-04T10:56:01.298Z",
+  "timestamp": "2026-02-04T13:34:01.372Z",
+  "lastUpdated": "2026-02-04T13:34:01.372Z",
   "provider": "canadian-big3",
   "apiProvider": "hybrid-skibanff-intermaps",
   "conditions": null,
@@ -15,18 +15,18 @@
     "24hour_cm": 0,
     "48hour_inches": 0,
     "48hour_cm": 0,
-    "7day_inches": 0,
-    "7day_cm": 0,
+    "7day_inches": 0.8,
+    "7day_cm": 2,
     "season_total_inches": 0,
     "season_total_cm": 0
   },
   "baseDepth": {
-    "inches": 0,
-    "cm": 0,
-    "lower_inches": 0,
-    "lower_cm": 0,
-    "upper_inches": 0,
-    "upper_cm": 0
+    "inches": 82.7,
+    "cm": 210,
+    "lower_inches": 82.7,
+    "lower_cm": 210,
+    "upper_inches": 82.7,
+    "upper_cm": 210
   },
   "terrain": {
     "totalTrails": 120,
@@ -36,8 +36,8 @@
     "openLifts": 12
   },
   "currentConditions": {
-    "temperature_c": null,
-    "temperature_f": null
+    "temperature_c": -2,
+    "temperature_f": 28.4
   },
   "forecast": {
     "locations": [
@@ -55,7 +55,7 @@
         },
         "forecast_days": [
           {
-            "date": "2026-02-04T10:56:01.301Z",
+            "date": "2026-02-04T13:34:01.374Z",
             "high_f": 39.2,
             "high_c": 4,
             "low_f": 23,
@@ -65,7 +65,7 @@
             "snowfall_night_inches": 0
           },
           {
-            "date": "2026-02-05T10:56:01.301Z",
+            "date": "2026-02-05T13:34:01.374Z",
             "high_f": 42.8,
             "high_c": 6,
             "low_f": 23,
@@ -75,7 +75,7 @@
             "snowfall_night_inches": 0
           },
           {
-            "date": "2026-02-06T10:56:01.301Z",
+            "date": "2026-02-06T13:34:01.374Z",
             "high_f": 42.8,
             "high_c": 6,
             "low_f": 21.2,

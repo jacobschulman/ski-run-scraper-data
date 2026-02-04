@@ -2,7 +2,7 @@
   "resort": "crystal",
   "resortName": "Crystal Mountain",
   "date": "2026-02-04",
-  "generated": "2026-02-04T17:06:28.564Z",
+  "generated": "2026-02-04T19:01:00.236Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,9 +23,9 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 31,
+          "today": 32,
           "yesterday": 32,
-          "delta": -1
+          "delta": 0
         },
         "groomedTrails": {
           "today": 21,
@@ -35,13 +35,7 @@
         "totalTrails": 86
       },
       "newlyOpened": [],
-      "newlyClosed": [
-        {
-          "name": "Rolling Knolls",
-          "difficulty": "Intermediate",
-          "area": "Lower Mountain"
-        }
-      ],
+      "newlyClosed": [],
       "newlyGroomed": [],
       "ungroomed": []
     },

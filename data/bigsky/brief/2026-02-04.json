@@ -2,7 +2,7 @@
   "resort": "bigsky",
   "resortName": "Big Sky",
   "date": "2026-02-04",
-  "generated": "2026-02-04T16:02:39.606Z",
+  "generated": "2026-02-04T15:04:34.954Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,9 +23,9 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 267,
+          "today": 269,
           "yesterday": 269,
-          "delta": -2
+          "delta": 0
         },
         "groomedTrails": {
           "today": 47,
@@ -34,30 +34,8 @@
         },
         "totalTrails": 319
       },
-      "newlyOpened": [
-        {
-          "name": "AZ Chutes",
-          "difficulty": "high exposure",
-          "area": "Challenger Area"
-        }
-      ],
-      "newlyClosed": [
-        {
-          "name": "Firehole",
-          "difficulty": "high exposure",
-          "area": "Headwaters Area"
-        },
-        {
-          "name": "Hellroaring",
-          "difficulty": "high exposure",
-          "area": "Headwaters Area"
-        },
-        {
-          "name": "White Tail",
-          "difficulty": "high exposure",
-          "area": "Headwaters Area"
-        }
-      ],
+      "newlyOpened": [],
+      "newlyClosed": [],
       "newlyGroomed": [
         {
           "name": "Cupajo",
@@ -345,12 +323,11 @@
     "flags": {
       "hasFreshSnow": false,
       "isPowderDay": false,
-      "hasNewTrails": true,
+      "hasNewTrails": false,
       "significantGroomingIncrease": true,
       "highLiftDemand": false
     },
     "alerts": [
-      "1 new trail opened today",
       "44 trails freshly groomed"
     ],
     "trends": [

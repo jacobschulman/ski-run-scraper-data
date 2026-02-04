@@ -9,18 +9,18 @@
   "currentStatus": {
     "date": "2026-02-04",
     "isOpen": true,
-    "isGroomed": true,
-    "groomingStatus": "Groomed",
+    "isGroomed": false,
+    "groomingStatus": null,
     "status": "Open"
   },
   "stats": {
     "seasonStartDate": "2025-12-15",
     "daysTracked": 34,
-    "daysGroomed": 6,
-    "groomingPercentage": 18,
-    "currentStreak": 1,
+    "daysGroomed": 5,
+    "groomingPercentage": 15,
+    "currentStreak": 0,
     "longestStreak": 3,
-    "lastGroomed": "2026-02-04",
+    "lastGroomed": "2026-01-28",
     "dayOfWeek": [
       {
         "day": "Sun",
@@ -42,8 +42,8 @@
       },
       {
         "day": "Wed",
-        "percentage": 80,
-        "groomed": 4,
+        "percentage": 60,
+        "groomed": 3,
         "total": 5
       },
       {
@@ -70,8 +70,8 @@
     {
       "date": "2026-02-04",
       "isOpen": true,
-      "isGroomed": true,
-      "groomingStatus": "Groomed",
+      "isGroomed": false,
+      "groomingStatus": null,
       "groomingType": null
     },
     {
@@ -306,5 +306,5 @@
       "groomingType": null
     }
   ],
-  "generated": "2026-02-04T16:12:39.134Z"
+  "generated": "2026-02-04T15:14:05.851Z"
 }

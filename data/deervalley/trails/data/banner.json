@@ -9,18 +9,18 @@
   "currentStatus": {
     "date": "2026-02-04",
     "isOpen": true,
-    "isGroomed": false,
-    "groomingStatus": null,
+    "isGroomed": true,
+    "groomingStatus": "Yes",
     "status": "Open"
   },
   "stats": {
     "seasonStartDate": "2025-12-07",
     "daysTracked": 60,
-    "daysGroomed": 29,
-    "groomingPercentage": 48,
-    "currentStreak": 0,
-    "longestStreak": 29,
-    "lastGroomed": "2026-02-03",
+    "daysGroomed": 30,
+    "groomingPercentage": 50,
+    "currentStreak": 30,
+    "longestStreak": 30,
+    "lastGroomed": "2026-02-04",
     "dayOfWeek": [
       {
         "day": "Sun",
@@ -42,8 +42,8 @@
       },
       {
         "day": "Wed",
-        "percentage": 44,
-        "groomed": 4,
+        "percentage": 56,
+        "groomed": 5,
         "total": 9
       },
       {
@@ -70,8 +70,8 @@
     {
       "date": "2026-02-04",
       "isOpen": true,
-      "isGroomed": false,
-      "groomingStatus": null,
+      "isGroomed": true,
+      "groomingStatus": "Yes",
       "groomingType": "Skiing"
     },
     {
@@ -488,5 +488,5 @@
       "groomingType": "Skiing"
     }
   ],
-  "generated": "2026-02-04T16:12:37.254Z"
+  "generated": "2026-02-04T15:14:03.874Z"
 }

@@ -1374,32 +1374,32 @@
     },
     {
       "Name": "Chondola",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Childrens Magic Carpet",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Adult Magic Carpet",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Village Express",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Polar Queen Express",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
@@ -1410,26 +1410,26 @@
     },
     {
       "Name": "Lift 7",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Oak Street Lift",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Plunge Lift",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
       "Name": "Sunshine Express",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     },
     {
@@ -1464,14 +1464,14 @@
     },
     {
       "Name": "North Meadows Carpet",
-      "Status": "Open",
-      "IsOpen": true,
+      "Status": "Closed",
+      "IsOpen": false,
       "LiftType": "Chairlift"
     }
   ],
   "ResortId": "telluride",
-  "Date": "2026-02-04T16:02:33.086Z",
+  "Date": "2026-02-04T15:04:27.077Z",
   "provider": "vail",
-  "scrapedAt": "2026-02-04T16:02:33.095Z",
-  "sourceLastUpdated": "2026-02-04T16:02:33.086Z"
+  "scrapedAt": "2026-02-04T15:04:27.094Z",
+  "sourceLastUpdated": "2026-02-04T15:04:27.077Z"
 }

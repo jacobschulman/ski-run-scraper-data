@@ -2,7 +2,7 @@
   "resort": "killington",
   "resortName": "Killington",
   "date": "2026-02-04",
-  "generated": "2026-02-04T16:02:39.628Z",
+  "generated": "2026-02-04T15:04:34.977Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,25 +23,19 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 174,
+          "today": 175,
           "yesterday": 175,
-          "delta": -1
+          "delta": 0
         },
         "groomedTrails": {
-          "today": 92,
+          "today": 94,
           "yesterday": 93,
-          "delta": -1
+          "delta": 1
         },
         "totalTrails": 222
       },
       "newlyOpened": [],
-      "newlyClosed": [
-        {
-          "name": "Ovation - Lower",
-          "difficulty": "Double Black",
-          "area": "Skye Peak"
-        }
-      ],
+      "newlyClosed": [],
       "newlyGroomed": [
         {
           "name": "Pipe Dream - Lower",
@@ -49,13 +43,7 @@
           "area": "South Ridge Area"
         }
       ],
-      "ungroomed": [
-        {
-          "name": "Ovation - Middle",
-          "difficulty": "Black",
-          "area": "Skye Peak"
-        }
-      ]
+      "ungroomed": []
     },
     "lifts": {
       "available": true,
@@ -136,7 +124,7 @@
   },
   "morningBrief": {
     "headline": "Fewer Crowds, More Turns",
-    "body": "174/222 trails spinning, 92 freshly groomed. Windy. Light snow possible in the forecast.",
+    "body": "175/222 trails spinning, 94 freshly groomed. Windy. Light snow possible in the forecast.",
     "debug": {
       "firedRules": [
         {

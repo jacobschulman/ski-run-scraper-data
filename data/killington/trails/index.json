@@ -1449,22 +1449,22 @@
       "slug": "ovation-lower",
       "area": "Skye Peak",
       "difficulty": "Double Black",
-      "isGroomedToday": false,
-      "isOpen": false,
-      "groomingPercentage": 16,
-      "currentStreak": 0,
-      "longestStreak": 7
+      "isGroomedToday": true,
+      "isOpen": true,
+      "groomingPercentage": 18,
+      "currentStreak": 8,
+      "longestStreak": 8
     },
     {
       "name": "Ovation - Middle",
       "slug": "ovation-middle",
       "area": "Skye Peak",
       "difficulty": "Black",
-      "isGroomedToday": false,
+      "isGroomedToday": true,
       "isOpen": true,
-      "groomingPercentage": 16,
-      "currentStreak": 0,
-      "longestStreak": 7
+      "groomingPercentage": 18,
+      "currentStreak": 8,
+      "longestStreak": 8
     },
     {
       "name": "Panic Button",
@@ -2391,5 +2391,5 @@
       "longestStreak": 14
     }
   ],
-  "lastUpdated": "2026-02-04T16:12:43.393Z"
+  "lastUpdated": "2026-02-04T15:14:10.519Z"
 }

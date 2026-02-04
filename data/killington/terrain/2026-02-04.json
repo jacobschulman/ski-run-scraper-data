@@ -1,6 +1,6 @@
 {
   "ResortId": "killington",
-  "Date": "2026-02-04T16:02:38.355Z",
+  "Date": "2026-02-04T15:04:33.800Z",
   "GroomingAreas": [
     {
       "Name": "North Ridge Area",
@@ -1882,11 +1882,11 @@
         },
         {
           "Name": "Ovation - Lower",
-          "Status": "Closed",
-          "IsOpen": false,
+          "Status": "Open",
+          "IsOpen": true,
           "Difficulty": "Double Black",
-          "IsGroomed": false,
-          "GroomingStatus": null,
+          "IsGroomed": true,
+          "GroomingStatus": "Groomed",
           "TrailType": "Skiing",
           "SnowMaking": null,
           "Glades": null,
@@ -1898,8 +1898,8 @@
           "Status": "Open",
           "IsOpen": true,
           "Difficulty": "Black",
-          "IsGroomed": false,
-          "GroomingStatus": null,
+          "IsGroomed": true,
+          "GroomingStatus": "Groomed",
           "TrailType": "Skiing",
           "SnowMaking": null,
           "Glades": null,

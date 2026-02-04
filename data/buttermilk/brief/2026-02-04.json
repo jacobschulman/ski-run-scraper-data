@@ -2,7 +2,7 @@
   "resort": "buttermilk",
   "resortName": "Buttermilk",
   "date": "2026-02-04",
-  "generated": "2026-02-04T16:02:39.621Z",
+  "generated": "2026-02-04T15:04:34.970Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -28,38 +28,16 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 26,
+          "today": 24,
           "yesterday": 24,
-          "delta": 2
+          "delta": 0
         },
         "totalTrails": 52
       },
       "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [
-        {
-          "name": "Bear",
-          "difficulty": "Blue",
-          "area": "Main"
-        },
-        {
-          "name": "Javelin",
-          "difficulty": "Black",
-          "area": "Tiehack"
-        },
-        {
-          "name": "Sterner",
-          "difficulty": "Black",
-          "area": "Tiehack"
-        }
-      ],
-      "ungroomed": [
-        {
-          "name": "Ptarmigan",
-          "difficulty": "Blue",
-          "area": "Tiehack"
-        }
-      ]
+      "newlyGroomed": [],
+      "ungroomed": []
     },
     "lifts": {
       "available": true,
@@ -128,19 +106,13 @@
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [
-      "3 trails freshly groomed"
-    ],
+    "alerts": [],
     "trends": [],
-    "recommendations": [
-      "Fresh corduroy on Bear - perfect for intermediate skiers",
-      "Fresh corduroy on Javelin - challenging for advanced skiers",
-      "Fresh corduroy on Sterner - challenging for advanced skiers"
-    ]
+    "recommendations": []
   },
   "morningBrief": {
     "headline": "Fewer Crowds, More Turns",
-    "body": "47/52 trails spinning, 26 freshly groomed. Mostly Clear. 47/52 trails open, 26 groomed. Mostly Clear.",
+    "body": "47/52 trails spinning, 24 freshly groomed. Mostly Clear. 47/52 trails open, 24 groomed. Mostly Clear.",
     "debug": {
       "firedRules": [
         {

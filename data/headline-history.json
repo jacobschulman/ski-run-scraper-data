@@ -1368,10 +1368,15 @@
     ]
   },
   "banff": {
-    "lastHeadline": "Fewer Crowds, More Turns",
+    "lastHeadline": "Midweek Bliss",
     "lastCondition": "midweek_mellow",
     "lastDate": "2026-02-04",
     "history": [
+      {
+        "date": "2026-02-04",
+        "condition": "midweek_mellow",
+        "headline": "Midweek Bliss"
+      },
       {
         "date": "2026-02-04",
         "condition": "midweek_mellow",
@@ -1401,22 +1406,22 @@
         "date": "2026-02-03",
         "condition": "terrain_few",
         "headline": "Terrain Update"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "terrain_few",
-        "headline": "Patrol Opened {newTrailsCount} More"
       }
     ]
   },
   "lakelouise": {
-    "lastHeadline": "Mixed Precip Today",
+    "lastHeadline": "Rain at Base, Snow Up Top",
     "lastCondition": "weather_mixed",
     "lastDate": "2026-02-04",
     "history": [
       {
         "date": "2026-02-04",
         "condition": "weather_mixed",
+        "headline": "Rain at Base, Snow Up Top"
+      },
+      {
+        "date": "2026-02-04",
+        "condition": "weather_mixed",
         "headline": "Mixed Precip Today"
       },
       {
@@ -1443,22 +1448,22 @@
         "date": "2026-02-03",
         "condition": "weather_mixed",
         "headline": "Rain at Base, Snow Up Top"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "weather_mixed",
-        "headline": "Variable Conditions"
       }
     ]
   },
   "norquay": {
-    "lastHeadline": "Midweek Mountain Report",
+    "lastHeadline": "Quiet Days on the Hill",
     "lastCondition": "midweek_mellow",
     "lastDate": "2026-02-04",
     "history": [
       {
         "date": "2026-02-04",
         "condition": "midweek_mellow",
+        "headline": "Quiet Days on the Hill"
+      },
+      {
+        "date": "2026-02-04",
+        "condition": "midweek_mellow",
         "headline": "Midweek Mountain Report"
       },
       {
@@ -1485,11 +1490,6 @@
         "date": "2026-02-03",
         "condition": "midweek_mellow",
         "headline": "Midweek Bliss"
-      },
-      {
-        "date": "2026-02-03",
-        "condition": "midweek_mellow",
-        "headline": "Quiet Days on the Hill"
       }
     ]
   },

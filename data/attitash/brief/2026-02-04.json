@@ -2,7 +2,7 @@
   "resort": "attitash",
   "resortName": "Attitash",
   "date": "2026-02-04",
-  "generated": "2026-02-04T06:05:59.135Z",
+  "generated": "2026-02-04T11:47:46.209Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,14 +23,14 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 59,
+          "today": 60,
           "yesterday": 62,
-          "delta": -3
+          "delta": -2
         },
         "groomedTrails": {
-          "today": 44,
+          "today": 45,
           "yesterday": 45,
-          "delta": -1
+          "delta": 0
         },
         "totalTrails": 76
       },
@@ -45,11 +45,6 @@
           "name": "Crawfords Path",
           "difficulty": "Blue",
           "area": "Bear Peak"
-        },
-        {
-          "name": "Illusion",
-          "difficulty": "Black",
-          "area": "Bear Peak"
         }
       ],
       "newlyGroomed": [],
@@ -57,6 +52,64 @@
     },
     "lifts": {
       "available": false
+    },
+    "forecast": {
+      "today": {
+        "date": "2026-02-04",
+        "high_f": 26,
+        "low_f": 11,
+        "high_c": -4,
+        "low_c": -12,
+        "description": "Mostly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0
+      },
+      "outlook": [
+        {
+          "date": "2026-02-05T05:00:00Z",
+          "high_f": 23,
+          "low_f": 5,
+          "high_c": -5,
+          "low_c": -15,
+          "description": "Partly Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-06T05:00:00Z",
+          "high_f": 21,
+          "low_f": null,
+          "high_c": -6,
+          "low_c": -18,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        },
+        {
+          "date": "2026-02-07T05:00:00Z",
+          "high_f": 19,
+          "low_f": null,
+          "high_c": -8,
+          "low_c": -18,
+          "description": "Cloudy",
+          "snowfall_day_inches": 0,
+          "snowfall_night_inches": 0,
+          "snowfall_expected": 0
+        }
+      ],
+      "tomorrow": {
+        "date": "2026-02-05T05:00:00Z",
+        "high_f": 23,
+        "low_f": 5,
+        "high_c": -5,
+        "low_c": -15,
+        "description": "Partly Cloudy",
+        "snowfall_day_inches": 0,
+        "snowfall_night_inches": 0,
+        "snowfall_expected": 0
+      }
     }
   },
   "computedInsights": {
@@ -72,7 +125,7 @@
   },
   "morningBrief": {
     "headline": "Quiet Days on the Hill",
-    "body": "The rundown: 59 trails open, 44 groomed. Variable conditions with temps around temps TBD. 59/76 trails open, 44 groomed. Variable conditions.",
+    "body": "The rundown: 60 trails open, 45 groomed. Mostly Cloudy with temps around 26°. 60/76 trails open, 45 groomed. 26° and Mostly Cloudy.",
     "debug": {
       "firedRules": [
         {
@@ -100,7 +153,7 @@
         "variationIndex": 1,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Postcard Day"
+        "previousHeadline": "Midweek Bliss"
       },
       "dayOfWeek": "Wednesday"
     }

@@ -2,7 +2,7 @@
   "resort": "laurelmountain",
   "resortName": "Laurel Mountain",
   "date": "2026-02-04",
-  "generated": "2026-02-04T11:47:46.237Z",
+  "generated": "2026-02-04T10:55:46.172Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,19 +23,45 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 16,
+          "today": 11,
           "yesterday": 16,
-          "delta": 0
+          "delta": -5
         },
         "groomedTrails": {
-          "today": 14,
+          "today": 11,
           "yesterday": 14,
-          "delta": 0
+          "delta": -3
         },
         "totalTrails": 19
       },
       "newlyOpened": [],
-      "newlyClosed": [],
+      "newlyClosed": [
+        {
+          "name": "Docs Forest Glades",
+          "difficulty": "DoubleBlack",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "Dream Highway",
+          "difficulty": "Blue",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "Easy Way",
+          "difficulty": "Blue",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "Laurel Run",
+          "difficulty": "Black",
+          "area": "Laurel Mountain"
+        },
+        {
+          "name": "The Slot",
+          "difficulty": "Blue",
+          "area": "Laurel Mountain"
+        }
+      ],
       "newlyGroomed": [],
       "ungroomed": []
     },
@@ -113,7 +139,7 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Overnight Refresh",
+    "headline": "The Mountain Got a Touch-Up",
     "body": "1\" fell while you were sleeping. The bumps are softer, groomers are primo. Cold day ahead: 20° high. Dress warmly.",
     "debug": {
       "firedRules": [
@@ -142,7 +168,7 @@
         "variationIndex": 3,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "The Mountain Got a Touch-Up"
+        "previousHeadline": "{snow24h}\" Freshened Things Up"
       },
       "dayOfWeek": "Wednesday"
     }

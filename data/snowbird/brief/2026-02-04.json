@@ -2,7 +2,7 @@
   "resort": "snowbird",
   "resortName": "Snowbird",
   "date": "2026-02-04",
-  "generated": "2026-02-04T15:04:34.960Z",
+  "generated": "2026-02-04T13:30:38.842Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -28,43 +28,16 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 49,
+          "today": 50,
           "yesterday": 50,
-          "delta": -1
+          "delta": 0
         },
         "totalTrails": 200
       },
       "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [
-        {
-          "name": "Road to Provo",
-          "difficulty": "Black",
-          "area": "Gad Valley"
-        },
-        {
-          "name": "Bryce's Run",
-          "difficulty": "Blue",
-          "area": "Gad Valley"
-        }
-      ],
-      "ungroomed": [
-        {
-          "name": "West 2nd South",
-          "difficulty": "easiest",
-          "area": "Gad Valley"
-        },
-        {
-          "name": "Goblin Gully",
-          "difficulty": "Black",
-          "area": "Gad Valley"
-        },
-        {
-          "name": "Regulator Gully",
-          "difficulty": "Blue",
-          "area": "Gad Valley"
-        }
-      ]
+      "newlyGroomed": [],
+      "ungroomed": []
     },
     "lifts": {
       "available": true,
@@ -133,18 +106,13 @@
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [
-      "2 trails freshly groomed"
-    ],
+    "alerts": [],
     "trends": [],
-    "recommendations": [
-      "Fresh corduroy on Road to Provo - challenging for advanced skiers",
-      "Fresh corduroy on Bryce's Run - perfect for intermediate skiers"
-    ]
+    "recommendations": []
   },
   "morningBrief": {
     "headline": "Fewer Crowds, More Turns",
-    "body": "The rundown: 185 trails open, 49 groomed. Clear with temps around temps TBD. 185/200 trails open, 49 groomed. Clear.",
+    "body": "The rundown: 185 trails open, 50 groomed. Clear with temps around temps TBD. 185/200 trails open, 50 groomed. Clear.",
     "debug": {
       "firedRules": [
         {

@@ -2,7 +2,7 @@
   "resort": "mountsunapee",
   "resortName": "Mount Sunapee",
   "date": "2026-02-04",
-  "generated": "2026-02-04T15:04:27.284Z",
+  "generated": "2026-02-04T13:30:31.547Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,25 +23,19 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 59,
+          "today": 60,
           "yesterday": 60,
-          "delta": -1
+          "delta": 0
         },
         "groomedTrails": {
-          "today": 41,
+          "today": 42,
           "yesterday": 42,
-          "delta": -1
+          "delta": 0
         },
         "totalTrails": 66
       },
       "newlyOpened": [],
-      "newlyClosed": [
-        {
-          "name": "Jet Stream",
-          "difficulty": "TerrainPark",
-          "area": "Terrain Park"
-        }
-      ],
+      "newlyClosed": [],
       "newlyGroomed": [],
       "ungroomed": []
     },
@@ -119,8 +113,8 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Picture-Perfect Conditions",
-    "body": "59 trails open, 41 groomed. Mostly Clear, high of 22°. Clear skies and 22° means stunning views and firm snow. Layer up.",
+    "headline": "Not a Cloud in Sight",
+    "body": "60 trails open, 42 groomed. Mostly Clear, high of 22°. Clear skies and 22° means stunning views and firm snow. Layer up.",
     "debug": {
       "firedRules": [
         {
@@ -148,7 +142,7 @@
         "variationIndex": 2,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Not a Cloud in Sight"
+        "previousHeadline": "Picture-Perfect Conditions"
       },
       "dayOfWeek": "Wednesday"
     }

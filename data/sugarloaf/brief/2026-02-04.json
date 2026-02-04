@@ -2,7 +2,7 @@
   "resort": "sugarloaf",
   "resortName": "Sugarloaf",
   "date": "2026-02-04",
-  "generated": "2026-02-04T15:04:34.983Z",
+  "generated": "2026-02-04T13:30:38.861Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -28,9 +28,9 @@
           "delta": 0
         },
         "groomedTrails": {
-          "today": 59,
+          "today": 60,
           "yesterday": 56,
-          "delta": 3
+          "delta": 4
         },
         "totalTrails": 176
       },
@@ -69,11 +69,6 @@
         }
       ],
       "ungroomed": [
-        {
-          "name": "Upper Competition Hill",
-          "difficulty": "Black",
-          "area": "SuperQuad"
-        },
         {
           "name": "Haulback",
           "difficulty": "Black",
@@ -167,7 +162,7 @@
   },
   "morningBrief": {
     "headline": "Quiet Days on the Hill",
-    "body": "146 trails open, 59 groomed. Partly Cloudy, temperatures TBD. 6 runs freshly groomed, mostly in SuperQuad, Whiffletree, and more. Light snow possible in the forecast.",
+    "body": "146 trails open, 60 groomed. Partly Cloudy, temperatures TBD. 6 runs freshly groomed, mostly in SuperQuad, Whiffletree, and more. Light snow possible in the forecast.",
     "debug": {
       "firedRules": [
         {

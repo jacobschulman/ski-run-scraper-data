@@ -2,7 +2,7 @@
   "resort": "deervalley",
   "resortName": "Deer Valley",
   "date": "2026-02-04",
-  "generated": "2026-02-04T15:04:34.849Z",
+  "generated": "2026-02-04T13:30:38.738Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,9 +23,9 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 145,
+          "today": 147,
           "yesterday": 147,
-          "delta": -2
+          "delta": 0
         },
         "groomedTrails": {
           "today": 70,
@@ -35,18 +35,7 @@
         "totalTrails": 227
       },
       "newlyOpened": [],
-      "newlyClosed": [
-        {
-          "name": "Golden Age",
-          "difficulty": "Easy",
-          "area": "Park Peak"
-        },
-        {
-          "name": "Humbug",
-          "difficulty": "Intermediate",
-          "area": "Park Peak"
-        }
-      ],
+      "newlyClosed": [],
       "newlyGroomed": [
         {
           "name": "Keno",
@@ -190,8 +179,8 @@
     ]
   },
   "morningBrief": {
-    "headline": "Midweek Mountain Report",
-    "body": "145 of 227 trails are open with 70 groomed. Clear with a temperatures TBD. 6 runs freshly groomed, mostly in Bald Mountain, Keetley Point, and more.",
+    "headline": "Quiet Days on the Hill",
+    "body": "147 of 227 trails are open with 70 groomed. Clear with a temperatures TBD. 6 runs freshly groomed, mostly in Bald Mountain, Keetley Point, and more.",
     "debug": {
       "firedRules": [
         {
@@ -219,7 +208,7 @@
         "variationIndex": 0,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Quiet Days on the Hill"
+        "previousHeadline": "Midweek Mountain Report"
       },
       "dayOfWeek": "Wednesday"
     }

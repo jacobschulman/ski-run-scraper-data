@@ -2,7 +2,7 @@
   "resort": "crestedbutte",
   "resortName": "Crested Butte",
   "date": "2026-02-04",
-  "generated": "2026-02-04T15:04:27.241Z",
+  "generated": "2026-02-04T13:30:31.508Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -28,33 +28,16 @@
           "delta": -1
         },
         "groomedTrails": {
-          "today": 40,
+          "today": 39,
           "yesterday": 40,
-          "delta": 0
+          "delta": -1
         },
         "totalTrails": 167
       },
       "newlyOpened": [],
       "newlyClosed": [],
-      "newlyGroomed": [
-        {
-          "name": "Fallaway",
-          "difficulty": "Blue",
-          "area": "Back Side"
-        },
-        {
-          "name": "Upper Treasury",
-          "difficulty": "Blue",
-          "area": "Back Side"
-        }
-      ],
-      "ungroomed": [
-        {
-          "name": "Conundrum",
-          "difficulty": "Blue",
-          "area": "Back Side"
-        }
-      ]
+      "newlyGroomed": [],
+      "ungroomed": []
     },
     "lifts": {
       "available": true,
@@ -169,18 +152,13 @@
       "significantGroomingIncrease": false,
       "highLiftDemand": false
     },
-    "alerts": [
-      "2 trails freshly groomed"
-    ],
+    "alerts": [],
     "trends": [],
-    "recommendations": [
-      "Fresh corduroy on Fallaway - perfect for intermediate skiers",
-      "Fresh corduroy on Upper Treasury - perfect for intermediate skiers"
-    ]
+    "recommendations": []
   },
   "morningBrief": {
-    "headline": "Beat the Weekend Rush",
-    "body": "The rundown: 111 trails open, 40 groomed. Clear with temps around 37°. Watch for crowds at High Lift T-Bar, which saw 11-minute waits yesterday.",
+    "headline": "Fewer Crowds, More Turns",
+    "body": "The rundown: 111 trails open, 39 groomed. Clear with temps around 37°. Watch for crowds at High Lift T-Bar, which saw 11-minute waits yesterday.",
     "debug": {
       "firedRules": [
         {
@@ -208,7 +186,7 @@
         "variationIndex": 3,
         "totalVariations": 5,
         "usedWeekendVariation": false,
-        "previousHeadline": "Fewer Crowds, More Turns"
+        "previousHeadline": "Postcard Day"
       },
       "dayOfWeek": "Wednesday"
     }

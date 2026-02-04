@@ -2,7 +2,7 @@
   "resort": "bostonmills",
   "resortName": "Boston Mills",
   "date": "2026-02-04",
-  "generated": "2026-02-04T15:04:27.321Z",
+  "generated": "2026-02-04T13:30:31.583Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -23,9 +23,9 @@
     "terrain": {
       "stats": {
         "openTrails": {
-          "today": 6,
+          "today": 0,
           "yesterday": 6,
-          "delta": 0
+          "delta": -6
         },
         "groomedTrails": {
           "today": 0,
@@ -35,7 +35,38 @@
         "totalTrails": 7
       },
       "newlyOpened": [],
-      "newlyClosed": [],
+      "newlyClosed": [
+        {
+          "name": "Buttermilk",
+          "difficulty": "Blue",
+          "area": "Boston Mills"
+        },
+        {
+          "name": "Croyle",
+          "difficulty": "Black",
+          "area": "Boston Mills"
+        },
+        {
+          "name": "North Bowl",
+          "difficulty": "Black",
+          "area": "Boston Mills"
+        },
+        {
+          "name": "Peter's Pride",
+          "difficulty": "TerrainPark",
+          "area": "Boston Mills"
+        },
+        {
+          "name": "Summit",
+          "difficulty": "Green",
+          "area": "Boston Mills"
+        },
+        {
+          "name": "Tiger",
+          "difficulty": "Black",
+          "area": "Boston Mills"
+        }
+      ],
       "newlyGroomed": [],
       "ungroomed": []
     },
@@ -113,36 +144,30 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Midweek Bliss",
-    "body": "6 trails open, 0 groomed. Partly Cloudy, high of 23°. 6/7 trails open, 0 groomed. 23° and Partly Cloudy.",
+    "headline": "The Wait Continues",
+    "body": "The mountain is still prepping for the season. Weather today: Partly Cloudy.",
     "debug": {
       "firedRules": [
         {
-          "id": "time_midweek_mellow",
-          "category": "time",
-          "priority": 45,
+          "id": "resort_closed",
+          "category": "terrain",
+          "priority": 95,
           "usedFor": "headline"
         },
         {
-          "id": "fallback_headline",
-          "category": "snow",
-          "priority": 10,
-          "usedFor": "body"
-        },
-        {
-          "id": "fallback_body",
-          "category": "weather",
-          "priority": 5,
+          "id": "resort_closed",
+          "category": "terrain",
+          "priority": 95,
           "usedFor": "body"
         }
       ],
-      "totalRulesFired": 3,
+      "totalRulesFired": 2,
       "headlineSelection": {
-        "condition": "midweek_mellow",
+        "condition": "resort_closed",
         "variationIndex": 2,
-        "totalVariations": 5,
+        "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "The Wait Continues"
+        "previousHeadline": "Stay Tuned for Opening"
       },
       "dayOfWeek": "Wednesday"
     }

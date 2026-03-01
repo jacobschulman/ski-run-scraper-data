@@ -1296,7 +1296,7 @@
       "area": "KT Peak",
       "difficulty": "Very Difficult",
       "isGroomedToday": false,
-      "isOpen": false,
+      "isOpen": true,
       "groomingPercentage": 0,
       "currentStreak": 0,
       "longestStreak": 0
@@ -3260,5 +3260,5 @@
       "longestStreak": 0
     }
   ],
-  "lastUpdated": "2026-03-01T21:44:08.804Z"
+  "lastUpdated": "2026-03-01T22:46:07.773Z"
 }

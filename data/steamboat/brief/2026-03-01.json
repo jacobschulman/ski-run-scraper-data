@@ -2,7 +2,7 @@
   "resort": "steamboat",
   "resortName": "Steamboat",
   "date": "2026-03-01",
-  "generated": "2026-03-01T21:31:01.583Z",
+  "generated": "2026-03-01T22:33:00.269Z",
   "rawData": {
     "snow": {
       "overnight_inches": 1,
@@ -232,7 +232,7 @@
         "variationIndex": 0,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Sunday Funday"
+        "previousHeadline": "A Little Sugar on Top"
       },
       "dayOfWeek": "Sunday"
     }

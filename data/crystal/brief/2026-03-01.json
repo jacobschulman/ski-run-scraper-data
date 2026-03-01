@@ -2,7 +2,7 @@
   "resort": "crystal",
   "resortName": "Crystal Mountain",
   "date": "2026-03-01",
-  "generated": "2026-03-01T21:31:01.599Z",
+  "generated": "2026-03-01T22:33:00.286Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -137,7 +137,7 @@
     "recommendations": []
   },
   "morningBrief": {
-    "headline": "Fresh Snow on the Way",
+    "headline": "More Snow Coming",
     "body": "53 trails open, 27 groomed. Partly Cloudy, high of 42°. A little something coming our way. Light snow expected to dust things up.",
     "debug": {
       "firedRules": [
@@ -163,10 +163,10 @@
       "totalRulesFired": 4,
       "headlineSelection": {
         "condition": "snow_coming",
-        "variationIndex": 1,
+        "variationIndex": 2,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Sunday Skiing"
+        "previousHeadline": "A Refresh Is Coming"
       },
       "dayOfWeek": "Sunday"
     }

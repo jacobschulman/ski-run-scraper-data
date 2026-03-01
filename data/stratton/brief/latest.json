@@ -2,7 +2,7 @@
   "resort": "stratton",
   "resortName": "Stratton",
   "date": "2026-03-01",
-  "generated": "2026-03-01T21:31:01.556Z",
+  "generated": "2026-03-01T22:33:00.241Z",
   "rawData": {
     "snow": {
       "overnight_inches": 0,
@@ -190,7 +190,7 @@
     ]
   },
   "morningBrief": {
-    "headline": "Fresh Layer in Place",
+    "headline": "Overnight Refresh",
     "body": "2\" fell while you were sleeping. The bumps are softer, groomers are primo. 3 more trails opened today, expanding your options. Light snow possible in the forecast.",
     "debug": {
       "firedRules": [
@@ -222,10 +222,10 @@
       "totalRulesFired": 10,
       "headlineSelection": {
         "condition": "fresh_coat",
-        "variationIndex": 5,
+        "variationIndex": 2,
         "totalVariations": 6,
         "usedWeekendVariation": false,
-        "previousHeadline": "Patrol Opened {newTrailsCount} More"
+        "previousHeadline": "{snow24h}\" Freshened Things Up"
       },
       "dayOfWeek": "Sunday"
     }

@@ -4,7 +4,6 @@
       "name": "Vail",
       "provider": "vail",
       "files": [
-        "2026-03-20.json",
         "2026-03-19.json",
         "2026-03-18.json",
         "2026-03-17.json",
@@ -138,24 +137,23 @@
         "2025-11-07.json",
         "2025-11-06.json"
       ],
-      "latest": "2026-03-20.json",
-      "count": 133,
+      "latest": "2026-03-19.json",
+      "count": 132,
       "dataCapabilities": {
         "terrainAvailable": true,
         "snowReportAvailable": true,
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-03-20T01:02:26.4523693-06:00",
+        "lastTerrainUpdate": "2026-03-19T09:59:06.8693993-06:00",
         "lastSnowUpdate": "2026-03-20T05:20:33.073Z",
-        "lastBriefUpdate": "2026-03-20T07:07:35.086Z"
+        "lastBriefUpdate": "2026-03-19T16:03:45.310Z"
       }
     },
     "beavercreek": {
       "name": "Beaver Creek",
       "provider": "vail",
       "files": [
-        "2026-03-20.json",
         "2026-03-19.json",
         "2026-03-18.json",
         "2026-03-17.json",
@@ -289,24 +287,23 @@
         "2025-11-07.json",
         "2025-11-06.json"
       ],
-      "latest": "2026-03-20.json",
-      "count": 133,
+      "latest": "2026-03-19.json",
+      "count": 132,
       "dataCapabilities": {
         "terrainAvailable": true,
         "snowReportAvailable": true,
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-03-20T00:59:22.7256364-06:00",
+        "lastTerrainUpdate": "2026-03-19T10:00:40.2348395-06:00",
         "lastSnowUpdate": "2026-03-20T05:20:42.186Z",
-        "lastBriefUpdate": "2026-03-20T07:07:35.090Z"
+        "lastBriefUpdate": "2026-03-19T16:03:45.315Z"
       }
     },
     "breckenridge": {
       "name": "Breckenridge",
       "provider": "vail",
       "files": [
-        "2026-03-20.json",
         "2026-03-19.json",
         "2026-03-18.json",
         "2026-03-17.json",
@@ -431,24 +428,23 @@
         "2025-11-16.json",
         "2025-11-15.json"
       ],
-      "latest": "2026-03-20.json",
-      "count": 124,
+      "latest": "2026-03-19.json",
+      "count": 123,
       "dataCapabilities": {
         "terrainAvailable": true,
         "snowReportAvailable": true,
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-03-20T00:59:06.2132425-06:00",
+        "lastTerrainUpdate": "2026-03-19T10:01:02.8945588-06:00",
         "lastSnowUpdate": "2026-03-20T05:20:51.117Z",
-        "lastBriefUpdate": "2026-03-20T07:07:35.093Z"
+        "lastBriefUpdate": "2026-03-19T16:03:45.317Z"
       }
     },
     "parkcity": {
       "name": "Park City",
       "provider": "vail",
       "files": [
-        "2026-03-20.json",
         "2026-03-19.json",
         "2026-03-18.json",
         "2026-03-17.json",
@@ -582,24 +578,23 @@
         "2025-11-07.json",
         "2025-11-06.json"
       ],
-      "latest": "2026-03-20.json",
-      "count": 133,
+      "latest": "2026-03-19.json",
+      "count": 132,
       "dataCapabilities": {
         "terrainAvailable": true,
         "snowReportAvailable": true,
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-03-20T01:06:17.0339564-06:00",
+        "lastTerrainUpdate": "2026-03-19T10:02:05.8587235-06:00",
         "lastSnowUpdate": "2026-03-20T05:21:01.323Z",
-        "lastBriefUpdate": "2026-03-20T07:07:35.096Z"
+        "lastBriefUpdate": "2026-03-19T16:03:45.320Z"
       }
     },
     "keystone": {
       "name": "Keystone",
       "provider": "vail",
       "files": [
-        "2026-03-20.json",
         "2026-03-19.json",
         "2026-03-18.json",
         "2026-03-17.json",
@@ -733,24 +728,23 @@
         "2025-11-07.json",
         "2025-11-06.json"
       ],
-      "latest": "2026-03-20.json",
-      "count": 133,
+      "latest": "2026-03-19.json",
+      "count": 132,
       "dataCapabilities": {
         "terrainAvailable": true,
         "snowReportAvailable": true,
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-03-20T01:06:02.5762504-06:00",
+        "lastTerrainUpdate": "2026-03-19T09:56:05.0180185-06:00",
         "lastSnowUpdate": "2026-03-20T05:21:10.665Z",
-        "lastBriefUpdate": "2026-03-20T07:07:35.101Z"
+        "lastBriefUpdate": "2026-03-19T16:03:45.325Z"
       }
     },
     "crestedbutte": {
       "name": "Crested Butte",
       "provider": "vail",
       "files": [
-        "2026-03-20.json",
         "2026-03-19.json",
         "2026-03-18.json",
         "2026-03-17.json",
@@ -863,24 +857,23 @@
         "2025-11-28.json",
         "2025-11-27.json"
       ],
-      "latest": "2026-03-20.json",
-      "count": 112,
+      "latest": "2026-03-19.json",
+      "count": 111,
       "dataCapabilities": {
         "terrainAvailable": true,
         "snowReportAvailable": true,
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-03-20T01:00:04.8632841-06:00",
+        "lastTerrainUpdate": "2026-03-19T10:01:15.491908-06:00",
         "lastSnowUpdate": "2026-03-20T05:21:19.932Z",
-        "lastBriefUpdate": "2026-03-20T07:07:35.102Z"
+        "lastBriefUpdate": "2026-03-19T16:03:45.327Z"
       }
     },
     "heavenly": {
       "name": "Heavenly",
       "provider": "vail",
       "files": [
-        "2026-03-20.json",
         "2026-03-19.json",
         "2026-03-18.json",
         "2026-03-17.json",
@@ -1006,24 +999,23 @@
         "2025-11-16.json",
         "2025-11-15.json"
       ],
-      "latest": "2026-03-20.json",
-      "count": 125,
+      "latest": "2026-03-19.json",
+      "count": 124,
       "dataCapabilities": {
         "terrainAvailable": true,
         "snowReportAvailable": true,
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-03-20T00:59:45.3821792-06:00",
+        "lastTerrainUpdate": "2026-03-19T11:08:09.1183513-06:00",
         "lastSnowUpdate": "2026-03-20T05:21:29.032Z",
-        "lastBriefUpdate": "2026-03-20T07:07:35.104Z"
+        "lastBriefUpdate": "2026-03-19T17:09:38.345Z"
       }
     },
     "northstar": {
       "name": "Northstar",
       "provider": "vail",
       "files": [
-        "2026-03-20.json",
         "2026-03-19.json",
         "2026-03-18.json",
         "2026-03-17.json",
@@ -1149,24 +1141,23 @@
         "2025-11-16.json",
         "2025-11-15.json"
       ],
-      "latest": "2026-03-20.json",
-      "count": 125,
+      "latest": "2026-03-19.json",
+      "count": 124,
       "dataCapabilities": {
         "terrainAvailable": true,
         "snowReportAvailable": true,
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-03-20T01:06:33.4942142-06:00",
+        "lastTerrainUpdate": "2026-03-19T11:03:48.2082781-06:00",
         "lastSnowUpdate": "2026-03-20T05:21:38.034Z",
-        "lastBriefUpdate": "2026-03-20T07:07:35.106Z"
+        "lastBriefUpdate": "2026-03-19T17:09:38.348Z"
       }
     },
     "kirkwood": {
       "name": "Kirkwood",
       "provider": "vail",
       "files": [
-        "2026-03-20.json",
         "2026-03-19.json",
         "2026-03-18.json",
         "2026-03-17.json",
@@ -1285,24 +1276,23 @@
         "2025-11-23.json",
         "2025-11-22.json"
       ],
-      "latest": "2026-03-20.json",
-      "count": 118,
+      "latest": "2026-03-19.json",
+      "count": 117,
       "dataCapabilities": {
         "terrainAvailable": true,
         "snowReportAvailable": true,
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-03-20T01:02:03.2997031-06:00",
+        "lastTerrainUpdate": "2026-03-19T11:06:39.3484862-06:00",
         "lastSnowUpdate": "2026-03-20T05:21:46.566Z",
-        "lastBriefUpdate": "2026-03-20T07:07:35.108Z"
+        "lastBriefUpdate": "2026-03-19T17:09:38.350Z"
       }
     },
     "stevenspass": {
       "name": "Stevens Pass",
       "provider": "vail",
       "files": [
-        "2026-03-20.json",
         "2026-03-19.json",
         "2026-03-18.json",
         "2026-03-17.json",
@@ -1416,17 +1406,17 @@
         "2025-11-28.json",
         "2025-11-27.json"
       ],
-      "latest": "2026-03-20.json",
-      "count": 113,
+      "latest": "2026-03-19.json",
+      "count": 112,
       "dataCapabilities": {
         "terrainAvailable": true,
         "snowReportAvailable": true,
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-03-20T00:58:31.6052148-06:00",
+        "lastTerrainUpdate": "2026-03-19T11:01:03.8322516-06:00",
         "lastSnowUpdate": "2026-03-20T05:22:14.602Z",
-        "lastBriefUpdate": "2026-03-20T07:07:35.109Z"
+        "lastBriefUpdate": "2026-03-19T17:09:38.352Z"
       }
     },
     "stowe": {
@@ -4670,7 +4660,6 @@
       "name": "Whistler Blackcomb",
       "provider": "vail",
       "files": [
-        "2026-03-20.json",
         "2026-03-19.json",
         "2026-03-18.json",
         "2026-03-17.json",
@@ -4791,17 +4780,17 @@
         "2025-11-21.json",
         "2025-11-20.json"
       ],
-      "latest": "2026-03-20.json",
-      "count": 120,
+      "latest": "2026-03-19.json",
+      "count": 119,
       "dataCapabilities": {
         "terrainAvailable": true,
         "snowReportAvailable": true,
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-03-20T01:06:57.3114916-06:00",
+        "lastTerrainUpdate": "2026-03-19T11:09:10.1191155-06:00",
         "lastSnowUpdate": "2026-03-20T05:24:43.536Z",
-        "lastBriefUpdate": "2026-03-20T07:07:35.111Z"
+        "lastBriefUpdate": "2026-03-19T17:09:38.353Z"
       }
     },
     "perisher": {
@@ -4859,7 +4848,6 @@
       "name": "Telluride",
       "provider": "vail",
       "files": [
-        "2026-03-20.json",
         "2026-03-19.json",
         "2026-03-18.json",
         "2026-03-17.json",
@@ -4925,17 +4913,17 @@
         "2026-01-16.json",
         "2026-01-15.json"
       ],
-      "latest": "2026-03-20.json",
-      "count": 65,
+      "latest": "2026-03-19.json",
+      "count": 64,
       "dataCapabilities": {
         "terrainAvailable": true,
         "snowReportAvailable": true,
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-03-20T07:07:34.966Z",
+        "lastTerrainUpdate": "2026-03-19T16:03:45.190Z",
         "lastSnowUpdate": "2026-01-15T20:55:04.558Z",
-        "lastBriefUpdate": "2026-03-20T07:07:35.115Z"
+        "lastBriefUpdate": "2026-03-19T16:03:45.339Z"
       }
     },
     "stratton": {
@@ -5061,9 +5049,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-03-20T03:05:57-0400",
+        "lastTerrainUpdate": "2026-03-20T01:53:57-0400",
         "lastSnowUpdate": "2026-03-20T05:25:41.003Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.033Z"
+        "lastBriefUpdate": "2026-03-20T05:59:02.582Z"
       }
     },
     "palisades": {
@@ -5189,9 +5177,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-03-20T00:05:58-0700",
+        "lastTerrainUpdate": "2026-03-19T22:53:57-0700",
         "lastSnowUpdate": "2026-03-20T05:25:41.005Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.041Z"
+        "lastBriefUpdate": "2026-03-20T05:59:02.590Z"
       }
     },
     "jacksonhole": {
@@ -5310,7 +5298,7 @@
         "liftWaitTimesAvailable": false,
         "lastTerrainUpdate": "2026-03-19T06:00:00.000-06:00",
         "lastSnowUpdate": "2026-03-20T05:25:36.985Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.116Z"
+        "lastBriefUpdate": "2026-03-20T05:59:02.691Z"
       }
     },
     "bigsky": {
@@ -5429,7 +5417,7 @@
         "liftWaitTimesAvailable": false,
         "lastTerrainUpdate": "2026-03-19T23:00:04Z",
         "lastSnowUpdate": "2026-03-20T05:25:37.547Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.117Z"
+        "lastBriefUpdate": "2026-03-20T05:59:02.695Z"
       }
     },
     "deervalley": {
@@ -5550,9 +5538,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-03-20T01:05:58-0600",
+        "lastTerrainUpdate": "2026-03-19T23:53:58-0600",
         "lastSnowUpdate": "2026-03-20T05:25:41.006Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.046Z"
+        "lastBriefUpdate": "2026-03-20T05:59:02.596Z"
       }
     },
     "alta": {
@@ -5673,9 +5661,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-03-20T07:07:38.655Z",
+        "lastTerrainUpdate": "2026-03-20T05:59:00.450Z",
         "lastSnowUpdate": "2026-03-20T05:25:39.744Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.121Z"
+        "lastBriefUpdate": "2026-03-20T05:59:02.700Z"
       }
     },
     "solitude": {
@@ -5801,9 +5789,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-03-20T01:05:58-0600",
+        "lastTerrainUpdate": "2026-03-19T23:53:58-0600",
         "lastSnowUpdate": "2026-03-20T05:25:41.012Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.051Z"
+        "lastBriefUpdate": "2026-03-20T05:59:02.604Z"
       }
     },
     "aspenhighlands": {
@@ -5899,7 +5887,7 @@
         "liftWaitTimesAvailable": false,
         "lastTerrainUpdate": "2026-03-20",
         "lastSnowUpdate": "2026-03-20T05:25:40.322Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.123Z"
+        "lastBriefUpdate": "2026-03-20T05:59:02.703Z"
       }
     },
     "aspenmountain": {
@@ -5995,7 +5983,7 @@
         "liftWaitTimesAvailable": false,
         "lastTerrainUpdate": "2026-03-20",
         "lastSnowUpdate": "2026-03-20T05:25:40.674Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.125Z"
+        "lastBriefUpdate": "2026-03-20T05:59:02.706Z"
       }
     },
     "buttermilk": {
@@ -6091,7 +6079,7 @@
         "liftWaitTimesAvailable": false,
         "lastTerrainUpdate": "2026-03-20",
         "lastSnowUpdate": "2026-03-20T05:25:41.001Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.128Z"
+        "lastBriefUpdate": "2026-03-20T05:59:02.709Z"
       }
     },
     "copper": {
@@ -6195,9 +6183,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-03-20T07:07:39.384Z",
+        "lastTerrainUpdate": "2026-03-20T05:59:00.747Z",
         "lastSnowUpdate": "2026-03-20T05:25:39.823Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.129Z"
+        "lastBriefUpdate": "2026-03-20T05:59:02.712Z"
       }
     },
     "steamboat": {
@@ -6323,9 +6311,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-03-20T01:05:58-0600",
+        "lastTerrainUpdate": "2026-03-19T23:53:57-0600",
         "lastSnowUpdate": "2026-03-20T05:25:41.013Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.053Z"
+        "lastBriefUpdate": "2026-03-20T05:59:02.608Z"
       }
     },
     "abasin": {
@@ -6485,9 +6473,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-03-20T00:05:58-0700",
+        "lastTerrainUpdate": "2026-03-19T22:53:57-0700",
         "lastSnowUpdate": "2026-03-20T05:25:41.017Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.056Z"
+        "lastBriefUpdate": "2026-03-20T05:59:02.613Z"
       }
     },
     "junemountain": {
@@ -6600,9 +6588,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-03-20T00:05:58-0700",
+        "lastTerrainUpdate": "2026-03-19T22:53:58-0700",
         "lastSnowUpdate": "2026-03-20T05:25:41.018Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.060Z"
+        "lastBriefUpdate": "2026-03-20T05:59:02.618Z"
       }
     },
     "crystal": {
@@ -6728,9 +6716,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-03-20T00:05:58-0700",
+        "lastTerrainUpdate": "2026-03-19T22:53:58-0700",
         "lastSnowUpdate": "2026-03-20T05:25:41.019Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.062Z"
+        "lastBriefUpdate": "2026-03-20T05:59:02.621Z"
       }
     },
     "killington": {
@@ -6834,9 +6822,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-03-20T07:07:40.106Z",
+        "lastTerrainUpdate": "2026-03-20T05:59:01.157Z",
         "lastSnowUpdate": "2026-03-20T05:25:39.903Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.132Z"
+        "lastBriefUpdate": "2026-03-20T05:59:02.716Z"
       }
     },
     "sugarbush": {
@@ -6962,9 +6950,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-03-20T03:05:58-0400",
+        "lastTerrainUpdate": "2026-03-20T01:53:58-0400",
         "lastSnowUpdate": "2026-03-20T05:25:41.021Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.064Z"
+        "lastBriefUpdate": "2026-03-20T05:59:02.625Z"
       }
     },
     "sugarloaf": {
@@ -7083,7 +7071,7 @@
         "liftWaitTimesAvailable": false,
         "lastTerrainUpdate": "2026-03-19T19:58:02Z",
         "lastSnowUpdate": "2026-03-20T05:25:38.004Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.136Z"
+        "lastBriefUpdate": "2026-03-20T05:59:02.720Z"
       }
     },
     "sundayriver": {
@@ -7202,7 +7190,7 @@
         "liftWaitTimesAvailable": false,
         "lastTerrainUpdate": "2026-03-19T19:53:36Z",
         "lastSnowUpdate": "2026-03-20T05:25:38.517Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.140Z"
+        "lastBriefUpdate": "2026-03-20T05:59:02.724Z"
       }
     },
     "loon": {
@@ -7321,7 +7309,7 @@
         "liftWaitTimesAvailable": false,
         "lastTerrainUpdate": "2026-03-19T19:40:41Z",
         "lastSnowUpdate": "2026-03-20T05:25:39.088Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.143Z"
+        "lastBriefUpdate": "2026-03-20T05:59:02.729Z"
       }
     },
     "tremblant": {
@@ -7447,9 +7435,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-03-20T03:05:58-0400",
+        "lastTerrainUpdate": "2026-03-20T01:53:57-0400",
         "lastSnowUpdate": "2026-03-20T05:25:41.022Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.070Z"
+        "lastBriefUpdate": "2026-03-20T05:59:02.629Z"
       }
     },
     "blue": {
@@ -7575,9 +7563,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-03-20T03:05:58-0400",
+        "lastTerrainUpdate": "2026-03-20T01:53:58-0400",
         "lastSnowUpdate": "2026-03-20T05:25:41.023Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.075Z"
+        "lastBriefUpdate": "2026-03-20T05:59:02.634Z"
       }
     },
     "revelstoke": {
@@ -7713,7 +7701,7 @@
         "liftWaitTimesAvailable": false,
         "lastTerrainUpdate": "2026-03-20T05:00:14Z",
         "lastSnowUpdate": "2026-03-20T05:25:39.570Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.147Z"
+        "lastBriefUpdate": "2026-03-20T05:59:02.732Z"
       }
     },
     "banff": {
@@ -7803,9 +7791,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-03-20T05:59:13.865Z",
-        "lastSnowUpdate": "2026-03-20T05:59:13.865Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.148Z"
+        "lastTerrainUpdate": "2026-03-20T05:25:50.475Z",
+        "lastSnowUpdate": "2026-03-20T05:25:50.475Z",
+        "lastBriefUpdate": "2026-03-20T05:59:02.735Z"
       }
     },
     "lakelouise": {
@@ -7895,9 +7883,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-03-20T05:59:14.001Z",
-        "lastSnowUpdate": "2026-03-20T05:59:14.001Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.149Z"
+        "lastTerrainUpdate": "2026-03-20T05:25:50.534Z",
+        "lastSnowUpdate": "2026-03-20T05:25:50.534Z",
+        "lastBriefUpdate": "2026-03-20T05:59:02.738Z"
       }
     },
     "norquay": {
@@ -7987,11 +7975,11 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-03-20T05:59:19.965Z",
-        "lastSnowUpdate": "2026-03-20T05:59:19.965Z",
-        "lastBriefUpdate": "2026-03-20T07:07:42.150Z"
+        "lastTerrainUpdate": "2026-03-20T05:25:55.758Z",
+        "lastSnowUpdate": "2026-03-20T05:25:55.758Z",
+        "lastBriefUpdate": "2026-03-20T05:59:02.741Z"
       }
     }
   },
-  "lastUpdated": "2026-03-20T07:07:42.154Z"
+  "lastUpdated": "2026-03-20T05:59:02.746Z"
 }

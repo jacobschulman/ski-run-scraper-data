@@ -177,9 +177,9 @@
         "liftStatusAvailable": false,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-04-20T05:20:09.135537-06:00",
+        "lastTerrainUpdate": "2026-04-20T09:18:06.7866388-06:00",
         "lastSnowUpdate": "2026-04-20T10:08:36.192Z",
-        "lastBriefUpdate": "2026-04-20T11:26:17.254Z"
+        "lastBriefUpdate": "2026-04-20T15:24:59.952Z"
       }
     },
     "beavercreek": {
@@ -359,9 +359,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-04-20T05:17:09.6768965-06:00",
+        "lastTerrainUpdate": "2026-04-20T09:20:05.9319164-06:00",
         "lastSnowUpdate": "2026-04-20T10:08:44.834Z",
-        "lastBriefUpdate": "2026-04-20T11:26:17.260Z"
+        "lastBriefUpdate": "2026-04-20T15:24:59.957Z"
       }
     },
     "breckenridge": {
@@ -532,9 +532,9 @@
         "liftStatusAvailable": false,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-04-20T05:23:11.9884733-06:00",
+        "lastTerrainUpdate": "2026-04-20T09:22:20.9793375-06:00",
         "lastSnowUpdate": "2026-04-20T10:08:54.318Z",
-        "lastBriefUpdate": "2026-04-20T11:26:17.265Z"
+        "lastBriefUpdate": "2026-04-20T15:24:59.962Z"
       }
     },
     "parkcity": {
@@ -714,9 +714,9 @@
         "liftStatusAvailable": false,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-04-20T05:17:59.6863875-06:00",
+        "lastTerrainUpdate": "2026-04-20T09:18:09.9190369-06:00",
         "lastSnowUpdate": "2026-04-20T10:09:09.114Z",
-        "lastBriefUpdate": "2026-04-20T11:26:17.269Z"
+        "lastBriefUpdate": "2026-04-20T15:24:59.966Z"
       }
     },
     "keystone": {
@@ -896,9 +896,9 @@
         "liftStatusAvailable": false,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-04-20T05:23:15.50603-06:00",
+        "lastTerrainUpdate": "2026-04-20T09:19:05.8842135-06:00",
         "lastSnowUpdate": "2026-04-20T10:09:18.605Z",
-        "lastBriefUpdate": "2026-04-20T11:26:17.272Z"
+        "lastBriefUpdate": "2026-04-20T15:24:59.968Z"
       }
     },
     "crestedbutte": {
@@ -1057,9 +1057,9 @@
         "liftStatusAvailable": false,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-04-20T05:18:13.327269-06:00",
+        "lastTerrainUpdate": "2026-04-20T09:21:04.5683047-06:00",
         "lastSnowUpdate": "2026-04-20T10:09:28.039Z",
-        "lastBriefUpdate": "2026-04-20T11:26:17.274Z"
+        "lastBriefUpdate": "2026-04-20T15:24:59.970Z"
       }
     },
     "heavenly": {
@@ -1231,9 +1231,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-04-20T03:10:01.3578975-06:00",
+        "lastTerrainUpdate": "2026-04-20T09:18:03.7099574-06:00",
         "lastSnowUpdate": "2026-04-20T10:09:36.912Z",
-        "lastBriefUpdate": "2026-04-20T09:13:47.879Z"
+        "lastBriefUpdate": "2026-04-20T15:24:59.972Z"
       }
     },
     "northstar": {
@@ -1405,9 +1405,9 @@
         "liftStatusAvailable": false,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-04-20T03:12:03.0558307-06:00",
+        "lastTerrainUpdate": "2026-04-20T09:21:22.6176336-06:00",
         "lastSnowUpdate": "2026-04-20T10:09:45.703Z",
-        "lastBriefUpdate": "2026-04-20T09:13:47.881Z"
+        "lastBriefUpdate": "2026-04-20T15:24:59.974Z"
       }
     },
     "kirkwood": {
@@ -1572,9 +1572,9 @@
         "liftStatusAvailable": false,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-04-20T03:10:02.3469304-06:00",
+        "lastTerrainUpdate": "2026-04-20T09:21:12.0859811-06:00",
         "lastSnowUpdate": "2026-04-20T10:09:54.470Z",
-        "lastBriefUpdate": "2026-04-20T09:13:47.882Z"
+        "lastBriefUpdate": "2026-04-20T15:24:59.976Z"
       }
     },
     "stevenspass": {
@@ -1734,9 +1734,9 @@
         "liftStatusAvailable": false,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-04-20T03:04:14.5208068-06:00",
+        "lastTerrainUpdate": "2026-04-20T09:16:04.7900365-06:00",
         "lastSnowUpdate": "2026-04-20T10:10:03.686Z",
-        "lastBriefUpdate": "2026-04-20T09:13:47.883Z"
+        "lastBriefUpdate": "2026-04-20T15:24:59.979Z"
       }
     },
     "stowe": {
@@ -1909,9 +1909,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-04-20T05:25:00.6827102-06:00",
+        "lastTerrainUpdate": "2026-04-20T08:02:11.9259439-06:00",
         "lastSnowUpdate": "2026-04-20T10:10:12.509Z",
-        "lastBriefUpdate": "2026-04-20T11:26:17.276Z"
+        "lastBriefUpdate": "2026-04-20T14:02:51.940Z"
       }
     },
     "okemo": {
@@ -2072,9 +2072,9 @@
         "liftStatusAvailable": false,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-04-20T05:25:29.2289516-06:00",
+        "lastTerrainUpdate": "2026-04-20T08:02:20.8821488-06:00",
         "lastSnowUpdate": "2026-04-20T10:10:21.114Z",
-        "lastBriefUpdate": "2026-04-20T11:26:17.279Z"
+        "lastBriefUpdate": "2026-04-20T14:02:51.943Z"
       }
     },
     "mountsnow": {
@@ -2247,9 +2247,9 @@
         "liftStatusAvailable": false,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-04-20T05:25:25.2726812-06:00",
+        "lastTerrainUpdate": "2026-04-20T08:02:33.7034633-06:00",
         "lastSnowUpdate": "2026-04-20T10:10:28.959Z",
-        "lastBriefUpdate": "2026-04-20T11:26:17.282Z"
+        "lastBriefUpdate": "2026-04-20T14:02:51.946Z"
       }
     },
     "hunter": {
@@ -5401,9 +5401,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-04-20T03:13:38.4443768-06:00",
+        "lastTerrainUpdate": "2026-04-20T09:24:33.8358847-06:00",
         "lastSnowUpdate": "2026-04-20T10:10:39.069Z",
-        "lastBriefUpdate": "2026-04-20T09:13:47.886Z"
+        "lastBriefUpdate": "2026-04-20T15:24:59.981Z"
       }
     },
     "perisher": {
@@ -5878,9 +5878,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-04-20T04:21:04-0700",
+        "lastTerrainUpdate": "2026-04-20T08:18:08-0700",
         "lastSnowUpdate": "2026-04-20T10:10:41.709Z",
-        "lastBriefUpdate": "2026-04-20T11:26:20.521Z"
+        "lastBriefUpdate": "2026-04-20T15:25:04.462Z"
       }
     },
     "jacksonhole": {
@@ -6474,9 +6474,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-04-20T11:26:20.256Z",
+        "lastTerrainUpdate": "2026-04-20T15:25:03.689Z",
         "lastSnowUpdate": "2026-04-20T10:10:41.632Z",
-        "lastBriefUpdate": "2026-04-20T11:26:20.561Z"
+        "lastBriefUpdate": "2026-04-20T15:25:04.505Z"
       }
     },
     "solitude": {
@@ -7470,9 +7470,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-04-20T04:21:04-0700",
+        "lastTerrainUpdate": "2026-04-20T08:18:08-0700",
         "lastSnowUpdate": "2026-04-20T10:10:41.713Z",
-        "lastBriefUpdate": "2026-04-20T11:26:20.533Z"
+        "lastBriefUpdate": "2026-04-20T15:25:04.474Z"
       }
     },
     "junemountain": {
@@ -7907,9 +7907,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-04-20T11:26:20.490Z",
+        "lastTerrainUpdate": "2026-04-20T15:25:04.429Z",
         "lastSnowUpdate": "2026-04-20T10:10:41.707Z",
-        "lastBriefUpdate": "2026-04-20T11:26:20.565Z"
+        "lastBriefUpdate": "2026-04-20T15:25:04.509Z"
       }
     },
     "sugarbush": {
@@ -8216,9 +8216,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-04-19T19:50:01Z",
+        "lastTerrainUpdate": "2026-04-20T13:30:01Z",
         "lastSnowUpdate": "2026-04-20T10:10:40.839Z",
-        "lastBriefUpdate": "2026-04-20T11:26:20.569Z"
+        "lastBriefUpdate": "2026-04-20T15:25:04.513Z"
       }
     },
     "sundayriver": {
@@ -8368,7 +8368,7 @@
         "liftWaitTimesAvailable": false,
         "lastTerrainUpdate": "2026-04-19T20:28:05Z",
         "lastSnowUpdate": "2026-04-20T10:10:41.460Z",
-        "lastBriefUpdate": "2026-04-20T11:26:20.574Z"
+        "lastBriefUpdate": "2026-04-20T15:25:04.518Z"
       }
     },
     "loon": {
@@ -9099,9 +9099,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-04-20T10:10:51.342Z",
-        "lastSnowUpdate": "2026-04-20T10:10:51.342Z",
-        "lastBriefUpdate": "2026-04-20T11:26:20.578Z"
+        "lastTerrainUpdate": "2026-04-20T14:03:04.648Z",
+        "lastSnowUpdate": "2026-04-20T14:03:04.648Z",
+        "lastBriefUpdate": "2026-04-20T15:25:04.522Z"
       }
     },
     "lakelouise": {
@@ -9222,9 +9222,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-04-20T10:10:51.393Z",
-        "lastSnowUpdate": "2026-04-20T10:10:51.393Z",
-        "lastBriefUpdate": "2026-04-20T11:26:20.581Z"
+        "lastTerrainUpdate": "2026-04-20T14:03:04.700Z",
+        "lastSnowUpdate": "2026-04-20T14:03:04.700Z",
+        "lastBriefUpdate": "2026-04-20T15:25:04.525Z"
       }
     },
     "norquay": {
@@ -9346,5 +9346,5 @@
       }
     }
   },
-  "lastUpdated": "2026-04-20T11:26:20.587Z"
+  "lastUpdated": "2026-04-20T15:25:04.532Z"
 }

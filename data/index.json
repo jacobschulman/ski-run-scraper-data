@@ -382,7 +382,6 @@
       "name": "Breckenridge",
       "provider": "vail",
       "files": [
-        "2026-05-05.json",
         "2026-05-04.json",
         "2026-05-03.json",
         "2026-05-02.json",
@@ -553,17 +552,17 @@
         "2025-11-16.json",
         "2025-11-15.json"
       ],
-      "latest": "2026-05-05.json",
-      "count": 170,
+      "latest": "2026-05-04.json",
+      "count": 169,
       "dataCapabilities": {
         "terrainAvailable": true,
         "snowReportAvailable": true,
         "liftStatusAvailable": false,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-05-04T22:39:11.5448811-06:00",
+        "lastTerrainUpdate": "2026-05-04T10:47:03.4417493-06:00",
         "lastSnowUpdate": "2026-05-04T21:17:04.745Z",
-        "lastBriefUpdate": "2026-05-05T06:25:27.172Z"
+        "lastBriefUpdate": "2026-05-04T16:55:19.915Z"
       }
     },
     "parkcity": {
@@ -6006,9 +6005,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-05-04T23:20:37-0700",
+        "lastTerrainUpdate": "2026-05-04T20:38:34-0700",
         "lastSnowUpdate": "2026-05-04T21:17:15.705Z",
-        "lastBriefUpdate": "2026-05-05T06:25:30.224Z"
+        "lastBriefUpdate": "2026-05-05T03:42:19.895Z"
       }
     },
     "jacksonhole": {
@@ -6617,9 +6616,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-05-05T06:25:29.489Z",
+        "lastTerrainUpdate": "2026-05-05T03:42:19.324Z",
         "lastSnowUpdate": "2026-05-04T21:17:15.690Z",
-        "lastBriefUpdate": "2026-05-05T06:25:30.251Z"
+        "lastBriefUpdate": "2026-05-05T03:42:19.929Z"
       }
     },
     "solitude": {
@@ -7628,9 +7627,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-05-04T23:20:38-0700",
+        "lastTerrainUpdate": "2026-05-04T20:38:34-0700",
         "lastSnowUpdate": "2026-05-04T21:17:15.709Z",
-        "lastBriefUpdate": "2026-05-05T06:25:30.236Z"
+        "lastBriefUpdate": "2026-05-05T03:42:19.906Z"
       }
     },
     "junemountain": {
@@ -8080,9 +8079,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-05-05T06:25:30.188Z",
+        "lastTerrainUpdate": "2026-05-05T03:42:19.861Z",
         "lastSnowUpdate": "2026-05-04T21:17:15.703Z",
-        "lastBriefUpdate": "2026-05-05T06:25:30.253Z"
+        "lastBriefUpdate": "2026-05-05T03:42:19.935Z"
       }
     },
     "sugarbush": {
@@ -9310,9 +9309,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-05-05T03:42:30.597Z",
-        "lastSnowUpdate": "2026-05-05T03:42:30.597Z",
-        "lastBriefUpdate": "2026-05-05T06:25:30.256Z"
+        "lastTerrainUpdate": "2026-05-05T00:02:03.308Z",
+        "lastSnowUpdate": "2026-05-05T00:02:03.308Z",
+        "lastBriefUpdate": "2026-05-05T03:42:19.944Z"
       }
     },
     "lakelouise": {
@@ -9448,9 +9447,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-05-05T03:42:30.714Z",
-        "lastSnowUpdate": "2026-05-05T03:42:30.714Z",
-        "lastBriefUpdate": "2026-05-05T03:42:30.719Z"
+        "lastTerrainUpdate": "2026-05-05T00:02:03.378Z",
+        "lastSnowUpdate": "2026-05-05T00:02:03.378Z",
+        "lastBriefUpdate": "2026-05-05T03:42:19.947Z"
       }
     },
     "norquay": {
@@ -9572,5 +9571,5 @@
       }
     }
   },
-  "lastUpdated": "2026-05-05T06:25:30.262Z"
+  "lastUpdated": "2026-05-05T03:42:19.953Z"
 }

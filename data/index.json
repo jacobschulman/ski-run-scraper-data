@@ -382,7 +382,6 @@
       "name": "Breckenridge",
       "provider": "vail",
       "files": [
-        "2026-05-06.json",
         "2026-05-05.json",
         "2026-05-04.json",
         "2026-05-03.json",
@@ -554,17 +553,17 @@
         "2025-11-16.json",
         "2025-11-15.json"
       ],
-      "latest": "2026-05-06.json",
-      "count": 171,
+      "latest": "2026-05-05.json",
+      "count": 170,
       "dataCapabilities": {
         "terrainAvailable": true,
         "snowReportAvailable": true,
         "liftStatusAvailable": false,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": true,
-        "lastTerrainUpdate": "2026-05-06T00:29:59.7388246-06:00",
+        "lastTerrainUpdate": "2026-05-05T10:38:03.1887144-06:00",
         "lastSnowUpdate": "2026-05-05T21:12:39.468Z",
-        "lastBriefUpdate": "2026-05-06T06:37:32.356Z"
+        "lastBriefUpdate": "2026-05-05T16:48:08.324Z"
       }
     },
     "parkcity": {
@@ -6009,9 +6008,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-05-05T23:32:04-0700",
+        "lastTerrainUpdate": "2026-05-05T20:44:39-0700",
         "lastSnowUpdate": "2026-05-05T21:12:50.955Z",
-        "lastBriefUpdate": "2026-05-06T06:37:35.709Z"
+        "lastBriefUpdate": "2026-05-06T03:48:15.729Z"
       }
     },
     "jacksonhole": {
@@ -6621,9 +6620,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-05-06T06:37:34.951Z",
+        "lastTerrainUpdate": "2026-05-06T03:48:15.280Z",
         "lastSnowUpdate": "2026-05-05T21:12:50.914Z",
-        "lastBriefUpdate": "2026-05-06T06:37:35.734Z"
+        "lastBriefUpdate": "2026-05-06T03:48:15.759Z"
       }
     },
     "solitude": {
@@ -7633,9 +7632,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-05-05T23:32:04-0700",
+        "lastTerrainUpdate": "2026-05-05T20:44:39-0700",
         "lastSnowUpdate": "2026-05-05T21:12:50.958Z",
-        "lastBriefUpdate": "2026-05-06T06:37:35.720Z"
+        "lastBriefUpdate": "2026-05-06T03:48:15.740Z"
       }
     },
     "junemountain": {
@@ -8086,9 +8085,9 @@
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-05-06T06:37:35.677Z",
+        "lastTerrainUpdate": "2026-05-06T03:48:15.696Z",
         "lastSnowUpdate": "2026-05-05T21:12:50.953Z",
-        "lastBriefUpdate": "2026-05-06T06:37:35.737Z"
+        "lastBriefUpdate": "2026-05-06T03:48:15.764Z"
       }
     },
     "sugarbush": {
@@ -9187,7 +9186,6 @@
       "name": "Banff Sunshine Village",
       "provider": "ikon",
       "files": [
-        "2026-05-06.json",
         "2026-05-05.json",
         "2026-05-04.json",
         "2026-05-03.json",
@@ -9309,17 +9307,17 @@
         "2026-01-07.json",
         "2026-01-06.json"
       ],
-      "latest": "2026-05-06.json",
-      "count": 121,
+      "latest": "2026-05-05.json",
+      "count": 120,
       "dataCapabilities": {
         "terrainAvailable": true,
         "snowReportAvailable": true,
         "liftStatusAvailable": true,
         "dailyBriefAvailable": true,
         "liftWaitTimesAvailable": false,
-        "lastTerrainUpdate": "2026-05-06T03:48:27.914Z",
-        "lastSnowUpdate": "2026-05-06T03:48:27.914Z",
-        "lastBriefUpdate": "2026-05-06T06:37:35.741Z"
+        "lastTerrainUpdate": "2026-05-05T23:57:22.648Z",
+        "lastSnowUpdate": "2026-05-05T23:57:22.648Z",
+        "lastBriefUpdate": "2026-05-06T03:48:15.769Z"
       }
     },
     "lakelouise": {
@@ -9579,5 +9577,5 @@
       }
     }
   },
-  "lastUpdated": "2026-05-06T06:37:35.745Z"
+  "lastUpdated": "2026-05-06T03:48:15.775Z"
 }
